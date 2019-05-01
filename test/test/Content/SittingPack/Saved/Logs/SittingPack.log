@@ -1,0 +1,990 @@
+﻿Log file open, 03/11/18 10:51:09
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: SittingPack
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1296696866) SRandInit(1296696866).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 38 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.516464
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/Substance/Binaries/Win64/UE4Editor-SubstanceCore.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/Substance/Binaries/Win64/UE4Editor-SubstanceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/Substance/Binaries/Win64/UE4Editor-SubstanceSource.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/Substance/Binaries/Win64/UE4Editor-SubstanceLiveLink.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin Substance
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.03.11-02.51.14:071][  0]LogInit: Selected Device Profile: [Windows]
+[2018.03.11-02.51.14:071][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.03.11-02.51.14:085][  0]LogInit: Computer: JERRY-SERVER
+[2018.03.11-02.51.14:085][  0]LogInit: User: Administrator
+[2018.03.11-02.51.14:085][  0]LogInit: CPU Page size=4096, Cores=12
+[2018.03.11-02.51.14:085][  0]LogInit: High frequency timer resolution =2.857424 MHz
+[2018.03.11-02.51.14:086][  0]LogMemory: Memory total: Physical=32.0GB (32GB approx)
+[2018.03.11-02.51.14:086][  0]LogMemory: Platform Memory Stats for Windows
+[2018.03.11-02.51.14:086][  0]LogMemory: Process Physical Memory: 277.09 MB used, 277.09 MB peak
+[2018.03.11-02.51.14:086][  0]LogMemory: Process Virtual Memory: 271.78 MB used, 271.78 MB peak
+[2018.03.11-02.51.14:086][  0]LogMemory: Physical Memory: 8842.38 MB used,  23908.85 MB free, 32751.23 MB total
+[2018.03.11-02.51.14:086][  0]LogMemory: Virtual Memory: 700.95 MB used,  23908.85 MB free, 134217728.00 MB total
+[2018.03.11-02.51.15:476][  0]LogInit: Overriding language with editor language configuration option (en).
+[2018.03.11-02.51.15:476][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2018.03.11-02.51.16:007][  0]LogInit: Setting process to per monitor DPI aware
+[2018.03.11-02.51.16:853][  0]LogD3D11RHI: D3D11 adapters:
+[2018.03.11-02.51.16:942][  0]LogD3D11RHI:    0. 'NVIDIA Quadro K2000' (Feature Level 11_0)
+[2018.03.11-02.51.16:942][  0]LogD3D11RHI:       2018/0/16375 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.03.11-02.51.16:946][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.03.11-02.51.16:946][  0]LogD3D11RHI:       0/0/16375 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.03.11-02.51.16:946][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.03.11-02.51.16:957][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.03.11-02.51.16:957][  0]LogD3D11RHI:     GPU DeviceId: 0xffe (for the marketing name, search the web for "GPU Device Id")
+[2018.03.11-02.51.16:957][  0]LogWindows: EnumDisplayDevices:
+[2018.03.11-02.51.16:958][  0]LogWindows:    0. 'NVIDIA Quadro K2000' (P:1 D:1)
+[2018.03.11-02.51.16:958][  0]LogWindows:    1. 'NVIDIA Quadro K2000' (P:0 D:1)
+[2018.03.11-02.51.16:959][  0]LogWindows:    2. 'NVIDIA Quadro K2000' (P:0 D:0)
+[2018.03.11-02.51.16:960][  0]LogWindows:    3. 'NVIDIA Quadro K2000' (P:0 D:0)
+[2018.03.11-02.51.16:960][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.03.11-02.51.16:960][  0]LogD3D11RHI:     Adapter Name: NVIDIA Quadro K2000
+[2018.03.11-02.51.16:960][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.03.11-02.51.16:960][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.03.11-02.51.16:960][  0]LogRHI: Texture pool is 1413 MB (70% of 2018 MB)
+[2018.03.11-02.51.17:007][  0]LogD3D11RHI: Async texture creation enabled
+[2018.03.11-02.51.17:027][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.03.11-02.51.17:123][  0]LogShaderCompilers: Guid format shader working directory is 12 characters bigger than the processId version (G:/Unreal engine/!!Motion set/SittingPack/Intermediate/Shaders/WorkingDirectory/24904/).
+[2018.03.11-02.51.17:124][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Administrator/AppData/Local/Temp/UnrealShaderWorkingDir/FC0F263347D6C8C0E836A3AAB5BE2A5F/'.
+[2018.03.11-02.51.17:124][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.03.11-02.51.19:358][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.03.11-02.51.19:694][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.03.11-02.51.20:028][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.03.11-02.51.20:360][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.03.11-02.51.20:692][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.03.11-02.51.21:003][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.03.11-02.51.21:316][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.03.11-02.51.21:722][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.03.11-02.51.22:103][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.03.11-02.51.22:410][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.03.11-02.51.22:721][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.03.11-02.51.23:193][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.03.11-02.51.23:656][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.03.11-02.51.24:156][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.03.11-02.51.24:865][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.03.11-02.51.24:865][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.03.11-02.51.25:173][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.03.11-02.51.25:464][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.03.11-02.51.25:954][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.03.11-02.51.26:130][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.03.11-02.51.26:470][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.03.11-02.51.26:803][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.03.11-02.51.27:133][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.03.11-02.51.27:471][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.03.11-02.51.27:471][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.03.11-02.51.31:144][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.03.11-02.51.31:269][  0]LogDerivedDataCache: Loaded boot cache 0.12s 100MB C:/Users/Administrator/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.03.11-02.51.31:269][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Administrator/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.03.11-02.51.31:269][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file G:/Unreal engine/!!Motion set/SittingPack/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.03.11-02.51.31:269][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.03.11-02.51.31:269][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file G:/Unreal engine/!!Motion set/SittingPack/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.03.11-02.51.31:269][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.03.11-02.51.31:270][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnginePak pak cache file ../../../Engine/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.03.11-02.51.31:270][  0]LogDerivedDataCache: Unable to find inner node EnginePak for hierarchical cache Hierarchy.
+[2018.03.11-02.51.31:313][  0]LogDerivedDataCache: Using Local data cache path G:/Unreal engine/!!Motion set/SittingPack/LocalDerivedDataCache: Writable
+[2018.03.11-02.51.31:330][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.03.11-02.51.31:330][  0]LogSlate: Using Freetype 2.6.0
+[2018.03.11-02.51.31:331][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.03.11-02.51.31:331][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.03.11-02.51.32:241][  0]LogInit: Selected Device Profile: [Windows]
+[2018.03.11-02.51.35:057][  0]LogTexture: Display: Building textures: S_Actor (BGRA8, 128X128)
+[2018.03.11-02.51.35:057][  0]LogTexture: Display: Building textures: S_ExpoHeightFog (BGRA8, 256X256)
+[2018.03.11-02.51.35:057][  0]LogTexture: Display: Building textures: S_ReflActorIcon (AutoDXT, 256X256)
+[2018.03.11-02.51.35:057][  0]LogTexture: Display: Building textures: T_Default_Material_Grid_N (BC5, 256X256)
+[2018.03.11-02.51.35:057][  0]LogTexture: Display: Building textures: T_Default_Material_Grid_M (AutoDXT, 512X512)
+[2018.03.11-02.51.35:057][  0]LogTexture: Display: Building textures: DefaultDiffuse (AutoDXT, 1024X1024)
+[2018.03.11-02.51.35:057][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.03.11-02.51.35:355][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.03.11-02.51.35:355][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.03.11-02.51.35:355][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.03.11-02.51.35:355][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.03.11-02.51.35:355][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.03.11-02.51.35:460][  0]LogTexture: Display: Building textures: S_DecalActorIcon (AutoDXT, 256X256)
+[2018.03.11-02.51.35:460][  0]LogNetVersion: SittingPack , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2383918311)
+[2018.03.11-02.51.36:881][  0]LogTexture: Display: Building textures: DefaultTexture (DXT1, 128X128)
+[2018.03.11-02.51.36:881][  0]LogTexture: Display: Building textures: flipbook (AutoDXT, 128X128)
+[2018.03.11-02.51.36:881][  0]LogTexture: Display: Building textures: T_EditorHelp (AutoDXT, 2048X2048)
+[2018.03.11-02.51.36:881][  0]LogTexture: Display: Building textures: S_Emitter (BGRA8, 256X256)
+[2018.03.11-02.51.36:881][  0]LogTexture: Display: Building textures: S_PortalActorIcon2 (AutoDXT, 256X256)
+[2018.03.11-02.51.36:881][  0]LogTexture: Display: Building textures: MatInstActSprite (BGRA8, 128X128)
+[2018.03.11-02.51.36:881][  0]LogTexture: Display: Building textures: SceneManager (BGRA8, 256X256)
+[2018.03.11-02.51.36:882][  0]LogTexture: Display: Building textures: S_NavP (BGRA8, 256X256)
+[2018.03.11-02.51.36:882][  0]LogTexture: Display: Building textures: Bad (BGRA8, 128X128)
+[2018.03.11-02.51.36:882][  0]LogTexture: Display: Building textures: S_Note (BGRA8, 256X256)
+[2018.03.11-02.51.36:882][  0]LogTexture: Display: Building textures: S_Player (BGRA8, 256X256)
+[2018.03.11-02.51.36:882][  0]LogTexture: Display: Building textures: S_RadForce (BGRA8, 256X128)
+[2018.03.11-02.51.36:882][  0]LogTexture: Display: Building textures: TargetIcon (BGRA8, 256X256)
+[2018.03.11-02.51.36:882][  0]LogTexture: Display: Building textures: S_TextRenderActorIcon (AutoDXT, 256X256)
+[2018.03.11-02.51.36:882][  0]LogTexture: Display: Building textures: S_Trigger (BGRA8, 256X256)
+[2018.03.11-02.51.36:882][  0]LogTexture: Display: Building textures: S_VectorFieldVol (BGRA8, 128X128)
+[2018.03.11-02.51.36:882][  0]LogTexture: Display: Building textures: S_WindDirectional (AutoDXT, 256X256)
+[2018.03.11-02.51.36:882][  0]LogAssetRegistry: FAssetRegistry took 0.0303 seconds to start up
+[2018.03.11-02.51.38:968][  0]LogTexture: Display: Building textures: VR_LaserPower_01 (AutoDXT, 512X512)
+[2018.03.11-02.51.38:968][  0]LogTexture: Display: Building textures: S_LevelSequence (BGRA8, 128X128)
+[2018.03.11-02.51.38:968][  0]LogTexture: Display: Building textures: PSysThumbnail_NoImage (AutoDXT, 256X256)
+[2018.03.11-02.51.38:968][  0]LogTexture: Display: Building textures: PSysThumbnail_OOD (AutoDXT, 128X128)
+[2018.03.11-02.51.38:968][  0]LogTexture: Display: Building textures: Grid (AutoDXT, 512X512)
+[2018.03.11-02.51.38:968][  0]LogTexture: Display: Building textures: S_Terrain (BGRA8, 256X256)
+[2018.03.11-02.51.38:968][  0]LogTexture: Display: Building textures: GearVRController_Color (AutoDXT, 512X512)
+[2018.03.11-02.51.38:968][  0]LogTexture: Display: Building textures: GearVRController_AO (AutoDXT, 1024X1024)
+[2018.03.11-02.51.38:968][  0]LogTexture: Display: Building textures: GearVRController_Normal (AutoDXT, 1024X1024)
+[2018.03.11-02.51.38:968][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 1 prioritized culture(s) in 0.044483 seconds
+[2018.03.11-02.51.38:976][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.03.11-02.51.38:976][  0]LogUObjectAllocator: 7363696 out of 0 bytes used by permanent object pool.
+[2018.03.11-02.51.38:976][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.03.11-02.51.39:441][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.03.11-02.51.50:474][  0]LogTexture: Display: Building textures: UE4_Logo (AutoDXT, 1024X1024)
+[2018.03.11-02.51.50:474][  0]LogTexture: Display: Building textures: VivePreController_MasksB (AutoDXT, 512X512)
+[2018.03.11-02.51.50:474][  0]LogTexture: Display: Building textures: VivePreController_MasksA (AutoDXT, 1024X1024)
+[2018.03.11-02.51.50:474][  0]LogTexture: Display: Building textures: SimpleGrid (AutoDXT, 512X512)
+[2018.03.11-02.51.50:474][  0]LogTexture: Display: Building textures: VivePreControllerDiffuse (AutoDXT, 2048X2048)
+[2018.03.11-02.51.50:474][  0]LogTexture: Display: Building textures: VivePreControllerSpec (AutoDXT, 2048X2048)
+[2018.03.11-02.51.53:486][  0]LogSubstanceCoreModule: Substance [CPU] Engine Loaded, Max Texture Size = 2048
+[2018.03.11-02.51.53:777][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.03.11-02.51.53:985][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.03.11-02.51.58:113][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.03.11-02.52.00:442][  0]SourceControl: Source control is disabled
+[2018.03.11-02.52.00:443][  0]SourceControl: Source control is disabled
+[2018.03.11-02.52.00:766][  0]SourceControl: Source control is disabled
+[2018.03.11-02.52.01:115][  0]SourceControl: Source control is disabled
+[2018.03.11-02.52.06:664][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.03.11-02.52.08:497][  0]LogOcInput: OculusInput pre-init called
+[2018.03.11-02.52.11:643][  0]LogEngine: Initializing Engine...
+[2018.03.11-02.52.11:650][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.03.11-02.52.11:871][  0]LogTexture: Display: Building textures: DefaultWhiteGrid (AutoDXT, 128X128)
+[2018.03.11-02.52.11:871][  0]LogTexture: Display: Building textures: InvalidLightmapSettings (AutoDXT, 512X512)
+[2018.03.11-02.52.12:089][  0]LogTexture: Display: Building textures: HeatmapGradient (BGRA8, 512X1)
+[2018.03.11-02.52.12:089][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.03.11-02.52.12:089][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.03.11-02.52.13:055][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.03.11-02.52.13:109][  0]LogInit: XAudio2 using '扬声器 (High Definition Audio 设备)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.11-02.52.13:141][  0]LogInit: FAudioDevice initialized.
+[2018.03.11-02.52.13:292][  0]LogDerivedDataCache: Saved boot cache 0.15s 100MB C:/Users/Administrator/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.03.11-02.52.13:327][  0]LogInit: Texture streaming: Enabled
+[2018.03.11-02.52.14:280][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.03.11-02.52.15:262][  0]LogInit: Transaction tracking system initialized
+[2018.03.11-02.52.17:558][  0]BlueprintLog: New page: Editor Load
+[2018.03.11-02.52.24:529][  0]LocalizationService: Localization service is disabled
+[2018.03.11-02.52.29:153][  0]LogTexture: Display: Building textures: icon_tab_Levels_40x (BGRA8, 40X40)
+[2018.03.11-02.52.29:153][  0]LogTexture: Display: Building textures: Landscape (BGRA8, 40X40)
+[2018.03.11-02.52.29:153][  0]LogTexture: Display: Building textures: Blueprint_64x (BGRA8, 64X64)
+[2018.03.11-02.52.29:153][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/ThirdPersonOverview'
+[2018.03.11-02.52.29:153][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/ThirdPersonOverview'
+[2018.03.11-02.52.29:153][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPersonBP/ThirdPersonOverview.ThirdPersonOverview_C'
+[2018.03.11-02.52.30:720][  0]LogConsoleResponse: Display: 
+[2018.03.11-02.52.30:898][  0]LogTexture: Display: Building textures: Cross (AutoDXT, 32X32)
+[2018.03.11-02.52.30:898][  0]LogMaterial: Missing cached shader map for material Cross_Mat, compiling. 
+[2018.03.11-02.52.30:938][  0]LogMaterial: Missing cached shader map for material PhAT_BoneSelectedMaterial, compiling. 
+[2018.03.11-02.52.30:965][  0]LogMaterial: Missing cached shader map for material PhAT_ElemSelectedMaterial, compiling. 
+[2018.03.11-02.52.30:985][  0]LogMaterial: Missing cached shader map for material PhAT_NoCollisionMaterial, compiling. 
+[2018.03.11-02.52.31:004][  0]LogMaterial: Missing cached shader map for material PhAT_UnselectedMaterial, compiling. 
+[2018.03.11-02.52.31:029][  0]LogTexture: Display: Building textures: Tick (AutoDXT, 32X32)
+[2018.03.11-02.52.31:029][  0]LogMaterial: Missing cached shader map for material Tick_Mat, compiling. 
+[2018.03.11-02.52.31:071][  0]LogTexture: Display: Building textures: WidgetGridVertexColorMaterial (AutoDXT, 256X256)
+[2018.03.11-02.52.31:071][  0]LogMaterial: Missing cached shader map for material WidgetGridVertexColorMaterial_Ma, compiling. 
+[2018.03.11-02.52.31:092][  0]LogMaterial: Missing cached shader map for material WidgetMaterial, compiling. 
+[2018.03.11-02.52.31:113][  0]LogMaterial: Missing cached shader map for material WidgetMaterial_Current, compiling. 
+[2018.03.11-02.52.31:132][  0]LogMaterial: Missing cached shader map for material WidgetMaterial_X, compiling. 
+[2018.03.11-02.52.31:156][  0]LogMaterial: Missing cached shader map for material WidgetMaterial_Y, compiling. 
+[2018.03.11-02.52.31:180][  0]LogMaterial: Missing cached shader map for material WidgetMaterial_Z, compiling. 
+[2018.03.11-02.52.31:201][  0]LogMaterial: Missing cached shader map for material WidgetVertexColorMaterial, compiling. 
+[2018.03.11-02.52.31:271][  0]LogTexture: Display: Building textures: CASC_None (AutoDXT, 16X16)
+[2018.03.11-02.52.31:271][  0]LogTexture: Display: Building textures: CASC_Cross (AutoDXT, 16X16)
+[2018.03.11-02.52.31:271][  0]LogMaterial: Missing cached shader map for material LevelGridMaterial, compiling. 
+[2018.03.11-02.52.31:407][  0]LogTexture: Display: Building textures: Texture2D_28 (AutoDXT, 256X256)
+[2018.03.11-02.52.31:407][  0]LogTexture: Display: Building textures: S_KBSJoint (BGRA8, 128X128)
+[2018.03.11-02.52.31:407][  0]LogTexture: Display: Building textures: S_KHinge (BGRA8, 128X128)
+[2018.03.11-02.52.31:407][  0]LogTexture: Display: Building textures: S_KPrismatic (BGRA8, 128X128)
+[2018.03.11-02.52.31:407][  0]LogTexture: Display: Building textures: S_Thruster (BGRA8, 256X256)
+[2018.03.11-02.52.31:407][  0]LogTexture: Display: Building textures: S_LightError (BGRA8, 256X256)
+[2018.03.11-02.52.31:407][  0]LogTexture: Display: Building textures: T_Loft_Spline (AutoDXT, 128X128)
+[2018.03.11-02.52.31:407][  0]LogMaterial: Missing cached shader map for material BlinkingCaret, compiling. 
+[2018.03.11-02.52.31:790][  0]LogTexture: Display: Building textures: DefaultNormal (BC5, 1024X1024)
+[2018.03.11-02.52.31:790][  0]LogTexture: Display: Building textures: Grid_N (BC5, 512X512)
+[2018.03.11-02.52.31:790][  0]LogTexture: Display: Building textures: PaperDiffuse (AutoDXT, 512X512)
+[2018.03.11-02.52.31:790][  0]LogTexture: Display: Building textures: PaperNormal (BC5, 512X512)
+[2018.03.11-02.52.31:834][  0]LogTexture: Display: Building textures: Texture2D_28 (AutoDXT, 256X256)
+[2018.03.11-02.52.31:834][  0]LogTexture: Display: Building textures: Texture2D_29 (AutoDXT, 256X128)
+[2018.03.11-02.52.31:834][  0]LogTexture: Display: Building textures: StreamingPauseIcon (AutoDXT, 64X64)
+[2018.03.11-02.52.31:834][  0]LogMaterial: Missing cached shader map for material M_StreamingPause, compiling. 
+[2018.03.11-02.52.31:881][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.03.11-02.52.31:881][  0]LogCook: Display: Mobile HDR setting 1
+[2018.03.11-02.52.31:881][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.03.11-02.52.34:042][  0]LogFileCache: Scanning file cache for directory 'G:/Unreal engine/!!Motion set/SittingPack/Content/' took 0.02s
+[2018.03.11-02.52.35:145][  0]LogTexture: Display: Building textures: Countdown (AutoDXT, 1152X128)
+[2018.03.11-02.52.35:145][  0]LogTexture: Display: Building textures: RecordingIndicator (AutoDXT, 32X32)
+[2018.03.11-02.52.38:186][  0]LogStaticMesh: Building static mesh Cube...
+[2018.03.11-02.52.38:187][  0]LogStaticMesh: Built static mesh [0.00s] /Engine/BasicShapes/Cube.Cube
+[2018.03.11-02.52.38:193][  0]LogStaticMesh: Building static mesh Sphere...
+[2018.03.11-02.52.38:204][  0]LogStaticMesh: Built static mesh [0.01s] /Engine/BasicShapes/Sphere.Sphere
+[2018.03.11-02.52.38:211][  0]LogStaticMesh: Building static mesh Cylinder...
+[2018.03.11-02.52.38:217][  0]LogStaticMesh: Built static mesh [0.01s] /Engine/BasicShapes/Cylinder.Cylinder
+[2018.03.11-02.52.38:224][  0]LogStaticMesh: Building static mesh Cone...
+[2018.03.11-02.52.38:229][  0]LogStaticMesh: Built static mesh [0.01s] /Engine/BasicShapes/Cone.Cone
+[2018.03.11-02.52.38:234][  0]LogStaticMesh: Building static mesh Plane...
+[2018.03.11-02.52.38:238][  0]LogStaticMesh: Built static mesh [0.00s] /Engine/BasicShapes/Plane.Plane
+[2018.03.11-02.52.42:571][  0]LogTexture: Display: Building textures: DefaultAlphaTexture (BGRA8, 64X64)
+[2018.03.11-02.52.42:571][  0]SourceControl: Source control is disabled
+[2018.03.11-02.52.42:571][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.03.11-02.52.42:572][  0]LightingResults: New page: Lighting Build
+[2018.03.11-02.52.42:899][  0]MapCheck: New page: Map Check
+[2018.03.11-02.52.42:899][  0]LightingResults: New page: Lighting Build
+[2018.03.11-02.52.43:189][  0]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2018.03.11-02.52.43:189][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2018.03.11-02.52.43:189][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 128X128)
+[2018.03.11-02.52.43:189][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 256X256)
+[2018.03.11-02.52.43:189][  0]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 256X256)
+[2018.03.11-02.52.43:189][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2018.03.11-02.52.43:189][  0]LogStaticMesh: Building static mesh SM_Template_Map_Floor...
+[2018.03.11-02.52.43:191][  0]LogStaticMesh: Built static mesh [0.00s] /Engine/MapTemplates/SM_Template_Map_Floor.SM_Template_Map_Floor
+[2018.03.11-02.52.43:562][  0]LogTexture: Display: Building textures: T_Sky_Stars (AutoDXT, 512X512)
+[2018.03.11-02.52.43:562][  0]LogTexture: Display: Building textures: T_Sky_Clouds_M (BGRA8, 2048X1024)
+[2018.03.11-02.52.43:566][  0]LogStaticMesh: Building static mesh SM_SkySphere...
+[2018.03.11-02.52.43:609][  0]LogStaticMesh: Built static mesh [0.04s] /Engine/EngineSky/SM_SkySphere.SM_SkySphere
+[2018.03.11-02.52.44:530][  0]LogTexture: Display: Building textures: T_Sky_Blue (AutoDXT, 2048X2048)
+[2018.03.11-02.52.44:530][  0]LogMaterial: Missing cached shader map for material M_Sky_Panning_Clouds2, compiling. 
+[2018.03.11-02.52.44:667][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2018.03.11-02.52.44:790][  0]LogTexture: Display: Building textures: EmptyActor (BGRA8, 256X256)
+[2018.03.11-02.52.44:790][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.03.11-02.52.44:825][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.03.11-02.52.44:999][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 174.574ms to complete.
+[2018.03.11-02.52.45:000][  0]LogFileHelpers: Loading map 'Template_Default' took 2.429
+[2018.03.11-02.52.45:796][  0]LogCollectionManager: Loaded 0 collections in 0.002996 seconds
+[2018.03.11-02.52.46:184][  0]LogFileCache: Scanning file cache for directory 'G:/Unreal engine/!!Motion set/SittingPack/Saved/Collections/' took 0.01s
+[2018.03.11-02.52.46:184][  0]LogFileCache: Scanning file cache for directory 'G:/Unreal engine/!!Motion set/SittingPack/Content/Developers/Administrator/Collections/' took 0.01s
+[2018.03.11-02.52.46:184][  0]LogFileCache: Scanning file cache for directory 'G:/Unreal engine/!!Motion set/SittingPack/Content/Collections/' took 0.01s
+[2018.03.11-02.52.46:184][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.03.11-02.52.46:198][  0]LogContentBrowser: Native class hierarchy populated in 0.0136 seconds. Added 2378 classes and 527 folders.
+[2018.03.11-02.52.46:750][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.03.11-02.52.46:828][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.03.11-02.52.46:920][  0]LogSlate: Took 0.000291 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.03.11-02.52.46:926][  0]LogSlate: Took 0.000304 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.03.11-02.52.46:930][  0]LogSlate: Took 0.000190 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.03.11-02.52.46:982][  0]LogTexture: Display: Building textures: LevelGrid1DStripes (BGRA8, 4096X1)
+[2018.03.11-02.52.46:982][  0]LogMaterial: Missing cached shader map for material LevelGridMaterial2, compiling. 
+[2018.03.11-02.52.47:118][  0]LogRenderer: Reallocating scene render targets to support 1136x552 Format 10 NumSamples 1 (Frame:1).
+[2018.03.11-02.52.47:724][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.03.11-02.52.47:724][  0]LogLoad: (Engine Initialization) Total time: 101.18 seconds
+[2018.03.11-02.52.47:724][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.03.11-02.52.47:724][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.03.11-02.52.48:090][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2018.03.11-02.52.48:103][  0]LogSlate: Took 0.000220 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.11-02.52.48:460][  1]LogSubstanceLiveLink: Warning: Unable to send data along socket, closing connection
+[2018.03.11-02.52.48:812][  2]LogAssetRegistry: Asset discovery search completed in 71.9535 seconds
+[2018.03.11-02.52.48:815][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.03.11-02.52.48:815][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000062 seconds (updated 0 objects)
+[2018.03.11-02.52.50:804][  8]LogTexture: Display: Building textures: S_ReflActorIcon (AutoDXT, 256X256)
+[2018.03.11-02.59.11:951][734]LogSlate: Took 0.000222 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.11-02.59.12:447][734]LogTexture: Display: Building textures: T_ML_Rubber_Blue_01_D (AutoDXT, 512X512)
+[2018.03.11-02.59.12:448][734]LogTexture: Display: Building textures: T_ML_Rubber_Blue_01_N (BC5, 512X512)
+[2018.03.11-02.59.12:448][734]LogTexture: Display: Building textures: T_UE4_LOGO_CARD (AutoDXT, 512X512)
+[2018.03.11-02.59.12:448][734]LogTexture: Display: Building textures: T_UE4Man_Logo_N (BC5, 512X512)
+[2018.03.11-02.59.12:448][734]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2018.03.11-02.59.12:448][734]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2018.03.11-02.59.12:448][734]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (BGRA8, 64X32)
+[2018.03.11-02.59.12:448][734]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 256X256)
+[2018.03.11-02.59.12:448][734]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 256X128)
+[2018.03.11-02.59.12:448][734]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 256X256)
+[2018.03.11-02.59.12:448][734]LogTexture: Display: Building textures: T_UE4_Mannequin_MAT_MASKA (AutoDXT, 1024X1024)
+[2018.03.11-02.59.12:450][734]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/HaveASitPack/Animations/Ground/A_ground_leanBack_01_stand.A_ground_leanBack_01_stand
+[2018.03.11-02.59.12:450][734]LogAnimationCompression: Recompressing (AnimSequence /Game/HaveASitPack/Animations/Ground/A_ground_leanBack_01_stand.A_ground_leanBack_01_stand) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.11-02.59.12:452][734]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/HaveASitPack/Animations/Ground/A_ground_leanBack_01_sit.A_ground_leanBack_01_sit
+[2018.03.11-02.59.12:452][734]LogAnimationCompression: Recompressing (AnimSequence /Game/HaveASitPack/Animations/Ground/A_ground_leanBack_01_sit.A_ground_leanBack_01_sit) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.11-02.59.12:453][734]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/HaveASitPack/Animations/Ground/A_ground_leanBack_01_loop.A_ground_leanBack_01_loop
+[2018.03.11-02.59.12:454][734]LogAnimationCompression: Recompressing (AnimSequence /Game/HaveASitPack/Animations/Ground/A_ground_leanBack_01_loop.A_ground_leanBack_01_loop) using current/default (AnimCompress_BitwiseCompressOnly_29) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.11-02.59.12:457][734]LogTexture: Display: Building textures: T_ML_Aluminum01 (AutoDXT, 512X512)
+[2018.03.11-02.59.12:457][734]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/HaveASitPack/Animations/Ground/A_ground_kneel_02_stand.A_ground_kneel_02_stand
+[2018.03.11-02.59.12:457][734]LogAnimationCompression: Recompressing (AnimSequence /Game/HaveASitPack/Animations/Ground/A_ground_kneel_02_stand.A_ground_kneel_02_stand) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.11-02.59.12:458][734]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/HaveASitPack/Animations/Chair/A_chair_handsBehindHead_01_sit.A_chair_handsBehindHead_01_sit
+[2018.03.11-02.59.12:459][734]LogAnimationCompression: Recompressing (AnimSequence /Game/HaveASitPack/Animations/Chair/A_chair_handsBehindHead_01_sit.A_chair_handsBehindHead_01_sit) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.11-02.59.12:460][734]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/HaveASitPack/Animations/Chair/A_chair_slouch_01_stand.A_chair_slouch_01_stand
+[2018.03.11-02.59.12:460][734]LogAnimationCompression: Recompressing (AnimSequence /Game/HaveASitPack/Animations/Chair/A_chair_slouch_01_stand.A_chair_slouch_01_stand) using current/default (AnimCompress_BitwiseCompressOnly_33) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.11-02.59.12:462][734]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/HaveASitPack/Animations/Chair/A_chair_legCross_01_sit.A_chair_legCross_01_sit
+[2018.03.11-02.59.12:462][734]LogAnimationCompression: Recompressing (AnimSequence /Game/HaveASitPack/Animations/Chair/A_chair_legCross_01_sit.A_chair_legCross_01_sit) using current/default (AnimCompress_BitwiseCompressOnly_14) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.11-02.59.12:463][734]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/HaveASitPack/Animations/Chair/A_chair_legCross_01_loop.A_chair_legCross_01_loop
+[2018.03.11-02.59.12:464][734]LogAnimationCompression: Recompressing (AnimSequence /Game/HaveASitPack/Animations/Chair/A_chair_legCross_01_loop.A_chair_legCross_01_loop) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.11-02.59.12:467][734]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/HaveASitPack/Animations/Ground/A_ground_leanBack_02_stand.A_ground_leanBack_02_stand
+[2018.03.11-02.59.12:467][734]LogAnimationCompression: Recompressing (AnimSequence /Game/HaveASitPack/Animations/Ground/A_ground_leanBack_02_stand.A_ground_leanBack_02_stand) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.11-02.59.12:469][734]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/HaveASitPack/Animations/Ground/A_ground_leanBack_02_sit.A_ground_leanBack_02_sit
+[2018.03.11-02.59.12:469][734]LogAnimationCompression: Recompressing (AnimSequence /Game/HaveASitPack/Animations/Ground/A_ground_leanBack_02_sit.A_ground_leanBack_02_sit) using current/default (AnimCompress_BitwiseCompressOnly_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.11-02.59.12:471][734]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/HaveASitPack/Animations/Ground/A_ground_leanBack_02_loop.A_ground_leanBack_02_loop
+[2018.03.11-02.59.12:471][734]LogAnimationCompression: Recompressing (AnimSequence /Game/HaveASitPack/Animations/Ground/A_ground_leanBack_02_loop.A_ground_leanBack_02_loop) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.11-02.59.12:474][734]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/HaveASitPack/Animations/Ground/A_ground_legsOpen_01_sit.A_ground_legsOpen_01_sit
+[2018.03.11-02.59.12:475][734]LogAnimationCompression: Recompressing (AnimSequence /Game/HaveASitPack/Animations/Ground/A_ground_legsOpen_01_sit.A_ground_legsOpen_01_sit) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.11-02.59.12:476][734]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/HaveASitPack/Animations/Ground/A_ground_legsOpen_01_loop.A_ground_legsOpen_01_loop
+[2018.03.11-02.59.12:476][734]LogAnimationCompression: Recompressing (AnimSequence /Game/HaveASitPack/Animations/Ground/A_ground_legsOpen_01_loop.A_ground_legsOpen_01_loop) using current/default (AnimCompress_BitwiseCompressOnly_32) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.11-02.59.12:479][734]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/HaveASitPack/Animations/Ground/A_ground_legCross_01_stand.A_ground_legCross_01_stand
+[2018.03.11-02.59.12:479][734]LogAnimationCompression: Recompressing (AnimSequence /Game/HaveASitPack/Animations/Ground/A_ground_legCross_01_stand.A_ground_legCross_01_stand) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.11-02.59.12:480][734]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/HaveASitPack/Animations/Ground/A_ground_legCross_01_sit.A_ground_legCross_01_sit
+[2018.03.11-02.59.12:480][734]LogAnimationCompression: Recompressing (AnimSequence /Game/HaveASitPack/Animations/Ground/A_ground_legCross_01_sit.A_ground_legCross_01_sit) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.11-02.59.12:482][734]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/HaveASitPack/Animations/Ground/A_ground_legCross_01_loop.A_ground_legCross_01_loop
+[2018.03.11-02.59.12:482][734]LogAnimationCompression: Recompressing (AnimSequence /Game/HaveASitPack/Animations/Ground/A_ground_legCross_01_loop.A_ground_legCross_01_loop) using current/default (AnimCompress_BitwiseCompressOnly_31) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.11-02.59.12:484][734]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/HaveASitPack/Animations/Table/A_table_lean_02_loop.A_table_lean_02_loop
+[2018.03.11-02.59.12:484][734]LogAnimationCompression: Recompressing (AnimSequence /Game/HaveASitPack/Animations/Table/A_table_lean_02_loop.A_table_lean_02_loop) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.11-02.59.12:487][734]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/HaveASitPack/Animations/Table/A_table_lean_01_loop.A_table_lean_01_loop
+[2018.03.11-02.59.12:487][734]LogAnimationCompression: Recompressing (AnimSequence /Game/HaveASitPack/Animations/Table/A_table_lean_01_loop.A_table_lean_01_loop) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.11-02.59.12:489][734]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/HaveASitPack/Animations/Ground/A_ground_squat_01_stand.A_ground_squat_01_stand
+[2018.03.11-02.59.12:490][734]LogAnimationCompression: Recompressing (AnimSequence /Game/HaveASitPack/Animations/Ground/A_ground_squat_01_stand.A_ground_squat_01_stand) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.11-02.59.12:491][734]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/HaveASitPack/Animations/Ground/A_ground_squat_01_sit.A_ground_squat_01_sit
+[2018.03.11-02.59.12:491][734]LogAnimationCompression: Recompressing (AnimSequence /Game/HaveASitPack/Animations/Ground/A_ground_squat_01_sit.A_ground_squat_01_sit) using current/default (AnimCompress_BitwiseCompressOnly_6) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.11-02.59.12:492][734]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/HaveASitPack/Animations/Ground/A_ground_squat_01_loop.A_ground_squat_01_loop
+[2018.03.11-02.59.12:492][734]LogAnimationCompression: Recompressing (AnimSequence /Game/HaveASitPack/Animations/Ground/A_ground_squat_01_loop.A_ground_squat_01_loop) using current/default (AnimCompress_BitwiseCompressOnly_33) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.11-02.59.12:495][734]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/HaveASitPack/Animations/Ground/A_ground_legsOpen_01_stand.A_ground_legsOpen_01_stand
+[2018.03.11-02.59.12:495][734]LogAnimationCompression: Recompressing (AnimSequence /Game/HaveASitPack/Animations/Ground/A_ground_legsOpen_01_stand.A_ground_legsOpen_01_stand) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.11-02.59.13:119][734]LogTexture: Display: Building textures: T_UE4_Mannequin__normals (BC5, 2048X2048)
+[2018.03.11-02.59.13:119][734]LogTexture: Display: Building textures: T_ML_Aluminum01_N (BC5, 512X512)
+[2018.03.11-02.59.13:119][734]LogMaterial: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2018.03.11-02.59.13:438][734]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/HaveASitPack/Animations/Chair/A_chair_lean_01_loop.A_chair_lean_01_loop
+[2018.03.11-02.59.13:439][734]LogAnimationCompression: Recompressing (AnimSequence /Game/HaveASitPack/Animations/Chair/A_chair_lean_01_loop.A_chair_lean_01_loop) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.11-02.59.13:447][734]LogMaterial: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2018.03.11-02.59.13:605][734]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/HaveASitPack/Animations/Chair/A_chair_thinker_01_loop.A_chair_thinker_01_loop
+[2018.03.11-02.59.13:605][734]LogAnimationCompression: Recompressing (AnimSequence /Game/HaveASitPack/Animations/Chair/A_chair_thinker_01_loop.A_chair_thinker_01_loop) using current/default (AnimCompress_BitwiseCompressOnly_24) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.11-02.59.13:607][734]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/HaveASitPack/Animations/Chair/A_chair_move_left.A_chair_move_left
+[2018.03.11-02.59.13:608][734]LogAnimationCompression: Recompressing (AnimSequence /Game/HaveASitPack/Animations/Chair/A_chair_move_left.A_chair_move_left) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.11-02.59.13:609][734]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/HaveASitPack/Animations/Chair/A_chair_legSpread_01_stand.A_chair_legSpread_01_stand
+[2018.03.11-02.59.13:609][734]LogAnimationCompression: Recompressing (AnimSequence /Game/HaveASitPack/Animations/Chair/A_chair_legSpread_01_stand.A_chair_legSpread_01_stand) using current/default (AnimCompress_BitwiseCompressOnly_31) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.11-02.59.13:610][734]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/HaveASitPack/Animations/Chair/A_chair_move_right.A_chair_move_right
+[2018.03.11-02.59.13:610][734]LogAnimationCompression: Recompressing (AnimSequence /Game/HaveASitPack/Animations/Chair/A_chair_move_right.A_chair_move_right) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.11-02.59.13:611][734]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/HaveASitPack/Animations/Chair/A_chair_bound_01_loop.A_chair_bound_01_loop
+[2018.03.11-02.59.13:611][734]LogAnimationCompression: Recompressing (AnimSequence /Game/HaveASitPack/Animations/Chair/A_chair_bound_01_loop.A_chair_bound_01_loop) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.11-02.59.13:615][734]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/HaveASitPack/Animations/Chair/A_chair_backwards_01_loop.A_chair_backwards_01_loop
+[2018.03.11-02.59.13:615][734]LogAnimationCompression: Recompressing (AnimSequence /Game/HaveASitPack/Animations/Chair/A_chair_backwards_01_loop.A_chair_backwards_01_loop) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.11-02.59.13:619][734]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/HaveASitPack/Animations/Chair/A_chair_armOnRest_stand.A_chair_armOnRest_stand
+[2018.03.11-02.59.13:619][734]LogAnimationCompression: Recompressing (AnimSequence /Game/HaveASitPack/Animations/Chair/A_chair_armOnRest_stand.A_chair_armOnRest_stand) using current/default (AnimCompress_BitwiseCompressOnly_19) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.11-02.59.13:621][734]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/HaveASitPack/Animations/Chair/A_chair_bound_01_sit.A_chair_bound_01_sit
+[2018.03.11-02.59.13:621][734]LogAnimationCompression: Recompressing (AnimSequence /Game/HaveASitPack/Animations/Chair/A_chair_bound_01_sit.A_chair_bound_01_sit) using current/default (AnimCompress_BitwiseCompressOnly_5) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.11-02.59.13:622][734]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/HaveASitPack/Animations/Chair/A_chair_leanForward_02_stand.A_chair_leanForward_02_stand
+[2018.03.11-02.59.13:622][734]LogAnimationCompression: Recompressing (AnimSequence /Game/HaveASitPack/Animations/Chair/A_chair_leanForward_02_stand.A_chair_leanForward_02_stand) using current/default (AnimCompress_BitwiseCompressOnly_29) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.11-02.59.13:623][734]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/HaveASitPack/Animations/Chair/A_chair_leanForward_02_sit.A_chair_leanForward_02_sit
+[2018.03.11-02.59.13:624][734]LogAnimationCompression: Recompressing (AnimSequence /Game/HaveASitPack/Animations/Chair/A_chair_leanForward_02_sit.A_chair_leanForward_02_sit) using current/default (AnimCompress_BitwiseCompressOnly_13) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.11-02.59.13:625][734]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/HaveASitPack/Animations/Chair/A_chair_handsLap_01_stand.A_chair_handsLap_01_stand
+[2018.03.11-02.59.13:625][734]LogAnimationCompression: Recompressing (AnimSequence /Game/HaveASitPack/Animations/Chair/A_chair_handsLap_01_stand.A_chair_handsLap_01_stand) using current/default (AnimCompress_BitwiseCompressOnly_27) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.11-02.59.13:628][734]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/HaveASitPack/Animations/Chair/A_chair_handsLap_01_loop.A_chair_handsLap_01_loop
+[2018.03.11-02.59.13:628][734]LogAnimationCompression: Recompressing (AnimSequence /Game/HaveASitPack/Animations/Chair/A_chair_handsLap_01_loop.A_chair_handsLap_01_loop) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.11-02.59.13:632][734]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/HaveASitPack/Animations/Chair/A_chair_handsLap_01_sit.A_chair_handsLap_01_sit
+[2018.03.11-02.59.13:632][734]LogAnimationCompression: Recompressing (AnimSequence /Game/HaveASitPack/Animations/Chair/A_chair_handsLap_01_sit.A_chair_handsLap_01_sit) using current/default (AnimCompress_BitwiseCompressOnly_11) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.11-02.59.13:633][734]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/HaveASitPack/Animations/Chair/A_chair_lean_01_stand.A_chair_lean_01_stand
+[2018.03.11-02.59.13:634][734]LogAnimationCompression: Recompressing (AnimSequence /Game/HaveASitPack/Animations/Chair/A_chair_lean_01_stand.A_chair_lean_01_stand) using current/default (AnimCompress_BitwiseCompressOnly_28) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.11-02.59.13:635][734]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/HaveASitPack/Animations/Chair/A_chair_leanForward_02_loop.A_chair_leanForward_02_loop
+[2018.03.11-02.59.13:636][734]LogAnimationCompression: Recompressing (AnimSequence /Game/HaveASitPack/Animations/Chair/A_chair_leanForward_02_loop.A_chair_leanForward_02_loop) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.11-02.59.13:639][734]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/HaveASitPack/Animations/Chair/A_chair_lean_01_sit.A_chair_lean_01_sit
+[2018.03.11-02.59.13:639][734]LogAnimationCompression: Recompressing (AnimSequence /Game/HaveASitPack/Animations/Chair/A_chair_lean_01_sit.A_chair_lean_01_sit) using current/default (AnimCompress_BitwiseCompressOnly_12) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.11-02.59.13:641][734]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/HaveASitPack/Animations/Chair/A_chair_armOnRest_loop.A_chair_armOnRest_loop
+[2018.03.11-02.59.13:642][734]LogAnimationCompression: Recompressing (AnimSequence /Game/HaveASitPack/Animations/Chair/A_chair_armOnRest_loop.A_chair_armOnRest_loop) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.11-02.59.13:666][734]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/HaveASitPack/Animations/Chair/A_chair_turn_right.A_chair_turn_right
+[2018.03.11-02.59.13:666][734]LogAnimationCompression: Recompressing (AnimSequence /Game/HaveASitPack/Animations/Chair/A_chair_turn_right.A_chair_turn_right) using current/default (AnimCompress_BitwiseCompressOnly_14) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.11-02.59.13:667][734]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/HaveASitPack/Animations/Chair/A_chair_turn_left.A_chair_turn_left
+[2018.03.11-02.59.13:667][734]LogAnimationCompression: Recompressing (AnimSequence /Game/HaveASitPack/Animations/Chair/A_chair_turn_left.A_chair_turn_left) using current/default (AnimCompress_BitwiseCompressOnly_15) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.11-02.59.13:668][734]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/HaveASitPack/Animations/Chair/A_chair_thinker_01_stand.A_chair_thinker_01_stand
+[2018.03.11-02.59.13:668][734]LogAnimationCompression: Recompressing (AnimSequence /Game/HaveASitPack/Animations/Chair/A_chair_thinker_01_stand.A_chair_thinker_01_stand) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.11-02.59.13:670][734]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/HaveASitPack/Animations/Chair/A_chair_thinker_01_sit.A_chair_thinker_01_sit
+[2018.03.11-02.59.13:670][734]LogAnimationCompression: Recompressing (AnimSequence /Game/HaveASitPack/Animations/Chair/A_chair_thinker_01_sit.A_chair_thinker_01_sit) using current/default (AnimCompress_BitwiseCompressOnly_18) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.11-02.59.13:672][734]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/HaveASitPack/Animations/Chair/A_chair_crossArms_01_sit.A_chair_crossArms_01_sit
+[2018.03.11-02.59.13:672][734]LogAnimationCompression: Recompressing (AnimSequence /Game/HaveASitPack/Animations/Chair/A_chair_crossArms_01_sit.A_chair_crossArms_01_sit) using current/default (AnimCompress_BitwiseCompressOnly_6) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.11-02.59.13:674][734]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/HaveASitPack/Animations/Chair/A_chair_crossArms_01_loop.A_chair_crossArms_01_loop
+[2018.03.11-02.59.13:674][734]LogAnimationCompression: Recompressing (AnimSequence /Game/HaveASitPack/Animations/Chair/A_chair_crossArms_01_loop.A_chair_crossArms_01_loop) using current/default (AnimCompress_BitwiseCompressOnly_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.11-02.59.13:678][734]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/HaveASitPack/Animations/Chair/A_chair_footup_01_loop.A_chair_footup_01_loop
+[2018.03.11-02.59.13:678][734]LogAnimationCompression: Recompressing (AnimSequence /Game/HaveASitPack/Animations/Chair/A_chair_footup_01_loop.A_chair_footup_01_loop) using current/default (AnimCompress_BitwiseCompressOnly_10) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.11-02.59.13:681][734]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/HaveASitPack/Animations/Chair/A_chair_footup_01_sit.A_chair_footup_01_sit
+[2018.03.11-02.59.13:682][734]LogAnimationCompression: Recompressing (AnimSequence /Game/HaveASitPack/Animations/Chair/A_chair_footup_01_sit.A_chair_footup_01_sit) using current/default (AnimCompress_BitwiseCompressOnly_9) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.11-02.59.13:683][734]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/HaveASitPack/Animations/Chair/A_chair_femLegCross_02_stand.A_chair_femLegCross_02_stand
+[2018.03.11-02.59.13:683][734]LogAnimationCompression: Recompressing (AnimSequence /Game/HaveASitPack/Animations/Chair/A_chair_femLegCross_02_stand.A_chair_femLegCross_02_stand) using current/default (AnimCompress_BitwiseCompressOnly_24) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.11-02.59.13:685][734]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/HaveASitPack/Animations/Chair/A_chair_handBehindHead_01_loop.A_chair_handBehindHead_01_loop
+[2018.03.11-02.59.13:685][734]LogAnimationCompression: Recompressing (AnimSequence /Game/HaveASitPack/Animations/Chair/A_chair_handBehindHead_01_loop.A_chair_handBehindHead_01_loop) using current/default (AnimCompress_BitwiseCompressOnly_12) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.11-02.59.13:687][734]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/HaveASitPack/Animations/Chair/A_chair_handBehindHead_01_stand.A_chair_handBehindHead_01_stand
+[2018.03.11-02.59.13:688][734]LogAnimationCompression: Recompressing (AnimSequence /Game/HaveASitPack/Animations/Chair/A_chair_handBehindHead_01_stand.A_chair_handBehindHead_01_stand) using current/default (AnimCompress_BitwiseCompressOnly_26) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.11-02.59.13:689][734]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/HaveASitPack/Animations/Chair/A_chair_footup_01_stand.A_chair_footup_01_stand
+[2018.03.11-02.59.13:689][734]LogAnimationCompression: Recompressing (AnimSequence /Game/HaveASitPack/Animations/Chair/A_chair_footup_01_stand.A_chair_footup_01_stand) using current/default (AnimCompress_BitwiseCompressOnly_25) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.11-02.59.13:691][734]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/HaveASitPack/Animations/Ground/A_ground_holdLeg_01_sit.A_ground_holdLeg_01_sit
+[2018.03.11-02.59.13:691][734]LogAnimationCompression: Recompressing (AnimSequence /Game/HaveASitPack/Animations/Ground/A_ground_holdLeg_01_sit.A_ground_holdLeg_01_sit) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.11-02.59.13:692][734]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/HaveASitPack/Animations/Ground/A_ground_holdLeg_01_loop.A_ground_holdLeg_01_loop
+[2018.03.11-02.59.13:693][734]LogAnimationCompression: Recompressing (AnimSequence /Game/HaveASitPack/Animations/Ground/A_ground_holdLeg_01_loop.A_ground_holdLeg_01_loop) using current/default (AnimCompress_BitwiseCompressOnly_26) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.11-02.59.13:696][734]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/HaveASitPack/Animations/Ground/A_ground_demure_01_stand.A_ground_demure_01_stand
+[2018.03.11-02.59.13:696][734]LogAnimationCompression: Recompressing (AnimSequence /Game/HaveASitPack/Animations/Ground/A_ground_demure_01_stand.A_ground_demure_01_stand) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.11-02.59.13:698][734]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/HaveASitPack/Animations/Ground/A_ground_demure_01_sit.A_ground_demure_01_sit
+[2018.03.11-02.59.13:698][734]LogAnimationCompression: Recompressing (AnimSequence /Game/HaveASitPack/Animations/Ground/A_ground_demure_01_sit.A_ground_demure_01_sit) using current/default (AnimCompress_BitwiseCompressOnly_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.11-02.59.13:700][734]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/HaveASitPack/Animations/Ground/A_ground_demure_01_loop.A_ground_demure_01_loop
+[2018.03.11-02.59.13:700][734]LogAnimationCompression: Recompressing (AnimSequence /Game/HaveASitPack/Animations/Ground/A_ground_demure_01_loop.A_ground_demure_01_loop) using current/default (AnimCompress_BitwiseCompressOnly_25) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.11-02.59.13:704][734]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/HaveASitPack/Animations/Chair/chair_restHands_01_BackSit.chair_restHands_01_BackSit
+[2018.03.11-02.59.13:704][734]LogAnimationCompression: Recompressing (AnimSequence /Game/HaveASitPack/Animations/Chair/chair_restHands_01_BackSit.chair_restHands_01_BackSit) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.11-02.59.13:707][734]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/HaveASitPack/Animations/Chair/A_chair_legSpread_01_sit.A_chair_legSpread_01_sit
+[2018.03.11-02.59.13:707][734]LogAnimationCompression: Recompressing (AnimSequence /Game/HaveASitPack/Animations/Chair/A_chair_legSpread_01_sit.A_chair_legSpread_01_sit) using current/default (AnimCompress_BitwiseCompressOnly_15) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.11-02.59.13:709][734]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/HaveASitPack/Animations/Chair/A_chair_legSpread_01_loop.A_chair_legSpread_01_loop
+[2018.03.11-02.59.13:709][734]LogAnimationCompression: Recompressing (AnimSequence /Game/HaveASitPack/Animations/Chair/A_chair_legSpread_01_loop.A_chair_legSpread_01_loop) using current/default (AnimCompress_BitwiseCompressOnly_19) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.11-02.59.13:712][734]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/HaveASitPack/Animations/Chair/A_chair_legCross_01_stand.A_chair_legCross_01_stand
+[2018.03.11-02.59.13:712][734]LogAnimationCompression: Recompressing (AnimSequence /Game/HaveASitPack/Animations/Chair/A_chair_legCross_01_stand.A_chair_legCross_01_stand) using current/default (AnimCompress_BitwiseCompressOnly_30) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.11-02.59.13:714][734]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/HaveASitPack/Animations/Chair/A_chair_restHands_01_stand.A_chair_restHands_01_stand
+[2018.03.11-02.59.13:714][734]LogAnimationCompression: Recompressing (AnimSequence /Game/HaveASitPack/Animations/Chair/A_chair_restHands_01_stand.A_chair_restHands_01_stand) using current/default (AnimCompress_BitwiseCompressOnly_32) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.11-02.59.13:716][734]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/HaveASitPack/Animations/Chair/A_chair_slouch_01_sit.A_chair_slouch_01_sit
+[2018.03.11-02.59.13:716][734]LogAnimationCompression: Recompressing (AnimSequence /Game/HaveASitPack/Animations/Chair/A_chair_slouch_01_sit.A_chair_slouch_01_sit) using current/default (AnimCompress_BitwiseCompressOnly_17) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.11-02.59.13:718][734]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/HaveASitPack/Animations/Chair/A_chair_slouch_01_loop.A_chair_slouch_01_loop
+[2018.03.11-02.59.13:718][734]LogAnimationCompression: Recompressing (AnimSequence /Game/HaveASitPack/Animations/Chair/A_chair_slouch_01_loop.A_chair_slouch_01_loop) using current/default (AnimCompress_BitwiseCompressOnly_23) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.11-02.59.13:722][734]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/HaveASitPack/Animations/Chair/A_chair_bound_01_stand.A_chair_bound_01_stand
+[2018.03.11-02.59.13:722][734]LogAnimationCompression: Recompressing (AnimSequence /Game/HaveASitPack/Animations/Chair/A_chair_bound_01_stand.A_chair_bound_01_stand) using current/default (AnimCompress_BitwiseCompressOnly_20) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.11-02.59.13:724][734]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/HaveASitPack/Animations/Chair/A_chair_femLegCross_01_loop.A_chair_femLegCross_01_loop
+[2018.03.11-02.59.13:724][734]LogAnimationCompression: Recompressing (AnimSequence /Game/HaveASitPack/Animations/Chair/A_chair_femLegCross_01_loop.A_chair_femLegCross_01_loop) using current/default (AnimCompress_BitwiseCompressOnly_6) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.11-02.59.13:728][734]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/HaveASitPack/Animations/Chair/A_chair_crossArms_01_stand.A_chair_crossArms_01_stand
+[2018.03.11-02.59.13:728][734]LogAnimationCompression: Recompressing (AnimSequence /Game/HaveASitPack/Animations/Chair/A_chair_crossArms_01_stand.A_chair_crossArms_01_stand) using current/default (AnimCompress_BitwiseCompressOnly_22) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.11-02.59.13:730][734]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/HaveASitPack/Animations/Chair/A_chair_femLegCross_01_sit.A_chair_femLegCross_01_sit
+[2018.03.11-02.59.13:730][734]LogAnimationCompression: Recompressing (AnimSequence /Game/HaveASitPack/Animations/Chair/A_chair_femLegCross_01_sit.A_chair_femLegCross_01_sit) using current/default (AnimCompress_BitwiseCompressOnly_7) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.11-02.59.13:732][734]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/HaveASitPack/Animations/Ground/A_ground_kneel_02_sit.A_ground_kneel_02_sit
+[2018.03.11-02.59.13:732][734]LogAnimationCompression: Recompressing (AnimSequence /Game/HaveASitPack/Animations/Ground/A_ground_kneel_02_sit.A_ground_kneel_02_sit) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.11-02.59.13:733][734]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/HaveASitPack/Animations/Ground/A_ground_kneel_02_loop.A_ground_kneel_02_loop
+[2018.03.11-02.59.13:733][734]LogAnimationCompression: Recompressing (AnimSequence /Game/HaveASitPack/Animations/Ground/A_ground_kneel_02_loop.A_ground_kneel_02_loop) using current/default (AnimCompress_BitwiseCompressOnly_28) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.11-02.59.13:737][734]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/HaveASitPack/Animations/Ground/A_ground_kneel_01_stand.A_ground_kneel_01_stand
+[2018.03.11-02.59.13:737][734]LogAnimationCompression: Recompressing (AnimSequence /Game/HaveASitPack/Animations/Ground/A_ground_kneel_01_stand.A_ground_kneel_01_stand) using current/default (AnimCompress_BitwiseCompressOnly_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.11-02.59.13:739][734]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/HaveASitPack/Animations/Ground/A_ground_kneel_01_sit.A_ground_kneel_01_sit
+[2018.03.11-02.59.13:739][734]LogAnimationCompression: Recompressing (AnimSequence /Game/HaveASitPack/Animations/Ground/A_ground_kneel_01_sit.A_ground_kneel_01_sit) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.11-02.59.13:741][734]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/HaveASitPack/Animations/Ground/A_ground_kneel_01_loop.A_ground_kneel_01_loop
+[2018.03.11-02.59.13:741][734]LogAnimationCompression: Recompressing (AnimSequence /Game/HaveASitPack/Animations/Ground/A_ground_kneel_01_loop.A_ground_kneel_01_loop) using current/default (AnimCompress_BitwiseCompressOnly_27) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.11-02.59.13:745][734]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/HaveASitPack/Animations/Ground/A_ground_holdLeg_01_stand.A_ground_holdLeg_01_stand
+[2018.03.11-02.59.13:745][734]LogAnimationCompression: Recompressing (AnimSequence /Game/HaveASitPack/Animations/Ground/A_ground_holdLeg_01_stand.A_ground_holdLeg_01_stand) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.11-02.59.13:747][734]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/HaveASitPack/Animations/Chair/A_chair_armOnRest_sit.A_chair_armOnRest_sit
+[2018.03.11-02.59.13:747][734]LogAnimationCompression: Recompressing (AnimSequence /Game/HaveASitPack/Animations/Chair/A_chair_armOnRest_sit.A_chair_armOnRest_sit) using current/default (AnimCompress_BitwiseCompressOnly_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.11-02.59.13:748][734]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/HaveASitPack/Animations/Chair/A_chair_femLegCross_01_stand.A_chair_femLegCross_01_stand
+[2018.03.11-02.59.13:749][734]LogAnimationCompression: Recompressing (AnimSequence /Game/HaveASitPack/Animations/Chair/A_chair_femLegCross_01_stand.A_chair_femLegCross_01_stand) using current/default (AnimCompress_BitwiseCompressOnly_23) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.11-02.59.13:751][734]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/HaveASitPack/Animations/Chair/A_chair_femLegCross_02_loop.A_chair_femLegCross_02_loop
+[2018.03.11-02.59.13:751][734]LogAnimationCompression: Recompressing (AnimSequence /Game/HaveASitPack/Animations/Chair/A_chair_femLegCross_02_loop.A_chair_femLegCross_02_loop) using current/default (AnimCompress_BitwiseCompressOnly_8) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.11-02.59.13:754][734]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/HaveASitPack/Animations/Chair/A_chair_femLegCross_02_sit.A_chair_femLegCross_02_sit
+[2018.03.11-02.59.13:754][734]LogAnimationCompression: Recompressing (AnimSequence /Game/HaveASitPack/Animations/Chair/A_chair_femLegCross_02_sit.A_chair_femLegCross_02_sit) using current/default (AnimCompress_BitwiseCompressOnly_8) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.11-02.59.13:756][734]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/HaveASitPack/Animations/Chair/A_chair_restHands_01_SideSit.A_chair_restHands_01_SideSit
+[2018.03.11-02.59.13:756][734]LogAnimationCompression: Recompressing (AnimSequence /Game/HaveASitPack/Animations/Chair/A_chair_restHands_01_SideSit.A_chair_restHands_01_SideSit) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.11-02.59.13:758][734]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/HaveASitPack/Animations/Chair/A_chair_restHands_01_sit.A_chair_restHands_01_sit
+[2018.03.11-02.59.13:758][734]LogAnimationCompression: Recompressing (AnimSequence /Game/HaveASitPack/Animations/Chair/A_chair_restHands_01_sit.A_chair_restHands_01_sit) using current/default (AnimCompress_BitwiseCompressOnly_16) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.11-02.59.13:760][734]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/HaveASitPack/Animations/Chair/A_chair_restHands_01_loop.A_chair_restHands_01_loop
+[2018.03.11-02.59.13:760][734]LogAnimationCompression: Recompressing (AnimSequence /Game/HaveASitPack/Animations/Chair/A_chair_restHands_01_loop.A_chair_restHands_01_loop) using current/default (AnimCompress_BitwiseCompressOnly_20) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.11-02.59.13:765][734]LogAIModule: Creating AISystem for world overview
+[2018.03.11-02.59.13:795][734]LogSlate: Took 0.000238 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.03.11-02.59.13:835][734]Cmd: MAP LOAD FILE="G:/Unreal engine/!!Motion set/SittingPack/Content/HaveASitPack/Maps/overview.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.03.11-02.59.13:835][734]LightingResults: New page: Lighting Build
+[2018.03.11-02.59.13:837][734]LoadErrors: New page: Loading map: overview.umap
+[2018.03.11-02.59.13:837][734]MapCheck: New page: Map Check
+[2018.03.11-02.59.13:837][734]LightingResults: New page: Lighting Build
+[2018.03.11-02.59.14:066][734]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.03.11-02.59.14:109][734]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.03.11-02.59.14:354][734]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 244.121ms to complete.
+[2018.03.11-02.59.14:355][734]LogFileHelpers: Loading map 'overview' took 0.521
+[2018.03.11-02.59.28:014][ 23]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.11-02.59.28:165][ 23]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.11-02.59.28:165][ 23]PIE: New page: PIE session: overview (Mar 11, 2018, 6:59:28 PM)
+[2018.03.11-02.59.28:165][ 23]LogPlayLevel: Creating play world package: /Game/HaveASitPack/Maps/UEDPIE_0_overview
+[2018.03.11-02.59.28:177][ 23]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011482s)
+[2018.03.11-02.59.28:178][ 23]LogAIModule: Creating AISystem for world overview
+[2018.03.11-02.59.28:178][ 23]LogPlayLevel: PIE: World Init took: (0.001070s)
+[2018.03.11-02.59.28:178][ 23]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/HaveASitPack/Maps/overview.overview to /Game/HaveASitPack/Maps/UEDPIE_0_overview.overview (0.012943s)
+[2018.03.11-02.59.28:262][ 23]LogInit: XAudio2 using '扬声器 (High Definition Audio 设备)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.11-02.59.28:285][ 23]LogInit: FAudioDevice initialized.
+[2018.03.11-02.59.28:332][ 23]LogLoad: Game class is 'GameModeBase'
+[2018.03.11-02.59.28:409][ 23]LogWorld: Bringing World /Game/HaveASitPack/Maps/UEDPIE_0_overview.overview up for play (max tick rate 0) at 2018.03.11-10.59.28
+[2018.03.11-02.59.28:420][ 23]LogWorld: Bringing up level for play took: 0.085780
+[2018.03.11-02.59.28:770][ 23]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 11 classes and 0 folders.
+[2018.03.11-02.59.28:772][ 23]PIE: Play in editor start time for /Game/HaveASitPack/Maps/UEDPIE_0_overview 0.202
+[2018.03.11-02.59.54:275][944]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Mannequin36)
+[2018.03.11-03.00.12:708][357]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.03.11-03.00.12:836][359]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.SittingPack
+[2018.03.11-03.00.12:836][359]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.03.11-03.00.12:836][359]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.18
+[2018.03.11-03.00.12:836][359]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.03.11-03.00.12:858][360]LogTemp: BranchPath = JERRY-SERVER/C/Program Files/Epic Games/UE_4.18/Engine/Binaries --- GameBranchPath = JERRY-SERVER/C/Program Files/Epic Games/UE_4.18/Engine/Binaries
+[2018.03.11-03.00.12:893][361]LogTemp: MATCHED-Provision:,File:,Cert:
+[2018.03.11-03.00.13:743][378]LogTexture: Display: Building textures: DummySpriteTexture (AutoDXT, 128X128)
+[2018.03.11-03.00.13:788][379]LogTexture: Display: Building textures: PreviewShadowIndicator (BGRA8, 512X512)
+[2018.03.11-03.00.16:212][431]LogSlate: Took 0.000217 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.11-03.00.25:537][595]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HaveASitPack/Maps/overview" FILE="G:/Unreal engine/!!Motion set/SittingPack/Content/HaveASitPack/Maps/overview.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.03.11-03.00.25:804][595]LogSavePackage: Save=229.21ms
+[2018.03.11-03.00.25:804][595]LogSavePackage: Moving 'G:/Unreal engine/!!Motion set/SittingPack/Saved/overview8BC624164CC89CE9A0BC049322E7F3DD.tmp' to 'G:/Unreal engine/!!Motion set/SittingPack/Content/HaveASitPack/Maps/overview.umap'
+[2018.03.11-03.00.25:811][595]LogSavePackage: Display: Finished SavePackage G:/Unreal engine/!!Motion set/SittingPack/Content/HaveASitPack/Maps/overview.umap
+[2018.03.11-03.00.25:826][595]LogFileHelpers: Saving map 'overview' took 0.620
+[2018.03.11-03.00.25:878][595]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.03.11-03.00.26:104][596]Cmd: QUIT_EDITOR
+[2018.03.11-03.00.26:770][596]LogExit: Preparing to exit.
+[2018.03.11-03.00.27:475][596]LogExit: Editor shut down
+[2018.03.11-03.00.27:483][596]LogExit: Transaction tracking system shut down
+[2018.03.11-03.00.27:624][596]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.03.11-03.00.27:624][596]LogDirectoryWatcher: A directory notification for 'G:/Unreal engine/!!Motion set/SittingPack/Content/' was aborted.
+[2018.03.11-03.00.27:624][596]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.03.11-03.00.27:624][596]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.03.11-03.00.27:624][596]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.03.11-03.00.27:624][596]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.03.11-03.00.27:624][596]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.03.11-03.00.27:684][596]LogExit: Object subsystem successfully closed.
+[2018.03.11-03.00.27:718][596]LogD3D11RHI: Shutdown
+[2018.03.11-03.00.27:718][596]LogD3D11RHI: CleanupD3DDevice
+[2018.03.11-03.00.27:721][596]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.03.11-03.00.27:815][596]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (562)
+[2018.03.11-03.00.27:815][596]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (560)
+[2018.03.11-03.00.27:815][596]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (558)
+[2018.03.11-03.00.27:815][596]LogModuleManager: Shutting down and abandoning module AddContentDialog (556)
+[2018.03.11-03.00.27:815][596]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2018.03.11-03.00.27:817][596]LogModuleManager: Shutting down and abandoning module WidgetCarousel (555)
+[2018.03.11-03.00.27:817][596]LogModuleManager: Shutting down and abandoning module EditorWidgets (552)
+[2018.03.11-03.00.27:817][596]LogModuleManager: Shutting down and abandoning module CollectionManager (550)
+[2018.03.11-03.00.27:817][596]LogDirectoryWatcher: A directory notification for 'G:/Unreal engine/!!Motion set/SittingPack/Content/Collections/' was aborted.
+[2018.03.11-03.00.27:817][596]LogDirectoryWatcher: A directory notification for 'G:/Unreal engine/!!Motion set/SittingPack/Content/Developers/Administrator/Collections/' was aborted.
+[2018.03.11-03.00.27:817][596]LogDirectoryWatcher: A directory notification for 'G:/Unreal engine/!!Motion set/SittingPack/Saved/Collections/' was aborted.
+[2018.03.11-03.00.27:817][596]LogModuleManager: Shutting down and abandoning module SceneOutliner (548)
+[2018.03.11-03.00.27:817][596]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (546)
+[2018.03.11-03.00.27:817][596]LogModuleManager: Shutting down and abandoning module StatsViewer (544)
+[2018.03.11-03.00.27:817][596]LogModuleManager: Shutting down and abandoning module FoliageEdit (542)
+[2018.03.11-03.00.27:817][596]LogModuleManager: Shutting down and abandoning module LandscapeEditor (540)
+[2018.03.11-03.00.27:817][596]LogModuleManager: Shutting down and abandoning module MeshPaintMode (538)
+[2018.03.11-03.00.27:817][596]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (536)
+[2018.03.11-03.00.27:818][596]LogModuleManager: Shutting down and abandoning module ActorPickerMode (534)
+[2018.03.11-03.00.27:818][596]LogModuleManager: Shutting down and abandoning module GeometryMode (532)
+[2018.03.11-03.00.27:818][596]LogModuleManager: Shutting down and abandoning module TextureAlignMode (530)
+[2018.03.11-03.00.27:818][596]LogModuleManager: Shutting down and abandoning module BspMode (528)
+[2018.03.11-03.00.27:818][596]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (526)
+[2018.03.11-03.00.27:818][596]LogModuleManager: Shutting down and abandoning module HardwareSurvey (524)
+[2018.03.11-03.00.27:818][596]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (522)
+[2018.03.11-03.00.27:818][596]LogModuleManager: Shutting down and abandoning module AutomationWorker (520)
+[2018.03.11-03.00.27:818][596]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (518)
+[2018.03.11-03.00.27:818][596]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (516)
+[2018.03.11-03.00.27:818][596]LogModuleManager: Shutting down and abandoning module PlacementMode (515)
+[2018.03.11-03.00.27:818][596]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (512)
+[2018.03.11-03.00.27:818][596]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (510)
+[2018.03.11-03.00.27:818][596]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (508)
+[2018.03.11-03.00.27:818][596]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (506)
+[2018.03.11-03.00.27:818][596]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (504)
+[2018.03.11-03.00.27:818][596]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (502)
+[2018.03.11-03.00.27:818][596]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (500)
+[2018.03.11-03.00.27:818][596]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (498)
+[2018.03.11-03.00.27:818][596]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (496)
+[2018.03.11-03.00.27:818][596]LogModuleManager: Shutting down and abandoning module CharacterAI (494)
+[2018.03.11-03.00.27:818][596]LogModuleManager: Shutting down and abandoning module AudioCapture (492)
+[2018.03.11-03.00.27:818][596]LogModuleManager: Shutting down and abandoning module SequenceRecorder (491)
+[2018.03.11-03.00.27:819][596]LogModuleManager: Shutting down and abandoning module SmartSnapping (488)
+[2018.03.11-03.00.27:819][596]LogModuleManager: Shutting down and abandoning module SessionServices (486)
+[2018.03.11-03.00.27:819][596]LogModuleManager: Shutting down and abandoning module ViewportSnapping (484)
+[2018.03.11-03.00.27:819][596]LogModuleManager: Shutting down and abandoning module ViewportInteraction (482)
+[2018.03.11-03.00.27:819][596]LogModuleManager: Shutting down and abandoning module ClothPainter (480)
+[2018.03.11-03.00.27:819][596]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (479)
+[2018.03.11-03.00.27:819][596]LogModuleManager: Shutting down and abandoning module LogVisualizer (476)
+[2018.03.11-03.00.27:819][596]LogModuleManager: Shutting down and abandoning module IntroTutorials (474)
+[2018.03.11-03.00.27:819][596]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (473)
+[2018.03.11-03.00.27:819][596]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (470)
+[2018.03.11-03.00.27:819][596]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (468)
+[2018.03.11-03.00.27:819][596]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (466)
+[2018.03.11-03.00.27:819][596]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (465)
+[2018.03.11-03.00.28:255][596]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (462)
+[2018.03.11-03.00.28:255][596]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (460)
+[2018.03.11-03.00.28:255][596]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (458)
+[2018.03.11-03.00.28:255][596]LogModuleManager: Shutting down and abandoning module InputBindingEditor (456)
+[2018.03.11-03.00.28:255][596]LogModuleManager: Shutting down and abandoning module MergeActors (454)
+[2018.03.11-03.00.28:255][596]LogModuleManager: Shutting down and abandoning module SizeMap (452)
+[2018.03.11-03.00.28:255][596]LogModuleManager: Shutting down and abandoning module TreeMap (450)
+[2018.03.11-03.00.28:255][596]LogModuleManager: Shutting down and abandoning module ReferenceViewer (448)
+[2018.03.11-03.00.28:255][596]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (446)
+[2018.03.11-03.00.28:255][596]LogModuleManager: Shutting down and abandoning module LocalizationService (445)
+[2018.03.11-03.00.28:255][596]LogModuleManager: Shutting down and abandoning module HardwareTargeting (442)
+[2018.03.11-03.00.28:255][596]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (440)
+[2018.03.11-03.00.28:255][596]LogModuleManager: Shutting down and abandoning module UndoHistory (438)
+[2018.03.11-03.00.28:255][596]LogModuleManager: Shutting down and abandoning module XmlParser (436)
+[2018.03.11-03.00.28:255][596]LogModuleManager: Shutting down and abandoning module Blutility (434)
+[2018.03.11-03.00.28:255][596]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (432)
+[2018.03.11-03.00.28:255][596]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (431)
+[2018.03.11-03.00.28:256][596]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (428)
+[2018.03.11-03.00.28:256][596]LogModuleManager: Shutting down and abandoning module SettingsEditor (426)
+[2018.03.11-03.00.28:256][596]LogModuleManager: Shutting down and abandoning module ProjectLauncher (424)
+[2018.03.11-03.00.28:256][596]LogModuleManager: Shutting down and abandoning module SessionFrontend (422)
+[2018.03.11-03.00.28:256][596]LogModuleManager: Shutting down and abandoning module ProfilerClient (420)
+[2018.03.11-03.00.28:256][596]LogModuleManager: Shutting down and abandoning module DeviceManager (418)
+[2018.03.11-03.00.28:256][596]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (417)
+[2018.03.11-03.00.28:299][596]LogModuleManager: Shutting down and abandoning module AutomationController (414)
+[2018.03.11-03.00.28:299][596]LogModuleManager: Shutting down and abandoning module AutomationWindow (412)
+[2018.03.11-03.00.28:299][596]LogModuleManager: Shutting down and abandoning module Layers (410)
+[2018.03.11-03.00.28:299][596]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (408)
+[2018.03.11-03.00.28:299][596]LogModuleManager: Shutting down and abandoning module DetailCustomizations (406)
+[2018.03.11-03.00.28:299][596]LogModuleManager: Shutting down and abandoning module PackagesDialog (404)
+[2018.03.11-03.00.28:300][596]LogModuleManager: Shutting down and abandoning module Persona (402)
+[2018.03.11-03.00.28:300][596]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (401)
+[2018.03.11-03.00.28:300][596]LogModuleManager: Shutting down and abandoning module AnimGraph (399)
+[2018.03.11-03.00.28:300][596]LogModuleManager: Shutting down and abandoning module Kismet (396)
+[2018.03.11-03.00.28:300][596]LogModuleManager: Shutting down and abandoning module ClassViewer (394)
+[2018.03.11-03.00.28:300][596]LogModuleManager: Shutting down and abandoning module Toolbox (392)
+[2018.03.11-03.00.28:300][596]LogModuleManager: Shutting down and abandoning module ModuleUI (390)
+[2018.03.11-03.00.28:300][596]LogModuleManager: Shutting down and abandoning module MovieSceneTools (388)
+[2018.03.11-03.00.28:300][596]LogModuleManager: Shutting down and abandoning module OutputLog (386)
+[2018.03.11-03.00.28:300][596]LogModuleManager: Shutting down and abandoning module GammaUI (384)
+[2018.03.11-03.00.28:301][596]LogModuleManager: Shutting down and abandoning module Documentation (382)
+[2018.03.11-03.00.28:301][596]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (380)
+[2018.03.11-03.00.28:301][596]LogModuleManager: Shutting down and abandoning module MovieScene (378)
+[2018.03.11-03.00.28:301][596]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (376)
+[2018.03.11-03.00.28:301][596]LogModuleManager: Shutting down and abandoning module LauncherPlatform (374)
+[2018.03.11-03.00.28:301][596]LogModuleManager: Shutting down and abandoning module AnalyticsET (372)
+[2018.03.11-03.00.28:301][596]LogModuleManager: Shutting down and abandoning module PortalServices (370)
+[2018.03.11-03.00.28:301][596]LogModuleManager: Shutting down and abandoning module PortalRpc (368)
+[2018.03.11-03.00.28:301][596]LogModuleManager: Shutting down and abandoning module MessagingRpc (366)
+[2018.03.11-03.00.28:301][596]LogModuleManager: Shutting down and abandoning module AIModule (364)
+[2018.03.11-03.00.28:301][596]LogModuleManager: Shutting down and abandoning module GameplayDebugger (363)
+[2018.03.11-03.00.28:301][596]LogModuleManager: Shutting down and abandoning module AITestSuite (361)
+[2018.03.11-03.00.28:301][596]LogModuleManager: Shutting down and abandoning module DesktopPlatform (358)
+[2018.03.11-03.00.28:301][596]LogModuleManager: Shutting down and abandoning module ProfilerService (356)
+[2018.03.11-03.00.28:404][596]LogModuleManager: Shutting down and abandoning module TaskGraph (354)
+[2018.03.11-03.00.28:404][596]LogModuleManager: Shutting down and abandoning module SubstanceLiveLink (352)
+[2018.03.11-03.00.28:404][596]LogModuleManager: Shutting down and abandoning module SubstanceSource (350)
+[2018.03.11-03.00.28:406][596]LogModuleManager: Shutting down and abandoning module SubstanceEditor (348)
+[2018.03.11-03.00.28:406][596]LogModuleManager: Shutting down and abandoning module SteamVRController (346)
+[2018.03.11-03.00.28:406][596]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (344)
+[2018.03.11-03.00.28:406][596]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (342)
+[2018.03.11-03.00.28:406][596]LogModuleManager: Shutting down and abandoning module OculusInput (340)
+[2018.03.11-03.00.28:406][596]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (338)
+[2018.03.11-03.00.28:406][596]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (336)
+[2018.03.11-03.00.28:406][596]LogModuleManager: Shutting down and abandoning module CableComponent (334)
+[2018.03.11-03.00.28:407][596]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (332)
+[2018.03.11-03.00.28:407][596]LogModuleManager: Shutting down and abandoning module AndroidPermission (330)
+[2018.03.11-03.00.28:407][596]LogModuleManager: Shutting down and abandoning module ActorSequence (326)
+[2018.03.11-03.00.28:407][596]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (324)
+[2018.03.11-03.00.28:407][596]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (322)
+[2018.03.11-03.00.28:407][596]LogModuleManager: Shutting down and abandoning module MediaCompositing (320)
+[2018.03.11-03.00.28:407][596]LogModuleManager: Shutting down and abandoning module HTML5Networking (318)
+[2018.03.11-03.00.28:407][596]LogModuleManager: Shutting down and abandoning module AlembicImporter (316)
+[2018.03.11-03.00.28:407][596]LogModuleManager: Shutting down and abandoning module AlembicLibrary (315)
+[2018.03.11-03.00.28:407][596]LogModuleManager: Shutting down and abandoning module GeometryCache (314)
+[2018.03.11-03.00.28:407][596]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (313)
+[2018.03.11-03.00.28:407][596]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (308)
+[2018.03.11-03.00.28:407][596]LogModuleManager: Shutting down and abandoning module PluginBrowser (306)
+[2018.03.11-03.00.28:407][596]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (304)
+[2018.03.11-03.00.28:407][596]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (302)
+[2018.03.11-03.00.28:407][596]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (300)
+[2018.03.11-03.00.28:407][596]LogModuleManager: Shutting down and abandoning module UObjectPlugin (298)
+[2018.03.11-03.00.28:407][596]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (296)
+[2018.03.11-03.00.28:407][596]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (294)
+[2018.03.11-03.00.28:407][596]LogModuleManager: Shutting down and abandoning module GitSourceControl (292)
+[2018.03.11-03.00.28:407][596]LogModuleManager: Shutting down and abandoning module SourceControl (291)
+[2018.03.11-03.00.28:407][596]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (288)
+[2018.03.11-03.00.28:407][596]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (286)
+[2018.03.11-03.00.28:407][596]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (284)
+[2018.03.11-03.00.28:407][596]LogModuleManager: Shutting down and abandoning module Paper2DEditor (282)
+[2018.03.11-03.00.28:408][596]LogModuleManager: Shutting down and abandoning module MeshPaint (281)
+[2018.03.11-03.00.28:408][596]LogModuleManager: Shutting down and abandoning module LevelEditor (279)
+[2018.03.11-03.00.28:409][596]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (278)
+[2018.03.11-03.00.28:409][596]LogModuleManager: Shutting down and abandoning module MainFrame (276)
+[2018.03.11-03.00.28:409][596]LogModuleManager: Shutting down and abandoning module HotReload (275)
+[2018.03.11-03.00.28:410][596]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (270)
+[2018.03.11-03.00.28:410][596]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (268)
+[2018.03.11-03.00.28:410][596]LogModuleManager: Shutting down and abandoning module PhysXVehicles (266)
+[2018.03.11-03.00.28:410][596]LogModuleManager: Shutting down and abandoning module OculusEditor (264)
+[2018.03.11-03.00.28:410][596]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (262)
+[2018.03.11-03.00.28:410][596]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (260)
+[2018.03.11-03.00.28:410][596]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (258)
+[2018.03.11-03.00.28:410][596]LogModuleManager: Shutting down and abandoning module UdpMessaging (256)
+[2018.03.11-03.00.28:512][596]LogModuleManager: Shutting down and abandoning module TcpMessaging (254)
+[2018.03.11-03.00.28:613][596]LogModuleManager: Shutting down and abandoning module SubstanceCore (252)
+[2018.03.11-03.00.28:613][596]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2018.03.11-03.00.28:614][596]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2018.03.11-03.00.28:614][596]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2018.03.11-03.00.28:614][596]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2018.03.11-03.00.28:614][596]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2018.03.11-03.00.28:614][596]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2018.03.11-03.00.28:615][596]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2018.03.11-03.00.28:615][596]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2018.03.11-03.00.28:615][596]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2018.03.11-03.00.28:615][596]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2018.03.11-03.00.28:618][596]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2018.03.11-03.00.28:618][596]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2018.03.11-03.00.28:618][596]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2018.03.11-03.00.28:618][596]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2018.03.11-03.00.28:618][596]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2018.03.11-03.00.28:618][596]LogModuleManager: Shutting down and abandoning module Media (221)
+[2018.03.11-03.00.28:624][596]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2018.03.11-03.00.28:624][596]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2018.03.11-03.00.28:624][596]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2018.03.11-03.00.28:624][596]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2018.03.11-03.00.28:624][596]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2018.03.11-03.00.28:624][596]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2018.03.11-03.00.28:624][596]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2018.03.11-03.00.28:624][596]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2018.03.11-03.00.28:624][596]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2018.03.11-03.00.28:624][596]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2018.03.11-03.00.28:624][596]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2018.03.11-03.00.28:624][596]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2018.03.11-03.00.28:624][596]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2018.03.11-03.00.28:624][596]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2018.03.11-03.00.28:624][596]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2018.03.11-03.00.28:624][596]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2018.03.11-03.00.28:630][596]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2018.03.11-03.00.28:630][596]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2018.03.11-03.00.28:630][596]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2018.03.11-03.00.28:630][596]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2018.03.11-03.00.28:630][596]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2018.03.11-03.00.28:630][596]LogModuleManager: Shutting down and abandoning module Core (172)
+[2018.03.11-03.00.28:630][596]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2018.03.11-03.00.28:630][596]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2018.03.11-03.00.28:632][596]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.03.11-03.00.28:632][596]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2018.03.11-03.00.28:632][596]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2018.03.11-03.00.28:632][596]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2018.03.11-03.00.28:632][596]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2018.03.11-03.00.28:632][596]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2018.03.11-03.00.28:632][596]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2018.03.11-03.00.28:632][596]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2018.03.11-03.00.28:632][596]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2018.03.11-03.00.28:649][596]LogDerivedDataCache: Shutdown
+[2018.03.11-03.00.28:649][596]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2018.03.11-03.00.28:650][596]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2018.03.11-03.00.28:650][596]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2018.03.11-03.00.28:650][596]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2018.03.11-03.00.28:650][596]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2018.03.11-03.00.28:650][596]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2018.03.11-03.00.28:650][596]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2018.03.11-03.00.28:650][596]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2018.03.11-03.00.28:650][596]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2018.03.11-03.00.28:650][596]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2018.03.11-03.00.28:650][596]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2018.03.11-03.00.28:650][596]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2018.03.11-03.00.28:650][596]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2018.03.11-03.00.28:650][596]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2018.03.11-03.00.28:650][596]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2018.03.11-03.00.28:650][596]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2018.03.11-03.00.28:650][596]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2018.03.11-03.00.28:650][596]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2018.03.11-03.00.28:650][596]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2018.03.11-03.00.28:650][596]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2018.03.11-03.00.28:650][596]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2018.03.11-03.00.28:650][596]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2018.03.11-03.00.28:650][596]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2018.03.11-03.00.28:650][596]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2018.03.11-03.00.28:650][596]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2018.03.11-03.00.28:650][596]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2018.03.11-03.00.28:650][596]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2018.03.11-03.00.28:650][596]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2018.03.11-03.00.28:650][596]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2018.03.11-03.00.28:650][596]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2018.03.11-03.00.28:650][596]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2018.03.11-03.00.28:650][596]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2018.03.11-03.00.28:650][596]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2018.03.11-03.00.28:650][596]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2018.03.11-03.00.28:651][596]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2018.03.11-03.00.28:651][596]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2018.03.11-03.00.28:651][596]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2018.03.11-03.00.28:651][596]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2018.03.11-03.00.28:651][596]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2018.03.11-03.00.28:651][596]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2018.03.11-03.00.28:651][596]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2018.03.11-03.00.28:651][596]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2018.03.11-03.00.28:651][596]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2018.03.11-03.00.28:651][596]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2018.03.11-03.00.28:651][596]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2018.03.11-03.00.28:651][596]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2018.03.11-03.00.28:651][596]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2018.03.11-03.00.28:651][596]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2018.03.11-03.00.28:651][596]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.03.11-03.00.28:651][596]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.03.11-03.00.28:651][596]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.03.11-03.00.28:651][596]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.03.11-03.00.28:651][596]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.03.11-03.00.28:651][596]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.03.11-03.00.28:651][596]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B03DBCAC8-4E43-0B63-916F-CA99E2399D9B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=de6e90ab4cfcf9b88ddc5c91946ffd37%7Ccff4611aa39041449c37f4c33b64fe13%7C477d4cd1-de1d-4c79-be00-638f336c9ebe&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.03.11-03.00.28:680][596]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.03.11-03.00.28:681][596]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.03.11-03.00.28:681][596]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.03.11-03.00.28:681][596]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.03.11-03.00.28:681][596]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.03.11-03.00.28:681][596]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.03.11-03.00.28:681][596]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.03.11-03.00.28:681][596]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.03.11-03.00.28:683][596]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.03.11-03.00.28:683][596]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.03.11-03.00.28:683][596]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.03.11-03.00.28:683][596]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.03.11-03.00.28:683][596]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.03.11-03.00.28:683][596]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.03.11-03.00.28:683][596]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.03.11-03.00.28:683][596]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.03.11-03.00.28:683][596]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.03.11-03.00.28:683][596]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.03.11-03.00.28:683][596]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.03.11-03.00.28:698][596]LogExit: Exiting.
+[2018.03.11-03.00.28:710][596]Log file closed, 03/11/18 11:00:28
