@@ -75,3 +75,5 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+test/test/Content/SwordAnimsetPro/SourceFiles/SourceFiles.zip
+test/test/Content/MovementAnimsetPro/SourceFiles/SourceFiles.zip
