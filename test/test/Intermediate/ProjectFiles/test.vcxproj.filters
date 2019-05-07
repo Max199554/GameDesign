@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\test.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{0EBCAD49-D8E0-4826-A486-3D2C444F6D86}</UniqueIdentifier>
+      <UniqueIdentifier>{09C134AF-AFB1-4054-A346-005DB6D3BD18}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\test.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{A675F602-598B-4C7D-9941-1BD81CCE4AD2}</UniqueIdentifier>
+      <UniqueIdentifier>{32398FCD-5016-404C-81DB-0882A7B18A00}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -30,12 +30,24 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\test">
-      <UniqueIdentifier>{AE67349A-1CAA-48B6-BA7F-CDE5C8F1B535}</UniqueIdentifier>
+      <UniqueIdentifier>{C371CB71-9407-4DAD-9078-77754A323ED6}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\test\EnemyBehaviour.cpp">
+      <Filter>Source\test</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\test\EnemyBehaviour.h">
+      <Filter>Source\test</Filter>
+    </ClInclude>
     <ClCompile Include="..\..\Source\test\MyPawn.cpp">
       <Filter>Source\test</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\test\MyPawn.h">
+      <Filter>Source\test</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\test\MyStealthController.cpp">
+      <Filter>Source\test</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\test\MyStealthController.h">
       <Filter>Source\test</Filter>
     </ClInclude>
     <None Include="..\..\Source\test\test.Build.cs">
@@ -49,12 +61,12 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\Source\test\MyStealthController.h">
+    <ClInclude Include="..\..\Source\test\PlayerBehaviour.h">
       <Filter>Source\test</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\Source\test\MyStealthController.cpp">
+    <ClCompile Include="..\..\Source\test\PlayerBehaviour.cpp">
       <Filter>Source\test</Filter>
     </ClCompile>
   </ItemGroup>

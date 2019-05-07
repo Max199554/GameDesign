@@ -507,12 +507,16 @@
     <None Include="..\..\Config\DefaultEngine.ini" />
     <None Include="..\..\Config\DefaultGame.ini" />
     <None Include="..\..\Config\DefaultInput.ini" />
+    <ClCompile Include="..\..\Source\test\EnemyBehaviour.cpp" />
+    <ClInclude Include="..\..\Source\test\EnemyBehaviour.h" />
     <ClCompile Include="..\..\Source\test\MyPawn.cpp" />
     <ClInclude Include="..\..\Source\test\MyPawn.h" />
-    <None Include="..\..\Source\test\test.Build.cs" />
     <ClCompile Include="..\..\Source\test\MyStealthController.cpp" />
-    <ClCompile Include="..\..\Source\test\test.cpp" />
     <ClInclude Include="..\..\Source\test\MyStealthController.h" />
+    <None Include="..\..\Source\test\test.Build.cs" />
+    <ClCompile Include="..\..\Source\test\PlayerBehaviour.cpp" />
+    <ClCompile Include="..\..\Source\test\test.cpp" />
+    <ClInclude Include="..\..\Source\test\PlayerBehaviour.h" />
     <ClInclude Include="..\..\Source\test\test.h" />
   </ItemGroup>
   <PropertyGroup>
