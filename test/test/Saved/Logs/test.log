@@ -838,3 +838,150 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.05.07-22.54.14:215][429]LogSlate: Window 'A_chair_armOnRest_loop' being destroyed
 [2019.05.07-22.55.19:213][940]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/Main" FILE="../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
 [2019.05.07-22.55.22:270][940]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/MainD8EF060A4CDE525C9529FCA770C166FC.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Main.umap'
+[2019.05.07-23.00.03:213][918]LogFactory: FactoryCreateFile: FileMediaSource with WmfFileMediaSourceFactory (0 0 E:\Uni\SP2\Comp\Sound effects\GameAudio\Sounds\ArmourHitSheilHitSound.mp3)
+[2019.05.07-23.00.03:235][918]LogFactory: FactoryCreateFile: FileMediaSource with WmfFileMediaSourceFactory (0 0 E:\Uni\SP2\Comp\Sound effects\GameAudio\Sounds\ArmourHitSheilHitSound2.mp3)
+[2019.05.07-23.00.03:247][918]LogFactory: FactoryCreateFile: FileMediaSource with WmfFileMediaSourceFactory (0 0 E:\Uni\SP2\Comp\Sound effects\GameAudio\Sounds\ClashSound1.mp3)
+[2019.05.07-23.00.03:260][918]LogFactory: FactoryCreateFile: FileMediaSource with WmfFileMediaSourceFactory (0 0 E:\Uni\SP2\Comp\Sound effects\GameAudio\Sounds\ClashSound2.mp3)
+[2019.05.07-23.00.03:281][918]LogFactory: FactoryCreateFile: FileMediaSource with WmfFileMediaSourceFactory (0 0 E:\Uni\SP2\Comp\Sound effects\GameAudio\Sounds\ClashSound3.mp3)
+[2019.05.07-23.00.03:305][918]LogFactory: FactoryCreateFile: FileMediaSource with WmfFileMediaSourceFactory (0 0 E:\Uni\SP2\Comp\Sound effects\GameAudio\Sounds\ClashSound4.mp3)
+[2019.05.07-23.00.03:331][918]LogFactory: FactoryCreateFile: FileMediaSource with WmfFileMediaSourceFactory (0 0 E:\Uni\SP2\Comp\Sound effects\GameAudio\Sounds\DrawSound.mp3)
+[2019.05.07-23.00.03:354][918]LogFactory: FactoryCreateFile: FileMediaSource with WmfFileMediaSourceFactory (0 0 E:\Uni\SP2\Comp\Sound effects\GameAudio\Sounds\DrawSound2.mp3)
+[2019.05.07-23.00.03:380][918]LogFactory: FactoryCreateFile: FileMediaSource with WmfFileMediaSourceFactory (0 0 E:\Uni\SP2\Comp\Sound effects\GameAudio\Sounds\EquipSound.mp3)
+[2019.05.07-23.00.03:409][918]LogFactory: FactoryCreateFile: FileMediaSource with WmfFileMediaSourceFactory (0 0 E:\Uni\SP2\Comp\Sound effects\GameAudio\Sounds\GrabDrawSound.mp3)
+[2019.05.07-23.00.03:421][918]LogFactory: FactoryCreateFile: FileMediaSource with WmfFileMediaSourceFactory (0 0 E:\Uni\SP2\Comp\Sound effects\GameAudio\Sounds\GrassBootStep.mp3)
+[2019.05.07-23.00.08:023][ 34]LogAssetEditorManager: Opening Asset editor for FileMediaSource /Game/Assignment/Audio/Sounds/ArmourHitSheilHitSound.ArmourHitSheilHitSound
+[2019.05.07-23.00.12:336][163]LogSlate: Window 'ArmourHitSheilHitSound* - Generic Asset Editor' being destroyed
+[2019.05.07-23.00.12:361][163]LogSlate: Window 'ArmourHitSheilHitSound* - Generic Asset Editor' being destroyed
+[2019.05.07-23.00.24:447][559]LogSlate: Window 'Delete Assets' being destroyed
+[2019.05.07-23.00.30:648][706]LogSlate: Window 'Delete Assets' being destroyed
+[2019.05.07-23.00.36:142][811]LogSlate: Window 'Delete Assets' being destroyed
+[2019.05.07-23.00.42:272][962]LogSlate: Window 'Delete Assets' being destroyed
+[2019.05.07-23.00.48:598][ 91]LogSlate: Window 'Delete Assets' being destroyed
+[2019.05.07-23.00.54:189][202]LogSlate: Window 'Delete Assets' being destroyed
+[2019.05.07-23.00.59:498][322]LogSlate: Window 'Delete Assets' being destroyed
+[2019.05.07-23.01.05:346][437]LogSlate: Window 'Delete Assets' being destroyed
+[2019.05.07-23.01.11:064][574]LogSlate: Window 'Delete Assets' being destroyed
+[2019.05.07-23.01.16:990][692]LogSlate: Window 'Delete Assets' being destroyed
+[2019.05.07-23.01.23:654][861]LogSlate: Window 'Delete Assets' being destroyed
+[2019.05.07-23.02.41:764][295]LogFactory: FactoryCreateFile: FileMediaSource with WmfFileMediaSourceFactory (0 0 E:/Uni/SP2/Comp/Sound effects/GameAudio/Sounds/GrassBootStep.mp3)
+[2019.05.07-23.02.48:931][482]LogSlate: Window 'Delete Assets' being destroyed
+[2019.05.07-23.04.46:549][915]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:\Uni\ArmourHitSheilHitSound\ArmourHitSheilHitSound.wav)
+[2019.05.07-23.04.46:594][915]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:\Uni\ArmourHitSheilHitSound\ArmourHitSheilHitSound2.wav)
+[2019.05.07-23.04.46:643][915]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:\Uni\ArmourHitSheilHitSound\ClashSound1.wav)
+[2019.05.07-23.04.46:666][915]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:\Uni\ArmourHitSheilHitSound\ClashSound2.wav)
+[2019.05.07-23.04.46:694][915]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:\Uni\ArmourHitSheilHitSound\ClashSound3.wav)
+[2019.05.07-23.04.46:715][915]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:\Uni\ArmourHitSheilHitSound\ClashSound4.wav)
+[2019.05.07-23.05.02:959][134]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:\Uni\DrawSound\DrawSound.wav)
+[2019.05.07-23.05.02:978][134]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:\Uni\DrawSound\DrawSound2.wav)
+[2019.05.07-23.05.02:997][134]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:\Uni\DrawSound\EquipSound.wav)
+[2019.05.07-23.05.03:016][134]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:\Uni\DrawSound\GrabDrawSound.wav)
+[2019.05.07-23.05.03:036][134]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:\Uni\DrawSound\GrassBootStep.wav)
+[2019.05.07-23.05.08:735][289]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/Main" FILE="../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.05.07-23.05.12:622][289]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Main4D8C205847CA6F04F7D12F9FBD72FD23.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Main.umap'
+[2019.05.07-23.05.14:556][341]LogAssetEditorManager: Opening Asset editor for SoundWave /Game/Assignment/Audio/Sounds/ArmourHitSheilHitSound.ArmourHitSheilHitSound
+[2019.05.07-23.05.22:011][561]LogSlate: Window 'ArmourHitSheilHitSound* - Generic Asset Editor' being destroyed
+[2019.05.07-23.05.22:053][561]LogSlate: Window 'ArmourHitSheilHitSound* - Generic Asset Editor' being destroyed
+[2019.05.07-23.05.53:726][250]LogAssetEditorManager: Opening Asset editor for SoundCue /Game/Assignment/Audio/Sounds/Clash_Cue.Clash_Cue
+[2019.05.07-23.05.56:477][316]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave ClashSound1...
+[2019.05.07-23.05.56:568][316]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 170496 while cooking SoundWave /Game/Assignment/Audio/Sounds/ClashSound1.ClashSound1.
+[2019.05.07-23.06.04:936][544]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Clash_CueD7A7AD944E61EB456F37EC99A9BDF832.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Audio/Sounds/Clash_Cue.uasset'
+[2019.05.07-23.06.08:605][650]LogSlate: Window 'Clash_Cue' being destroyed
+[2019.05.07-23.06.08:645][650]LogSlate: Window 'Clash_Cue' being destroyed
+[2019.05.07-23.06.35:704][ 44]LogAssetEditorManager: Opening Asset editor for SoundWave /Game/Assignment/Audio/Sounds/ClashSound2.ClashSound2
+[2019.05.07-23.06.39:795][161]LogSlate: Window 'ClashSound2* - Generic Asset Editor' being destroyed
+[2019.05.07-23.06.39:824][161]LogSlate: Window 'ClashSound2* - Generic Asset Editor' being destroyed
+[2019.05.07-23.11.37:606][303]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.07-23.15.09:842][847]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Assignment/Main' took 0.347
+[2019.05.07-23.15.09:875][847]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assignment/Audio/Sounds/ArmourHitSheilHitSound] ([1] browsable assets)...
+[2019.05.07-23.15.09:896][847]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assignment/Audio/Sounds/ArmourHitSheilHitSound.ArmourHitSheilHitSound]
+[2019.05.07-23.15.09:897][847]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assignment/Audio/Sounds/ArmourHitSheilHitSound]
+[2019.05.07-23.15.10:017][847]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/ArmourHitSheilHitSound_Auto1A01CC6C540D05B5428795B82A4051E17.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Autosaves/Game/Assignment/Audio/Sounds/ArmourHitSheilHitSound_Auto1.uasset'
+[2019.05.07-23.15.10:026][847]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assignment/Audio/Sounds/ArmourHitSheilHitSound2] ([1] browsable assets)...
+[2019.05.07-23.15.10:049][847]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assignment/Audio/Sounds/ArmourHitSheilHitSound2.ArmourHitSheilHitSound2]
+[2019.05.07-23.15.10:049][847]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assignment/Audio/Sounds/ArmourHitSheilHitSound2]
+[2019.05.07-23.15.10:141][847]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/ArmourHitSheilHitSound2_Auto197B300464749809620EBC2ACB99516F9.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Autosaves/Game/Assignment/Audio/Sounds/ArmourHitSheilHitSound2_Auto1.uasset'
+[2019.05.07-23.15.10:145][847]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assignment/Audio/Sounds/ClashSound1] ([1] browsable assets)...
+[2019.05.07-23.15.10:167][847]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assignment/Audio/Sounds/ClashSound1.ClashSound1]
+[2019.05.07-23.15.10:167][847]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assignment/Audio/Sounds/ClashSound1]
+[2019.05.07-23.15.10:241][847]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/ClashSound1_Auto1A679A2714E4AD2CBD4F3D1B140A03180.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Autosaves/Game/Assignment/Audio/Sounds/ClashSound1_Auto1.uasset'
+[2019.05.07-23.15.10:248][847]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assignment/Audio/Sounds/ClashSound2] ([1] browsable assets)...
+[2019.05.07-23.15.10:294][847]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assignment/Audio/Sounds/ClashSound2.ClashSound2]
+[2019.05.07-23.15.10:294][847]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assignment/Audio/Sounds/ClashSound2]
+[2019.05.07-23.15.10:390][847]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/ClashSound2_Auto19DDF1C4540A92AA04CCF4C816509152C.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Autosaves/Game/Assignment/Audio/Sounds/ClashSound2_Auto1.uasset'
+[2019.05.07-23.15.10:395][847]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assignment/Audio/Sounds/ClashSound3] ([1] browsable assets)...
+[2019.05.07-23.15.10:431][847]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assignment/Audio/Sounds/ClashSound3.ClashSound3]
+[2019.05.07-23.15.10:431][847]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assignment/Audio/Sounds/ClashSound3]
+[2019.05.07-23.15.10:493][847]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/ClashSound3_Auto1D09131E44A2D9D2DC149808A7360BAE8.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Autosaves/Game/Assignment/Audio/Sounds/ClashSound3_Auto1.uasset'
+[2019.05.07-23.15.10:497][847]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assignment/Audio/Sounds/ClashSound4] ([1] browsable assets)...
+[2019.05.07-23.15.10:521][847]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assignment/Audio/Sounds/ClashSound4.ClashSound4]
+[2019.05.07-23.15.10:521][847]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assignment/Audio/Sounds/ClashSound4]
+[2019.05.07-23.15.10:574][847]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/ClashSound4_Auto15B4D26DD4DD8DC9A38FF9C907BF63922.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Autosaves/Game/Assignment/Audio/Sounds/ClashSound4_Auto1.uasset'
+[2019.05.07-23.15.10:578][847]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assignment/Audio/Sounds/DrawSound] ([1] browsable assets)...
+[2019.05.07-23.15.10:595][847]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assignment/Audio/Sounds/DrawSound.DrawSound]
+[2019.05.07-23.15.10:595][847]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assignment/Audio/Sounds/DrawSound]
+[2019.05.07-23.15.10:642][847]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/DrawSound_Auto15F9CF45240F8C6260AA552BFA6C235A9.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Autosaves/Game/Assignment/Audio/Sounds/DrawSound_Auto1.uasset'
+[2019.05.07-23.15.10:656][847]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assignment/Audio/Sounds/DrawSound2] ([1] browsable assets)...
+[2019.05.07-23.15.10:670][847]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assignment/Audio/Sounds/DrawSound2.DrawSound2]
+[2019.05.07-23.15.10:670][847]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assignment/Audio/Sounds/DrawSound2]
+[2019.05.07-23.15.10:729][847]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/DrawSound2_Auto1E69CF8AB4514FB2653A678B043FE209B.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Autosaves/Game/Assignment/Audio/Sounds/DrawSound2_Auto1.uasset'
+[2019.05.07-23.15.10:741][847]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assignment/Audio/Sounds/EquipSound] ([1] browsable assets)...
+[2019.05.07-23.15.10:760][847]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assignment/Audio/Sounds/EquipSound.EquipSound]
+[2019.05.07-23.15.10:760][847]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assignment/Audio/Sounds/EquipSound]
+[2019.05.07-23.15.10:828][847]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/EquipSound_Auto1CDC845754827352E15AD5BA1E06866C5.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Autosaves/Game/Assignment/Audio/Sounds/EquipSound_Auto1.uasset'
+[2019.05.07-23.15.10:833][847]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assignment/Audio/Sounds/GrabDrawSound] ([1] browsable assets)...
+[2019.05.07-23.15.10:857][847]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assignment/Audio/Sounds/GrabDrawSound.GrabDrawSound]
+[2019.05.07-23.15.10:857][847]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assignment/Audio/Sounds/GrabDrawSound]
+[2019.05.07-23.15.10:929][847]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/GrabDrawSound_Auto19C95A6C446EA3CDF4AF030A55B7301F0.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Autosaves/Game/Assignment/Audio/Sounds/GrabDrawSound_Auto1.uasset'
+[2019.05.07-23.15.10:942][847]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assignment/Audio/Sounds/GrassBootStep] ([1] browsable assets)...
+[2019.05.07-23.15.10:958][847]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assignment/Audio/Sounds/GrassBootStep.GrassBootStep]
+[2019.05.07-23.15.10:958][847]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assignment/Audio/Sounds/GrassBootStep]
+[2019.05.07-23.15.11:010][847]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/GrassBootStep_Auto1A20F2FC64880CFCBA69ECC82035A66AD.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Autosaves/Game/Assignment/Audio/Sounds/GrassBootStep_Auto1.uasset'
+[2019.05.07-23.15.11:024][847]LogFileHelpers: Auto-saving content packages took 1.159
+[2019.05.07-23.23.55:853][ 12]LogMetaData: Removing '/Game/Assignment/Audio/Sounds/GrassStep_Cue.GrassStep_Cue:SoundCueGraph_0.SoundCueGraphNode_Root_0' ref from Metadata '/Game/Assignment/Audio/Sounds/GrassBootStep_Cue.PackageMetaData'
+[2019.05.07-23.23.55:914][ 12]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/GrassStep_Cue9508BB124CA98BFF75F32B86B581E382.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Audio/Sounds/GrassStep_Cue.uasset'
+[2019.05.07-23.23.59:367][144]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave GrassBootStep...
+[2019.05.07-23.23.59:410][144]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 124416 while cooking SoundWave /Game/Assignment/Audio/Sounds/GrassBootStep.GrassBootStep.
+[2019.05.07-23.24.17:520][760]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave GrabDrawSound...
+[2019.05.07-23.24.17:573][760]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 170496 while cooking SoundWave /Game/Assignment/Audio/Sounds/GrabDrawSound.GrabDrawSound.
+[2019.05.07-23.24.21:720][967]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave EquipSound...
+[2019.05.07-23.24.21:752][967]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 129024 while cooking SoundWave /Game/Assignment/Audio/Sounds/EquipSound.EquipSound.
+[2019.05.07-23.24.23:301][ 49]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave DrawSound2...
+[2019.05.07-23.24.23:347][ 49]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 170496 while cooking SoundWave /Game/Assignment/Audio/Sounds/DrawSound2.DrawSound2.
+[2019.05.07-23.24.25:367][155]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave DrawSound...
+[2019.05.07-23.24.25:413][155]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 170496 while cooking SoundWave /Game/Assignment/Audio/Sounds/DrawSound.DrawSound.
+[2019.05.07-23.24.27:846][285]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave ClashSound4...
+[2019.05.07-23.24.27:880][285]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 101376 while cooking SoundWave /Game/Assignment/Audio/Sounds/ClashSound4.ClashSound4.
+[2019.05.07-23.24.29:266][361]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave ClashSound3...
+[2019.05.07-23.24.29:300][361]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 96768 while cooking SoundWave /Game/Assignment/Audio/Sounds/ClashSound3.ClashSound3.
+[2019.05.07-23.24.30:601][427]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave ClashSound2...
+[2019.05.07-23.24.30:632][427]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 129024 while cooking SoundWave /Game/Assignment/Audio/Sounds/ClashSound2.ClashSound2.
+[2019.05.07-23.25.28:143][880]LogAssetEditorManager: Opening Asset editor for SoundCue /Game/Assignment/Audio/Sounds/Clash_Cue.Clash_Cue
+[2019.05.07-23.28.26:656][758]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Clash_Cue11C9DBD4402C70B4B9EADE90C995FC94.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Audio/Sounds/Clash_Cue.uasset'
+[2019.05.07-23.28.29:286][833]LogSlate: Window 'Clash_Cue' being destroyed
+[2019.05.07-23.28.29:319][833]LogSlate: Window 'Clash_Cue' being destroyed
+[2019.05.07-23.29.10:473][928]LogAssetEditorManager: Opening Asset editor for SoundCue /Game/Assignment/Audio/Sounds/Draw_Cue.Draw_Cue
+[2019.05.07-23.30.07:178][494]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/Audio/Sounds/Draw_Cue" FILE="../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Audio/Sounds/Draw_Cue.uasset" SILENT=true
+[2019.05.07-23.30.07:222][494]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Draw_Cue3A4E9E024C59C6FBFB3167AEFD0D0F02.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Audio/Sounds/Draw_Cue.uasset'
+[2019.05.07-23.30.19:417][836]LogSlate: Window 'Draw_Cue' being destroyed
+[2019.05.07-23.30.19:449][836]LogSlate: Window 'Draw_Cue' being destroyed
+[2019.05.07-23.30.21:881][947]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/Main" FILE="../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.05.07-23.30.25:572][947]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Main5AAEFA264EDC037316A8319C7330D0F0.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Main.umap'
+[2019.05.07-23.30.51:059][299]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave ArmourHitSheilHitSound2...
+[2019.05.07-23.30.51:106][299]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 170496 while cooking SoundWave /Game/Assignment/Audio/Sounds/ArmourHitSheilHitSound2.ArmourHitSheilHitSound2.
+[2019.05.07-23.30.53:003][396]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave ArmourHitSheilHitSound...
+[2019.05.07-23.30.53:038][396]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 129024 while cooking SoundWave /Game/Assignment/Audio/Sounds/ArmourHitSheilHitSound.ArmourHitSheilHitSound.
+[2019.05.07-23.31.22:245][690]LogAssetEditorManager: Opening Asset editor for SoundCue /Game/Assignment/Audio/Sounds/ArmourHit_Cue.ArmourHit_Cue
+[2019.05.07-23.32.51:273][101]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/ArmourHit_Cue78ED8D2245D58C9500668A86C09E0276.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Audio/Sounds/ArmourHit_Cue.uasset'
+[2019.05.07-23.32.53:561][164]LogSlate: Window 'ArmourHit_Cue' being destroyed
+[2019.05.07-23.32.53:821][164]LogSlate: Window 'ArmourHit_Cue' being destroyed
+[2019.05.07-23.33.14:649][144]LogAssetEditorManager: Opening Asset editor for SoundCue /Game/Assignment/Audio/Sounds/Draw_Cue.Draw_Cue
+[2019.05.07-23.34.00:948][374]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/Audio/Sounds/Draw_Cue" FILE="../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Audio/Sounds/Draw_Cue.uasset" SILENT=true
+[2019.05.07-23.34.01:140][374]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Draw_CueD625546345ECBDABC8D2ACAC6AC4BB90.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Audio/Sounds/Draw_Cue.uasset'
+[2019.05.07-23.34.13:302][704]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/Audio/Sounds/Draw_Cue" FILE="../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Audio/Sounds/Draw_Cue.uasset" SILENT=true
+[2019.05.07-23.34.13:501][704]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Draw_Cue8BCE5E134BACDEFFF9924EAA9C0A55CE.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Audio/Sounds/Draw_Cue.uasset'
+[2019.05.07-23.34.15:593][764]LogSlate: Window 'Draw_Cue' being destroyed
+[2019.05.07-23.34.15:629][764]LogSlate: Window 'Draw_Cue' being destroyed
+[2019.05.07-23.35.02:659][155]LogAssetEditorManager: Opening Asset editor for SoundCue /Game/Assignment/Audio/Sounds/EquipMetalObject_Cue.EquipMetalObject_Cue
+[2019.05.07-23.35.28:802][906]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/EquipMetalObject_CueE1E6B4084FC61C1A990E92B5D4D822B2.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Audio/Sounds/EquipMetalObject_Cue.uasset'
+[2019.05.07-23.35.31:077][971]LogSlate: Window 'EquipMetalObject_Cue' being destroyed
+[2019.05.07-23.35.31:125][971]LogSlate: Window 'EquipMetalObject_Cue' being destroyed
