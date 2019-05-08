@@ -788,3 +788,238 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.05.08-11.13.39:068][400]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Sword1h_Strafe45RightLoopBFC73EB74B544609AD65F08B5E52F641.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/SwordAnimation/Sword1h_Strafe45RightLoop.uasset'
 [2019.05.08-11.13.40:662][428]LogSlate: Window 'Sword1h_Strafe45RightLoop' being destroyed
 [2019.05.08-11.13.40:686][428]LogSlate: Window 'Sword1h_Strafe45RightLoop' being destroyed
+[2019.05.08-11.14.49:882][634]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Assignment/SwordAnimation/Sword1h_Strafe45LeftLoop.Sword1h_Strafe45LeftLoop
+[2019.05.08-11.14.49:927][634]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_69:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.08-11.14.50:120][634]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_69:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.08-11.14.52:529][639]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.08-11.15.23:168][189]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Sword1h_Strafe45LeftLoopA57640F84084B5218D73EFA8622893D4.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/SwordAnimation/Sword1h_Strafe45LeftLoop.uasset'
+[2019.05.08-11.15.24:623][214]LogSlate: Window 'Sword1h_Strafe45LeftLoop' being destroyed
+[2019.05.08-11.15.24:640][214]LogSlate: Window 'Sword1h_Strafe45LeftLoop' being destroyed
+[2019.05.08-11.15.26:553][224]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Assignment/SwordAnimation/Sword1h_Strafe45RightLoop.Sword1h_Strafe45RightLoop
+[2019.05.08-11.15.26:632][224]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_72:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.08-11.15.27:006][224]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_72:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.08-11.15.30:613][231]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.08-11.15.31:159][238]LogSlate: Window 'Sword1h_Strafe45RightLoop' being destroyed
+[2019.05.08-11.15.31:168][238]LogSlate: Window 'Sword1h_Strafe45RightLoop' being destroyed
+[2019.05.08-11.15.33:114][244]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Assignment/SwordAnimation/Sword1h_Strafe135RighttLoop.Sword1h_Strafe135RighttLoop
+[2019.05.08-11.15.33:172][244]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_75:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.08-11.15.33:455][244]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_75:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.08-11.15.35:159][250]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.08-11.15.51:295][534]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Sword1h_Strafe135RighttLoop89002F8E407F1AF1BD0E68894ACD1D79.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/SwordAnimation/Sword1h_Strafe135RighttLoop.uasset'
+[2019.05.08-11.15.53:290][570]LogSlate: Window 'Sword1h_Strafe135RighttLoop' being destroyed
+[2019.05.08-11.15.53:314][570]LogSlate: Window 'Sword1h_Strafe135RighttLoop' being destroyed
+[2019.05.08-11.15.55:850][583]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Assignment/SwordAnimation/Sword1h_Strafe135LeftLoop.Sword1h_Strafe135LeftLoop
+[2019.05.08-11.15.55:901][583]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_78:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.08-11.15.56:161][583]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_78:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.08-11.15.59:064][590]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.08-11.16.27:968][105]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Sword1h_Strafe135LeftLoopB4BDE1CB42F261C22DF58590062F86B2.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/SwordAnimation/Sword1h_Strafe135LeftLoop.uasset'
+[2019.05.08-11.16.29:628][136]LogSlate: Window 'Sword1h_Strafe135LeftLoop' being destroyed
+[2019.05.08-11.16.29:649][136]LogSlate: Window 'Sword1h_Strafe135LeftLoop' being destroyed
+[2019.05.08-11.16.31:576][146]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assignment/SwordAnimation/Sword1h_Skip_Fwd.Sword1h_Skip_Fwd
+[2019.05.08-11.16.31:576][146]LogAnimationCompression: Recompressing (AnimSequence /Game/Assignment/SwordAnimation/Sword1h_Skip_Fwd.Sword1h_Skip_Fwd) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.05.08-11.16.31:621][146]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Assignment/SwordAnimation/Sword1h_Skip_Fwd.Sword1h_Skip_Fwd
+[2019.05.08-11.16.31:663][146]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_81:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.08-11.16.31:883][146]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_81:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.08-11.16.33:991][151]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.08-11.17.04:631][699]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Sword1h_Skip_FwdD9197260454BB1C651C40DB860D16EB3.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/SwordAnimation/Sword1h_Skip_Fwd.uasset'
+[2019.05.08-11.17.06:525][733]LogSlate: Window 'Sword1h_Skip_Fwd' being destroyed
+[2019.05.08-11.17.06:545][733]LogSlate: Window 'Sword1h_Skip_Fwd' being destroyed
+[2019.05.08-11.17.08:555][744]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assignment/SwordAnimation/Sword1h_Skip_Bwd.Sword1h_Skip_Bwd
+[2019.05.08-11.17.08:555][744]LogAnimationCompression: Recompressing (AnimSequence /Game/Assignment/SwordAnimation/Sword1h_Skip_Bwd.Sword1h_Skip_Bwd) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.05.08-11.17.08:625][744]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Assignment/SwordAnimation/Sword1h_Skip_Bwd.Sword1h_Skip_Bwd
+[2019.05.08-11.17.08:695][744]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_84:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.08-11.17.08:967][744]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_84:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.08-11.17.12:356][750]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.08-11.17.50:741][434]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Sword1h_Skip_Bwd57FF241E4EE342972BC961BEAF49C4D7.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/SwordAnimation/Sword1h_Skip_Bwd.uasset'
+[2019.05.08-11.17.52:503][466]LogSlate: Window 'Sword1h_Skip_Bwd' being destroyed
+[2019.05.08-11.17.52:528][466]LogSlate: Window 'Sword1h_Skip_Bwd' being destroyed
+[2019.05.08-11.17.54:503][482]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assignment/SwordAnimation/Sword1h_ShortDodge_Mid3.Sword1h_ShortDodge_Mid3
+[2019.05.08-11.17.54:503][482]LogAnimationCompression: Recompressing (AnimSequence /Game/Assignment/SwordAnimation/Sword1h_ShortDodge_Mid3.Sword1h_ShortDodge_Mid3) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.05.08-11.17.54:543][482]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Assignment/SwordAnimation/Sword1h_ShortDodge_Mid3.Sword1h_ShortDodge_Mid3
+[2019.05.08-11.17.54:594][482]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_87:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.08-11.17.54:853][482]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_87:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.08-11.17.57:037][487]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.08-11.18.22:597][959]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Sword1h_ShortDodge_Mid35703B02A4E9131CA3419AE9A435CB224.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/SwordAnimation/Sword1h_ShortDodge_Mid3.uasset'
+[2019.05.08-11.18.23:954][985]LogSlate: Window 'Sword1h_ShortDodge_Mid3' being destroyed
+[2019.05.08-11.18.23:976][985]LogSlate: Window 'Sword1h_ShortDodge_Mid3' being destroyed
+[2019.05.08-11.18.26:215][997]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assignment/SwordAnimation/Sword1h_ShortDodge_Mid2.Sword1h_ShortDodge_Mid2
+[2019.05.08-11.18.26:216][997]LogAnimationCompression: Recompressing (AnimSequence /Game/Assignment/SwordAnimation/Sword1h_ShortDodge_Mid2.Sword1h_ShortDodge_Mid2) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.05.08-11.18.26:353][997]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Assignment/SwordAnimation/Sword1h_ShortDodge_Mid2.Sword1h_ShortDodge_Mid2
+[2019.05.08-11.18.26:398][997]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_90:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.08-11.18.26:634][997]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_90:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.08-11.18.28:908][  2]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.08-11.23.18:073][ 44]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Sword1h_ShortDodge_Mid265D7EB104599BFACC2CB1FB1F0E51404.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/SwordAnimation/Sword1h_ShortDodge_Mid2.uasset'
+[2019.05.08-11.23.19:394][ 68]LogSlate: Window 'Sword1h_ShortDodge_Mid2' being destroyed
+[2019.05.08-11.23.19:430][ 68]LogSlate: Window 'Sword1h_ShortDodge_Mid2' being destroyed
+[2019.05.08-11.23.29:386][102]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assignment/SwordAnimation/Sword1h_ShortDodge_Mid.Sword1h_ShortDodge_Mid
+[2019.05.08-11.23.29:386][102]LogAnimationCompression: Recompressing (AnimSequence /Game/Assignment/SwordAnimation/Sword1h_ShortDodge_Mid.Sword1h_ShortDodge_Mid) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.05.08-11.23.29:411][102]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Assignment/SwordAnimation/Sword1h_ShortDodge_Mid.Sword1h_ShortDodge_Mid
+[2019.05.08-11.23.29:457][102]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_93:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.08-11.23.29:654][102]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_93:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.08-11.23.31:567][106]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.08-11.23.35:749][186]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.08-11.23.35:863][188]LogSlate: Window 'Sword1h_ShortDodge_Mid' being destroyed
+[2019.05.08-11.23.35:885][188]LogSlate: Window 'Sword1h_ShortDodge_Mid' being destroyed
+[2019.05.08-11.23.47:873][308]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Assignment/SwordAnimation/Sword1h_RunRtLoop.Sword1h_RunRtLoop
+[2019.05.08-11.23.47:915][308]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.08-11.23.48:116][308]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.08-11.23.50:220][313]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.08-11.24.18:983][827]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Sword1h_RunRtLoop6657C44245628431515A3A953E2D7D92.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/SwordAnimation/Sword1h_RunRtLoop.uasset'
+[2019.05.08-11.24.41:633][936]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Sword1h_RunRtLoop4EBA7CB3425065E55A54B08EABAB76F0.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/SwordAnimation/Sword1h_RunRtLoop.uasset'
+[2019.05.08-11.24.43:312][967]LogSlate: Window 'Sword1h_RunRtLoop' being destroyed
+[2019.05.08-11.24.43:337][967]LogSlate: Window 'Sword1h_RunRtLoop' being destroyed
+[2019.05.08-11.24.45:259][976]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assignment/SwordAnimation/Sword1h_RunRt45Loop.Sword1h_RunRt45Loop
+[2019.05.08-11.24.45:259][976]LogAnimationCompression: Recompressing (AnimSequence /Game/Assignment/SwordAnimation/Sword1h_RunRt45Loop.Sword1h_RunRt45Loop) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.05.08-11.24.45:379][976]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Assignment/SwordAnimation/Sword1h_RunRt45Loop.Sword1h_RunRt45Loop
+[2019.05.08-11.24.45:418][976]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_99:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.08-11.24.45:615][976]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_99:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.08-11.24.47:787][981]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.08-11.25.09:011][375]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Sword1h_RunRt45LoopE5AF9EAC4326BF2A124D7996E277727C.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/SwordAnimation/Sword1h_RunRt45Loop.uasset'
+[2019.05.08-11.25.10:827][408]LogSlate: Window 'Sword1h_RunRt45Loop' being destroyed
+[2019.05.08-11.25.10:877][408]LogSlate: Window 'Sword1h_RunRt45Loop' being destroyed
+[2019.05.08-11.25.13:129][421]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assignment/SwordAnimation/Sword1h_RunRt135Loop.Sword1h_RunRt135Loop
+[2019.05.08-11.25.13:130][421]LogAnimationCompression: Recompressing (AnimSequence /Game/Assignment/SwordAnimation/Sword1h_RunRt135Loop.Sword1h_RunRt135Loop) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.05.08-11.25.13:171][421]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Assignment/SwordAnimation/Sword1h_RunRt135Loop.Sword1h_RunRt135Loop
+[2019.05.08-11.25.13:216][421]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_102:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.08-11.25.13:491][421]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_102:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.08-11.25.15:976][427]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.08-11.25.34:419][768]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Sword1h_RunRt135LoopE4D6950D453079A7FB7F138F36936FF2.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/SwordAnimation/Sword1h_RunRt135Loop.uasset'
+[2019.05.08-11.25.36:096][800]LogSlate: Window 'Sword1h_RunRt135Loop' being destroyed
+[2019.05.08-11.25.36:121][800]LogSlate: Window 'Sword1h_RunRt135Loop' being destroyed
+[2019.05.08-11.25.38:138][810]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Assignment/SwordAnimation/Sword1h_RunLtLoop.Sword1h_RunLtLoop
+[2019.05.08-11.25.38:193][810]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_105:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.08-11.25.38:449][810]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_105:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.08-11.25.40:879][815]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.08-11.26.09:697][290]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Sword1h_RunLtLoopC533AD564588E5F914E9AAA1EEA4BE09.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/SwordAnimation/Sword1h_RunLtLoop.uasset'
+[2019.05.08-11.26.28:162][363]LogSlate: Window 'Sword1h_RunLtLoop' being destroyed
+[2019.05.08-11.26.28:182][363]LogSlate: Window 'Sword1h_RunLtLoop' being destroyed
+[2019.05.08-11.26.30:399][381]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assignment/SwordAnimation/Sword1h_RunLt45Loop.Sword1h_RunLt45Loop
+[2019.05.08-11.26.30:399][381]LogAnimationCompression: Recompressing (AnimSequence /Game/Assignment/SwordAnimation/Sword1h_RunLt45Loop.Sword1h_RunLt45Loop) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.05.08-11.26.30:436][381]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Assignment/SwordAnimation/Sword1h_RunLt45Loop.Sword1h_RunLt45Loop
+[2019.05.08-11.26.30:486][381]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_108:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.08-11.26.30:752][381]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_108:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.08-11.26.33:347][388]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.08-11.27.00:789][888]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Sword1h_RunLt45Loop930E2E1B4C7CCF3A4A700D9CDC412ACE.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/SwordAnimation/Sword1h_RunLt45Loop.uasset'
+[2019.05.08-11.27.02:562][921]LogSlate: Window 'Sword1h_RunLt45Loop' being destroyed
+[2019.05.08-11.27.02:579][921]LogSlate: Window 'Sword1h_RunLt45Loop' being destroyed
+[2019.05.08-11.27.03:869][926]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assignment/SwordAnimation/Sword1h_RunLt135Loop.Sword1h_RunLt135Loop
+[2019.05.08-11.27.03:869][926]LogAnimationCompression: Recompressing (AnimSequence /Game/Assignment/SwordAnimation/Sword1h_RunLt135Loop.Sword1h_RunLt135Loop) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.05.08-11.27.03:910][926]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Assignment/SwordAnimation/Sword1h_RunLt135Loop.Sword1h_RunLt135Loop
+[2019.05.08-11.27.03:960][926]LogD3D11RHI: Error: Direct3DDevice->CreateTexture2D(TextureDesc,SubResourceData,OutTexture2D) failed 
+ at D:\Build\++UE4\Sync\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11Texture.cpp:479 
+ with error E_OUTOFMEMORY, 
+ Size=1024x1024x1 Format=DXGI_FORMAT_R32G32B32A32_FLOAT(0x00000002), NumMips=1, Flags=D3D11_BIND_RENDER_TARGET D3D11_BIND_SHADER_RESOURCE , Usage:0x0, CPUFlags:0x0, MiscFlags:0x0, SampleCount:0x1, SampleQuality:0x0, SubresPtr:0x0000000000000000, SubresPitch:0, SubresSlicePitch:0
+[2019.05.08-11.27.19:060][926]LogConsoleResponse:     59 = 32768 KB (2D 8192x2048 PF_ShadowDepth) WholeSceneShadowmap unused(555)
+[2019.05.08-11.27.19:060][926]LogConsoleResponse:     79 = 24576 KB (2D 6144x2048 PF_ShadowDepth) WholeSceneShadowmap unused(2)
+[2019.05.08-11.27.19:061][926]LogConsoleResponse:     78 = 24576 KB (2D 6144x2048 PF_ShadowDepth) WholeSceneShadowmap unused(2)
+[2019.05.08-11.27.19:061][926]LogConsoleResponse:     80 = 24576 KB (2D 6144x2048 PF_ShadowDepth) WholeSceneShadowmap unused(2)
+[2019.05.08-11.27.19:061][926]LogConsoleResponse:     51 = 8192 KB (3D 256x128x32 PF_FloatRGBA RT) AtmosphereDeltaJ
+[2019.05.08-11.27.19:061][926]LogConsoleResponse:     50 = 8192 KB (3D 256x128x32 PF_FloatRGBA RT) AtmosphereDeltaSM
+[2019.05.08-11.27.19:061][926]LogConsoleResponse:     49 = 8192 KB (3D 256x128x32 PF_FloatRGBA RT) AtmosphereDeltaSR
+[2019.05.08-11.27.19:061][926]LogConsoleResponse:     48 = 8192 KB (3D 256x128x32 PF_FloatRGBA RT) AtmosphereInscatter
+[2019.05.08-11.27.19:061][926]LogConsoleResponse:     19 = 2384 KB (2D 908x336 PF_B8G8R8A8 RT 4xMSAA) EditorPrimitivesColor unused(4848)
+[2019.05.08-11.27.19:061][926]LogConsoleResponse:     20 = 2384 KB (2D 908x336 PF_DepthStencil 4xMSAA) SelectionDepthStencil unused(6)
+[2019.05.08-11.27.19:061][926]LogConsoleResponse:     42 = 2384 KB (2D 908x336 PF_FloatRGBA RT UAV VRam) SceneColor VRamInKB(Start/Size):<NONE>
+[2019.05.08-11.27.19:061][926]LogConsoleResponse:     61 = 2384 KB (2D 908x336 PF_FloatRGBA RT UAV) LightAccumulation
+[2019.05.08-11.27.19:061][926]LogConsoleResponse:     33 = 2384 KB (2D 908x336 PF_FloatRGBA RT VRam) SeparateTranslucency unused(6) VRamInKB(Start/Size):<NONE>
+[2019.05.08-11.27.19:061][926]LogConsoleResponse:     34 = 2384 KB (2D 908x336 PF_FloatRGBA RT) BokehDOFRecombine unused(6)
+[2019.05.08-11.27.19:061][926]LogConsoleResponse:     35 = 2384 KB (2D 908x336 PF_FloatRGBA RT) ScreenSpaceReflections unused(6)
+[2019.05.08-11.27.19:061][926]LogConsoleResponse:     36 = 2384 KB (2D 908x336 PF_FloatRGBA RT) SSRTemporalAA
+[2019.05.08-11.27.19:061][926]LogConsoleResponse:     72 = 2384 KB (2D 908x336 PF_FloatRGBA RT) SSRTemporalAA unused(5)
+[2019.05.08-11.27.19:061][926]LogConsoleResponse:     82 = 2384 KB (2D 908x336 PF_FloatRGBA RT) SSRTemporalAA unused(6)
+[2019.05.08-11.27.19:061][926]LogConsoleResponse:     83 = 2384 KB (2D 908x336 PF_FloatRGBA RT) TemporalAA unused(8)
+[2019.05.08-11.27.19:061][926]LogConsoleResponse:     91 = 2384 KB (2D 908x336 PF_FloatRGBA RT) TemporalAA unused(8)
+[2019.05.08-11.27.19:061][926]LogConsoleResponse:     44 = 2147 KB (2D 848x324 PF_FloatRGBA RT) SSRTemporalAA unused(31948)
+[2019.05.08-11.27.19:061][926]LogConsoleResponse:     67 = 2048 KB (3D 64x64x64 PF_FloatRGBA RT UAV) TranslucentVolume0
+[2019.05.08-11.27.19:061][926]LogConsoleResponse:     65 = 2048 KB (3D 64x64x64 PF_FloatRGBA RT UAV) TranslucentVolume1
+[2019.05.08-11.27.19:061][926]LogConsoleResponse:     63 = 2048 KB (3D 64x64x64 PF_FloatRGBA RT UAV) TranslucentVolume2
+[2019.05.08-11.27.19:061][926]LogConsoleResponse:     66 = 2048 KB (3D 64x64x64 PF_FloatRGBA RT UAV) TranslucentVolumeDir0
+[2019.05.08-11.27.19:061][926]LogConsoleResponse:     64 = 2048 KB (3D 64x64x64 PF_FloatRGBA RT UAV) TranslucentVolumeDir1
+[2019.05.08-11.27.19:061][926]LogConsoleResponse:     62 = 2048 KB (3D 64x64x64 PF_FloatRGBA RT UAV) TranslucentVolumeDir2
+[2019.05.08-11.27.19:061][926]LogConsoleResponse:     73 = 2048 KB (Cube[2] 128 PF_FloatRGBA) ReflectionEnvs
+[2019.05.08-11.27.19:061][926]LogConsoleResponse:     58 = 1192 KB (2D 908x336 PF_A2B10G10R10 RT) GBufferA unused(2)
+[2019.05.08-11.27.19:061][926]LogConsoleResponse:     54 = 1192 KB (2D 908x336 PF_B8G8R8A8 RT sRGB) GBufferC unused(2)
+[2019.05.08-11.27.19:061][926]LogConsoleResponse:     57 = 1192 KB (2D 908x336 PF_B8G8R8A8 RT VRam) GBufferE unused(2) VRamInKB(Start/Size):<NONE>
+[2019.05.08-11.27.19:061][926]LogConsoleResponse:     37 = 1192 KB (2D 908x336 PF_B8G8R8A8 RT VRam) ScreenShadowMaskTexture unused(2) VRamInKB(Start/Size):<NONE>
+[2019.05.08-11.27.19:062][926]LogConsoleResponse:     53 = 1192 KB (2D 908x336 PF_B8G8R8A8 RT) GBufferD unused(2)
+[2019.05.08-11.27.19:062][926]LogConsoleResponse:     74 = 1192 KB (2D 908x336 PF_B8G8R8A8 RT) HitProxy unused(555)
+[2019.05.08-11.27.19:062][926]LogConsoleResponse:     52 = 1192 KB (2D 908x336 PF_B8G8R8A8 RT) Tonemap unused(2)
+[2019.05.08-11.27.19:062][926]LogConsoleResponse:     71 = 1192 KB (2D 908x336 PF_DepthStencil VRam) SceneDepthZ VRamInKB(Start/Size):<NONE>
+[2019.05.08-11.27.19:062][926]LogConsoleResponse:     41 = 1192 KB (2D 908x336 PF_G16R16 RT) Velocity unused(6)
+[2019.05.08-11.27.19:062][926]LogConsoleResponse:     84 = 1024 KB (Cube 128 PF_FloatRGBA RT) ReflectionColorScratchCubemap0
+[2019.05.08-11.27.19:062][926]LogConsoleResponse:     85 = 1024 KB (Cube 128 PF_FloatRGBA RT) ReflectionColorScratchCubemap1
+[2019.05.08-11.27.19:062][926]LogConsoleResponse:     70 = 596 KB (2D 454x168 PF_DepthStencil) SmallDepthZ
+[2019.05.08-11.27.19:062][926]LogConsoleResponse:     40 = 596 KB (2D 454x168 PF_FloatRGBA RT VRam) AmbientOcclusionSetup unused(6) VRamInKB(Start/Size):<NONE>
+[2019.05.08-11.27.19:062][926]LogConsoleResponse:     60 = 596 KB (2D 908x168 PF_R32_UINT RT UAV) QuadOverdrawBuffer
+[2019.05.08-11.27.19:062][926]LogConsoleResponse:     43 = 342 KB (2D 512x256 PF_R16F RT VRam) HZB unused(6) VRamInKB(Start/Size):<NONE>
+[2019.05.08-11.27.19:062][926]LogConsoleResponse:     39 = 298 KB (2D 454x168 PF_B8G8R8A8 RT VRam) AmbientOcclusion unused(6) VRamInKB(Start/Size):<NONE>
+[2019.05.08-11.27.19:062][926]LogConsoleResponse:     32 = 298 KB (2D 454x168 PF_FloatRGB RT VRam) BloomBlurX unused(2) VRamInKB(Start/Size):<NONE>
+[2019.05.08-11.27.19:062][926]LogConsoleResponse:     21 = 298 KB (2D 454x168 PF_FloatRGB RT) BloomBlurY unused(2)
+[2019.05.08-11.27.19:062][926]LogConsoleResponse:     69 = 298 KB (2D 908x336 PF_G8 RT UAV) ScreenSpaceAO
+[2019.05.08-11.27.19:062][926]LogConsoleResponse:     18 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2019.05.08-11.27.19:062][926]LogConsoleResponse:     15 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2019.05.08-11.27.19:062][926]LogConsoleResponse:     16 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2019.05.08-11.27.19:062][926]LogConsoleResponse:     17 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2019.05.08-11.27.19:062][926]LogConsoleResponse:     75 = 171 KB (2D 512x128 PF_R16F RT VRam) HZB unused(31277) VRamInKB(Start/Size):<NONE>
+[2019.05.08-11.27.19:062][926]LogConsoleResponse:     45 = 128 KB (2D 256x64 PF_FloatRGBA RT) AtmosphereTransmittance
+[2019.05.08-11.27.19:062][926]LogConsoleResponse:     96 = 128 KB (3D 32x32x32 PF_A2B10G10R10 RT VRam) CombineLUTs unused(14672) VRamInKB(Start/Size):<NONE>
+[2019.05.08-11.27.19:062][926]LogConsoleResponse:     81 = 128 KB (3D 32x32x32 PF_A2B10G10R10 RT VRam) CombineLUTs unused(2) VRamInKB(Start/Size):<NONE>
+[2019.05.08-11.27.19:062][926]LogConsoleResponse:     90 = 128 KB (3D 32x32x32 PF_A2B10G10R10 RT VRam) CombineLUTs unused(38) VRamInKB(Start/Size):<NONE>
+[2019.05.08-11.27.19:062][926]LogConsoleResponse:     68 = 128 KB (3D 32x32x32 PF_A2B10G10R10 RT) CombineLUTs
+[2019.05.08-11.27.19:063][926]LogConsoleResponse:     76 = 86 KB (2D 512x64 PF_R16F RT VRam) HZB unused(31275) VRamInKB(Start/Size):<NONE>
+[2019.05.08-11.27.19:063][926]LogConsoleResponse:     31 = 75 KB (2D 227x84 PF_FloatRGB RT VRam) BloomBlurX unused(2) VRamInKB(Start/Size):<NONE>
+[2019.05.08-11.27.19:063][926]LogConsoleResponse:     22 = 75 KB (2D 227x84 PF_FloatRGB RT) BloomBlurY unused(2)
+[2019.05.08-11.27.19:063][926]LogConsoleResponse:      6 = 64 KB (2D 128x128 PF_B8G8R8A8) PerlinNoiseGradient
+[2019.05.08-11.27.19:063][926]LogConsoleResponse:     86 = 64 KB (Cube 32 PF_FloatRGBA RT) DiffuseIrradianceScratchCubemap0
+[2019.05.08-11.27.19:063][926]LogConsoleResponse:     87 = 64 KB (Cube 32 PF_FloatRGBA RT) DiffuseIrradianceScratchCubemap1
+[2019.05.08-11.27.19:063][926]LogConsoleResponse:     38 = 32 KB (2D 64x64 PF_A16B16G16R16) SSProfiles
+[2019.05.08-11.27.19:063][926]LogConsoleResponse:     13 = 32 KB (2D 64x64 PF_FloatRGBA VRam) LTCMat VRamInKB(Start/Size):<NONE>
+[2019.05.08-11.27.19:063][926]LogConsoleResponse:     30 = 19 KB (2D 114x42 PF_FloatRGB RT VRam) BloomBlurX unused(2) VRamInKB(Start/Size):<NONE>
+[2019.05.08-11.27.19:063][926]LogConsoleResponse:     23 = 19 KB (2D 114x42 PF_FloatRGB RT) BloomBlurY unused(2)
+[2019.05.08-11.27.19:063][926]LogConsoleResponse:     12 = 16 KB (2D 128x32 PF_G16R16) PreintegratedGF
+[2019.05.08-11.27.19:063][926]LogConsoleResponse:     14 = 16 KB (2D 64x64 PF_G16R16F VRam) LTCAmp VRamInKB(Start/Size):<NONE>
+[2019.05.08-11.27.19:063][926]LogConsoleResponse:     10 = 16 KB (3D 16x16x16 PF_B8G8R8A8) PerlinNoise3D
+[2019.05.08-11.27.19:063][926]LogConsoleResponse:     77 = 11 KB (2D 512x8 PF_R16F RT VRam) HZB unused(4848) VRamInKB(Start/Size):<NONE>
+[2019.05.08-11.27.19:063][926]LogConsoleResponse:     47 = 8 KB (2D 64x16 PF_FloatRGBA RT) AtmosphereDeltaE
+[2019.05.08-11.27.19:063][926]LogConsoleResponse:     46 = 8 KB (2D 64x16 PF_FloatRGBA RT) AtmosphereIrradiance
+[2019.05.08-11.27.19:063][926]LogConsoleResponse:     11 = 8 KB (2D 64x64 PF_R8G8) SSAORandomization
+[2019.05.08-11.27.19:063][926]LogConsoleResponse:     92 = 6 KB (2D 16x48 PF_FloatRGBA RT UAV VRam) Histogram unused(6) VRamInKB(Start/Size):<NONE>
+[2019.05.08-11.27.19:063][926]LogConsoleResponse:     29 = 5 KB (2D 57x21 PF_FloatRGB RT VRam) BloomBlurX unused(2) VRamInKB(Start/Size):<NONE>
+[2019.05.08-11.27.19:063][926]LogConsoleResponse:     24 = 5 KB (2D 57x21 PF_FloatRGB RT) BloomBlurY unused(2)
+[2019.05.08-11.27.19:063][926]LogConsoleResponse:     28 = 2 KB (2D 29x11 PF_FloatRGB RT VRam) BloomBlurX unused(2) VRamInKB(Start/Size):<NONE>
+[2019.05.08-11.27.19:063][926]LogConsoleResponse:     25 = 2 KB (2D 29x11 PF_FloatRGB RT) BloomBlurY unused(2)
+[2019.05.08-11.27.19:063][926]LogConsoleResponse:     27 = 1 KB (2D 15x6 PF_FloatRGB RT VRam) BloomBlurX unused(2) VRamInKB(Start/Size):<NONE>
+[2019.05.08-11.27.19:063][926]LogConsoleResponse:     26 = 1 KB (2D 15x6 PF_FloatRGB RT) BloomBlurY unused(2)
+[2019.05.08-11.27.19:064][926]LogConsoleResponse:     93 = 1 KB (2D 16x2 PF_A32B32G32R32F RT VRam) HistogramReduce unused(6) VRamInKB(Start/Size):<NONE>
+[2019.05.08-11.27.19:064][926]LogConsoleResponse:      3 = 1 KB (2D 1x1 PF_B8G8R8A8 RT) BlackAlphaOneDummy
+[2019.05.08-11.27.19:064][926]LogConsoleResponse:      2 = 1 KB (2D 1x1 PF_B8G8R8A8 RT) BlackDummy
+[2019.05.08-11.27.19:064][926]LogConsoleResponse:      5 = 1 KB (2D 1x1 PF_B8G8R8A8 RT) DefaultNormal8Bit
+[2019.05.08-11.27.19:064][926]LogConsoleResponse:      4 = 1 KB (2D 1x1 PF_B8G8R8A8 RT) GreenDummy
+[2019.05.08-11.27.19:064][926]LogConsoleResponse:      1 = 1 KB (2D 1x1 PF_B8G8R8A8 RT) WhiteDummy
+[2019.05.08-11.27.19:064][926]LogConsoleResponse:      8 = 1 KB (2D 1x1 PF_DepthStencil) DepthDummy
+[2019.05.08-11.27.19:064][926]LogConsoleResponse:      7 = 1 KB (2D 1x1 PF_FloatRGBA RT) MaxFP16Depth
+[2019.05.08-11.27.19:064][926]LogConsoleResponse:     89 = 1 KB (2D 1x1 PF_FloatRGBA RT) ReflectionBrightness unused(545)
+[2019.05.08-11.27.19:064][926]LogConsoleResponse:     55 = 1 KB (2D 1x1 PF_G32R32F RT UAV) EyeAdaptation
+[2019.05.08-11.27.19:064][926]LogConsoleResponse:     56 = 1 KB (2D 1x1 PF_G32R32F RT UAV) EyeAdaptation
+[2019.05.08-11.27.19:064][926]LogConsoleResponse:     97 = 1 KB (2D 1x1 PF_G32R32F RT UAV) EyeAdaptation unused(11894)
+[2019.05.08-11.27.19:064][926]LogConsoleResponse:     98 = 1 KB (2D 1x1 PF_G32R32F RT UAV) EyeAdaptation unused(11894)
+[2019.05.08-11.27.19:064][926]LogConsoleResponse:     95 = 1 KB (2D 1x1 PF_G32R32F RT UAV) EyeAdaptation unused(5)
+[2019.05.08-11.27.19:064][926]LogConsoleResponse:     94 = 1 KB (2D 1x1 PF_G32R32F RT UAV) EyeAdaptation unused(5)
+[2019.05.08-11.27.19:064][926]LogConsoleResponse:      9 = 1 KB (2D 32x16 PF_R16_UINT) SobolSampling
+[2019.05.08-11.27.19:064][926]LogConsoleResponse:     88 = 1 KB (2D 9x1 PF_FloatRGBA RT) SkySHIrradianceMap
+[2019.05.08-11.27.19:064][926]LogConsoleResponse: 
+[2019.05.08-11.27.19:064][926]LogConsoleResponse: Pool: 60/199 MB (referenced/allocated)
+[2019.05.08-11.27.19:064][926]Cmd: rhi.DumpMemory
+[2019.05.08-11.27.19:108][926]RHI resource memory (not tracked by our allocator)
+[2019.05.08-11.27.19:108][926]         2228160  -  Render target memory Cube - STAT_RenderTargetMemoryCube - STATGROUP_RHI - STATCAT_Advanced
+[2019.05.08-11.27.19:108][926]        46661632  -  Render target memory 3D - STAT_RenderTargetMemory3D - STATGROUP_RHI - STATCAT_Advanced
+[2019.05.08-11.27.19:108][926]         1344720  -  Uniform buffer memory - STAT_UniformBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+[2019.05.08-11.27.19:108][926]         8405256  -  Texture memory 3D - STAT_TextureMemory3D - STATGROUP_RHI - STATCAT_Advanced
+[2019.05.08-11.27.19:108][926]       133322920  -  Texture memory 2D - STAT_TextureMemory2D - STATGROUP_RHI - STATCAT_Advanced
+[2019.05.08-11.27.19:108][926]        81854100  -  Texture memory Cube - STAT_TextureMemoryCube - STATGROUP_RHI - STATCAT_Advanced
+[2019.05.08-11.27.19:108][926]      4680343084  -  Render target memory 2D - STAT_RenderTargetMemory2D - STATGROUP_RHI - STATCAT_Advanced
+[2019.05.08-11.27.19:108][926]      1294385384  -  Vertex buffer memory - STAT_VertexBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+[2019.05.08-11.27.19:108][926]         6612562  -  Index buffer memory - STAT_IndexBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+[2019.05.08-11.27.19:108][926]5965.383MB total
+[2019.05.08-11.27.19:108][926]LogWindows: FPlatformMisc::RequestExit(1)
+[2019.05.08-11.27.19:121][926]Log file closed, 05/08/19 20:57:19
