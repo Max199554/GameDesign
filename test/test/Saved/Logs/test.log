@@ -1367,3 +1367,377 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.05.08-03.38.45:305][700]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_56:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
 [2019.05.08-03.38.48:347][707]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
 [2019.05.08-03.40.35:194][850]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (53.459 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-03.44.27:213][924]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (52.363 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-03.46.50:038][344]LogSlate: Window 'Volume1_step_forward' being destroyed
+[2019.05.08-03.46.50:071][344]LogSlate: Window 'Volume1_step_forward' being destroyed
+[2019.05.08-03.47.28:100][865]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:\Uni\SP2\Comp\Sound effects\GameAudio\Sounds\GrassStepSound.wav)
+[2019.05.08-03.47.31:869][947]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/Main" FILE="../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.05.08-03.47.37:675][947]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Main84D3BDB145C0276BAF05FA80BADC0844.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Main.umap'
+[2019.05.08-03.47.43:053][112]LogAssetEditorManager: Opening Asset editor for SoundCue /Game/Assignment/Audio/Sounds/GrassStep_Cue.GrassStep_Cue
+[2019.05.08-03.47.53:896][375]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/GrassStep_Cue4D8FDDB54F1119A2C9529EBA9CB29B6F.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Audio/Sounds/GrassStep_Cue.uasset'
+[2019.05.08-03.48.00:875][474]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave GrassStepSound...
+[2019.05.08-03.48.00:912][474]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 101768 while cooking SoundWave /Game/Assignment/Audio/Sounds/GrassStepSound.GrassStepSound.
+[2019.05.08-03.48.19:560][ 55]LogSlate: Window 'GrassStep_Cue' being destroyed
+[2019.05.08-03.48.19:596][ 55]LogSlate: Window 'GrassStep_Cue' being destroyed
+[2019.05.08-03.48.21:733][130]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/Main" FILE="../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.05.08-03.48.26:283][130]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Main0E7EAF8A45307032FCC1DBAF677CB42E.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Main.umap'
+[2019.05.08-03.48.37:126][523]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Assignment/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Assignment/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Assignment/Main.Main_C' with ClassGeneratedBy '/Game/Assignment/Main.Main:PersistentLevel.Main'
+[2019.05.08-03.48.37:126][523]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.08-03.48.37:127][523]PIE: New page: PIE session: Main (8 May 2019 10:48:37 pm)
+[2019.05.08-03.48.37:127][523]LogPlayLevel: Creating play world package: /Game/Assignment/UEDPIE_0_Main
+[2019.05.08-03.48.37:378][523]LogPlayLevel: PIE: StaticDuplicateObject took: (0.251217s)
+[2019.05.08-03.48.37:379][523]LogAIModule: Creating AISystem for world Main
+[2019.05.08-03.48.37:381][523]LogPlayLevel: PIE: World Init took: (0.003088s)
+[2019.05.08-03.48.37:383][523]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assignment/Main.Main to /Game/Assignment/UEDPIE_0_Main.Main (0.256090s)
+[2019.05.08-03.48.37:449][523]LogGarbage: Warning: GC detected illegal reference to PIE object from content [possibly via [todo]]:
+[2019.05.08-03.48.37:449][523]LogGarbage: Warning:       PIE object: World /Game/Assignment/UEDPIE_0_Main.Main
+[2019.05.08-03.48.37:449][523]LogGarbage: Warning:   NON-PIE object: UnrealEdEngine /Engine/Transient.UnrealEdEngine_0
+[2019.05.08-03.48.37:514][523]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.08-03.48.37:559][523]LogInit: FAudioDevice initialized.
+[2019.05.08-03.48.37:574][523]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.08-03.48.37:624][523]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.05.08-03.48.37:935][523]LogWorld: Bringing World /Game/Assignment/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2019.05.08-13.18.37
+[2019.05.08-03.48.37:988][523]LogWorld: Bringing up level for play took: 0.363427
+[2019.05.08-03.48.38:034][523]PIE: Play in editor start time for /Game/Assignment/UEDPIE_0_Main 1.605
+[2019.05.08-03.48.38:036][523]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Assignment/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Assignment/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Assignment/Main.Main_C' with ClassGeneratedBy '/Game/Assignment/Main.Main:PersistentLevel.Main'
+[2019.05.08-03.48.49:744][592]LogGarbage: Warning: GC detected illegal reference to PIE object from content [possibly via [todo]]:
+[2019.05.08-03.48.49:745][592]LogGarbage: Warning:       PIE object: World /Game/Assignment/UEDPIE_0_Main.Main
+[2019.05.08-03.48.49:745][592]LogGarbage: Warning:   NON-PIE object: UnrealEdEngine /Engine/Transient.UnrealEdEngine_0
+[2019.05.08-03.48.49:775][592]LogGarbage: Warning: GC detected illegal reference to PIE object from content [possibly via [todo]]:
+[2019.05.08-03.48.49:775][592]LogGarbage: Warning:       PIE object: BP_Character_C /Game/Assignment/UEDPIE_0_Main.Main:PersistentLevel.BP_Character_C_0
+[2019.05.08-03.48.49:775][592]LogGarbage: Warning:   NON-PIE object: Character_HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_5.Character_HUD_C_0
+[2019.05.08-03.49.26:230][807]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Assignment/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Assignment/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Assignment/Main.Main_C' with ClassGeneratedBy '/Game/Assignment/Main.Main:PersistentLevel.Main'
+[2019.05.08-03.49.26:234][807]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.08-03.49.26:355][807]LogSlate: Window 'test Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.05.08-03.49.26:595][807]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.08-03.49.26:597][807]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Assignment/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Assignment/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Assignment/Main.Main_C' with ClassGeneratedBy '/Game/Assignment/Main.Main:PersistentLevel.Main'
+[2019.05.08-03.49.26:851][808]LogPlayLevel: Display: Destroying online subsystem :Context_65
+[2019.05.08-03.49.58:590][483]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MartialArtsFightGame/Anims/Volume2/Zaxis_Anim_Jump_atk4.Zaxis_Anim_Jump_atk4
+[2019.05.08-03.49.58:591][483]LogAnimationCompression: Recompressing (AnimSequence /Game/MartialArtsFightGame/Anims/Volume2/Zaxis_Anim_Jump_atk4.Zaxis_Anim_Jump_atk4) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.05.08-03.49.58:672][483]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/MartialArtsFightGame/Anims/Volume2/Zaxis_Anim_Jump_atk4.Zaxis_Anim_Jump_atk4
+[2019.05.08-03.49.59:229][483]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2019.05.08-03.49.59:418][483]LogShaderCompilers: Display: Shaders left to compile 141
+[2019.05.08-03.49.59:418][483]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2019.05.08-03.49.59:570][483]LogSkeletalMesh: Building Skeletal Mesh SK_Mannequin...
+[2019.05.08-03.49.59:735][483]LogSkeletalMesh: Built Skeletal Mesh [0.17s] /Game/MartialArtsFightGame/Anims/Skeleton/SK_Mannequin.SK_Mannequin
+[2019.05.08-03.49.59:841][483]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_59:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.08-03.50.00:112][483]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_59:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.08-03.50.03:727][492]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.08-03.52.53:113][694]LogShaderCompilers: Display: Shaders left to compile 272
+[2019.05.08-03.53.15:046][792]LogShaderCompilers: Display: Shaders left to compile 262
+[2019.05.08-03.53.24:464][835]LogShaderCompilers: Display: Shaders left to compile 252
+[2019.05.08-03.53.29:392][846]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (53.699 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-03.57.36:171][933]LogShaderCompilers: Display: Shaders left to compile 242
+[2019.05.08-04.00.27:453][158]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (33.280 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-04.03.11:329][215]LogShaderCompilers: Display: Shaders left to compile 232
+[2019.05.08-04.04.26:710][312]LogSlate: Window 'Zaxis_Anim_Jump_atk4' being destroyed
+[2019.05.08-04.04.26:753][312]LogSlate: Window 'Zaxis_Anim_Jump_atk4' being destroyed
+[2019.05.08-04.04.29:659][313]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (53.423 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-04.04.55:426][599]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Assignment/Character_Peoples/Knight/Relax/WalkBwdLoop.WalkBwdLoop
+[2019.05.08-04.04.55:505][599]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_62:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.08-04.04.55:952][599]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_62:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.08-04.05.00:867][606]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.08-04.05.07:604][669]LogSlate: Window 'WalkBwdLoop' being destroyed
+[2019.05.08-04.05.07:650][669]LogSlate: Window 'WalkBwdLoop' being destroyed
+[2019.05.08-04.05.20:900][766]LogShaderCompilers: Display: Shaders left to compile 222
+[2019.05.08-04.05.28:190][825]LogShaderCompilers: Display: Shaders left to compile 212
+[2019.05.08-04.08.16:814][977]LogShaderCompilers: Display: Shaders left to compile 202
+[2019.05.08-04.10.29:491][  2]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (40.380 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-04.12.18:253][101]LogShaderCompilers: Display: Shaders left to compile 192
+[2019.05.08-04.12.34:086][263]LogShaderCompilers: Display: Shaders left to compile 182
+[2019.05.08-04.12.38:510][355]LogShaderCompilers: Display: Shaders left to compile 172
+[2019.05.08-04.12.42:543][363]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.08-04.12.47:297][442]LogShaderCompilers: Display: Shaders left to compile 162
+[2019.05.08-04.17.52:521][977]LogShaderCompilers: Display: Shaders left to compile 152
+[2019.05.08-04.34.54:821][902]LogShaderCompilers: Display: Shaders left to compile 142
+[2019.05.08-04.35.05:230][971]LogShaderCompilers: Display: Shaders left to compile 132
+[2019.05.08-04.35.24:868][105]LogShaderCompilers: Display: Shaders left to compile 122
+[2019.05.08-04.35.34:546][169]LogShaderCompilers: Display: Shaders left to compile 112
+[2019.05.08-04.35.50:491][277]LogShaderCompilers: Display: Shaders left to compile 102
+[2019.05.08-04.36.31:393][560]LogShaderCompilers: Display: Shaders left to compile 92
+[2019.05.08-04.36.50:711][689]LogShaderCompilers: Display: Shaders left to compile 82
+[2019.05.08-04.37.02:164][764]LogShaderCompilers: Display: Shaders left to compile 72
+[2019.05.08-04.37.14:623][847]LogShaderCompilers: Display: Shaders left to compile 62
+[2019.05.08-04.37.31:872][962]LogShaderCompilers: Display: Shaders left to compile 52
+[2019.05.08-04.37.52:546][ 98]LogShaderCompilers: Display: Shaders left to compile 42
+[2019.05.08-04.38.02:815][165]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.05.08-04.38.14:756][246]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.05.08-04.38.29:064][342]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.05.08-04.38.51:784][495]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.08-04.38.55:923][518]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Assignment/Main' took 0.266
+[2019.05.08-04.38.55:927][518]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assignment/Audio/Sounds/GroundArmourStepSound] ([1] browsable assets)...
+[2019.05.08-04.38.55:952][518]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assignment/Audio/Sounds/GroundArmourStepSound.GroundArmourStepSound]
+[2019.05.08-04.38.55:952][518]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assignment/Audio/Sounds/GroundArmourStepSound]
+[2019.05.08-04.38.55:986][518]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/GroundArmourStepSound_Auto37A1E86F946C282359A47898E425D78B3.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Autosaves/Game/Assignment/Audio/Sounds/GroundArmourStepSound_Auto3.uasset'
+[2019.05.08-04.38.55:990][518]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assignment/Audio/Sounds/GroundStepSound] ([1] browsable assets)...
+[2019.05.08-04.38.56:004][518]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assignment/Audio/Sounds/GroundStepSound.GroundStepSound]
+[2019.05.08-04.38.56:004][518]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assignment/Audio/Sounds/GroundStepSound]
+[2019.05.08-04.38.56:029][518]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/GroundStepSound_Auto31803F22B429C0AAB84250599FA0BB710.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Autosaves/Game/Assignment/Audio/Sounds/GroundStepSound_Auto3.uasset'
+[2019.05.08-04.38.56:033][518]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assignment/Audio/Sounds/GrassStepSound] ([1] browsable assets)...
+[2019.05.08-04.38.56:046][518]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assignment/Audio/Sounds/GrassStepSound.GrassStepSound]
+[2019.05.08-04.38.56:046][518]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assignment/Audio/Sounds/GrassStepSound]
+[2019.05.08-04.38.56:070][518]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/GrassStepSound_Auto3121540B243E43BE5CA4629920FCBB51A.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Autosaves/Game/Assignment/Audio/Sounds/GrassStepSound_Auto3.uasset'
+[2019.05.08-04.38.56:073][518]LogFileHelpers: Auto-saving content packages took 0.148
+[2019.05.08-04.50.57:813][269]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-04.50.57:813][269]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-05.45.24:845][276]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-05.45.24:845][276]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-05.45.24:845][276]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-05.45.24:845][276]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-05.45.24:845][276]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-05.45.24:845][276]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-05.45.24:845][276]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-05.45.24:845][276]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-05.45.24:845][276]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-05.45.24:845][276]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-05.45.24:845][276]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-05.45.24:845][276]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-05.45.24:845][276]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-05.45.24:846][276]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-05.45.24:846][276]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-05.45.24:846][276]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-05.45.24:846][276]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-05.45.24:846][276]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-05.45.24:846][276]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-05.45.24:846][276]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-05.45.24:846][276]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-05.45.24:846][276]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-05.45.24:846][276]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-05.45.24:846][276]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-05.45.24:846][276]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-05.45.24:846][276]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-05.45.24:846][276]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-05.45.24:846][276]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-05.45.24:846][276]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-05.45.24:846][276]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-05.45.24:846][276]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-05.45.24:846][276]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-05.45.24:846][276]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-05.45.24:847][276]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-05.45.24:847][276]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-05.45.24:847][276]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-05.45.24:847][276]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-05.45.24:847][276]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-05.45.24:847][276]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-05.45.24:848][276]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-05.45.24:848][276]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-05.45.24:848][276]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-05.45.24:848][276]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-05.45.24:848][276]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-05.45.24:848][276]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-05.45.24:848][276]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-05.45.24:852][276]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-05.45.24:852][276]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-05.45.24:852][276]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-05.45.24:852][276]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-05.45.24:852][276]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-05.45.24:852][276]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-05.45.24:852][276]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-05.45.24:913][277]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.068 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-05.45.29:485][279]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Assignment/Character_Peoples/Knight/Relax/WalkBwdLoop.WalkBwdLoop
+[2019.05.08-05.45.29:540][279]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_65:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.08-05.45.29:849][279]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_65:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.08-05.45.33:522][288]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.08-05.45.39:335][378]LogSlate: Window 'WalkBwdLoop' being destroyed
+[2019.05.08-05.45.39:393][378]LogSlate: Window 'WalkBwdLoop' being destroyed
+[2019.05.08-05.45.41:588][378]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Assignment/Character_Peoples/Vikings/Fight/Volume1_step_forward.Volume1_step_forward
+[2019.05.08-05.45.41:795][378]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_68:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.08-05.45.42:026][378]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_68:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.08-05.45.45:555][385]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.08-05.47.19:198][542]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (53.889 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-06.06.56:795][741]LogSlate: Window 'Volume1_step_forward' being destroyed
+[2019.05.08-06.06.56:859][741]LogSlate: Window 'Volume1_step_forward' being destroyed
+[2019.05.08-06.07.15:869][327]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:\Uni\SP2\Comp\Sound effects\GameAudio\Sounds\StepLeatherHeavySound.wav)
+[2019.05.08-06.07.15:919][327]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:\Uni\SP2\Comp\Sound effects\GameAudio\Sounds\StepLeatherSoftSound.wav)
+[2019.05.08-06.07.20:751][459]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave StepLeatherHeavySound...
+[2019.05.08-06.07.20:796][459]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 82264 while cooking SoundWave /Game/Assignment/Audio/Sounds/StepLeatherHeavySound.StepLeatherHeavySound.
+[2019.05.08-06.07.49:635][648]LogMetaData: Removing '/Game/Assignment/Audio/Sounds/StepLeather_Cue.StepLeather_Cue:SoundCueGraph_0.SoundCueGraphNode_Root_0' ref from Metadata '/Game/Assignment/Audio/Sounds/StepLeatherHeavy_Cue.PackageMetaData'
+[2019.05.08-06.07.49:709][648]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/StepLeather_CueAF84949745E280E0933AE1AAFBBCB926.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Audio/Sounds/StepLeather_Cue.uasset'
+[2019.05.08-06.07.52:850][730]LogAssetEditorManager: Opening Asset editor for SoundCue /Game/Assignment/Audio/Sounds/StepLeather_Cue.StepLeather_Cue
+[2019.05.08-06.08.29:503][761]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave StepLeatherSoftSound...
+[2019.05.08-06.08.29:542][761]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 61060 while cooking SoundWave /Game/Assignment/Audio/Sounds/StepLeatherSoftSound.StepLeatherSoftSound.
+[2019.05.08-06.08.49:593][399]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/StepLeather_Cue460D0FFE4A345CE194271F95FE6F1E65.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Audio/Sounds/StepLeather_Cue.uasset'
+[2019.05.08-06.08.59:816][704]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/StepLeather_Cue113028E64E67166B18E754A77C8ED192.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Audio/Sounds/StepLeather_Cue.uasset'
+[2019.05.08-06.09.01:484][752]LogSlate: Window 'StepLeather_Cue' being destroyed
+[2019.05.08-06.09.01:503][752]LogSlate: Window 'StepLeather_Cue' being destroyed
+[2019.05.08-06.09.18:004][245]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Assignment/Character_Peoples/Vikings/Fight/Volume1_step_forward.Volume1_step_forward
+[2019.05.08-06.09.18:054][245]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_71:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.08-06.09.18:278][245]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_71:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.08-06.09.20:067][249]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.08-06.10.00:514][ 57]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.05.08-06.10.37:939][733]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Volume1_step_forward4743841244AD3AF5CFA3A287399E7CCA.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Character_Peoples/Vikings/Fight/Volume1_step_forward.uasset'
+[2019.05.08-06.10.39:801][765]LogSlate: Window 'Volume1_step_forward' being destroyed
+[2019.05.08-06.10.39:824][765]LogSlate: Window 'Volume1_step_forward' being destroyed
+[2019.05.08-06.10.41:953][777]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assignment/Character_Peoples/Vikings/Fight/Volume1_step_back.Volume1_step_back
+[2019.05.08-06.10.41:954][777]LogAnimationCompression: Recompressing (AnimSequence /Game/Assignment/Character_Peoples/Vikings/Fight/Volume1_step_back.Volume1_step_back) using current/default (AnimCompress_BitwiseCompressOnly_4) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.05.08-06.10.42:095][777]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Assignment/Character_Peoples/Vikings/Fight/Volume1_step_back.Volume1_step_back
+[2019.05.08-06.10.42:148][777]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_74:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.08-06.10.42:390][777]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_74:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.08-06.10.44:946][782]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.08-06.11.31:568][613]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Volume1_step_back4A08E6804162ED339F23F4B33D984DDD.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Character_Peoples/Vikings/Fight/Volume1_step_back.uasset'
+[2019.05.08-06.11.33:957][653]LogSlate: Window 'Volume1_step_back' being destroyed
+[2019.05.08-06.11.33:987][653]LogSlate: Window 'Volume1_step_back' being destroyed
+[2019.05.08-06.11.36:499][665]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assignment/Character_Peoples/Vikings/Fight/Volume1_slips02.Volume1_slips02
+[2019.05.08-06.11.36:499][665]LogAnimationCompression: Recompressing (AnimSequence /Game/Assignment/Character_Peoples/Vikings/Fight/Volume1_slips02.Volume1_slips02) using current/default (AnimCompress_BitwiseCompressOnly_4) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.05.08-06.11.36:535][665]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Assignment/Character_Peoples/Vikings/Fight/Volume1_slips02.Volume1_slips02
+[2019.05.08-06.11.36:598][665]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_77:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.08-06.11.36:870][665]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_77:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.08-06.11.39:227][670]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.08-06.12.26:138][494]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Volume1_slips0218C3275640FE5C4BDC6955BD6C1CE910.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Character_Peoples/Vikings/Fight/Volume1_slips02.uasset'
+[2019.05.08-06.12.28:807][543]LogSlate: Window 'Volume1_slips02' being destroyed
+[2019.05.08-06.12.28:827][543]LogSlate: Window 'Volume1_slips02' being destroyed
+[2019.05.08-06.12.30:554][552]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assignment/Character_Peoples/Vikings/Fight/Volume1_slips01.Volume1_slips01
+[2019.05.08-06.12.30:555][552]LogAnimationCompression: Recompressing (AnimSequence /Game/Assignment/Character_Peoples/Vikings/Fight/Volume1_slips01.Volume1_slips01) using current/default (AnimCompress_BitwiseCompressOnly_4) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.05.08-06.12.30:661][552]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Assignment/Character_Peoples/Vikings/Fight/Volume1_slips01.Volume1_slips01
+[2019.05.08-06.12.30:711][552]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_80:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.08-06.12.30:995][552]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_80:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.08-06.12.33:351][557]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.08-06.13.14:762][322]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Volume1_slips01D91F1E4C4247A19CDE56F79BE411BAA5.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Character_Peoples/Vikings/Fight/Volume1_slips01.uasset'
+[2019.05.08-06.13.16:836][358]LogSlate: Window 'Volume1_slips01' being destroyed
+[2019.05.08-06.13.16:877][358]LogSlate: Window 'Volume1_slips01' being destroyed
+[2019.05.08-06.13.19:026][371]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assignment/Character_Peoples/Vikings/Fight/Volume1_pounding_sucess_attacker.Volume1_pounding_sucess_attacker
+[2019.05.08-06.13.19:027][371]LogAnimationCompression: Recompressing (AnimSequence /Game/Assignment/Character_Peoples/Vikings/Fight/Volume1_pounding_sucess_attacker.Volume1_pounding_sucess_attacker) using current/default (AnimCompress_BitwiseCompressOnly_4) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.05.08-06.13.19:069][371]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Assignment/Character_Peoples/Vikings/Fight/Volume1_pounding_sucess_attacker.Volume1_pounding_sucess_attacker
+[2019.05.08-06.13.19:117][371]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_83:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.08-06.13.19:424][371]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_83:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.08-06.13.21:763][377]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.08-06.13.27:315][475]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.08-06.13.32:614][528]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.08-06.14.14:028][795]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Assignment/Main' took 1.536
+[2019.05.08-06.14.14:056][795]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assignment/Audio/Sounds/StepLeatherHeavySound] ([1] browsable assets)...
+[2019.05.08-06.14.14:090][795]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assignment/Audio/Sounds/StepLeatherHeavySound.StepLeatherHeavySound]
+[2019.05.08-06.14.14:090][795]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assignment/Audio/Sounds/StepLeatherHeavySound]
+[2019.05.08-06.14.14:144][795]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/StepLeatherHeavySound_Auto4695233C549D549849357788FF254ED53.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Autosaves/Game/Assignment/Audio/Sounds/StepLeatherHeavySound_Auto4.uasset'
+[2019.05.08-06.14.14:152][795]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assignment/Audio/Sounds/StepLeatherSoftSound] ([1] browsable assets)...
+[2019.05.08-06.14.14:168][795]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assignment/Audio/Sounds/StepLeatherSoftSound.StepLeatherSoftSound]
+[2019.05.08-06.14.14:169][795]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assignment/Audio/Sounds/StepLeatherSoftSound]
+[2019.05.08-06.14.14:210][795]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/StepLeatherSoftSound_Auto42EC115174BB0E4D1954E718C7BEEE1C6.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Autosaves/Game/Assignment/Audio/Sounds/StepLeatherSoftSound_Auto4.uasset'
+[2019.05.08-06.14.14:222][795]LogFileHelpers: Auto-saving content packages took 0.167
+[2019.05.08-06.32.00:974][ 73]LogSlate: Window 'Volume1_pounding_sucess_attacker' being destroyed
+[2019.05.08-06.32.01:000][ 73]LogSlate: Window 'Volume1_pounding_sucess_attacker' being destroyed
+[2019.05.08-06.40.09:290][843]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:\Uni\SP2\Comp\Sound effects\GameAudio\Sounds\SkinPunchSound1.wav)
+[2019.05.08-06.40.09:337][843]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:\Uni\SP2\Comp\Sound effects\GameAudio\Sounds\SkinPunchSound2.wav)
+[2019.05.08-06.40.09:375][843]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:\Uni\SP2\Comp\Sound effects\GameAudio\Sounds\SkinPunchSound3.wav)
+[2019.05.08-06.40.09:420][843]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:\Uni\SP2\Comp\Sound effects\GameAudio\Sounds\SkinPunchSound4.wav)
+[2019.05.08-06.40.09:459][843]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:\Uni\SP2\Comp\Sound effects\GameAudio\Sounds\SkinPunchSound5.wav)
+[2019.05.08-06.40.09:500][843]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:\Uni\SP2\Comp\Sound effects\GameAudio\Sounds\SkinPunchSound6.wav)
+[2019.05.08-06.40.14:331][931]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave SkinPunchSound1...
+[2019.05.08-06.40.14:379][931]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 74632 while cooking SoundWave /Game/Assignment/Audio/Sounds/SkinPunchSound1.SkinPunchSound1.
+[2019.05.08-06.40.26:339][328]LogAssetEditorManager: Opening Asset editor for SoundCue /Game/Assignment/Audio/Sounds/SkinPunch_Cue.SkinPunch_Cue
+[2019.05.08-06.42.57:945][ 31]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/SkinPunch_Cue762ED66D44C6CA63B1F734822D6BB8D1.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Audio/Sounds/SkinPunch_Cue.uasset'
+[2019.05.08-06.42.59:157][ 62]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave SkinPunchSound3...
+[2019.05.08-06.42.59:197][ 62]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 74632 while cooking SoundWave /Game/Assignment/Audio/Sounds/SkinPunchSound3.SkinPunchSound3.
+[2019.05.08-06.43.00:611][100]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave SkinPunchSound5...
+[2019.05.08-06.43.00:646][100]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 74632 while cooking SoundWave /Game/Assignment/Audio/Sounds/SkinPunchSound5.SkinPunchSound5.
+[2019.05.08-06.43.01:847][134]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave SkinPunchSound2...
+[2019.05.08-06.43.01:877][134]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 74632 while cooking SoundWave /Game/Assignment/Audio/Sounds/SkinPunchSound2.SkinPunchSound2.
+[2019.05.08-06.43.04:346][208]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave SkinPunchSound6...
+[2019.05.08-06.43.04:385][208]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 74632 while cooking SoundWave /Game/Assignment/Audio/Sounds/SkinPunchSound6.SkinPunchSound6.
+[2019.05.08-06.43.05:605][243]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave SkinPunchSound4...
+[2019.05.08-06.43.05:635][243]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 74632 while cooking SoundWave /Game/Assignment/Audio/Sounds/SkinPunchSound4.SkinPunchSound4.
+[2019.05.08-06.43.13:526][473]LogSlate: Window 'SkinPunch_Cue' being destroyed
+[2019.05.08-06.43.13:552][473]LogSlate: Window 'SkinPunch_Cue' being destroyed
+[2019.05.08-06.43.43:077][197]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Assignment/Character_Peoples/Vikings/Fight/Volume1_pounding_sucess_attacker.Volume1_pounding_sucess_attacker
+[2019.05.08-06.43.43:120][197]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_86:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.08-06.43.43:343][197]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_86:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.08-06.43.45:329][202]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.08-06.45.26:715][111]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Volume1_pounding_sucess_attackerD76548354CCF482A260677B60CB95DD7.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Character_Peoples/Vikings/Fight/Volume1_pounding_sucess_attacker.uasset'
+[2019.05.08-06.45.29:223][153]LogSlate: Window 'Volume1_pounding_sucess_attacker' being destroyed
+[2019.05.08-06.45.29:240][153]LogSlate: Window 'Volume1_pounding_sucess_attacker' being destroyed
+[2019.05.08-06.45.31:383][165]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assignment/Character_Peoples/Vikings/Fight/Volume1_pounding_success_attacked.Volume1_pounding_success_attacked
+[2019.05.08-06.45.31:383][165]LogAnimationCompression: Recompressing (AnimSequence /Game/Assignment/Character_Peoples/Vikings/Fight/Volume1_pounding_success_attacked.Volume1_pounding_success_attacked) using current/default (AnimCompress_BitwiseCompressOnly_4) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.05.08-06.45.31:489][165]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Assignment/Character_Peoples/Vikings/Fight/Volume1_pounding_success_attacked.Volume1_pounding_success_attacked
+[2019.05.08-06.45.31:537][165]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_89:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.08-06.45.31:793][165]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_89:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.08-06.45.34:247][172]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.08-06.46.20:874][673]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Assignment/Main' took 0.198
+[2019.05.08-06.46.20:881][673]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assignment/Audio/Sounds/SkinPunchSound1] ([1] browsable assets)...
+[2019.05.08-06.46.20:893][673]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assignment/Audio/Sounds/SkinPunchSound1.SkinPunchSound1]
+[2019.05.08-06.46.20:894][673]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assignment/Audio/Sounds/SkinPunchSound1]
+[2019.05.08-06.46.20:925][673]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/SkinPunchSound1_Auto5EC93E46E4129BB8C6C21459E75E92AF1.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Autosaves/Game/Assignment/Audio/Sounds/SkinPunchSound1_Auto5.uasset'
+[2019.05.08-06.46.20:933][673]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assignment/Audio/Sounds/SkinPunchSound2] ([1] browsable assets)...
+[2019.05.08-06.46.20:944][673]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assignment/Audio/Sounds/SkinPunchSound2.SkinPunchSound2]
+[2019.05.08-06.46.20:945][673]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assignment/Audio/Sounds/SkinPunchSound2]
+[2019.05.08-06.46.20:971][673]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/SkinPunchSound2_Auto587029056474ED4A6E023999494200814.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Autosaves/Game/Assignment/Audio/Sounds/SkinPunchSound2_Auto5.uasset'
+[2019.05.08-06.46.20:980][673]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assignment/Audio/Sounds/SkinPunchSound3] ([1] browsable assets)...
+[2019.05.08-06.46.20:996][673]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assignment/Audio/Sounds/SkinPunchSound3.SkinPunchSound3]
+[2019.05.08-06.46.20:998][673]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assignment/Audio/Sounds/SkinPunchSound3]
+[2019.05.08-06.46.21:024][673]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/SkinPunchSound3_Auto5116971FA4F24CD0C7E9F0DA66D8ADC10.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Autosaves/Game/Assignment/Audio/Sounds/SkinPunchSound3_Auto5.uasset'
+[2019.05.08-06.46.21:032][673]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assignment/Audio/Sounds/SkinPunchSound4] ([1] browsable assets)...
+[2019.05.08-06.46.21:057][673]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assignment/Audio/Sounds/SkinPunchSound4.SkinPunchSound4]
+[2019.05.08-06.46.21:057][673]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assignment/Audio/Sounds/SkinPunchSound4]
+[2019.05.08-06.46.21:091][673]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/SkinPunchSound4_Auto5273B0CED4A114F549FADD8884A1DE2C4.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Autosaves/Game/Assignment/Audio/Sounds/SkinPunchSound4_Auto5.uasset'
+[2019.05.08-06.46.21:098][673]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assignment/Audio/Sounds/SkinPunchSound5] ([1] browsable assets)...
+[2019.05.08-06.46.21:108][673]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assignment/Audio/Sounds/SkinPunchSound5.SkinPunchSound5]
+[2019.05.08-06.46.21:108][673]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assignment/Audio/Sounds/SkinPunchSound5]
+[2019.05.08-06.46.21:137][673]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/SkinPunchSound5_Auto5390FBD6740B28B244AF135BFF26D56F1.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Autosaves/Game/Assignment/Audio/Sounds/SkinPunchSound5_Auto5.uasset'
+[2019.05.08-06.46.21:140][673]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assignment/Audio/Sounds/SkinPunchSound6] ([1] browsable assets)...
+[2019.05.08-06.46.21:154][673]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assignment/Audio/Sounds/SkinPunchSound6.SkinPunchSound6]
+[2019.05.08-06.46.21:154][673]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assignment/Audio/Sounds/SkinPunchSound6]
+[2019.05.08-06.46.21:181][673]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/SkinPunchSound6_Auto5D7FA221D434FB82745E13896B6F2ACC3.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Autosaves/Game/Assignment/Audio/Sounds/SkinPunchSound6_Auto5.uasset'
+[2019.05.08-06.46.21:185][673]LogFileHelpers: Auto-saving content packages took 0.303
+[2019.05.08-06.49.46:618][404]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:\Uni\SP2\Comp\Sound effects\GameAudio\Sounds\VikingHurtSound.wav)
+[2019.05.08-06.49.51:111][524]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave VikingHurtSound...
+[2019.05.08-06.49.51:143][524]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 74632 while cooking SoundWave /Game/Assignment/Audio/Sounds/VikingHurtSound.VikingHurtSound.
+[2019.05.08-06.50.32:392][718]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Volume1_pounding_success_attackeA335DB754928D85F9FB378B6E5ECF3CB.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Character_Peoples/Vikings/Fight/Volume1_pounding_success_attacked.uasset'
+[2019.05.08-06.51.48:437][287]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:\Uni\SP2\Comp\Sound effects\GameAudio\Sounds\VikingHurtSound2.wav)
+[2019.05.08-06.51.55:629][510]LogAssetEditorManager: Opening Asset editor for SoundCue /Game/Assignment/Audio/Sounds/VikingHurtSound_Cue.VikingHurtSound_Cue
+[2019.05.08-06.52.33:847][500]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave VikingHurtSound2...
+[2019.05.08-06.52.33:880][500]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 74632 while cooking SoundWave /Game/Assignment/Audio/Sounds/VikingHurtSound2.VikingHurtSound2.
+[2019.05.08-06.52.52:366][ 40]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/VikingHurtSound_Cue315DBB044795F5691403749ABBB6DA3E.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Audio/Sounds/VikingHurtSound_Cue.uasset'
+[2019.05.08-06.52.58:491][177]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/VikingHurtSound_Cue5BA1270149F273EA3143BB832C4CDB28.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Audio/Sounds/VikingHurtSound_Cue.uasset'
+[2019.05.08-06.53.29:742][725]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Volume1_pounding_success_attackeE464397244DA8E9D9A704C9C44383DF9.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Character_Peoples/Vikings/Fight/Volume1_pounding_success_attacked.uasset'
+[2019.05.08-06.53.33:499][792]LogSlate: Window 'VikingHurtSound_Cue' being destroyed
+[2019.05.08-06.53.49:417][280]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Assignment/Character_Peoples/Vikings/Fight/Volume1_pounding_success_attacked.Volume1_pounding_success_attacked
+[2019.05.08-06.53.49:466][280]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_92:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.08-06.53.49:697][280]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_92:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.08-06.53.51:532][285]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.08-06.53.56:264][378]LogSlate: Window 'Volume1_pounding_success_attacked' being destroyed
+[2019.05.08-06.53.56:294][378]LogSlate: Window 'Volume1_pounding_success_attacked' being destroyed
+[2019.05.08-06.53.58:146][387]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assignment/Character_Peoples/Vikings/Fight/Volume1_pounding_fail_attacker.Volume1_pounding_fail_attacker
+[2019.05.08-06.53.58:147][387]LogAnimationCompression: Recompressing (AnimSequence /Game/Assignment/Character_Peoples/Vikings/Fight/Volume1_pounding_fail_attacker.Volume1_pounding_fail_attacker) using current/default (AnimCompress_BitwiseCompressOnly_4) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.05.08-06.53.58:209][387]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Assignment/Character_Peoples/Vikings/Fight/Volume1_pounding_fail_attacker.Volume1_pounding_fail_attacker
+[2019.05.08-06.53.58:255][387]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_95:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.08-06.53.58:533][387]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_95:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.08-06.54.01:249][394]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.08-06.56.23:006][ 17]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Assignment/Main' took 0.815
+[2019.05.08-06.56.23:038][ 17]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assignment/Audio/Sounds/VikingHurtSound] ([1] browsable assets)...
+[2019.05.08-06.56.23:058][ 17]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assignment/Audio/Sounds/VikingHurtSound.VikingHurtSound]
+[2019.05.08-06.56.23:058][ 17]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assignment/Audio/Sounds/VikingHurtSound]
+[2019.05.08-06.56.23:521][ 17]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/VikingHurtSound_Auto6947389434C83BB4FFCA73FAB243BF974.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Autosaves/Game/Assignment/Audio/Sounds/VikingHurtSound_Auto6.uasset'
+[2019.05.08-06.56.23:533][ 17]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assignment/Audio/Sounds/VikingHurtSound2] ([1] browsable assets)...
+[2019.05.08-06.56.23:552][ 17]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assignment/Audio/Sounds/VikingHurtSound2.VikingHurtSound2]
+[2019.05.08-06.56.23:553][ 17]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assignment/Audio/Sounds/VikingHurtSound2]
+[2019.05.08-06.56.23:809][ 17]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/VikingHurtSound2_Auto6251B36814CCEC2236D55CE8FEBD1B251.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Autosaves/Game/Assignment/Audio/Sounds/VikingHurtSound2_Auto6.uasset'
+[2019.05.08-06.56.23:939][ 17]LogFileHelpers: Auto-saving content packages took 0.914
+[2019.05.08-07.00.02:718][901]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:\Uni\SP2\Comp\Sound effects\GameAudio\Sounds\SkinGrabSound1.wav)
+[2019.05.08-07.00.02:751][901]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:\Uni\SP2\Comp\Sound effects\GameAudio\Sounds\SkinGrabSound2.wav)
+[2019.05.08-07.00.21:269][481]LogAssetEditorManager: Opening Asset editor for SoundCue /Game/Assignment/Audio/Sounds/SkinGrab_Cue.SkinGrab_Cue
+[2019.05.08-07.01.04:815][602]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave SkinGrabSound1...
+[2019.05.08-07.01.04:858][602]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 74632 while cooking SoundWave /Game/Assignment/Audio/Sounds/SkinGrabSound1.SkinGrabSound1.
+[2019.05.08-07.01.05:936][626]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave SkinGrabSound2...
+[2019.05.08-07.01.05:974][626]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 74632 while cooking SoundWave /Game/Assignment/Audio/Sounds/SkinGrabSound2.SkinGrabSound2.
+[2019.05.08-07.01.10:027][736]LogSlate: Window 'SkinGrab_Cue*' being destroyed
+[2019.05.08-07.01.10:044][736]LogSlate: Window 'SkinGrab_Cue*' being destroyed
+[2019.05.08-07.01.38:507][542]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Assignment/Character_Peoples/Vikings/Fight/Volume1_pounding_success_attacked.Volume1_pounding_success_attacked
+[2019.05.08-07.01.38:560][542]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_98:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.08-07.01.38:780][542]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_98:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.08-07.01.41:092][549]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.08-07.01.42:686][579]LogSlate: Window 'Volume1_pounding_success_attacked' being destroyed
+[2019.05.08-07.01.42:720][579]LogSlate: Window 'Volume1_pounding_success_attacked' being destroyed
+[2019.05.08-07.01.44:112][585]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Assignment/Character_Peoples/Vikings/Fight/Volume1_pounding_fail_attacker.Volume1_pounding_fail_attacker
+[2019.05.08-07.01.44:156][585]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_101:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.08-07.01.44:421][585]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_101:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.08-07.01.46:814][591]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.08-07.02.39:211][593]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Volume1_pounding_fail_attackerB02353BD4EC26ADBE7243A9E5766EC85.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Character_Peoples/Vikings/Fight/Volume1_pounding_fail_attacker.uasset'
+[2019.05.08-07.02.41:073][629]LogSlate: Window 'Volume1_pounding_fail_attacker' being destroyed
+[2019.05.08-07.02.41:099][629]LogSlate: Window 'Volume1_pounding_fail_attacker' being destroyed
+[2019.05.08-07.02.42:790][638]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assignment/Character_Peoples/Vikings/Fight/Volume1_pounding_fail_attacked.Volume1_pounding_fail_attacked
+[2019.05.08-07.02.42:790][638]LogAnimationCompression: Recompressing (AnimSequence /Game/Assignment/Character_Peoples/Vikings/Fight/Volume1_pounding_fail_attacked.Volume1_pounding_fail_attacked) using current/default (AnimCompress_BitwiseCompressOnly_4) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.05.08-07.02.42:922][638]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Assignment/Character_Peoples/Vikings/Fight/Volume1_pounding_fail_attacked.Volume1_pounding_fail_attacked
+[2019.05.08-07.02.42:973][638]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_104:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.08-07.02.43:239][638]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_104:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.08-07.02.45:395][643]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.08-07.03.56:347][877]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Volume1_pounding_fail_attacked0C4E22D845353A3FE87DDEA8A6678F42.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Character_Peoples/Vikings/Fight/Volume1_pounding_fail_attacked.uasset'
+[2019.05.08-07.03.57:931][899]LogSlate: Window 'Volume1_pounding_fail_attacked' being destroyed
+[2019.05.08-07.03.57:948][899]LogSlate: Window 'Volume1_pounding_fail_attacked' being destroyed
