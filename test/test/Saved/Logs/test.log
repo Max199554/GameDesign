@@ -985,3 +985,385 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.05.07-23.35.28:802][906]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/EquipMetalObject_CueE1E6B4084FC61C1A990E92B5D4D822B2.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Audio/Sounds/EquipMetalObject_Cue.uasset'
 [2019.05.07-23.35.31:077][971]LogSlate: Window 'EquipMetalObject_Cue' being destroyed
 [2019.05.07-23.35.31:125][971]LogSlate: Window 'EquipMetalObject_Cue' being destroyed
+[2019.05.07-23.41.36:777][208]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/SwordAnimsetPro/Animations2/RootMotion/2xAttack_Move_med_halfsword_R_L.2xAttack_Move_med_halfsword_R_L
+[2019.05.07-23.41.36:778][208]LogAnimationCompression: Recompressing (AnimSequence /Game/SwordAnimsetPro/Animations2/RootMotion/2xAttack_Move_med_halfsword_R_L.2xAttack_Move_med_halfsword_R_L) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.05.07-23.41.36:917][208]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/SwordAnimsetPro/Animations2/RootMotion/2xAttack_Move_med_halfsword_R_L.2xAttack_Move_med_halfsword_R_L
+[2019.05.07-23.41.37:819][208]LogTexture: Display: Building textures: UE4_Mannequin_MAT_MASKA (AutoDXT, 1024X1024)
+[2019.05.07-23.41.37:819][208]LogTexture: Display: Building textures: UE4_Mannequin_occlusion_Mobile (DXT1, 512X512)
+[2019.05.07-23.41.38:278][208]LogTexture: Display: Building textures: UE4_Mannequin__normals (BC5, 2048X2048)
+[2019.05.07-23.41.38:278][208]LogTexture: Display: Building textures: T_ML_Aluminum01_N (BC5, 512X512)
+[2019.05.07-23.41.39:652][208]LogTexture: Display: Building textures: T_ML_Aluminum01 (DXT1, 512X512)
+[2019.05.07-23.41.39:652][208]LogTexture: Display: Building textures: UE4Man_Logo_N (BC5, 512X512)
+[2019.05.07-23.41.39:652][208]LogTexture: Display: Building textures: T_ML_Rubber_Blue_01_N (BC5, 512X512)
+[2019.05.07-23.41.39:652][208]LogTexture: Display: Building textures: T_ML_Rubber_Blue_01_D (DXT1, 512X512)
+[2019.05.07-23.41.39:809][208]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2019.05.07-23.41.40:155][208]LogShaderCompilers: Display: Shaders left to compile 128
+[2019.05.07-23.41.40:155][208]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2019.05.07-23.41.40:303][208]LogSkeletalMesh: Building Skeletal Mesh SK_Mannequin...
+[2019.05.07-23.41.40:516][208]LogSkeletalMesh: Built Skeletal Mesh [0.21s] /Game/SwordAnimsetPro/UE4_Mannequin/Mesh/SK_Mannequin.SK_Mannequin
+[2019.05.07-23.41.40:654][208]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.07-23.41.41:007][208]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.07-23.41.44:500][215]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.07-23.41.58:367][434]LogSlate: Window '2xAttack_Move_med_halfsword_R_L' being destroyed
+[2019.05.07-23.41.58:457][434]LogSlate: Window '2xAttack_Move_med_halfsword_R_L' being destroyed
+[2019.05.07-23.43.14:339][650]LogShaderCompilers: Display: Shaders left to compile 246
+[2019.05.07-23.43.29:252][716]LogShaderCompilers: Display: Shaders left to compile 236
+[2019.05.07-23.43.37:356][767]LogShaderCompilers: Display: Shaders left to compile 226
+[2019.05.07-23.44.03:826][838]LogShaderCompilers: Display: Shaders left to compile 216
+[2019.05.07-23.44.14:745][918]LogShaderCompilers: Display: Shaders left to compile 206
+[2019.05.07-23.44.25:886][980]LogShaderCompilers: Display: Shaders left to compile 196
+[2019.05.07-23.44.43:940][ 46]LogShaderCompilers: Display: Shaders left to compile 186
+[2019.05.07-23.45.51:379][399]LogShaderCompilers: Display: Shaders left to compile 176
+[2019.05.07-23.46.21:184][537]LogShaderCompilers: Display: Shaders left to compile 166
+[2019.05.07-23.46.22:654][555]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.07-23.46.34:976][620]LogShaderCompilers: Display: Shaders left to compile 156
+[2019.05.07-23.46.39:362][711]LogShaderCompilers: Display: Shaders left to compile 146
+[2019.05.07-23.46.55:925][870]LogShaderCompilers: Display: Shaders left to compile 136
+[2019.05.07-23.47.17:557][  5]LogShaderCompilers: Display: Shaders left to compile 126
+[2019.05.07-23.47.21:489][ 87]LogShaderCompilers: Display: Shaders left to compile 116
+[2019.05.07-23.47.26:172][179]LogShaderCompilers: Display: Shaders left to compile 106
+[2019.05.07-23.47.34:686][277]LogShaderCompilers: Display: Shaders left to compile 96
+[2019.05.07-23.47.45:545][429]LogShaderCompilers: Display: Shaders left to compile 86
+[2019.05.07-23.47.50:928][531]LogShaderCompilers: Display: Shaders left to compile 76
+[2019.05.07-23.47.55:613][625]LogShaderCompilers: Display: Shaders left to compile 66
+[2019.05.07-23.48.01:734][723]LogShaderCompilers: Display: Shaders left to compile 56
+[2019.05.07-23.48.13:954][888]LogShaderCompilers: Display: Shaders left to compile 46
+[2019.05.07-23.48.19:786][  8]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.05.07-23.48.24:365][ 88]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.05.07-23.48.32:267][179]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.05.07-23.48.49:710][337]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.05.08-00.06.54:623][356]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.08-00.06.57:925][357]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-00.06.57:925][357]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-00.06.57:925][357]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-00.06.57:925][357]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-00.06.57:925][357]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-00.06.57:925][357]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-00.06.57:925][357]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-00.06.57:925][357]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-00.06.57:925][357]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-00.06.57:925][357]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-00.06.57:932][357]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-00.06.57:932][357]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-00.06.57:933][357]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-00.06.57:933][357]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-00.06.57:933][357]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-00.06.57:933][357]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-00.06.57:933][357]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-00.07.37:681][834]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (39.756 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-00.41.35:087][324]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.08-00.50.37:165][330]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-00.50.37:165][330]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-00.50.37:165][330]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-00.50.37:165][330]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-00.50.37:165][330]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-00.50.37:165][330]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-00.50.37:165][330]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-00.50.37:165][330]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-02.36.08:686][359]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-02.36.08:686][359]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-02.36.08:686][359]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-02.36.08:686][359]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-02.36.08:686][359]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-02.36.08:686][359]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-02.36.08:686][359]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-02.36.08:686][359]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-02.36.08:686][359]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-02.36.08:686][359]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-02.36.08:686][359]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-02.36.08:686][359]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-02.36.08:686][359]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-02.36.08:687][359]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-02.36.08:687][359]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-02.36.08:687][359]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-02.36.08:687][359]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-02.36.08:687][359]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-02.36.08:687][359]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-02.36.08:687][359]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-02.36.08:687][359]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-02.36.08:687][359]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-02.36.08:687][359]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-02.36.08:687][359]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-02.36.08:687][359]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-02.36.08:687][359]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-02.36.08:687][359]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-02.36.08:687][359]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-02.36.08:687][359]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-02.36.08:687][359]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-02.36.08:687][359]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-02.36.08:687][359]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-02.36.08:687][359]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-02.36.08:687][359]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-02.36.08:687][359]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-02.36.08:688][359]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-02.36.08:688][359]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-02.36.08:688][359]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-02.36.08:688][359]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-02.36.08:688][359]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-02.36.08:688][359]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-02.36.08:688][359]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-02.36.08:688][359]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-02.36.08:688][359]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-02.36.08:688][359]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-02.36.08:688][359]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-02.36.08:688][359]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-02.36.08:688][359]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-02.36.08:688][359]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-02.36.08:688][359]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-02.36.08:688][359]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-02.36.08:689][359]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-02.36.08:689][359]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-02.36.08:689][359]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-02.36.08:689][359]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-02.36.08:689][359]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-02.36.08:689][359]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-02.36.08:689][359]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-02.36.08:689][359]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-02.36.08:689][359]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-02.36.08:689][359]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-02.36.08:689][359]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-02.36.08:689][359]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-02.36.08:689][359]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-02.36.08:689][359]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-02.36.08:689][359]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-02.36.08:689][359]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-02.36.08:689][359]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-02.36.08:689][359]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-02.36.08:689][359]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-02.36.08:689][359]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-02.36.08:689][359]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-02.36.08:689][359]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-02.36.08:689][359]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-02.36.08:689][359]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-02.36.08:689][359]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-02.36.08:689][359]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-02.36.08:689][359]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-02.36.08:690][359]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-02.36.08:690][359]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-02.36.08:690][359]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-02.36.08:690][359]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-02.36.08:690][359]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-02.36.08:690][359]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-02.36.08:690][359]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-02.36.08:690][359]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-02.36.08:690][359]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-02.36.08:690][359]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-02.36.08:690][359]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-02.36.08:690][359]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-02.36.08:690][359]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-02.36.08:690][359]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-02.36.08:690][359]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-02.36.08:690][359]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-02.36.08:690][359]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-02.36.08:690][359]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-02.36.08:690][359]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-02.36.08:690][359]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-02.36.08:690][359]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-02.36.08:690][359]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-02.36.08:690][359]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-02.36.08:691][359]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-02.36.08:691][359]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-02.36.08:691][359]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-02.36.14:738][359]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.08-02.36.27:446][396]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (18.760 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-02.38.33:507][833]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Assignment/SwordAnimation/2xAttack_Move_med_halfsword_R_L.2xAttack_Move_med_halfsword_R_L
+[2019.05.08-02.38.33:572][833]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.08-02.38.33:811][833]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.08-02.38.36:512][838]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.08-02.38.45:678][924]LogSlate: Window '2xAttack_Move_med_halfsword_R_L' being destroyed
+[2019.05.08-02.38.45:742][924]LogSlate: Window '2xAttack_Move_med_halfsword_R_L' being destroyed
+[2019.05.08-02.39.25:905][342]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assignment/SwordAnimation/Sword1h_ShortDodge_HighRight.Sword1h_ShortDodge_HighRight
+[2019.05.08-02.39.25:905][342]LogAnimationCompression: Recompressing (AnimSequence /Game/Assignment/SwordAnimation/Sword1h_ShortDodge_HighRight.Sword1h_ShortDodge_HighRight) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.05.08-02.39.26:191][342]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Assignment/SwordAnimation/Sword1h_ShortDodge_HighRight.Sword1h_ShortDodge_HighRight
+[2019.05.08-02.39.26:242][342]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.08-02.39.26:443][342]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.08-02.39.29:639][347]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.08-02.39.34:717][426]LogSlate: Window 'Sword1h_ShortDodge_HighRight' being destroyed
+[2019.05.08-02.39.34:827][426]LogSlate: Window 'Sword1h_ShortDodge_HighRight' being destroyed
+[2019.05.08-02.39.41:473][465]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assignment/Character_Peoples/Vikings/Fight/Volume1_cross_uppercut.Volume1_cross_uppercut
+[2019.05.08-02.39.41:473][465]LogAnimationCompression: Recompressing (AnimSequence /Game/Assignment/Character_Peoples/Vikings/Fight/Volume1_cross_uppercut.Volume1_cross_uppercut) using current/default (AnimCompress_BitwiseCompressOnly_4) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.05.08-02.39.41:666][465]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Assignment/Character_Peoples/Vikings/Fight/Volume1_cross_uppercut.Volume1_cross_uppercut
+[2019.05.08-02.39.41:720][465]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.08-02.39.41:908][465]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.08-02.39.44:064][470]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.08-02.39.47:215][519]LogSlate: Window 'Volume1_cross_uppercut' being destroyed
+[2019.05.08-02.39.47:234][519]LogSlate: Window 'Volume1_cross_uppercut' being destroyed
+[2019.05.08-02.39.56:869][628]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Assignment/SwordAnimation/2xAttack_Move_med_halfsword_R_L.2xAttack_Move_med_halfsword_R_L
+[2019.05.08-02.39.56:953][628]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.08-02.39.57:147][628]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.08-02.40.01:424][634]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.08-02.40.24:810][911]LogSlate: Window '2xAttack_Move_med_halfsword_R_L' being destroyed
+[2019.05.08-02.40.24:931][911]LogSlate: Window '2xAttack_Move_med_halfsword_R_L' being destroyed
+[2019.05.08-02.40.27:138][917]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assignment/Character_Peoples/Vikings/Relax/A_chair_armOnRest_loop.A_chair_armOnRest_loop
+[2019.05.08-02.40.27:138][917]LogAnimationCompression: Recompressing (AnimSequence /Game/Assignment/Character_Peoples/Vikings/Relax/A_chair_armOnRest_loop.A_chair_armOnRest_loop) using current/default (AnimCompress_BitwiseCompressOnly_4) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.05.08-02.40.27:182][917]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Assignment/Character_Peoples/Vikings/Relax/A_chair_armOnRest_loop.A_chair_armOnRest_loop
+[2019.05.08-02.40.27:232][917]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.08-02.40.27:454][917]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.08-02.40.30:683][923]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.08-02.40.33:812][984]LogSlate: Window 'A_chair_armOnRest_loop' being destroyed
+[2019.05.08-02.40.33:921][984]LogSlate: Window 'A_chair_armOnRest_loop' being destroyed
+[2019.05.08-02.40.36:761][992]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assignment/Character_Peoples/Knight/Relax/A_chair_femLegCross_01_loop.A_chair_femLegCross_01_loop
+[2019.05.08-02.40.36:761][992]LogAnimationCompression: Recompressing (AnimSequence /Game/Assignment/Character_Peoples/Knight/Relax/A_chair_femLegCross_01_loop.A_chair_femLegCross_01_loop) using current/default (AnimCompress_BitwiseCompressOnly_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.05.08-02.40.36:936][992]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Assignment/Character_Peoples/Knight/Relax/A_chair_femLegCross_01_loop.A_chair_femLegCross_01_loop
+[2019.05.08-02.40.36:976][992]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.08-02.40.37:334][992]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.08-02.40.40:646][998]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.08-02.40.42:925][ 21]LogSlate: Window 'A_chair_femLegCross_01_loop' being destroyed
+[2019.05.08-02.40.43:039][ 21]LogSlate: Window 'A_chair_femLegCross_01_loop' being destroyed
+[2019.05.08-02.41.17:159][224]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Assignment/Character_Peoples/Vikings/Relax/A_chair_thinker_01_loop.A_chair_thinker_01_loop
+[2019.05.08-02.41.17:205][224]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_38:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.08-02.41.17:497][224]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_38:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.08-02.41.19:942][229]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.08-02.41.22:787][258]LogSlate: Window 'A_chair_thinker_01_loop' being destroyed
+[2019.05.08-02.41.22:906][258]LogSlate: Window 'A_chair_thinker_01_loop' being destroyed
+[2019.05.08-02.45.36:754][  2]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.08-02.48.44:055][560]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.08-03.02.01:198][905]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:\Uni\SP2\Comp\Sound effects\GameAudio\Sounds\LungeSound.wav)
+[2019.05.08-03.02.04:038][960]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave LungeSound...
+[2019.05.08-03.02.04:079][960]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 73784 while cooking SoundWave /Game/Assignment/Audio/Sounds/LungeSound.LungeSound.
+[2019.05.08-03.02.20:757][586]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/Main" FILE="../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.05.08-03.02.26:325][586]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Main40C432F74BF19A95B993A699921CD47A.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Main.umap'
+[2019.05.08-03.03.57:255][257]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Assignment/Character_Peoples/Knight/Relax/WalkFwdLoop.WalkFwdLoop
+[2019.05.08-03.03.57:304][257]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_41:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.08-03.03.57:487][257]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_41:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.08-03.04.00:549][262]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.08-03.04.56:090][866]Cmd: TRANSACTION UNDO
+[2019.05.08-03.04.56:090][866]LogEditorTransaction: Undo Rename Notify Track to '2'
+[2019.05.08-03.04.56:399][866]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_41:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.08-03.05.07:869][970]LogSlate: Window 'Undo History' being destroyed
+[2019.05.08-03.05.07:988][970]LogSlate: Window 'Undo History' being destroyed
+[2019.05.08-03.05.23:624][127]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.05.08-03.06.30:746][689]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/WalkFwdLoopB79363EB489E3E6E8AA789BA14B90826.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Character_Peoples/Knight/Relax/WalkFwdLoop.uasset'
+[2019.05.08-03.11.46:716][923]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/WalkFwdLoop4D906BDA418CBBAAE6A4DB967619298A.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Character_Peoples/Knight/Relax/WalkFwdLoop.uasset'
+[2019.05.08-03.12.22:280][ 36]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Assignment/Main' took 0.175
+[2019.05.08-03.12.22:285][ 36]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assignment/Audio/Sounds/LungeSound] ([1] browsable assets)...
+[2019.05.08-03.12.22:345][ 36]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assignment/Audio/Sounds/LungeSound.LungeSound]
+[2019.05.08-03.12.22:345][ 36]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assignment/Audio/Sounds/LungeSound]
+[2019.05.08-03.12.22:394][ 36]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/LungeSound_Auto245DC5C6D43F474680ACBA7B1E7CCACDB.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Autosaves/Game/Assignment/Audio/Sounds/LungeSound_Auto2.uasset'
+[2019.05.08-03.12.22:399][ 36]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assignment/Audio/Sounds/Lunge_Cue] ([1] browsable assets)...
+[2019.05.08-03.12.22:399][ 36]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assignment/Audio/Sounds/Lunge_Cue]
+[2019.05.08-03.12.22:435][ 36]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Lunge_Cue_Auto2D135740A49EE5BB03462C49F88D3A689.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Autosaves/Game/Assignment/Audio/Sounds/Lunge_Cue_Auto2.uasset'
+[2019.05.08-03.12.22:440][ 36]LogFileHelpers: Auto-saving content packages took 0.156
+[2019.05.08-03.12.26:715][ 69]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/WalkFwdLoop098EC41642C9818386AD76AB544432DC.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Character_Peoples/Knight/Relax/WalkFwdLoop.uasset'
+[2019.05.08-03.12.29:126][ 95]LogSlate: Window 'WalkFwdLoop' being destroyed
+[2019.05.08-03.12.29:234][ 95]LogSlate: Window 'WalkFwdLoop' being destroyed
+[2019.05.08-03.12.31:844][103]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Assignment/Character_Peoples/Knight/Relax/WalkBwdLoop.WalkBwdLoop
+[2019.05.08-03.12.31:879][103]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_44:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.08-03.12.32:038][103]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_44:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.08-03.12.34:965][108]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.08-03.13.08:769][442]Cmd: TRANSACTION UNDO
+[2019.05.08-03.13.08:771][442]LogEditorTransaction: Undo Add Anim Notify
+[2019.05.08-03.13.09:010][442]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_44:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.08-03.13.56:036][890]Cmd: TRANSACTION UNDO
+[2019.05.08-03.13.56:036][890]LogEditorTransaction: Undo Move Anim Notify
+[2019.05.08-03.13.56:360][890]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_44:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.08-03.14.46:047][364]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/WalkBwdLoop106AFEE1433C6F9A1C2F6A89831046C8.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Character_Peoples/Knight/Relax/WalkBwdLoop.uasset'
+[2019.05.08-03.14.48:070][386]LogSlate: Window 'WalkBwdLoop' being destroyed
+[2019.05.08-03.14.48:176][386]LogSlate: Window 'WalkBwdLoop' being destroyed
+[2019.05.08-03.14.50:919][395]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assignment/Character_Peoples/Vikings/Fight/Volume1_step_forward.Volume1_step_forward
+[2019.05.08-03.14.50:920][395]LogAnimationCompression: Recompressing (AnimSequence /Game/Assignment/Character_Peoples/Vikings/Fight/Volume1_step_forward.Volume1_step_forward) using current/default (AnimCompress_BitwiseCompressOnly_4) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.05.08-03.14.51:184][395]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Assignment/Character_Peoples/Vikings/Fight/Volume1_step_forward.Volume1_step_forward
+[2019.05.08-03.14.51:223][395]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_47:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.08-03.14.51:390][395]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_47:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.08-03.14.54:888][402]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.08-03.15.15:642][545]LogSlate: Window 'Volume1_step_forward' being destroyed
+[2019.05.08-03.15.15:670][545]LogSlate: Window 'Volume1_step_forward' being destroyed
+[2019.05.08-03.15.24:767][817]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.08-03.15.24:855][817]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Assignment/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Assignment/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Assignment/Main.Main_C' with ClassGeneratedBy '/Game/Assignment/Main.Main:PersistentLevel.Main'
+[2019.05.08-03.15.24:856][817]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.08-03.15.24:856][817]PIE: New page: PIE session: Main (8 May 2019 10:15:24 pm)
+[2019.05.08-03.15.24:858][817]LogPlayLevel: Creating play world package: /Game/Assignment/UEDPIE_0_Main
+[2019.05.08-03.15.25:129][817]LogPlayLevel: PIE: StaticDuplicateObject took: (0.270455s)
+[2019.05.08-03.15.25:130][817]LogAIModule: Creating AISystem for world Main
+[2019.05.08-03.15.25:131][817]LogPlayLevel: PIE: World Init took: (0.002458s)
+[2019.05.08-03.15.25:133][817]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assignment/Main.Main to /Game/Assignment/UEDPIE_0_Main.Main (0.274658s)
+[2019.05.08-03.15.25:203][817]LogGarbage: Warning: GC detected illegal reference to PIE object from content [possibly via [todo]]:
+[2019.05.08-03.15.25:203][817]LogGarbage: Warning:       PIE object: World /Game/Assignment/UEDPIE_0_Main.Main
+[2019.05.08-03.15.25:203][817]LogGarbage: Warning:   NON-PIE object: UnrealEdEngine /Engine/Transient.UnrealEdEngine_0
+[2019.05.08-03.15.25:308][817]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.08-03.15.25:347][817]LogInit: FAudioDevice initialized.
+[2019.05.08-03.15.25:388][817]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.05.08-03.15.25:781][817]LogWorld: Bringing World /Game/Assignment/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2019.05.08-12.45.25
+[2019.05.08-03.15.25:821][817]LogWorld: Bringing up level for play took: 0.432188
+[2019.05.08-03.15.25:859][817]PIE: Play in editor start time for /Game/Assignment/UEDPIE_0_Main 1.43
+[2019.05.08-03.15.25:860][817]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Assignment/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Assignment/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Assignment/Main.Main_C' with ClassGeneratedBy '/Game/Assignment/Main.Main:PersistentLevel.Main'
+[2019.05.08-03.16.11:061][132]LogGarbage: Warning: GC detected illegal reference to PIE object from content [possibly via [todo]]:
+[2019.05.08-03.16.11:062][132]LogGarbage: Warning:       PIE object: World /Game/Assignment/UEDPIE_0_Main.Main
+[2019.05.08-03.16.11:062][132]LogGarbage: Warning:   NON-PIE object: UnrealEdEngine /Engine/Transient.UnrealEdEngine_0
+[2019.05.08-03.16.11:111][132]LogGarbage: Warning: GC detected illegal reference to PIE object from content [possibly via [todo]]:
+[2019.05.08-03.16.11:111][132]LogGarbage: Warning:       PIE object: BP_Character_C /Game/Assignment/UEDPIE_0_Main.Main:PersistentLevel.BP_Character_C_0
+[2019.05.08-03.16.11:111][132]LogGarbage: Warning:   NON-PIE object: Character_HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.Character_HUD_C_0
+[2019.05.08-03.17.12:250][723]LogGarbage: Warning: GC detected illegal reference to PIE object from content [possibly via [todo]]:
+[2019.05.08-03.17.12:251][723]LogGarbage: Warning:       PIE object: World /Game/Assignment/UEDPIE_0_Main.Main
+[2019.05.08-03.17.12:251][723]LogGarbage: Warning:   NON-PIE object: UnrealEdEngine /Engine/Transient.UnrealEdEngine_0
+[2019.05.08-03.17.12:303][723]LogGarbage: Warning: GC detected illegal reference to PIE object from content [possibly via [todo]]:
+[2019.05.08-03.17.12:303][723]LogGarbage: Warning:       PIE object: BP_Character_C /Game/Assignment/UEDPIE_0_Main.Main:PersistentLevel.BP_Character_C_0
+[2019.05.08-03.17.12:303][723]LogGarbage: Warning:   NON-PIE object: Character_HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.Character_HUD_C_0
+[2019.05.08-03.17.21:277][794]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Assignment/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Assignment/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Assignment/Main.Main_C' with ClassGeneratedBy '/Game/Assignment/Main.Main:PersistentLevel.Main'
+[2019.05.08-03.17.21:278][794]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.08-03.17.21:530][794]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.08-03.17.21:531][794]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Assignment/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Assignment/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Assignment/Main.Main_C' with ClassGeneratedBy '/Game/Assignment/Main.Main:PersistentLevel.Main'
+[2019.05.08-03.17.21:675][794]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.08-03.17.21:818][795]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2019.05.08-03.17.51:399][900]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.08-03.32.34:218][648]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:\Uni\SP2\Comp\Sound effects\GameAudio\Sounds\GroundArmourStepSound.wav)
+[2019.05.08-03.32.44:666][789]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:\Uni\SP2\Comp\Sound effects\GameAudio\Sounds\GroundStepSound.wav)
+[2019.05.08-03.32.48:395][874]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave GroundStepSound...
+[2019.05.08-03.32.48:462][874]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 101768 while cooking SoundWave /Game/Assignment/Audio/Sounds/GroundStepSound.GroundStepSound.
+[2019.05.08-03.32.50:186][940]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave GroundArmourStepSound...
+[2019.05.08-03.32.50:228][940]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 101768 while cooking SoundWave /Game/Assignment/Audio/Sounds/GroundArmourStepSound.GroundArmourStepSound.
+[2019.05.08-03.33.32:139][556]LogAssetEditorManager: Opening Asset editor for SoundCue /Game/Assignment/Audio/Sounds/GrassStep_Cue.GrassStep_Cue
+[2019.05.08-03.35.27:871][980]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/GrassStep_Cue0095A70E4135734378A4EF98E18C1539.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Audio/Sounds/GrassStep_Cue.uasset'
+[2019.05.08-03.35.29:971][ 38]LogSlate: Window 'GrassStep_Cue' being destroyed
+[2019.05.08-03.35.29:990][ 38]LogSlate: Window 'GrassStep_Cue' being destroyed
+[2019.05.08-03.35.32:142][110]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/Main" FILE="../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.05.08-03.35.37:303][110]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Main4CA4E8DD4E6996BDAB04FB8CEB87CB78.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Main.umap'
+[2019.05.08-03.35.45:538][383]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Assignment/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Assignment/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Assignment/Main.Main_C' with ClassGeneratedBy '/Game/Assignment/Main.Main:PersistentLevel.Main'
+[2019.05.08-03.35.45:539][383]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.08-03.35.45:539][383]PIE: New page: PIE session: Main (8 May 2019 10:35:45 pm)
+[2019.05.08-03.35.45:539][383]LogPlayLevel: Creating play world package: /Game/Assignment/UEDPIE_0_Main
+[2019.05.08-03.35.45:905][383]LogPlayLevel: PIE: StaticDuplicateObject took: (0.366212s)
+[2019.05.08-03.35.45:907][383]LogAIModule: Creating AISystem for world Main
+[2019.05.08-03.35.45:910][383]LogPlayLevel: PIE: World Init took: (0.004293s)
+[2019.05.08-03.35.45:914][383]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assignment/Main.Main to /Game/Assignment/UEDPIE_0_Main.Main (0.374434s)
+[2019.05.08-03.35.46:000][383]LogGarbage: Warning: GC detected illegal reference to PIE object from content [possibly via [todo]]:
+[2019.05.08-03.35.46:000][383]LogGarbage: Warning:       PIE object: World /Game/Assignment/UEDPIE_0_Main.Main
+[2019.05.08-03.35.46:000][383]LogGarbage: Warning:   NON-PIE object: UnrealEdEngine /Engine/Transient.UnrealEdEngine_0
+[2019.05.08-03.35.46:088][383]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.08-03.35.46:151][383]LogInit: FAudioDevice initialized.
+[2019.05.08-03.35.46:170][383]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.08-03.35.46:224][383]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.05.08-03.35.46:631][383]LogWorld: Bringing World /Game/Assignment/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2019.05.08-13.05.46
+[2019.05.08-03.35.46:700][383]LogWorld: Bringing up level for play took: 0.472092
+[2019.05.08-03.35.46:750][383]PIE: Play in editor start time for /Game/Assignment/UEDPIE_0_Main 0.32
+[2019.05.08-03.35.46:751][383]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Assignment/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Assignment/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Assignment/Main.Main_C' with ClassGeneratedBy '/Game/Assignment/Main.Main:PersistentLevel.Main'
+[2019.05.08-03.35.47:277][383]LogRenderer: Reallocating scene render targets to support 1292x756 Format 10 NumSamples 1 (Frame:1).
+[2019.05.08-03.36.37:427][674]LogGarbage: Warning: GC detected illegal reference to PIE object from content [possibly via [todo]]:
+[2019.05.08-03.36.37:427][674]LogGarbage: Warning:       PIE object: World /Game/Assignment/UEDPIE_0_Main.Main
+[2019.05.08-03.36.37:427][674]LogGarbage: Warning:   NON-PIE object: UnrealEdEngine /Engine/Transient.UnrealEdEngine_0
+[2019.05.08-03.36.37:460][674]LogGarbage: Warning: GC detected illegal reference to PIE object from content [possibly via [todo]]:
+[2019.05.08-03.36.37:460][674]LogGarbage: Warning:       PIE object: BP_Character_C /Game/Assignment/UEDPIE_0_Main.Main:PersistentLevel.BP_Character_C_0
+[2019.05.08-03.36.37:460][674]LogGarbage: Warning:   NON-PIE object: Character_HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.Character_HUD_C_0
+[2019.05.08-03.37.25:871][966]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Assignment/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Assignment/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Assignment/Main.Main_C' with ClassGeneratedBy '/Game/Assignment/Main.Main:PersistentLevel.Main'
+[2019.05.08-03.37.25:873][966]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.08-03.37.26:066][966]LogSlate: Window 'test Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.05.08-03.37.26:189][966]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.08-03.37.26:193][966]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Assignment/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Assignment/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Assignment/Main.Main_C' with ClassGeneratedBy '/Game/Assignment/Main.Main:PersistentLevel.Main'
+[2019.05.08-03.37.26:784][967]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2019.05.08-03.38.06:364][333]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Assignment/Character_Peoples/Knight/Relax/WalkFwdLoop.WalkFwdLoop
+[2019.05.08-03.38.06:415][333]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_50:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.08-03.38.06:657][333]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_50:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.08-03.38.09:708][341]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.08-03.38.15:085][432]LogSlate: Window 'WalkFwdLoop' being destroyed
+[2019.05.08-03.38.15:145][432]LogSlate: Window 'WalkFwdLoop' being destroyed
+[2019.05.08-03.38.25:787][432]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Assignment/Character_Peoples/Knight/Relax/WalkBwdLoop.WalkBwdLoop
+[2019.05.08-03.38.25:845][432]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_53:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.08-03.38.26:039][432]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_53:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.08-03.38.28:187][439]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.08-03.38.43:190][693]LogSlate: Window 'WalkBwdLoop' being destroyed
+[2019.05.08-03.38.43:220][693]LogSlate: Window 'WalkBwdLoop' being destroyed
+[2019.05.08-03.38.45:012][700]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Assignment/Character_Peoples/Vikings/Fight/Volume1_step_forward.Volume1_step_forward
+[2019.05.08-03.38.45:065][700]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_56:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.08-03.38.45:305][700]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_56:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.08-03.38.48:347][707]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.08-03.40.35:194][850]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (53.459 sec). This should never happen. Something is wrong with the timer delegate!
