@@ -1741,3 +1741,516 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.05.08-07.03.56:347][877]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Volume1_pounding_fail_attacked0C4E22D845353A3FE87DDEA8A6678F42.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Character_Peoples/Vikings/Fight/Volume1_pounding_fail_attacked.uasset'
 [2019.05.08-07.03.57:931][899]LogSlate: Window 'Volume1_pounding_fail_attacked' being destroyed
 [2019.05.08-07.03.57:948][899]LogSlate: Window 'Volume1_pounding_fail_attacked' being destroyed
+[2019.05.08-07.05.05:459][127]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assignment/Character_Peoples/Vikings/Fight/Volume1_MT_Lowkick_R.Volume1_MT_Lowkick_R
+[2019.05.08-07.05.05:460][127]LogAnimationCompression: Recompressing (AnimSequence /Game/Assignment/Character_Peoples/Vikings/Fight/Volume1_MT_Lowkick_R.Volume1_MT_Lowkick_R) using current/default (AnimCompress_BitwiseCompressOnly_4) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.05.08-07.05.05:496][127]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Assignment/Character_Peoples/Vikings/Fight/Volume1_MT_Lowkick_R.Volume1_MT_Lowkick_R
+[2019.05.08-07.05.05:540][127]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_107:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.08-07.05.05:775][127]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_107:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.08-07.05.07:697][132]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.08-07.05.46:300][862]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Volume1_MT_Lowkick_R85CDF0274BCBD4880B0019B9B15A7BB9.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Character_Peoples/Vikings/Fight/Volume1_MT_Lowkick_R.uasset'
+[2019.05.08-07.05.49:899][927]LogSlate: Window 'Volume1_MT_Lowkick_R' being destroyed
+[2019.05.08-07.05.49:930][927]LogSlate: Window 'Volume1_MT_Lowkick_R' being destroyed
+[2019.05.08-07.05.51:601][935]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assignment/Character_Peoples/Vikings/Fight/Volume1_MT_Lowkick_L.Volume1_MT_Lowkick_L
+[2019.05.08-07.05.51:601][935]LogAnimationCompression: Recompressing (AnimSequence /Game/Assignment/Character_Peoples/Vikings/Fight/Volume1_MT_Lowkick_L.Volume1_MT_Lowkick_L) using current/default (AnimCompress_BitwiseCompressOnly_4) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.05.08-07.05.51:741][935]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Assignment/Character_Peoples/Vikings/Fight/Volume1_MT_Lowkick_L.Volume1_MT_Lowkick_L
+[2019.05.08-07.05.51:789][935]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_110:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.08-07.05.52:077][935]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_110:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.08-07.05.54:093][939]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.08-07.06.40:098][733]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Volume1_MT_Lowkick_L6DED502D4F30934FFDB80CAEC777582E.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Character_Peoples/Vikings/Fight/Volume1_MT_Lowkick_L.uasset'
+[2019.05.08-07.06.41:835][762]LogSlate: Window 'Volume1_MT_Lowkick_L' being destroyed
+[2019.05.08-07.06.41:859][762]LogSlate: Window 'Volume1_MT_Lowkick_L' being destroyed
+[2019.05.08-07.06.59:881][156]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assignment/Character_Peoples/Vikings/Fight/Volume1_MT_kneekick01.Volume1_MT_kneekick01
+[2019.05.08-07.06.59:881][156]LogAnimationCompression: Recompressing (AnimSequence /Game/Assignment/Character_Peoples/Vikings/Fight/Volume1_MT_kneekick01.Volume1_MT_kneekick01) using current/default (AnimCompress_BitwiseCompressOnly_4) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.05.08-07.06.59:924][156]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Assignment/Character_Peoples/Vikings/Fight/Volume1_MT_kneekick01.Volume1_MT_kneekick01
+[2019.05.08-07.06.59:974][156]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_113:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.08-07.07.00:214][156]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_113:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.08-07.07.02:182][162]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.08-07.07.39:480][814]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Volume1_MT_kneekick01C676390742A11636FE265B9979A33806.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Character_Peoples/Vikings/Fight/Volume1_MT_kneekick01.uasset'
+[2019.05.08-07.07.47:191][966]LogSlate: Window 'Volume1_MT_kneekick01' being destroyed
+[2019.05.08-07.07.47:225][966]LogSlate: Window 'Volume1_MT_kneekick01' being destroyed
+[2019.05.08-07.07.49:214][978]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assignment/Character_Peoples/Vikings/Fight/Volume1_MT_kick02.Volume1_MT_kick02
+[2019.05.08-07.07.49:214][978]LogAnimationCompression: Recompressing (AnimSequence /Game/Assignment/Character_Peoples/Vikings/Fight/Volume1_MT_kick02.Volume1_MT_kick02) using current/default (AnimCompress_BitwiseCompressOnly_4) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.05.08-07.07.49:359][978]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Assignment/Character_Peoples/Vikings/Fight/Volume1_MT_kick02.Volume1_MT_kick02
+[2019.05.08-07.07.49:397][978]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_116:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.08-07.07.49:738][978]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_116:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.08-07.07.52:242][984]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.08-07.08.34:412][761]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Volume1_MT_kick02102E5E3B440FCED0656485B1BE72EB69.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Character_Peoples/Vikings/Fight/Volume1_MT_kick02.uasset'
+[2019.05.08-07.08.36:829][801]LogSlate: Window 'Volume1_MT_kick02' being destroyed
+[2019.05.08-07.08.36:879][801]LogSlate: Window 'Volume1_MT_kick02' being destroyed
+[2019.05.08-07.08.40:569][850]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assignment/Character_Peoples/Vikings/Fight/Volume1_MT_kick01.Volume1_MT_kick01
+[2019.05.08-07.08.40:569][850]LogAnimationCompression: Recompressing (AnimSequence /Game/Assignment/Character_Peoples/Vikings/Fight/Volume1_MT_kick01.Volume1_MT_kick01) using current/default (AnimCompress_BitwiseCompressOnly_4) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.05.08-07.08.40:692][850]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Assignment/Character_Peoples/Vikings/Fight/Volume1_MT_kick01.Volume1_MT_kick01
+[2019.05.08-07.08.40:738][850]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_119:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.08-07.08.40:950][850]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_119:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.08-07.08.43:054][855]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.08-07.09.13:816][412]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Volume1_MT_kick015FEB2DBF42F981B2084B8D9C7560523E.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Character_Peoples/Vikings/Fight/Volume1_MT_kick01.uasset'
+[2019.05.08-07.09.15:813][448]LogSlate: Window 'Volume1_MT_kick01' being destroyed
+[2019.05.08-07.09.15:835][448]LogSlate: Window 'Volume1_MT_kick01' being destroyed
+[2019.05.08-07.09.19:200][468]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assignment/Character_Peoples/Vikings/Fight/Volume1_MT_idle.Volume1_MT_idle
+[2019.05.08-07.09.19:200][468]LogAnimationCompression: Recompressing (AnimSequence /Game/Assignment/Character_Peoples/Vikings/Fight/Volume1_MT_idle.Volume1_MT_idle) using current/default (AnimCompress_BitwiseCompressOnly_4) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.05.08-07.09.19:255][468]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Assignment/Character_Peoples/Vikings/Fight/Volume1_MT_idle.Volume1_MT_idle
+[2019.05.08-07.09.19:306][468]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_122:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.08-07.09.19:605][468]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_122:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.08-07.09.21:713][474]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.08-07.09.24:448][526]LogSlate: Window 'Volume1_MT_idle' being destroyed
+[2019.05.08-07.09.24:478][526]LogSlate: Window 'Volume1_MT_idle' being destroyed
+[2019.05.08-07.09.26:591][538]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assignment/Character_Peoples/Vikings/Fight/Volume1_MT_Elbow_L.Volume1_MT_Elbow_L
+[2019.05.08-07.09.26:591][538]LogAnimationCompression: Recompressing (AnimSequence /Game/Assignment/Character_Peoples/Vikings/Fight/Volume1_MT_Elbow_L.Volume1_MT_Elbow_L) using current/default (AnimCompress_BitwiseCompressOnly_4) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.05.08-07.09.26:739][538]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Assignment/Character_Peoples/Vikings/Fight/Volume1_MT_Elbow_L.Volume1_MT_Elbow_L
+[2019.05.08-07.09.26:776][538]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_125:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.08-07.09.26:992][538]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_125:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.08-07.09.28:943][542]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.08-07.10.09:308][292]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Volume1_MT_Elbow_LF6F45CFD4947881099C2B5866EF252EA.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Character_Peoples/Vikings/Fight/Volume1_MT_Elbow_L.uasset'
+[2019.05.08-07.11.08:635][373]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Volume1_MT_Elbow_L719EFD674256358E455B3E8F618ECEF3.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Character_Peoples/Vikings/Fight/Volume1_MT_Elbow_L.uasset'
+[2019.05.08-07.11.10:290][401]LogSlate: Window 'Volume1_MT_Elbow_L' being destroyed
+[2019.05.08-07.11.10:323][401]LogSlate: Window 'Volume1_MT_Elbow_L' being destroyed
+[2019.05.08-07.11.11:993][408]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assignment/Character_Peoples/Vikings/Fight/Volume1_MT_airspinkick.Volume1_MT_airspinkick
+[2019.05.08-07.11.11:993][408]LogAnimationCompression: Recompressing (AnimSequence /Game/Assignment/Character_Peoples/Vikings/Fight/Volume1_MT_airspinkick.Volume1_MT_airspinkick) using current/default (AnimCompress_BitwiseCompressOnly_4) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.05.08-07.11.12:069][408]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Assignment/Character_Peoples/Vikings/Fight/Volume1_MT_airspinkick.Volume1_MT_airspinkick
+[2019.05.08-07.11.12:120][408]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_128:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.08-07.11.12:433][408]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_128:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.08-07.11.16:063][416]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.08-07.12.32:539][695]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Volume1_MT_airspinkick9AF30B874FC88A00DB3F4EADDE9A96B8.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Character_Peoples/Vikings/Fight/Volume1_MT_airspinkick.uasset'
+[2019.05.08-07.12.34:454][729]LogSlate: Window 'Volume1_MT_airspinkick' being destroyed
+[2019.05.08-07.12.34:504][729]LogSlate: Window 'Volume1_MT_airspinkick' being destroyed
+[2019.05.08-07.12.36:916][745]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assignment/Character_Peoples/Vikings/Fight/Volume1_knockdown_start.Volume1_knockdown_start
+[2019.05.08-07.12.36:916][745]LogAnimationCompression: Recompressing (AnimSequence /Game/Assignment/Character_Peoples/Vikings/Fight/Volume1_knockdown_start.Volume1_knockdown_start) using current/default (AnimCompress_BitwiseCompressOnly_4) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.05.08-07.12.37:055][745]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Assignment/Character_Peoples/Vikings/Fight/Volume1_knockdown_start.Volume1_knockdown_start
+[2019.05.08-07.12.37:098][745]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_131:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.08-07.12.37:371][745]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_131:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.08-07.12.39:725][751]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.08-07.13.06:213][231]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Volume1_knockdown_start809AE0EF48B465F63818DF96E3328C9F.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Character_Peoples/Vikings/Fight/Volume1_knockdown_start.uasset'
+[2019.05.08-07.13.23:002][550]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Volume1_knockdown_start6C0145294275D500E76C3DBE7391F9D3.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Character_Peoples/Vikings/Fight/Volume1_knockdown_start.uasset'
+[2019.05.08-07.13.24:874][586]LogSlate: Window 'Volume1_knockdown_start' being destroyed
+[2019.05.08-07.13.24:923][586]LogSlate: Window 'Volume1_knockdown_start' being destroyed
+[2019.05.08-07.13.26:608][595]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assignment/Character_Peoples/Vikings/Fight/Volume1_knockdown_Loop.Volume1_knockdown_Loop
+[2019.05.08-07.13.26:608][595]LogAnimationCompression: Recompressing (AnimSequence /Game/Assignment/Character_Peoples/Vikings/Fight/Volume1_knockdown_Loop.Volume1_knockdown_Loop) using current/default (AnimCompress_BitwiseCompressOnly_4) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.05.08-07.13.26:640][595]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Assignment/Character_Peoples/Vikings/Fight/Volume1_knockdown_Loop.Volume1_knockdown_Loop
+[2019.05.08-07.13.26:681][595]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_134:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.08-07.13.26:905][595]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_134:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.08-07.13.28:790][599]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.08-07.13.31:698][653]LogSlate: Window 'Volume1_knockdown_Loop' being destroyed
+[2019.05.08-07.13.31:737][653]LogSlate: Window 'Volume1_knockdown_Loop' being destroyed
+[2019.05.08-07.13.33:663][663]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assignment/Character_Peoples/Vikings/Fight/Volume1_knockdown_end.Volume1_knockdown_end
+[2019.05.08-07.13.33:664][663]LogAnimationCompression: Recompressing (AnimSequence /Game/Assignment/Character_Peoples/Vikings/Fight/Volume1_knockdown_end.Volume1_knockdown_end) using current/default (AnimCompress_BitwiseCompressOnly_4) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.05.08-07.13.33:798][663]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Assignment/Character_Peoples/Vikings/Fight/Volume1_knockdown_end.Volume1_knockdown_end
+[2019.05.08-07.13.33:855][663]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_137:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.08-07.13.34:147][663]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_137:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.08-07.13.37:461][673]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.08-07.14.14:547][188]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Volume1_knockdown_end82A66903425FB41BA6C4D4AEE3330259.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Character_Peoples/Vikings/Fight/Volume1_knockdown_end.uasset'
+[2019.05.08-07.14.16:429][220]LogSlate: Window 'Volume1_knockdown_end' being destroyed
+[2019.05.08-07.14.16:473][220]LogSlate: Window 'Volume1_knockdown_end' being destroyed
+[2019.05.08-07.14.18:309][229]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assignment/Character_Peoples/Vikings/Fight/Volume1_knee_press.Volume1_knee_press
+[2019.05.08-07.14.18:310][229]LogAnimationCompression: Recompressing (AnimSequence /Game/Assignment/Character_Peoples/Vikings/Fight/Volume1_knee_press.Volume1_knee_press) using current/default (AnimCompress_BitwiseCompressOnly_4) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.05.08-07.14.18:354][229]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Assignment/Character_Peoples/Vikings/Fight/Volume1_knee_press.Volume1_knee_press
+[2019.05.08-07.14.18:400][229]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_140:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.08-07.14.18:680][229]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_140:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.08-07.14.23:635][235]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.08-07.15.58:473][960]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Volume1_knee_pressE6DA2E5D43343CCE0E1AB8A32693556F.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Character_Peoples/Vikings/Fight/Volume1_knee_press.uasset'
+[2019.05.08-07.16.00:724][  2]LogSlate: Window 'Volume1_knee_press' being destroyed
+[2019.05.08-07.16.00:758][  2]LogSlate: Window 'Volume1_knee_press' being destroyed
+[2019.05.08-07.16.28:482][ 69]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Assignment/Main' took 0.494
+[2019.05.08-07.16.28:488][ 69]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assignment/Audio/Sounds/SkinGrabSound1] ([1] browsable assets)...
+[2019.05.08-07.16.28:515][ 69]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assignment/Audio/Sounds/SkinGrabSound1.SkinGrabSound1]
+[2019.05.08-07.16.28:515][ 69]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assignment/Audio/Sounds/SkinGrabSound1]
+[2019.05.08-07.16.28:844][ 69]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/SkinGrabSound1_Auto7AF13FA5C4AB0B7ACADC7468021326488.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Autosaves/Game/Assignment/Audio/Sounds/SkinGrabSound1_Auto7.uasset'
+[2019.05.08-07.16.29:934][ 69]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assignment/Audio/Sounds/SkinGrabSound2] ([1] browsable assets)...
+[2019.05.08-07.16.29:948][ 69]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assignment/Audio/Sounds/SkinGrabSound2.SkinGrabSound2]
+[2019.05.08-07.16.29:948][ 69]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assignment/Audio/Sounds/SkinGrabSound2]
+[2019.05.08-07.16.30:015][ 69]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/SkinGrabSound2_Auto708BF60924F1296C999AAFEA110BE2ADA.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Autosaves/Game/Assignment/Audio/Sounds/SkinGrabSound2_Auto7.uasset'
+[2019.05.08-07.16.30:048][ 69]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assignment/Audio/Sounds/SkinGrab_Cue] ([1] browsable assets)...
+[2019.05.08-07.16.30:048][ 69]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assignment/Audio/Sounds/SkinGrab_Cue]
+[2019.05.08-07.16.30:342][ 69]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/SkinGrab_Cue_Auto749CEE9434B9FEE33F5151A898D049F37.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Autosaves/Game/Assignment/Audio/Sounds/SkinGrab_Cue_Auto7.uasset'
+[2019.05.08-07.16.30:357][ 69]LogFileHelpers: Auto-saving content packages took 1.869
+[2019.05.08-07.27.48:921][322]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Assignment/Character_Peoples/Vikings/Fight/Volume1_knee_press.Volume1_knee_press
+[2019.05.08-07.27.48:963][322]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_143:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.08-07.27.49:170][322]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_143:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.08-07.27.51:336][327]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.08-07.27.54:963][372]LogSlate: Window 'Volume1_knee_press' being destroyed
+[2019.05.08-07.27.54:999][372]LogSlate: Window 'Volume1_knee_press' being destroyed
+[2019.05.08-07.27.56:842][381]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assignment/Character_Peoples/Vikings/Fight/Volume1_jab_R.Volume1_jab_R
+[2019.05.08-07.27.56:842][381]LogAnimationCompression: Recompressing (AnimSequence /Game/Assignment/Character_Peoples/Vikings/Fight/Volume1_jab_R.Volume1_jab_R) using current/default (AnimCompress_BitwiseCompressOnly_4) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.05.08-07.27.56:983][381]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Assignment/Character_Peoples/Vikings/Fight/Volume1_jab_R.Volume1_jab_R
+[2019.05.08-07.27.57:034][381]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_146:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.08-07.27.57:459][381]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_146:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.08-07.28.00:079][388]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.08-07.28.30:186][872]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Volume1_jab_R8696096E4965C0CC1EF8F2B832080CFF.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Character_Peoples/Vikings/Fight/Volume1_jab_R.uasset'
+[2019.05.08-07.28.32:362][909]LogSlate: Window 'Volume1_jab_R' being destroyed
+[2019.05.08-07.28.32:382][909]LogSlate: Window 'Volume1_jab_R' being destroyed
+[2019.05.08-07.28.33:847][917]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assignment/Character_Peoples/Vikings/Fight/Volume1_jab_L.Volume1_jab_L
+[2019.05.08-07.28.33:847][917]LogAnimationCompression: Recompressing (AnimSequence /Game/Assignment/Character_Peoples/Vikings/Fight/Volume1_jab_L.Volume1_jab_L) using current/default (AnimCompress_BitwiseCompressOnly_4) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.05.08-07.28.33:959][917]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Assignment/Character_Peoples/Vikings/Fight/Volume1_jab_L.Volume1_jab_L
+[2019.05.08-07.28.34:016][917]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_149:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.08-07.28.34:320][917]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_149:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.08-07.28.37:706][923]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.08-07.29.19:548][641]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Volume1_jab_LDC2DC42946F623EA3E1202AA2A59FEEE.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Character_Peoples/Vikings/Fight/Volume1_jab_L.uasset'
+[2019.05.08-07.29.21:400][669]LogSlate: Window 'Volume1_jab_L' being destroyed
+[2019.05.08-07.29.21:433][669]LogSlate: Window 'Volume1_jab_L' being destroyed
+[2019.05.08-07.29.23:662][680]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assignment/Character_Peoples/Vikings/Fight/Volume1_jab_cross.Volume1_jab_cross
+[2019.05.08-07.29.23:662][680]LogAnimationCompression: Recompressing (AnimSequence /Game/Assignment/Character_Peoples/Vikings/Fight/Volume1_jab_cross.Volume1_jab_cross) using current/default (AnimCompress_BitwiseCompressOnly_4) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.05.08-07.29.23:810][680]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Assignment/Character_Peoples/Vikings/Fight/Volume1_jab_cross.Volume1_jab_cross
+[2019.05.08-07.29.23:858][680]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_152:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.08-07.29.24:081][680]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_152:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.08-07.29.26:040][685]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.08-07.30.02:641][291]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Volume1_jab_cross574359A946A1D1528B79F0BCFF35D26F.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Character_Peoples/Vikings/Fight/Volume1_jab_cross.uasset'
+[2019.05.08-07.30.33:564][787]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Volume1_jab_crossE21E295E4A8BA8F8ACB6AE97F6A2339B.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Character_Peoples/Vikings/Fight/Volume1_jab_cross.uasset'
+[2019.05.08-07.30.35:555][819]LogSlate: Window 'Volume1_jab_cross' being destroyed
+[2019.05.08-07.30.35:577][819]LogSlate: Window 'Volume1_jab_cross' being destroyed
+[2019.05.08-07.30.37:347][826]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assignment/Character_Peoples/Vikings/Fight/Volume1_footpress.Volume1_footpress
+[2019.05.08-07.30.37:348][826]LogAnimationCompression: Recompressing (AnimSequence /Game/Assignment/Character_Peoples/Vikings/Fight/Volume1_footpress.Volume1_footpress) using current/default (AnimCompress_BitwiseCompressOnly_4) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.05.08-07.30.37:492][826]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Assignment/Character_Peoples/Vikings/Fight/Volume1_footpress.Volume1_footpress
+[2019.05.08-07.30.37:530][826]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_155:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.08-07.30.37:740][826]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_155:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.08-07.30.40:298][832]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.08-07.31.20:377][482]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Volume1_footpressE0B38D30427647FB5977CBA5169CE826.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Character_Peoples/Vikings/Fight/Volume1_footpress.uasset'
+[2019.05.08-07.31.22:666][520]LogSlate: Window 'Volume1_footpress' being destroyed
+[2019.05.08-07.31.22:689][520]LogSlate: Window 'Volume1_footpress' being destroyed
+[2019.05.08-07.31.24:470][529]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assignment/Character_Peoples/Vikings/Fight/Volume1_Downkick_L.Volume1_Downkick_L
+[2019.05.08-07.31.24:470][529]LogAnimationCompression: Recompressing (AnimSequence /Game/Assignment/Character_Peoples/Vikings/Fight/Volume1_Downkick_L.Volume1_Downkick_L) using current/default (AnimCompress_BitwiseCompressOnly_4) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.05.08-07.31.24:587][529]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Assignment/Character_Peoples/Vikings/Fight/Volume1_Downkick_L.Volume1_Downkick_L
+[2019.05.08-07.31.24:650][529]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_158:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.08-07.31.25:009][529]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_158:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.08-07.31.28:038][535]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.08-07.31.51:958][928]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Volume1_Downkick_L390A76A3460BB9F9AAA30787F8C50A03.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Character_Peoples/Vikings/Fight/Volume1_Downkick_L.uasset'
+[2019.05.08-07.31.53:839][959]LogSlate: Window 'Volume1_Downkick_L' being destroyed
+[2019.05.08-07.31.53:856][959]LogSlate: Window 'Volume1_Downkick_L' being destroyed
+[2019.05.08-07.31.55:554][967]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assignment/Character_Peoples/Vikings/Fight/Volume1_defence.Volume1_defence
+[2019.05.08-07.31.55:554][967]LogAnimationCompression: Recompressing (AnimSequence /Game/Assignment/Character_Peoples/Vikings/Fight/Volume1_defence.Volume1_defence) using current/default (AnimCompress_BitwiseCompressOnly_4) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.05.08-07.31.55:604][967]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Assignment/Character_Peoples/Vikings/Fight/Volume1_defence.Volume1_defence
+[2019.05.08-07.31.55:660][967]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_161:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.08-07.31.56:073][967]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_161:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.08-07.32.00:905][976]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.08-07.32.06:446][ 59]LogSlate: Window 'Volume1_defence' being destroyed
+[2019.05.08-07.32.06:464][ 59]LogSlate: Window 'Volume1_defence' being destroyed
+[2019.05.08-07.32.08:054][ 63]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Assignment/Character_Peoples/Vikings/Fight/Volume1_cross_uppercut.Volume1_cross_uppercut
+[2019.05.08-07.32.08:108][ 63]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_164:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.08-07.32.08:667][ 63]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_164:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.08-07.32.10:709][ 68]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.08-07.32.42:333][576]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Volume1_cross_uppercutDDE44175460998FD8AB1C49D5C1725A6.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Character_Peoples/Vikings/Fight/Volume1_cross_uppercut.uasset'
+[2019.05.08-07.32.45:528][633]LogSlate: Window 'Volume1_cross_uppercut' being destroyed
+[2019.05.08-07.32.45:554][633]LogSlate: Window 'Volume1_cross_uppercut' being destroyed
+[2019.05.08-07.32.49:203][655]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Assignment/Character_Peoples/Vikings/Fight/Volume1_combo.Volume1_combo
+[2019.05.08-07.32.49:255][655]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_167:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.08-07.32.49:484][655]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_167:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.08-07.32.51:635][660]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.08-07.46.37:006][777]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Volume1_combo274A745E43A677BB2F3BAD908A08F9C7.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Character_Peoples/Vikings/Fight/Volume1_combo.uasset'
+[2019.05.08-07.46.39:103][815]LogSlate: Window 'Volume1_combo' being destroyed
+[2019.05.08-07.46.39:124][815]LogSlate: Window 'Volume1_combo' being destroyed
+[2019.05.08-07.46.41:356][826]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assignment/Normal/ThirdPersonWalk.ThirdPersonWalk
+[2019.05.08-07.46.41:360][826]LogAnimationCompression: Recompressing (AnimSequence /Game/Assignment/Normal/ThirdPersonWalk.ThirdPersonWalk) using current/default (AnimCompress_RemoveLinearKeys_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.05.08-07.46.41:461][826]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Assignment/Normal/ThirdPersonWalk.ThirdPersonWalk
+[2019.05.08-07.46.41:501][826]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_170:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.08-07.46.41:707][826]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_170:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.08-07.46.44:005][832]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.08-07.48.35:984][337]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/ThirdPersonWalkD2DF4750440B387557C4AB97B1CE1912.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Normal/ThirdPersonWalk.uasset'
+[2019.05.08-07.48.39:059][390]LogSlate: Window 'ThirdPersonWalk' being destroyed
+[2019.05.08-07.48.39:071][390]LogSlate: Window 'ThirdPersonWalk' being destroyed
+[2019.05.08-07.48.41:664][405]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Assignment/Normal/ThirdPersonRun.ThirdPersonRun
+[2019.05.08-07.48.41:708][405]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_173:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.08-07.48.42:000][405]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_173:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.08-07.48.44:183][411]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.08-07.50.09:866][626]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/Normal/ThirdPersonRun" FILE="../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Normal/ThirdPersonRun.uasset" SILENT=true
+[2019.05.08-07.50.10:088][626]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/ThirdPersonRun9EF015004910709473582F98A14A2259.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Normal/ThirdPersonRun.uasset'
+[2019.05.08-07.50.19:247][745]LogSlate: Window 'ThirdPersonRun' being destroyed
+[2019.05.08-07.50.19:268][745]LogSlate: Window 'ThirdPersonRun' being destroyed
+[2019.05.08-07.50.24:806][851]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Assignment/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Assignment/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Assignment/Main.Main_C' with ClassGeneratedBy '/Game/Assignment/Main.Main:PersistentLevel.Main'
+[2019.05.08-07.50.24:809][851]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.08-07.50.24:811][851]PIE: New page: PIE session: Main (9 May 2019 2:50:24 am)
+[2019.05.08-07.50.24:825][851]LogPlayLevel: Creating play world package: /Game/Assignment/UEDPIE_0_Main
+[2019.05.08-07.50.25:239][851]LogPlayLevel: PIE: StaticDuplicateObject took: (0.413020s)
+[2019.05.08-07.50.25:246][851]LogAIModule: Creating AISystem for world Main
+[2019.05.08-07.50.25:274][851]LogPlayLevel: PIE: World Init took: (0.032848s)
+[2019.05.08-07.50.25:276][851]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assignment/Main.Main to /Game/Assignment/UEDPIE_0_Main.Main (0.451474s)
+[2019.05.08-07.50.25:382][851]LogGarbage: Warning: GC detected illegal reference to PIE object from content [possibly via [todo]]:
+[2019.05.08-07.50.25:382][851]LogGarbage: Warning:       PIE object: World /Game/Assignment/UEDPIE_0_Main.Main
+[2019.05.08-07.50.25:382][851]LogGarbage: Warning:   NON-PIE object: UnrealEdEngine /Engine/Transient.UnrealEdEngine_0
+[2019.05.08-07.50.25:659][851]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.08-07.50.25:708][851]LogInit: FAudioDevice initialized.
+[2019.05.08-07.50.25:748][851]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.08-07.50.25:840][851]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.05.08-07.50.26:437][851]LogWorld: Bringing World /Game/Assignment/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2019.05.08-17.20.26
+[2019.05.08-07.50.26:563][851]LogWorld: Bringing up level for play took: 0.717270
+[2019.05.08-07.50.26:706][851]PIE: Play in editor start time for /Game/Assignment/UEDPIE_0_Main 2.679
+[2019.05.08-07.50.26:722][851]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Assignment/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Assignment/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Assignment/Main.Main_C' with ClassGeneratedBy '/Game/Assignment/Main.Main:PersistentLevel.Main'
+[2019.05.08-07.50.49:496][966]LogGarbage: Warning: GC detected illegal reference to PIE object from content [possibly via [todo]]:
+[2019.05.08-07.50.49:497][966]LogGarbage: Warning:       PIE object: World /Game/Assignment/UEDPIE_0_Main.Main
+[2019.05.08-07.50.49:497][966]LogGarbage: Warning:   NON-PIE object: UnrealEdEngine /Engine/Transient.UnrealEdEngine_0
+[2019.05.08-07.50.49:526][966]LogGarbage: Warning: GC detected illegal reference to PIE object from content [possibly via [todo]]:
+[2019.05.08-07.50.49:526][966]LogGarbage: Warning:       PIE object: BP_Character_C /Game/Assignment/UEDPIE_0_Main.Main:PersistentLevel.BP_Character_C_0
+[2019.05.08-07.50.49:528][966]LogGarbage: Warning:   NON-PIE object: Character_HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_6.Character_HUD_C_0
+[2019.05.08-07.51.50:570][348]LogGarbage: Warning: GC detected illegal reference to PIE object from content [possibly via [todo]]:
+[2019.05.08-07.51.50:570][348]LogGarbage: Warning:       PIE object: World /Game/Assignment/UEDPIE_0_Main.Main
+[2019.05.08-07.51.50:570][348]LogGarbage: Warning:   NON-PIE object: UnrealEdEngine /Engine/Transient.UnrealEdEngine_0
+[2019.05.08-07.51.50:596][348]LogGarbage: Warning: GC detected illegal reference to PIE object from content [possibly via [todo]]:
+[2019.05.08-07.51.50:596][348]LogGarbage: Warning:       PIE object: BP_Character_C /Game/Assignment/UEDPIE_0_Main.Main:PersistentLevel.BP_Character_C_0
+[2019.05.08-07.51.50:596][348]LogGarbage: Warning:   NON-PIE object: Character_HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_6.Character_HUD_C_0
+[2019.05.08-07.51.51:771][356]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Assignment/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Assignment/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Assignment/Main.Main_C' with ClassGeneratedBy '/Game/Assignment/Main.Main:PersistentLevel.Main'
+[2019.05.08-07.51.51:773][356]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.08-07.51.51:875][356]LogSlate: Window 'test Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.05.08-07.51.52:035][356]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.08-07.51.52:037][356]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Assignment/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Assignment/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Assignment/Main.Main_C' with ClassGeneratedBy '/Game/Assignment/Main.Main:PersistentLevel.Main'
+[2019.05.08-07.51.52:272][357]LogPlayLevel: Display: Destroying online subsystem :Context_183
+[2019.05.08-08.00.04:734][527]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Assignment/Normal/ThirdPersonRun.ThirdPersonRun
+[2019.05.08-08.00.04:785][527]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_176:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.08-08.00.05:061][527]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_176:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.08-08.00.09:959][537]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.08-08.00.14:865][581]LogSlate: Window 'ThirdPersonRun' being destroyed
+[2019.05.08-08.00.14:879][581]LogSlate: Window 'ThirdPersonRun' being destroyed
+[2019.05.08-08.00.17:837][581]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Assignment/Normal/ThirdPersonJump_Start.ThirdPersonJump_Start
+[2019.05.08-08.00.17:887][581]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_179:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.08-08.00.18:148][581]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_179:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.08-08.00.21:915][588]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.08-08.22.15:085][607]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-08.22.15:085][607]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-08.22.15:085][607]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-08.22.15:085][607]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-08.22.15:085][607]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-08.22.23:605][609]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (8.520 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-08.22.28:372][763]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.08-08.23.31:307][885]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.08-08.23.37:792][997]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/ThirdPersonJump_Start31ABF03A47155C27C82B4D8030B0BB0B.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Normal/ThirdPersonJump_Start.uasset'
+[2019.05.08-08.23.39:895][ 35]LogSlate: Window 'ThirdPersonJump_Start' being destroyed
+[2019.05.08-08.23.39:910][ 35]LogSlate: Window 'ThirdPersonJump_Start' being destroyed
+[2019.05.08-08.23.42:239][ 46]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Assignment/Normal/ThirdPersonJump_Loop.ThirdPersonJump_Loop
+[2019.05.08-08.23.42:287][ 46]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_182:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.08-08.23.42:500][ 46]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_182:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.08-08.23.44:518][ 49]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.08-08.23.45:134][ 52]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.08-08.23.52:653][200]LogSlate: Window 'ThirdPersonJump_Loop' being destroyed
+[2019.05.08-08.23.52:668][200]LogSlate: Window 'ThirdPersonJump_Loop' being destroyed
+[2019.05.08-08.23.54:605][218]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assignment/Normal/ThirdPersonJump_End.ThirdPersonJump_End
+[2019.05.08-08.23.54:605][218]LogAnimationCompression: Recompressing (AnimSequence /Game/Assignment/Normal/ThirdPersonJump_End.ThirdPersonJump_End) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.05.08-08.23.54:627][218]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Assignment/Normal/ThirdPersonJump_End.ThirdPersonJump_End
+[2019.05.08-08.23.54:669][218]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_185:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.08-08.23.54:857][218]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_185:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.08-08.23.56:767][222]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.08-08.24.04:446][368]LogSlate: Window 'ThirdPersonJump_End' being destroyed
+[2019.05.08-08.24.04:470][368]LogSlate: Window 'ThirdPersonJump_End' being destroyed
+[2019.05.08-08.24.07:685][387]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Assignment/Normal/ThirdPersonJump_End.ThirdPersonJump_End
+[2019.05.08-08.24.07:758][387]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_188:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.08-08.24.07:935][387]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_188:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.08-08.24.10:026][392]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.08-08.24.48:375][109]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.08-08.24.55:182][226]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.08-08.25.02:934][357]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/ThirdPersonJump_EndE597866F48FC43772C639DBF6694E394.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Normal/ThirdPersonJump_End.uasset'
+[2019.05.08-08.25.04:230][379]LogSlate: Window 'ThirdPersonJump_End' being destroyed
+[2019.05.08-08.25.04:243][379]LogSlate: Window 'ThirdPersonJump_End' being destroyed
+[2019.05.08-08.25.08:691][515]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Assignment/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Assignment/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Assignment/Main.Main_C' with ClassGeneratedBy '/Game/Assignment/Main.Main:PersistentLevel.Main'
+[2019.05.08-08.25.08:692][515]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.08-08.25.08:692][515]PIE: New page: PIE session: Main (9 May 2019 3:25:08 am)
+[2019.05.08-08.25.08:693][515]LogPlayLevel: Creating play world package: /Game/Assignment/UEDPIE_0_Main
+[2019.05.08-08.25.08:885][515]LogPlayLevel: PIE: StaticDuplicateObject took: (0.192159s)
+[2019.05.08-08.25.08:886][515]LogAIModule: Creating AISystem for world Main
+[2019.05.08-08.25.08:887][515]LogPlayLevel: PIE: World Init took: (0.001898s)
+[2019.05.08-08.25.08:889][515]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assignment/Main.Main to /Game/Assignment/UEDPIE_0_Main.Main (0.196446s)
+[2019.05.08-08.25.08:951][515]LogGarbage: Warning: GC detected illegal reference to PIE object from content [possibly via [todo]]:
+[2019.05.08-08.25.08:951][515]LogGarbage: Warning:       PIE object: World /Game/Assignment/UEDPIE_0_Main.Main
+[2019.05.08-08.25.08:951][515]LogGarbage: Warning:   NON-PIE object: UnrealEdEngine /Engine/Transient.UnrealEdEngine_0
+[2019.05.08-08.25.09:069][515]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.08-08.25.09:106][515]LogInit: FAudioDevice initialized.
+[2019.05.08-08.25.09:118][515]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.08-08.25.09:172][515]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.05.08-08.25.09:503][515]LogWorld: Bringing World /Game/Assignment/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2019.05.08-17.55.09
+[2019.05.08-08.25.09:543][515]LogWorld: Bringing up level for play took: 0.369349
+[2019.05.08-08.25.09:583][515]PIE: Play in editor start time for /Game/Assignment/UEDPIE_0_Main 1.562
+[2019.05.08-08.25.09:585][515]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Assignment/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Assignment/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Assignment/Main.Main_C' with ClassGeneratedBy '/Game/Assignment/Main.Main:PersistentLevel.Main'
+[2019.05.08-08.25.10:756][517]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.08-08.25.10:821][517]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.08-08.25.33:405][662]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Assignment/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Assignment/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Assignment/Main.Main_C' with ClassGeneratedBy '/Game/Assignment/Main.Main:PersistentLevel.Main'
+[2019.05.08-08.25.33:406][662]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.08-08.25.33:550][662]LogSlate: Window 'test Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.05.08-08.25.33:666][662]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.08-08.25.33:668][662]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Assignment/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Assignment/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Assignment/Main.Main_C' with ClassGeneratedBy '/Game/Assignment/Main.Main:PersistentLevel.Main'
+[2019.05.08-08.25.33:995][663]LogPlayLevel: Display: Destroying online subsystem :Context_199
+[2019.05.08-08.25.34:172][663]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.08-08.25.36:733][681]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.08-08.25.39:303][701]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assignment/Normal/ThirdPersonIdle.ThirdPersonIdle
+[2019.05.08-08.25.39:303][701]LogAnimationCompression: Recompressing (AnimSequence /Game/Assignment/Normal/ThirdPersonIdle.ThirdPersonIdle) using current/default (AnimCompress_RemoveLinearKeys_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.05.08-08.25.39:545][701]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Assignment/Normal/ThirdPersonIdle.ThirdPersonIdle
+[2019.05.08-08.25.39:593][701]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_191:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.08-08.25.39:827][701]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_191:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.08-08.25.42:668][707]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.08-08.25.48:605][822]LogSlate: Window 'ThirdPersonIdle' being destroyed
+[2019.05.08-08.25.48:662][822]LogSlate: Window 'ThirdPersonIdle' being destroyed
+[2019.05.08-08.25.50:975][835]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Assignment/Normal/ThirdPerson_Jump.ThirdPerson_Jump
+[2019.05.08-08.25.51:017][835]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_194:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.08-08.25.51:270][835]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_194:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.08-08.25.53:487][840]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.08-08.26.25:460][431]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/ThirdPerson_JumpE6007D2547DCDFF80FB8CFAC464DFE19.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Normal/ThirdPerson_Jump.uasset'
+[2019.05.08-08.26.27:235][461]LogSlate: Window 'ThirdPerson_Jump' being destroyed
+[2019.05.08-08.26.27:248][461]LogSlate: Window 'ThirdPerson_Jump' being destroyed
+[2019.05.08-08.26.28:567][467]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assignment/SwordAnimation/Sword1h_WalkStop_RU.Sword1h_WalkStop_RU
+[2019.05.08-08.26.28:567][467]LogAnimationCompression: Recompressing (AnimSequence /Game/Assignment/SwordAnimation/Sword1h_WalkStop_RU.Sword1h_WalkStop_RU) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.05.08-08.26.28:596][467]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Assignment/SwordAnimation/Sword1h_WalkStop_RU.Sword1h_WalkStop_RU
+[2019.05.08-08.26.28:648][467]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_197:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.08-08.26.28:839][467]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_197:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.08-08.26.30:844][471]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.08-08.26.38:328][606]LogSlate: Window 'Sword1h_WalkStop_RU' being destroyed
+[2019.05.08-08.26.38:344][606]LogSlate: Window 'Sword1h_WalkStop_RU' being destroyed
+[2019.05.08-08.26.40:167][616]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assignment/SwordAnimation/Sword1h_WalkStop_LU.Sword1h_WalkStop_LU
+[2019.05.08-08.26.40:167][616]LogAnimationCompression: Recompressing (AnimSequence /Game/Assignment/SwordAnimation/Sword1h_WalkStop_LU.Sword1h_WalkStop_LU) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.05.08-08.26.40:322][616]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Assignment/SwordAnimation/Sword1h_WalkStop_LU.Sword1h_WalkStop_LU
+[2019.05.08-08.26.40:374][616]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_200:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.08-08.26.40:601][616]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_200:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.08-08.26.43:469][622]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.08-08.27.30:115][517]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Sword1h_WalkStop_LUF3726225483F2785BDED1B8CAC51820F.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/SwordAnimation/Sword1h_WalkStop_LU.uasset'
+[2019.05.08-08.27.31:438][543]LogSlate: Window 'Sword1h_WalkStop_LU' being destroyed
+[2019.05.08-08.27.31:455][543]LogSlate: Window 'Sword1h_WalkStop_LU' being destroyed
+[2019.05.08-08.27.53:944][958]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Assignment/SwordAnimation/Sword1h_WalkStop_LU.Sword1h_WalkStop_LU
+[2019.05.08-08.27.53:989][958]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_203:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.08-08.27.54:181][958]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_203:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.08-08.27.56:179][963]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.08-08.28.07:551][199]LogSlate: Window 'Sword1h_WalkStop_LU' being destroyed
+[2019.05.08-08.28.07:577][199]LogSlate: Window 'Sword1h_WalkStop_LU' being destroyed
+[2019.05.08-08.28.10:188][213]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Assignment/SwordAnimation/Sword1h_WalkFwdStart90_R.Sword1h_WalkFwdStart90_R
+[2019.05.08-08.28.10:240][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_206:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.08-08.28.10:469][213]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_206:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.08-08.28.12:523][219]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.08-08.29.02:154][218]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.08-08.29.06:254][291]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.08-08.29.10:485][363]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Sword1h_WalkFwdStart90_R9BF0BE2A48D42623296D16B6206114AD.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/SwordAnimation/Sword1h_WalkFwdStart90_R.uasset'
+[2019.05.08-08.29.12:112][394]LogSlate: Window 'Sword1h_WalkFwdStart90_R' being destroyed
+[2019.05.08-08.29.12:134][394]LogSlate: Window 'Sword1h_WalkFwdStart90_R' being destroyed
+[2019.05.08-08.29.13:921][402]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Assignment/SwordAnimation/Sword1h_WalkFwdStart90_L.Sword1h_WalkFwdStart90_L
+[2019.05.08-08.29.13:957][402]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_209:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.08-08.29.14:130][402]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_209:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.08-08.29.16:923][410]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.08-08.30.01:638][268]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Sword1h_WalkFwdStart90_L26ABA8E3489342B55409FCB6B8C3E5F2.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/SwordAnimation/Sword1h_WalkFwdStart90_L.uasset'
+[2019.05.08-08.30.04:063][314]LogSlate: Window 'Sword1h_WalkFwdStart90_L' being destroyed
+[2019.05.08-08.30.04:110][314]LogSlate: Window 'Sword1h_WalkFwdStart90_L' being destroyed
+[2019.05.08-08.30.05:699][321]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assignment/SwordAnimation/Sword1h_WalkFwdStart180_R.Sword1h_WalkFwdStart180_R
+[2019.05.08-08.30.05:699][321]LogAnimationCompression: Recompressing (AnimSequence /Game/Assignment/SwordAnimation/Sword1h_WalkFwdStart180_R.Sword1h_WalkFwdStart180_R) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.05.08-08.30.05:732][321]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Assignment/SwordAnimation/Sword1h_WalkFwdStart180_R.Sword1h_WalkFwdStart180_R
+[2019.05.08-08.30.05:774][321]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_212:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.08-08.30.05:950][321]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_212:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.08-08.30.07:879][325]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.08-08.30.28:066][739]LogSlate: Window 'Sword1h_WalkFwdStart180_R' being destroyed
+[2019.05.08-08.30.28:088][739]LogSlate: Window 'Sword1h_WalkFwdStart180_R' being destroyed
+[2019.05.08-08.30.38:114][821]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Assignment/SwordAnimation/Sword1h_WalkFwdLoop.Sword1h_WalkFwdLoop
+[2019.05.08-08.30.38:155][821]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_215:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.08-08.30.38:334][821]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_215:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.08-08.30.40:103][825]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.08-08.32.09:435][523]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Sword1h_WalkFwdLoop1F4717AB45061BCB7F6C01B8F14418A7.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/SwordAnimation/Sword1h_WalkFwdLoop.uasset'
+[2019.05.08-08.32.29:257][921]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Sword1h_WalkFwdLoopD893AB04486E54020840E0B8F5616CA5.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/SwordAnimation/Sword1h_WalkFwdLoop.uasset'
+[2019.05.08-08.32.31:176][957]LogSlate: Window 'Sword1h_WalkFwdLoop' being destroyed
+[2019.05.08-08.32.31:195][957]LogSlate: Window 'Sword1h_WalkFwdLoop' being destroyed
+[2019.05.08-08.32.59:923][911]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Assignment/Normal/ThirdPersonJump_End.ThirdPersonJump_End
+[2019.05.08-08.32.59:965][911]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_218:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.08-08.33.00:167][911]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_218:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.08-08.33.02:307][916]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.08-08.33.06:286][989]LogSlate: Window 'ThirdPersonJump_End' being destroyed
+[2019.05.08-08.33.06:305][989]LogSlate: Window 'ThirdPersonJump_End' being destroyed
+[2019.05.08-08.33.08:932][  3]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assignment/SwordAnimation/Sword1h_Victory_4.Sword1h_Victory_4
+[2019.05.08-08.33.08:932][  3]LogAnimationCompression: Recompressing (AnimSequence /Game/Assignment/SwordAnimation/Sword1h_Victory_4.Sword1h_Victory_4) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.05.08-08.33.09:007][  3]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Assignment/SwordAnimation/Sword1h_Victory_4.Sword1h_Victory_4
+[2019.05.08-08.33.09:077][  3]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_221:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.08-08.33.09:322][  3]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_221:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.08-08.33.11:765][  8]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.08-08.38.41:685][995]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Assignment/Main' took 0.595
+[2019.05.08-08.38.41:700][995]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assignment/Character/BP_Blend] ([1] browsable assets)...
+[2019.05.08-08.38.42:007][995]OBJ SavePackage:     Rendered thumbnail for [BlendSpace /Game/Assignment/Character/BP_Blend.BP_Blend]
+[2019.05.08-08.38.42:008][995]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assignment/Character/BP_Blend]
+[2019.05.08-08.38.43:359][995]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/BP_Blend_Auto8D688CC86479FED65E47CB0B51ED8A2B0.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Autosaves/Game/Assignment/Character/BP_Blend_Auto8.uasset'
+[2019.05.08-08.38.43:365][995]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assignment/SwordAnimation/Sword1h_Victory_4] ([1] browsable assets)...
+[2019.05.08-08.38.43:566][995]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Assignment/SwordAnimation/Sword1h_Victory_4.Sword1h_Victory_4]
+[2019.05.08-08.38.43:566][995]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assignment/SwordAnimation/Sword1h_Victory_4]
+[2019.05.08-08.38.44:900][995]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Sword1h_Victory_4_Auto8D20A39BE4F3EEBEF86BAD381A7726007.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Autosaves/Game/Assignment/SwordAnimation/Sword1h_Victory_4_Auto8.uasset'
+[2019.05.08-08.38.44:904][995]LogFileHelpers: Auto-saving content packages took 3.211
+[2019.05.08-08.39.30:805][197]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:\Uni\SP2\Comp\Sound effects\GameAudio\Sounds\StabSound1.wav)
+[2019.05.08-08.39.30:835][197]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:\Uni\SP2\Comp\Sound effects\GameAudio\Sounds\StabSound2.wav)
+[2019.05.08-08.39.34:936][300]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave StabSound1...
+[2019.05.08-08.39.34:982][300]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 95296 while cooking SoundWave /Game/Assignment/Audio/Sounds/StabSound1.StabSound1.
+[2019.05.08-08.39.46:207][710]LogAssetEditorManager: Opening Asset editor for SoundCue /Game/Assignment/Audio/Sounds/Stab_Cue.Stab_Cue
+[2019.05.08-08.40.05:220][194]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.08-08.40.16:397][487]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.08-08.40.26:776][793]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.08-08.40.26:997][794]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/Audio/Sounds/Stab_Cue" FILE="../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Audio/Sounds/Stab_Cue.uasset" SILENT=true
+[2019.05.08-08.40.27:087][794]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Stab_Cue40FDFF8049DFB552B8EBD9BD8D4AFC6F.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Audio/Sounds/Stab_Cue.uasset'
+[2019.05.08-08.40.28:777][833]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/Audio/Sounds/Stab_Cue" FILE="../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Audio/Sounds/Stab_Cue.uasset" SILENT=true
+[2019.05.08-08.40.29:129][833]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Stab_Cue499070F648E9FAEA21270BB9227D3DE1.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Audio/Sounds/Stab_Cue.uasset'
+[2019.05.08-08.40.33:208][921]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.08-08.41.20:344][461]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave StabSound2...
+[2019.05.08-08.41.20:383][461]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 95296 while cooking SoundWave /Game/Assignment/Audio/Sounds/StabSound2.StabSound2.
+[2019.05.08-08.41.30:293][539]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.08-08.41.32:618][545]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.08-08.41.34:090][548]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.08-08.41.39:136][562]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.08-08.46.11:734][348]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.08-08.48.46:203][780]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Assignment/Main' took 0.125
+[2019.05.08-08.48.46:206][780]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assignment/SwordAnimation/Sword1h_Victory_4] ([1] browsable assets)...
+[2019.05.08-08.48.46:207][780]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assignment/SwordAnimation/Sword1h_Victory_4]
+[2019.05.08-08.48.46:359][780]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Sword1h_Victory_4_Auto9E44C50C942C6C319880F2FBD89AE3936.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Autosaves/Game/Assignment/SwordAnimation/Sword1h_Victory_4_Auto9.uasset'
+[2019.05.08-08.48.46:363][780]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assignment/Audio/Sounds/StabSound1] ([1] browsable assets)...
+[2019.05.08-08.48.46:374][780]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assignment/Audio/Sounds/StabSound1.StabSound1]
+[2019.05.08-08.48.46:374][780]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assignment/Audio/Sounds/StabSound1]
+[2019.05.08-08.48.46:397][780]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/StabSound1_Auto9CFB30538487F7C8D14FABE90D408E02D.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Autosaves/Game/Assignment/Audio/Sounds/StabSound1_Auto9.uasset'
+[2019.05.08-08.48.46:400][780]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assignment/Audio/Sounds/StabSound2] ([1] browsable assets)...
+[2019.05.08-08.48.46:411][780]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assignment/Audio/Sounds/StabSound2.StabSound2]
+[2019.05.08-08.48.46:411][780]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assignment/Audio/Sounds/StabSound2]
+[2019.05.08-08.48.46:436][780]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/StabSound2_Auto92DBEDE1146E24429ABF688B6EB78F909.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Autosaves/Game/Assignment/Audio/Sounds/StabSound2_Auto9.uasset'
+[2019.05.08-08.48.46:438][780]LogFileHelpers: Auto-saving content packages took 0.233
+[2019.05.08-08.57.22:621][136]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.08-08.59.17:068][475]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.08-09.15.53:646][171]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.08-09.17.35:205][462]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.08-09.17.35:777][463]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.08-09.19.08:770][744]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Sword1h_Victory_43FDF1FA9457C11A2E50B8CBABB8F7DD9.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/SwordAnimation/Sword1h_Victory_4.uasset'
+[2019.05.08-09.19.35:488][966]LogSlate: Window 'Save Content' being destroyed
+[2019.05.08-09.19.35:642][966]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/ArmourHitSheilHitSoundFECC7F42478FB231E9E12B990393EECC.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Audio/Sounds/ArmourHitSheilHitSound.uasset'
+[2019.05.08-09.19.35:722][966]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/ArmourHitSheilHitSound27B020FFC49B1A2C1079F11BD6EC24E53.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Audio/Sounds/ArmourHitSheilHitSound2.uasset'
+[2019.05.08-09.19.35:785][966]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/ClashSound12CFA8C1647E37E1FBF2F458D156B8ABF.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Audio/Sounds/ClashSound1.uasset'
+[2019.05.08-09.19.35:843][966]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/ClashSound286872B3242D400A97E9A65BAB1785DBC.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Audio/Sounds/ClashSound2.uasset'
+[2019.05.08-09.19.35:900][966]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/ClashSound3B6486D6640C78D543FEAB58274AE91E7.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Audio/Sounds/ClashSound3.uasset'
+[2019.05.08-09.19.35:953][966]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/ClashSound4DEB14B03405D67810F9FFD9E63049843.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Audio/Sounds/ClashSound4.uasset'
+[2019.05.08-09.19.36:000][966]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/DrawSound479A50E4479BC5970C794BB732569261.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Audio/Sounds/DrawSound.uasset'
+[2019.05.08-09.19.36:056][966]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/DrawSound2EE2B17F54B9D469C55ED1E8EB49304F9.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Audio/Sounds/DrawSound2.uasset'
+[2019.05.08-09.19.36:104][966]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/EquipSound64D927214E8968C742DEA0A74700E096.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Audio/Sounds/EquipSound.uasset'
+[2019.05.08-09.19.36:161][966]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/GrabDrawSound6060B9A74B36EF137C2547B1C7CD2259.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Audio/Sounds/GrabDrawSound.uasset'
+[2019.05.08-09.19.36:227][966]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/GrassBootStep943BD6C44EAC70107FA767BF8D3D54FE.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Audio/Sounds/GrassBootStep.uasset'
+[2019.05.08-09.19.36:283][966]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/GrassStepSound343CFD954D6319FA83FF8B86D34E15D5.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Audio/Sounds/GrassStepSound.uasset'
+[2019.05.08-09.19.36:340][966]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/GroundArmourStepSoundBEEEC9DC4D3E880E7DEAB0A23A627978.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Audio/Sounds/GroundArmourStepSound.uasset'
+[2019.05.08-09.19.36:403][966]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/GroundStepSound3A24E9B74699F170B6F776A52D610B5B.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Audio/Sounds/GroundStepSound.uasset'
+[2019.05.08-09.19.36:464][966]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Lunge_Cue374187E14FE3787D37D839B767D64D49.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Audio/Sounds/Lunge_Cue.uasset'
+[2019.05.08-09.19.36:518][966]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/LungeSound75F83FFB4D6EE0F76870B2BE458D85E2.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Audio/Sounds/LungeSound.uasset'
+[2019.05.08-09.19.36:583][966]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/SkinGrab_Cue22175AAF4833FE90CEAA248F9130E87B.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Audio/Sounds/SkinGrab_Cue.uasset'
+[2019.05.08-09.19.36:644][966]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/SkinGrabSound1FC8FE6D54061257271E7B2B777A5AEBC.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Audio/Sounds/SkinGrabSound1.uasset'
+[2019.05.08-09.19.36:704][966]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/SkinGrabSound204B5E79946FED10EB09A42B01612F278.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Audio/Sounds/SkinGrabSound2.uasset'
+[2019.05.08-09.19.36:764][966]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/SkinPunchSound10F621B684587DD58EF2C42B7684A612B.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Audio/Sounds/SkinPunchSound1.uasset'
+[2019.05.08-09.19.36:831][966]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/SkinPunchSound2E131BE7A44A81089CE736C980FC5745E.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Audio/Sounds/SkinPunchSound2.uasset'
+[2019.05.08-09.19.36:904][966]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/SkinPunchSound38D97C053477BB4F7E3DB2F88F5F03ACD.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Audio/Sounds/SkinPunchSound3.uasset'
+[2019.05.08-09.19.36:957][966]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/SkinPunchSound4B28BD47744F6FD36BA13059C9DD6CED6.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Audio/Sounds/SkinPunchSound4.uasset'
+[2019.05.08-09.19.37:010][966]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/SkinPunchSound55B8DE62C4EB4B186D12680BBCF41B098.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Audio/Sounds/SkinPunchSound5.uasset'
+[2019.05.08-09.19.37:070][966]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/SkinPunchSound625CCC8AE4DEE4B144545869F2FC6B6BA.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Audio/Sounds/SkinPunchSound6.uasset'
+[2019.05.08-09.19.37:123][966]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/StabSound19AA9AD81464ED9C69C0A8AA8786D5992.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Audio/Sounds/StabSound1.uasset'
+[2019.05.08-09.19.37:177][966]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/StabSound2DF012CC3424FC11ABC7B799B99FC1413.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Audio/Sounds/StabSound2.uasset'
+[2019.05.08-09.19.37:236][966]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/StepLeatherHeavySound2E37908348EF2778E9520EB82D8BEE30.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Audio/Sounds/StepLeatherHeavySound.uasset'
+[2019.05.08-09.19.37:290][966]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/StepLeatherSoftSound2820292E4B3868A1DBF127B2E334A56B.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Audio/Sounds/StepLeatherSoftSound.uasset'
+[2019.05.08-09.19.37:352][966]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/VikingHurtSound4C4E3F064CD101FBD7ABE19175BD6BD7.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Audio/Sounds/VikingHurtSound.uasset'
+[2019.05.08-09.19.37:394][966]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/VikingHurtSound2CB90DB7649FBFED8F4BF7BBC0C1C0DFE.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Audio/Sounds/VikingHurtSound2.uasset'
+[2019.05.08-09.19.37:414][966]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/Character/BP_Blend" FILE="../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Character/BP_Blend.uasset" SILENT=true
+[2019.05.08-09.19.37:576][966]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/BP_Blend3DEC279B45F245BBE9F1168202598860.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Character/BP_Blend.uasset'
+[2019.05.08-09.19.54:033][436]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Assignment/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Assignment/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Assignment/Main.Main_C' with ClassGeneratedBy '/Game/Assignment/Main.Main:PersistentLevel.Main'
+[2019.05.08-09.19.54:035][436]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.08-09.19.54:035][436]PIE: New page: PIE session: Main (9 May 2019 4:19:54 am)
+[2019.05.08-09.19.54:036][436]LogPlayLevel: Creating play world package: /Game/Assignment/UEDPIE_0_Main
+[2019.05.08-09.19.54:443][436]LogPlayLevel: PIE: StaticDuplicateObject took: (0.406280s)
+[2019.05.08-09.19.54:445][436]LogAIModule: Creating AISystem for world Main
+[2019.05.08-09.19.54:447][436]LogPlayLevel: PIE: World Init took: (0.004168s)
+[2019.05.08-09.19.54:449][436]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assignment/Main.Main to /Game/Assignment/UEDPIE_0_Main.Main (0.412613s)
+[2019.05.08-09.19.54:516][436]LogGarbage: Warning: GC detected illegal reference to PIE object from content [possibly via [todo]]:
+[2019.05.08-09.19.54:516][436]LogGarbage: Warning:       PIE object: World /Game/Assignment/UEDPIE_0_Main.Main
+[2019.05.08-09.19.54:516][436]LogGarbage: Warning:   NON-PIE object: UnrealEdEngine /Engine/Transient.UnrealEdEngine_0
+[2019.05.08-09.19.54:584][436]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.08-09.19.54:619][436]LogInit: FAudioDevice initialized.
+[2019.05.08-09.19.54:635][436]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.08-09.19.54:702][436]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.05.08-09.19.55:207][436]LogWorld: Bringing World /Game/Assignment/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2019.05.08-18.49.55
+[2019.05.08-09.19.55:275][436]LogWorld: Bringing up level for play took: 0.571501
+[2019.05.08-09.19.55:340][436]PIE: Play in editor start time for /Game/Assignment/UEDPIE_0_Main 1.319
+[2019.05.08-09.19.55:344][436]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Assignment/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Assignment/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Assignment/Main.Main_C' with ClassGeneratedBy '/Game/Assignment/Main.Main:PersistentLevel.Main'
+[2019.05.08-09.20.26:822][616]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Assignment/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Assignment/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Assignment/Main.Main_C' with ClassGeneratedBy '/Game/Assignment/Main.Main:PersistentLevel.Main'
+[2019.05.08-09.20.26:823][616]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.08-09.20.26:911][616]LogSlate: Window 'test Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.05.08-09.20.27:078][616]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.08-09.20.27:082][616]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Assignment/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Assignment/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Assignment/Main.Main_C' with ClassGeneratedBy '/Game/Assignment/Main.Main:PersistentLevel.Main'
+[2019.05.08-09.20.27:406][617]LogPlayLevel: Display: Destroying online subsystem :Context_233
