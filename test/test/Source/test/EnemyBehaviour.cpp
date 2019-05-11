@@ -32,6 +32,7 @@ void UEnemyBehaviour::TickComponent(float DeltaTime, ELevelTick TickType, FActor
 }
 
 void UEnemyBehaviour::TakeDamage(int damage) {
+
 	health -= damage;
 }
 
