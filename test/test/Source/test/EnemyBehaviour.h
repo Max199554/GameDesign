@@ -21,9 +21,6 @@ public:
 
 	UFUNCTION()
 	void TakeDamage(int damage);
-
-	UFUNCTION(BlueprintImplementableEvent, Category = "Damage")
-	void PlayTakeDamageAni();
 protected:
 	// Called when the game starts
 	virtual void BeginPlay() override;
