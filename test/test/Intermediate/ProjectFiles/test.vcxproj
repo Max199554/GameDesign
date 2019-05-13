@@ -509,14 +509,18 @@
     <None Include="..\..\Config\DefaultInput.ini" />
     <ClCompile Include="..\..\Source\test\EnemyBehaviour.cpp" />
     <ClInclude Include="..\..\Source\test\EnemyBehaviour.h" />
+    <ClCompile Include="..\..\Source\test\EnemyCharacter.cpp" />
+    <ClInclude Include="..\..\Source\test\EnemyCharacter.h" />
+    <ClCompile Include="..\..\Source\test\MainPlayer.cpp" />
     <ClCompile Include="..\..\Source\test\MyPawn.cpp" />
+    <ClInclude Include="..\..\Source\test\MainPlayer.h" />
     <ClInclude Include="..\..\Source\test\MyPawn.h" />
     <ClCompile Include="..\..\Source\test\MyStealthController.cpp" />
     <ClInclude Include="..\..\Source\test\MyStealthController.h" />
-    <None Include="..\..\Source\test\test.Build.cs" />
     <ClCompile Include="..\..\Source\test\PlayerBehaviour.cpp" />
-    <ClCompile Include="..\..\Source\test\test.cpp" />
     <ClInclude Include="..\..\Source\test\PlayerBehaviour.h" />
+    <None Include="..\..\Source\test\test.Build.cs" />
+    <ClCompile Include="..\..\Source\test\test.cpp" />
     <ClInclude Include="..\..\Source\test\test.h" />
   </ItemGroup>
   <PropertyGroup>

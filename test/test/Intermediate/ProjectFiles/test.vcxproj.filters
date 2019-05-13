@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\test.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{09C134AF-AFB1-4054-A346-005DB6D3BD18}</UniqueIdentifier>
+      <UniqueIdentifier>{D3A8066B-5EE0-4893-9200-790F119B62DE}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\test.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{32398FCD-5016-404C-81DB-0882A7B18A00}</UniqueIdentifier>
+      <UniqueIdentifier>{E366BF42-720F-4001-B579-C40DAC23574D}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -30,12 +30,18 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\test">
-      <UniqueIdentifier>{C371CB71-9407-4DAD-9078-77754A323ED6}</UniqueIdentifier>
+      <UniqueIdentifier>{D6B239EC-F773-4CD7-BC4C-2836FC1EBE2F}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\test\EnemyBehaviour.cpp">
       <Filter>Source\test</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\test\EnemyBehaviour.h">
+      <Filter>Source\test</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\test\EnemyCharacter.cpp">
+      <Filter>Source\test</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\test\EnemyCharacter.h">
       <Filter>Source\test</Filter>
     </ClInclude>
     <ClCompile Include="..\..\Source\test\MyPawn.cpp">
@@ -50,6 +56,12 @@
     <ClInclude Include="..\..\Source\test\MyStealthController.h">
       <Filter>Source\test</Filter>
     </ClInclude>
+    <ClCompile Include="..\..\Source\test\PlayerBehaviour.cpp">
+      <Filter>Source\test</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\test\PlayerBehaviour.h">
+      <Filter>Source\test</Filter>
+    </ClInclude>
     <None Include="..\..\Source\test\test.Build.cs">
       <Filter>Source\test</Filter>
     </None>
@@ -61,12 +73,12 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\Source\test\PlayerBehaviour.h">
+    <ClInclude Include="..\..\Source\test\MainPlayer.h">
       <Filter>Source\test</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\Source\test\PlayerBehaviour.cpp">
+    <ClCompile Include="..\..\Source\test\MainPlayer.cpp">
       <Filter>Source\test</Filter>
     </ClCompile>
   </ItemGroup>
