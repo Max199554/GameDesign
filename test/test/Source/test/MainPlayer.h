@@ -29,4 +29,10 @@ public:
 	UPROPERTY(EditAnywhere, Category = "stealth")
 		bool isCrouch;
 
+	UFUNCTION(BlueprintCallable, Category = "stealth")
+		bool IsCrouchingC();
+
+	UFUNCTION(BlueprintCallable, Category = "stealth")
+		void ChangeCrouchState();
+
 };

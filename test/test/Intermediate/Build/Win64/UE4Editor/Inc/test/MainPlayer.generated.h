@@ -13,8 +13,44 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define TEST_MainPlayer_generated_h
 
-#define test_Source_test_MainPlayer_h_12_RPC_WRAPPERS
-#define test_Source_test_MainPlayer_h_12_RPC_WRAPPERS_NO_PURE_DECLS
+#define test_Source_test_MainPlayer_h_12_RPC_WRAPPERS \
+ \
+	DECLARE_FUNCTION(execChangeCrouchState) \
+	{ \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		P_THIS->ChangeCrouchState(); \
+		P_NATIVE_END; \
+	} \
+ \
+	DECLARE_FUNCTION(execIsCrouchingC) \
+	{ \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		*(bool*)Z_Param__Result=P_THIS->IsCrouchingC(); \
+		P_NATIVE_END; \
+	}
+
+
+#define test_Source_test_MainPlayer_h_12_RPC_WRAPPERS_NO_PURE_DECLS \
+ \
+	DECLARE_FUNCTION(execChangeCrouchState) \
+	{ \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		P_THIS->ChangeCrouchState(); \
+		P_NATIVE_END; \
+	} \
+ \
+	DECLARE_FUNCTION(execIsCrouchingC) \
+	{ \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		*(bool*)Z_Param__Result=P_THIS->IsCrouchingC(); \
+		P_NATIVE_END; \
+	}
+
+
 #define test_Source_test_MainPlayer_h_12_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAMainPlayer(); \

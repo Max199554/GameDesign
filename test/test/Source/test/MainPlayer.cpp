@@ -1,6 +1,7 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
 #include "MainPlayer.h"
+#include "Classes/GameFramework/CharacterMovementComponent.h"
 
 // Sets default values
 AMainPlayer::AMainPlayer()
@@ -31,3 +32,15 @@ void AMainPlayer::SetupPlayerInputComponent(UInputComponent* PlayerInputComponen
 
 }
 
+bool AMainPlayer::IsCrouchingC() {
+	return this->GetCharacterMovement()->IsCrouching();
+}
+
+void AMainPlayer::ChangeCrouchState() {
+	if (IsCrouchingC() == true) {
+		GetCharacterMovement()->Crouch();
+	}
+	else {
+		GetCharacterMovement()->UnCrouch();
+	}
+}
