@@ -26,9 +26,14 @@ public:
 	// Called to bind functionality to input
 	virtual void SetupPlayerInputComponent(class UInputComponent* PlayerInputComponent) override;
 
+	//virtual void OnComponentBeginOverlap()
+
 	UPROPERTY(BlueprintReadWrite, Category = "Health")
 		float health;
 
 	UFUNCTION(BlueprintCallable)
 		void TakeDamage(float Damage);
+
+	UPROPERTY(BlueprintReadWrite, Category = "stealth")
+		bool canTakeDown;
 };
