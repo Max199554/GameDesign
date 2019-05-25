@@ -1,0 +1,1114 @@
+﻿Log file open, 05/19/19 23:46:20
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: test
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.814369
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:30, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.501s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: AMD A6-9220 RADEON R4, 5 COMPUTE CORES 2C+3G   , GPU: AMD Radeon(TM) R4 Graphics
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.006s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.05.19-14.16.21:199][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.05.19-14.16.21:199][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.05.19-14.16.21:199][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Config/Windows/Engine.ini]
+[2019.05.19-14.16.21:200][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.05.19-14.16.21:200][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Config/Windows/Engine.ini]
+[2019.05.19-14.16.21:200][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Config/Windows/Engine.ini]
+[2019.05.19-14.16.21:200][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.05.19-14.16.21:200][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.05.19-14.16.21:200][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.05.19-14.16.21:200][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.05.19-14.16.21:200][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.05.19-14.16.21:200][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.05.19-14.16.21:200][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.05.19-14.16.21:200][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.05.19-14.16.21:200][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.05.19-14.16.21:200][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.05.19-14.16.21:200][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.05.19-14.16.21:200][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.05.19-14.16.21:200][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.05.19-14.16.21:200][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Config/Windows/Engine.ini]
+[2019.05.19-14.16.21:200][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.05.19-14.16.21:200][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.05.19-14.16.21:200][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.05.19-14.16.21:200][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.05.19-14.16.21:200][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.05.19-14.16.21:200][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.05.19-14.16.21:200][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.05.19-14.16.21:200][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.05.19-14.16.21:200][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.05.19-14.16.21:200][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.05.19-14.16.21:201][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.05.19-14.16.21:201][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.05.19-14.16.21:201][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.05.19-14.16.21:201][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.05.19-14.16.21:201][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Config/Windows/Engine.ini]
+[2019.05.19-14.16.21:201][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Config/Windows/Engine.ini]
+[2019.05.19-14.16.21:206][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Config/Windows/Scalability.ini]
+[2019.05.19-14.16.21:206][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.05.19-14.16.21:206][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.05.19-14.16.21:206][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Config/Windows/Scalability.ini]
+[2019.05.19-14.16.21:206][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.05.19-14.16.21:206][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Config/Windows/Scalability.ini]
+[2019.05.19-14.16.21:206][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.05.19-14.16.21:206][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.05.19-14.16.21:206][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.05.19-14.16.21:206][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.05.19-14.16.21:206][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.05.19-14.16.21:206][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.05.19-14.16.21:206][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.05.19-14.16.21:206][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.05.19-14.16.21:207][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.05.19-14.16.21:207][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.05.19-14.16.21:207][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.05.19-14.16.21:207][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.05.19-14.16.21:207][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.05.19-14.16.21:207][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.05.19-14.16.21:207][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.05.19-14.16.21:207][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.05.19-14.16.21:207][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.05.19-14.16.21:207][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.05.19-14.16.21:207][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Config/Windows/Scalability.ini]
+[2019.05.19-14.16.21:207][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.05.19-14.16.21:207][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.05.19-14.16.21:207][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.05.19-14.16.21:207][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.05.19-14.16.21:207][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.05.19-14.16.21:207][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.05.19-14.16.21:207][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.05.19-14.16.21:207][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.05.19-14.16.21:207][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.05.19-14.16.21:207][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.05.19-14.16.21:207][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.05.19-14.16.21:208][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.05.19-14.16.21:208][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.05.19-14.16.21:208][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.05.19-14.16.21:208][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.05.19-14.16.21:208][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.05.19-14.16.21:208][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.05.19-14.16.21:208][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.05.19-14.16.21:208][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.05.19-14.16.21:208][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.05.19-14.16.21:208][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.05.19-14.16.21:208][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.05.19-14.16.21:208][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.05.19-14.16.21:208][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.05.19-14.16.21:208][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.05.19-14.16.21:208][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.05.19-14.16.21:208][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.05.19-14.16.21:208][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.05.19-14.16.21:208][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.05.19-14.16.21:208][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.05.19-14.16.21:208][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Config/Windows/Scalability.ini]
+[2019.05.19-14.16.21:208][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.05.19-14.16.21:209][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.05.19-14.16.21:209][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.05.19-14.16.21:209][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.05.19-14.16.21:209][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.05.19-14.16.21:209][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.05.19-14.16.21:209][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.05.19-14.16.21:209][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.05.19-14.16.21:209][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Config/Windows/Scalability.ini]
+[2019.05.19-14.16.21:209][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.05.19-14.16.21:209][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.05.19-14.16.21:209][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.05.19-14.16.21:209][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.05.19-14.16.21:209][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.05.19-14.16.21:209][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.05.19-14.16.21:209][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.05.19-14.16.21:209][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.05.19-14.16.21:209][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.05.19-14.16.21:209][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.05.19-14.16.21:209][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.05.19-14.16.21:209][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.05.19-14.16.21:209][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.05.19-14.16.21:209][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Config/Windows/Scalability.ini]
+[2019.05.19-14.16.21:209][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.05.19-14.16.21:209][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.05.19-14.16.21:209][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.19-14.16.21:209][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.05.19-14.16.21:273][  0]LogHAL: Display: Platform has ~ 8 GB [8017076224 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.05.19-14.16.21:273][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.05.19-14.16.21:273][  0]LogInit: Going up to parent DeviceProfile []
+[2019.05.19-14.16.21:273][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Config/Windows/Scalability.ini]
+[2019.05.19-14.16.21:273][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.05.19-14.16.21:273][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.05.19-14.16.21:273][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Config/Windows/Scalability.ini]
+[2019.05.19-14.16.21:273][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.05.19-14.16.21:273][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Config/Windows/Scalability.ini]
+[2019.05.19-14.16.21:273][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.05.19-14.16.21:273][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.05.19-14.16.21:273][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.05.19-14.16.21:273][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.05.19-14.16.21:273][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.05.19-14.16.21:273][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.05.19-14.16.21:273][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.05.19-14.16.21:273][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.05.19-14.16.21:273][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.05.19-14.16.21:273][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.05.19-14.16.21:273][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.05.19-14.16.21:274][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.05.19-14.16.21:274][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.05.19-14.16.21:274][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.05.19-14.16.21:274][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.05.19-14.16.21:274][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.05.19-14.16.21:274][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.05.19-14.16.21:274][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.05.19-14.16.21:274][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Config/Windows/Scalability.ini]
+[2019.05.19-14.16.21:274][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.05.19-14.16.21:274][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.05.19-14.16.21:274][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.05.19-14.16.21:274][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.05.19-14.16.21:274][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.05.19-14.16.21:274][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.05.19-14.16.21:274][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.05.19-14.16.21:274][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.05.19-14.16.21:274][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.05.19-14.16.21:274][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.05.19-14.16.21:274][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.05.19-14.16.21:274][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.05.19-14.16.21:274][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.05.19-14.16.21:274][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.05.19-14.16.21:274][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.05.19-14.16.21:274][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.05.19-14.16.21:274][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.05.19-14.16.21:274][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.05.19-14.16.21:274][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.05.19-14.16.21:274][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.05.19-14.16.21:275][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.05.19-14.16.21:275][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.05.19-14.16.21:275][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.05.19-14.16.21:275][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.05.19-14.16.21:275][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.05.19-14.16.21:275][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.05.19-14.16.21:275][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.05.19-14.16.21:275][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.05.19-14.16.21:275][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.05.19-14.16.21:275][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.05.19-14.16.21:275][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Config/Windows/Scalability.ini]
+[2019.05.19-14.16.21:275][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.05.19-14.16.21:275][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.05.19-14.16.21:275][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.05.19-14.16.21:275][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.05.19-14.16.21:275][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.05.19-14.16.21:275][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.05.19-14.16.21:275][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.05.19-14.16.21:275][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.05.19-14.16.21:275][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Config/Windows/Scalability.ini]
+[2019.05.19-14.16.21:275][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.05.19-14.16.21:275][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.05.19-14.16.21:276][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.05.19-14.16.21:276][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.05.19-14.16.21:276][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.05.19-14.16.21:276][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.05.19-14.16.21:276][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.05.19-14.16.21:276][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.05.19-14.16.21:276][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.05.19-14.16.21:276][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.05.19-14.16.21:276][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.05.19-14.16.21:276][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.05.19-14.16.21:276][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.05.19-14.16.21:276][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Config/Windows/Scalability.ini]
+[2019.05.19-14.16.21:276][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.05.19-14.16.21:276][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.05.19-14.16.21:276][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.05.19-14.16.21:277][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.05.19-14.16.21:277][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Config/Windows/Engine.ini]
+[2019.05.19-14.16.21:277][  0]LogInit: Computer: LAPTOP-HLME89S8
+[2019.05.19-14.16.21:278][  0]LogInit: User: Lily
+[2019.05.19-14.16.21:278][  0]LogInit: CPU Page size=4096, Cores=2
+[2019.05.19-14.16.21:278][  0]LogInit: High frequency timer resolution =2.436835 MHz
+[2019.05.19-14.16.21:289][  0]LogMemory: Memory total: Physical=7.5GB (8GB approx)
+[2019.05.19-14.16.21:289][  0]LogMemory: Platform Memory Stats for Windows
+[2019.05.19-14.16.21:289][  0]LogMemory: Process Physical Memory: 104.04 MB used, 104.04 MB peak
+[2019.05.19-14.16.21:289][  0]LogMemory: Process Virtual Memory: 99.02 MB used, 99.02 MB peak
+[2019.05.19-14.16.21:290][  0]LogMemory: Physical Memory: 4867.18 MB used,  2778.50 MB free, 7645.68 MB total
+[2019.05.19-14.16.21:290][  0]LogMemory: Virtual Memory: 4634.33 MB used,  134213096.00 MB free, 134217728.00 MB total
+[2019.05.19-14.16.21:370][  0]LogInit: Using OS detected language (en-US).
+[2019.05.19-14.16.21:370][  0]LogInit: Using OS detected locale (en-AU).
+[2019.05.19-14.16.21:394][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.05.19-14.16.22:809][  0]LogStreaming: Display: Took  1.438s to InitEngineTextLocalization.
+[2019.05.19-14.16.22:809][  0]LogInit: Setting process to per monitor DPI aware
+[2019.05.19-14.16.22:950][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.05.19-14.16.22:951][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.05.19-14.16.24:184][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.05.19-14.16.24:184][  0]LogD3D11RHI: D3D11 adapters:
+[2019.05.19-14.16.24:261][  0]LogD3D11RHI:    0. 'AMD Radeon(TM) R4 Graphics' (Feature Level 11_0)
+[2019.05.19-14.16.24:261][  0]LogD3D11RHI:       501/0/3822 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2019.05.19-14.16.24:273][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.05.19-14.16.24:273][  0]LogD3D11RHI:       0/0/3822 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.05.19-14.16.24:273][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.05.19-14.16.24:309][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.05.19-14.16.24:309][  0]LogD3D11RHI:     GPU DeviceId: 0x98e4 (for the marketing name, search the web for "GPU Device Id")
+[2019.05.19-14.16.24:309][  0]LogWindows: EnumDisplayDevices:
+[2019.05.19-14.16.24:310][  0]LogWindows:    0. 'AMD Radeon(TM) R4 Graphics' (P:1 D:1)
+[2019.05.19-14.16.24:311][  0]LogWindows:    1. 'AMD Radeon(TM) R4 Graphics' (P:0 D:0)
+[2019.05.19-14.16.24:311][  0]LogWindows: DebugString: FoundDriverCount:2 
+[2019.05.19-14.16.24:311][  0]LogD3D11RHI:     Adapter Name: AMD Radeon(TM) R4 Graphics
+[2019.05.19-14.16.24:311][  0]LogD3D11RHI:   Driver Version: Crimson ReLive 17.7 (internal:22.19.180.513, unified:22.19.180.513)
+[2019.05.19-14.16.24:311][  0]LogD3D11RHI:      Driver Date: 9-25-2017
+[2019.05.19-14.16.24:312][  0]LogRHI: Texture pool is 350 MB (70% of 501 MB)
+[2019.05.19-14.16.24:445][  0]LogD3D11RHI: Async texture creation enabled
+[2019.05.19-14.16.24:521][  0]LogD3D11RHI: GPU Timing Frequency: 100.000000 (Debug: 2 1)
+[2019.05.19-14.16.27:612][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.05.19-14.16.27:666][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.05.19-14.16.27:713][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.05.19-14.16.27:757][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.05.19-14.16.27:800][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.05.19-14.16.27:844][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.05.19-14.16.27:889][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.05.19-14.16.27:928][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.05.19-14.16.27:949][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.05.19-14.16.28:179][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.19-14.16.28:179][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.19-14.16.28:179][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.19-14.16.28:179][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.19-14.16.28:179][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.19-14.16.28:180][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.19-14.16.28:180][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.19-14.16.28:180][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.19-14.16.28:180][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.19-14.16.28:180][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.19-14.16.28:180][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.19-14.16.28:180][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.19-14.16.28:180][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.19-14.16.28:181][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.19-14.16.28:181][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.19-14.16.28:181][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.19-14.16.28:181][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.19-14.16.28:181][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.19-14.16.28:187][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.05.19-14.16.28:315][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.05.19-14.16.28:315][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.05.19-14.16.28:391][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.05.19-14.16.28:391][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.05.19-14.16.28:429][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.05.19-14.16.28:468][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.05.19-14.16.28:505][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.05.19-14.16.28:553][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.05.19-14.16.28:705][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.05.19-14.16.28:705][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.05.19-14.16.28:705][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.05.19-14.16.28:925][  0]LogShaderCompilers: Guid format shader working directory is -21 characters bigger than the processId version (../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Intermediate/Shaders/WorkingDirectory/3700/).
+[2019.05.19-14.16.28:926][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/filse/AppData/Local/Temp/UnrealShaderWorkingDir/173A99594C2AE3E10874E3812675DABC/'.
+[2019.05.19-14.16.28:939][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.05.19-14.16.28:939][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.05.19-14.16.28:939][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.05.19-14.16.31:185][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.05.19-14.16.31:426][  0]LogDerivedDataCache: Loaded boot cache 0.24s 71MB C:/Users/filse/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.05.19-14.16.31:427][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/filse/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.05.19-14.16.31:427][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.05.19-14.16.31:427][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.05.19-14.16.31:427][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.05.19-14.16.31:427][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.05.19-14.16.31:470][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.05.19-14.16.31:478][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Enterprise/DerivedDataCache/Compressed.ddp.
+[2019.05.19-14.16.31:496][  0]LogDerivedDataCache: Using Local data cache path C:/Users/filse/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.05.19-14.16.31:496][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.05.19-14.16.31:496][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.05.19-14.16.31:562][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.05.19-14.16.31:565][  0]LogSlate: Using FreeType 2.6.0
+[2019.05.19-14.16.31:568][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.05.19-14.16.31:864][  0]LogAssetRegistry: FAssetRegistry took 0.0679 seconds to start up
+[2019.05.19-14.16.33:086][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.19-14.16.33:600][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.05.19-14.16.33:613][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.05.19-14.16.33:613][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.05.19-14.16.33:613][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.05.19-14.16.33:613][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.05.19-14.16.33:657][  0]LogNetVersion: test 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2122378638)
+[2019.05.19-14.16.35:915][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.404562 seconds
+[2019.05.19-14.16.35:938][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.05.19-14.16.35:938][  0]LogUObjectAllocator: 6914664 out of 0 bytes used by permanent object pool.
+[2019.05.19-14.16.35:938][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.05.19-14.16.39:294][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.05.19-14.16.39:324][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.05.19-14.16.41:979][  0]SourceControl: Source control is disabled
+[2019.05.19-14.16.41:979][  0]SourceControl: Source control is disabled
+[2019.05.19-14.16.41:988][  0]SourceControl: Source control is disabled
+[2019.05.19-14.16.41:993][  0]SourceControl: Source control is disabled
+[2019.05.19-14.16.42:534][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.05.19-14.16.42:895][  0]LogOcInput: OculusInput pre-init called
+[2019.05.19-14.16.43:324][  0]LogEngine: Initializing Engine...
+[2019.05.19-14.16.43:326][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.05.19-14.16.43:329][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.05.19-14.16.43:329][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.05.19-14.16.43:330][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.05.19-14.16.43:330][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.05.19-14.16.44:509][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.05.19-14.16.44:582][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.05.19-14.16.44:634][  0]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.19-14.16.44:931][  0]LogInit: FAudioDevice initialized.
+[2019.05.19-14.16.44:931][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.05.19-14.16.45:596][  0]LogDerivedDataCache: Saved boot cache 0.67s 71MB C:/Users/filse/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.05.19-14.16.45:635][  0]LogInit: Texture streaming: Enabled
+[2019.05.19-14.16.45:745][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.05.19-14.16.45:824][  0]LogInit: Transaction tracking system initialized
+[2019.05.19-14.16.45:981][  0]BlueprintLog: New page: Editor Load
+[2019.05.19-14.16.46:420][  0]LocalizationService: Localization service is disabled
+[2019.05.19-14.16.48:414][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.05.19-14.16.48:414][  0]LogCook: Display: Mobile HDR setting 1
+[2019.05.19-14.16.48:422][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.05.19-14.16.48:422][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.05.19-14.16.48:422][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.05.19-14.16.48:422][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.05.19-14.16.48:423][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.05.19-14.16.48:823][  0]LogFileCache: Scanning file cache for directory 'C:/Users/filse/Documents/GitHub/GameDesign/test/test/Content/' took 0.53s
+[2019.05.19-14.16.48:823][  0]SourceControl: Source control is disabled
+[2019.05.19-14.16.48:823][  0]Cmd: MAP LOAD FILE="../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.19-14.16.48:837][  0]LightingResults: New page: Lighting Build
+[2019.05.19-14.16.48:846][  0]MapCheck: New page: Map Check
+[2019.05.19-14.16.48:846][  0]LightingResults: New page: Lighting Build
+[2019.05.19-14.16.51:030][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.05.19-14.16.51:162][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.19-14.16.51:344][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.19-14.16.51:345][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.582ms to complete.
+[2019.05.19-14.16.51:345][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 2.522
+[2019.05.19-14.16.51:813][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.19-14.16.51:845][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.19-14.16.51:869][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.19-14.16.51:892][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.19-14.16.51:964][  0]LogCollectionManager: Loaded 0 collections in 0.007957 seconds
+[2019.05.19-14.16.52:263][  0]LogFileCache: Scanning file cache for directory 'C:/Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Collections/' took 0.04s
+[2019.05.19-14.16.52:263][  0]LogFileCache: Scanning file cache for directory 'C:/Users/filse/Documents/GitHub/GameDesign/test/test/Content/Developers/Lily/Collections/' took 0.00s
+[2019.05.19-14.16.52:263][  0]LogFileCache: Scanning file cache for directory 'C:/Users/filse/Documents/GitHub/GameDesign/test/test/Content/Collections/' took 0.00s
+[2019.05.19-14.16.52:263][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.05.19-14.16.52:308][  0]LogContentBrowser: Native class hierarchy populated in 0.0384 seconds. Added 2653 classes and 622 folders.
+[2019.05.19-14.16.52:371][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0010 seconds. Added 0 classes and 0 folders.
+[2019.05.19-14.16.52:415][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.19-14.16.52:451][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.19-14.16.52:491][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.19-14.16.52:528][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.19-14.16.52:548][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.19-14.16.52:563][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.19-14.16.52:576][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.19-14.16.52:594][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.19-14.16.52:614][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.19-14.16.52:640][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.19-14.16.52:654][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.19-14.16.52:667][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.19-14.16.52:686][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.19-14.16.52:709][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.19-14.16.52:723][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.19-14.16.52:738][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.19-14.16.52:792][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.19-14.16.52:806][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.19-14.16.52:821][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.19-14.16.52:836][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.19-14.16.52:920][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.19-14.16.52:954][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.19-14.16.52:970][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.19-14.16.52:990][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.19-14.16.53:009][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.19-14.16.53:028][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.19-14.16.53:047][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.19-14.16.53:064][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.19-14.16.53:932][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0010 seconds. Added 0 classes and 0 folders.
+[2019.05.19-14.16.53:981][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0010 seconds. Added 1 classes and 2 folders.
+[2019.05.19-14.16.54:714][  0]LogSlate: Took 0.001183 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.05.19-14.16.54:728][  0]LogSlate: Took 0.000567 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.05.19-14.16.54:770][  0]LogSlate: Took 0.015246 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.05.19-14.16.55:294][  0]LogRenderer: Reallocating scene render targets to support 908x164 Format 10 NumSamples 1 (Frame:1).
+[2019.05.19-14.16.58:333][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0017 seconds. Added 0 classes and 0 folders.
+[2019.05.19-14.16.58:334][  0]LogLoad: (Engine Initialization) Total time: 45.68 seconds
+[2019.05.19-14.16.58:334][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.05.19-14.16.59:869][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.05.19-14.17.03:372][  4]LogSlate: Took 0.038972 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.19-14.17.09:286][  4]LogLinker: Warning: Can't find file '/Game/Assignment/Audio/Sounds/WindWhipSound1'
+[2019.05.19-14.17.09:287][  4]LogLinker: Warning: Can't find file '/Game/Assignment/Audio/Sounds/WindWhipSound1'
+[2019.05.19-14.17.09:287][  4]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Assignment/Audio/Sounds/WindWhipSound1.WindWhipSound1'
+[2019.05.19-14.17.09:288][  4]LogLinker: Warning: Can't find file '/Game/Assignment/Audio/Sounds/WindWhipSound2'
+[2019.05.19-14.17.09:289][  4]LogLinker: Warning: Can't find file '/Game/Assignment/Audio/Sounds/WindWhipSound2'
+[2019.05.19-14.17.09:289][  4]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Assignment/Audio/Sounds/WindWhipSound2.WindWhipSound2'
+[2019.05.19-14.17.09:290][  4]LogLinker: Warning: Can't find file '/Game/Assignment/Audio/Sounds/WindWhipSound3'
+[2019.05.19-14.17.09:290][  4]LogLinker: Warning: Can't find file '/Game/Assignment/Audio/Sounds/WindWhipSound3'
+[2019.05.19-14.17.09:291][  4]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Assignment/Audio/Sounds/WindWhipSound3.WindWhipSound3'
+[2019.05.19-14.17.18:660][ 16]LogAssetRegistry: Asset discovery search completed in 46.8210 seconds
+[2019.05.19-14.17.18:671][ 16]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.05.19-14.17.18:671][ 16]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000138 seconds (updated 0 objects)
+[2019.05.19-14.17.27:771][ 33]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/filse/Documents/GitHub/GameDesign/test/test/Content/' took 29.34s
+[2019.05.19-14.17.33:023][ 77]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.19-14.18.02:331][452]LogSlate: Took 0.000545 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.19-14.18.04:130][452]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:/Music/Phone Music/WAV Files/BasicBattleMusic1_BattleConflict.wav)
+[2019.05.19-14.18.05:273][452]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:/Music/Phone Music/WAV Files/BossMusic1_ImmortalSpirits.wav)
+[2019.05.19-14.18.06:717][452]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:/Music/Phone Music/WAV Files/BossMusic2_VampirePrayer.wav)
+[2019.05.19-14.18.07:744][452]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:/Music/Phone Music/WAV Files/BossMusic4_Nemesis.wav)
+[2019.05.19-14.18.09:380][452]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:/Music/Phone Music/WAV Files/BossMusic5_FinalBattle.wav)
+[2019.05.19-14.18.11:918][452]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:/Music/Phone Music/WAV Files/BossMusic6_FatalBlood.wav)
+[2019.05.19-14.18.13:489][452]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:/Music/Phone Music/WAV Files/CreditsMusic_Prologue.wav)
+[2019.05.19-14.18.15:854][452]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:/Music/Phone Music/WAV Files/DeathMusic_RuinedPeoples.wav)
+[2019.05.19-14.18.17:837][452]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:/Music/Phone Music/WAV Files/IntroMusic_ReturnToDarkness.wav)
+[2019.05.19-14.18.20:335][452]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:/Music/Phone Music/WAV Files/MenuMusic_BattleWithDevilGeneral.wav)
+[2019.05.19-14.18.22:665][452]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:/Music/Phone Music/WAV Files/OverworldMusic1_TowerOfDespair.wav)
+[2019.05.19-14.18.24:912][452]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:/Music/Phone Music/WAV Files/OverworldMusic2_SealedRoom.wav)
+[2019.05.19-14.18.26:675][452]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:/Music/Phone Music/WAV Files/OverworldMusic3_CursedHouse.wav)
+[2019.05.19-14.18.28:497][452]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:/Music/Phone Music/WAV Files/OverworldMusic4_DungeonCave.wav)
+[2019.05.19-14.18.30:560][452]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:/Music/Phone Music/WAV Files/OverworldMusic5_ElvenSanctuary.wav)
+[2019.05.19-14.18.32:867][452]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:/Music/Phone Music/WAV Files/OverworldMusic6_MoonRuins.wav)
+[2019.05.19-14.18.34:616][452]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:/Music/Phone Music/WAV Files/OverworldMusic7_MystyValley.wav)
+[2019.05.19-14.18.36:284][452]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:/Music/Phone Music/WAV Files/OverworldMusic8_IllusionField.wav)
+[2019.05.19-14.18.37:616][452]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:/Music/Phone Music/WAV Files/OverworldMusic9_MainTheme02.wav)
+[2019.05.19-14.18.39:095][452]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:/Music/Phone Music/WAV Files/OverworldMusic10_Airship.wav)
+[2019.05.19-14.18.40:309][452]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:/Music/Phone Music/WAV Files/OverworldMusic11_EndlessJourney.wav)
+[2019.05.19-14.18.42:032][452]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:/Music/Phone Music/WAV Files/OverworldMusic12_Order of the Kingdom.wav)
+[2019.05.19-14.18.43:521][452]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:/Music/Phone Music/WAV Files/OverworldMusic13_ForgottenPlace.wav)
+[2019.05.19-14.18.44:863][452]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:/Music/Phone Music/WAV Files/OverworldMusic14_ShoppingDistrict.wav)
+[2019.05.19-14.18.45:810][452]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:/Music/Phone Music/WAV Files/OverworldMusic15_ParadiseLost.wav)
+[2019.05.19-14.18.47:283][452]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:/Music/Phone Music/WAV Files/OverworldMusic16_RemotestLibrary.wav)
+[2019.05.19-14.18.58:428][478]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (10.402 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.19-14.22.17:435][258]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave BossMusic2_VampirePrayer...
+[2019.05.19-14.22.24:871][258]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 34642944 while cooking SoundWave /Game/Assignment/Audio/Music/BossMusic2_VampirePrayer.BossMusic2_VampirePrayer.
+[2019.05.19-14.22.43:137][593]LogAssetEditorManager: Opening Asset editor for SoundCue /Game/Assignment/Audio/Music/BasicBattleMusic1_BattleConflict_Cue.BasicBattleMusic1_BattleConflict_Cue
+[2019.05.19-14.22.43:850][593]LogSlate: Took 0.035739 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.05.19-14.23.04:059][868]LogSlate: Window 'BasicBattleMusic1_BattleConflict_Cue*' being destroyed
+[2019.05.19-14.23.04:086][868]LogSlate: Window 'BasicBattleMusic1_BattleConflict_Cue*' being destroyed
+[2019.05.19-14.23.19:013][100]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/ThirdPersonExampleMapCF1D722D4DFA57F2F7E7C3BE9F8919F2.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.05.19-14.25.35:198][752]LogAssetEditorManager: Opening Asset editor for SoundCue /Game/Assignment/Audio/Music/OverworldMusic9_MainTheme02_Cue.OverworldMusic9_MainTheme02_Cue
+[2019.05.19-14.25.49:492][986]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave OverworldMusic9_MainTheme02...
+[2019.05.19-14.25.57:230][986]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 34500096 while cooking SoundWave /Game/Assignment/Audio/Music/OverworldMusic9_MainTheme02.OverworldMusic9_MainTheme02.
+[2019.05.19-14.26.48:636][650]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/OverworldMusic9_MainTheme02_Cue4DC20FF04436EE6875B988B0037A840C.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Audio/Music/OverworldMusic9_MainTheme02_Cue.uasset'
+[2019.05.19-14.26.49:935][690]LogSlate: Window 'OverworldMusic9_MainTheme02_Cue' being destroyed
+[2019.05.19-14.26.49:957][690]LogSlate: Window 'OverworldMusic9_MainTheme02_Cue' being destroyed
+[2019.05.19-14.26.52:427][785]LogAssetEditorManager: Opening Asset editor for SoundCue /Game/Assignment/Audio/Music/OverworldMusic8_IllusionField_Cue.OverworldMusic8_IllusionField_Cue
+[2019.05.19-14.26.59:649][988]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/OverworldMusic8_IllusionField_CuEB77685D4A51717DCEF5DDB1E5B8CF4D.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Audio/Music/OverworldMusic8_IllusionField_Cue.uasset'
+[2019.05.19-14.27.01:611][ 48]LogSlate: Window 'OverworldMusic8_IllusionField_Cue' being destroyed
+[2019.05.19-14.27.01:623][ 48]LogSlate: Window 'OverworldMusic8_IllusionField_Cue' being destroyed
+[2019.05.19-14.27.03:959][121]LogAssetEditorManager: Opening Asset editor for SoundCue /Game/Assignment/Audio/Music/OverworldMusic7_MystyValley_Cue.OverworldMusic7_MystyValley_Cue
+[2019.05.19-14.27.10:262][272]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/OverworldMusic7_MystyValley_CueE924F4BA44B5EA24EFC3668DEBC18479.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Audio/Music/OverworldMusic7_MystyValley_Cue.uasset'
+[2019.05.19-14.27.12:924][342]LogSlate: Window 'OverworldMusic7_MystyValley_Cue' being destroyed
+[2019.05.19-14.27.12:951][342]LogSlate: Window 'OverworldMusic7_MystyValley_Cue' being destroyed
+[2019.05.19-14.27.15:609][425]LogAssetEditorManager: Opening Asset editor for SoundCue /Game/Assignment/Audio/Music/OverworldMusic6_MoonRuins_Cue.OverworldMusic6_MoonRuins_Cue
+[2019.05.19-14.27.22:524][601]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/OverworldMusic6_MoonRuins_Cue939E48FF481D8D57003810A3F6798335.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Audio/Music/OverworldMusic6_MoonRuins_Cue.uasset'
+[2019.05.19-14.27.24:345][651]LogSlate: Window 'OverworldMusic6_MoonRuins_Cue' being destroyed
+[2019.05.19-14.27.24:370][651]LogSlate: Window 'OverworldMusic6_MoonRuins_Cue' being destroyed
+[2019.05.19-14.27.26:137][703]LogAssetEditorManager: Opening Asset editor for SoundCue /Game/Assignment/Audio/Music/OverworldMusic5_ElvenSanctuary_Cue.OverworldMusic5_ElvenSanctuary_Cue
+[2019.05.19-14.27.32:853][894]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/OverworldMusic5_ElvenSanctuary_C7EDAD1904E9AA588C839D1AF6FC9A2D7.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Audio/Music/OverworldMusic5_ElvenSanctuary_Cue.uasset'
+[2019.05.19-14.27.34:600][945]LogSlate: Window 'OverworldMusic5_ElvenSanctuary_Cue' being destroyed
+[2019.05.19-14.27.34:622][945]LogSlate: Window 'OverworldMusic5_ElvenSanctuary_Cue' being destroyed
+[2019.05.19-14.27.37:076][ 37]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave OverworldMusic7_MystyValley...
+[2019.05.19-14.27.46:302][ 37]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 40766976 while cooking SoundWave /Game/Assignment/Audio/Music/OverworldMusic7_MystyValley.OverworldMusic7_MystyValley.
+[2019.05.19-14.27.54:678][388]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave OverworldMusic8_IllusionField...
+[2019.05.19-14.28.02:572][388]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 33168384 while cooking SoundWave /Game/Assignment/Audio/Music/OverworldMusic8_IllusionField.OverworldMusic8_IllusionField.
+[2019.05.19-14.28.10:348][725]LogAssetEditorManager: Opening Asset editor for SoundCue /Game/Assignment/Audio/Music/OverworldMusic5_ElvenSanctuary_Cue.OverworldMusic5_ElvenSanctuary_Cue
+[2019.05.19-14.28.15:516][869]LogSlate: Window 'OverworldMusic5_ElvenSanctuary_Cue' being destroyed
+[2019.05.19-14.28.15:540][869]LogSlate: Window 'OverworldMusic5_ElvenSanctuary_Cue' being destroyed
+[2019.05.19-14.30.58:455][290]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2019.05.19-14.30.58:455][290]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (5.524 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.19-15.06.26:811][324]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2019.05.19-15.06.35:702][324]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.19-15.06.35:702][324]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.19-15.06.35:702][324]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.19-15.06.35:702][324]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.19-15.06.35:702][324]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.19-15.06.35:702][324]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.19-15.06.35:702][324]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.19-15.06.35:702][324]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.19-15.06.35:702][324]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.19-15.06.35:702][324]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.19-15.06.35:702][324]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.19-15.06.35:702][324]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.19-15.06.35:702][324]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.19-15.06.35:702][324]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.19-15.06.35:703][324]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.19-15.06.35:703][324]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.19-15.06.35:703][324]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.19-15.06.35:703][324]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.19-15.06.35:703][324]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.19-15.06.35:703][324]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.19-15.06.35:703][324]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.19-15.06.35:703][324]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.19-15.06.35:703][324]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.19-15.06.35:703][324]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.19-15.06.35:703][324]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.19-15.06.35:703][324]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.19-15.06.35:703][324]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.19-15.06.35:703][324]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.19-15.06.35:703][324]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.19-15.06.35:703][324]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.19-15.06.35:703][324]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.19-15.06.35:703][324]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.19-15.06.35:703][324]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.19-15.06.35:703][324]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.19-15.06.45:566][326]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.116
+[2019.05.19-15.06.45:599][326]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assignment/Audio/Music/BasicBattleMusic1_BattleConflict] ([1] browsable assets)...
+[2019.05.19-15.06.45:838][326]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assignment/Audio/Music/BasicBattleMusic1_BattleConflict.BasicBattleMusic1_BattleConflict]
+[2019.05.19-15.06.45:838][326]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assignment/Audio/Music/BasicBattleMusic1_BattleConflict]
+[2019.05.19-15.06.50:759][326]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/BasicBattleMusic1_BattleConflict42A7FAF7406E36E9C0819FAB5630ADCB.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Autosaves/Game/Assignment/Audio/Music/BasicBattleMusic1_BattleConflict_Auto1.uasset'
+[2019.05.19-15.06.50:767][326]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assignment/Audio/Music/BossMusic1_ImmortalSpirits] ([1] browsable assets)...
+[2019.05.19-15.06.50:822][326]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assignment/Audio/Music/BossMusic1_ImmortalSpirits.BossMusic1_ImmortalSpirits]
+[2019.05.19-15.06.50:822][326]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assignment/Audio/Music/BossMusic1_ImmortalSpirits]
+[2019.05.19-15.06.51:097][326]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/BossMusic1_ImmortalSpirits_Auto186EC89AC447CC9CA289E05AF059F381C.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Autosaves/Game/Assignment/Audio/Music/BossMusic1_ImmortalSpirits_Auto1.uasset'
+[2019.05.19-15.06.51:102][326]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assignment/Audio/Music/BossMusic2_VampirePrayer] ([1] browsable assets)...
+[2019.05.19-15.06.51:220][326]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assignment/Audio/Music/BossMusic2_VampirePrayer.BossMusic2_VampirePrayer]
+[2019.05.19-15.06.51:220][326]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assignment/Audio/Music/BossMusic2_VampirePrayer]
+[2019.05.19-15.06.58:788][326]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/BossMusic2_VampirePrayer_Auto139682F6543F027EEF64ADCBAF5FD9979.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Autosaves/Game/Assignment/Audio/Music/BossMusic2_VampirePrayer_Auto1.uasset'
+[2019.05.19-15.06.58:860][326]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assignment/Audio/Music/BossMusic4_Nemesis] ([1] browsable assets)...
+[2019.05.19-15.06.58:920][326]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assignment/Audio/Music/BossMusic4_Nemesis.BossMusic4_Nemesis]
+[2019.05.19-15.06.58:921][326]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assignment/Audio/Music/BossMusic4_Nemesis]
+[2019.05.19-15.06.59:315][326]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/BossMusic4_Nemesis_Auto127C2D6174FAD9FB6F7F04BA4F1E35221.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Autosaves/Game/Assignment/Audio/Music/BossMusic4_Nemesis_Auto1.uasset'
+[2019.05.19-15.06.59:325][326]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assignment/Audio/Music/BossMusic5_FinalBattle] ([1] browsable assets)...
+[2019.05.19-15.06.59:461][326]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assignment/Audio/Music/BossMusic5_FinalBattle.BossMusic5_FinalBattle]
+[2019.05.19-15.06.59:461][326]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assignment/Audio/Music/BossMusic5_FinalBattle]
+[2019.05.19-15.07.07:822][326]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/BossMusic5_FinalBattle_Auto184C978E5443D11D67B2404B15B6A8C81.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Autosaves/Game/Assignment/Audio/Music/BossMusic5_FinalBattle_Auto1.uasset'
+[2019.05.19-15.07.07:825][326]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assignment/Audio/Music/BossMusic6_FatalBlood] ([1] browsable assets)...
+[2019.05.19-15.07.07:902][326]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assignment/Audio/Music/BossMusic6_FatalBlood.BossMusic6_FatalBlood]
+[2019.05.19-15.07.07:902][326]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assignment/Audio/Music/BossMusic6_FatalBlood]
+[2019.05.19-15.07.16:383][326]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/BossMusic6_FatalBlood_Auto1178E2FFC44852D7805D950A27A9B3EFC.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Autosaves/Game/Assignment/Audio/Music/BossMusic6_FatalBlood_Auto1.uasset'
+[2019.05.19-15.07.16:389][326]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assignment/Audio/Music/CreditsMusic_Prologue] ([1] browsable assets)...
+[2019.05.19-15.07.16:473][326]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assignment/Audio/Music/CreditsMusic_Prologue.CreditsMusic_Prologue]
+[2019.05.19-15.07.16:473][326]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assignment/Audio/Music/CreditsMusic_Prologue]
+[2019.05.19-15.07.19:340][326]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/CreditsMusic_Prologue_Auto10325C713417E45FFB276E5BC5A687DAE.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Autosaves/Game/Assignment/Audio/Music/CreditsMusic_Prologue_Auto1.uasset'
+[2019.05.19-15.07.19:345][326]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assignment/Audio/Music/DeathMusic_RuinedPeoples] ([1] browsable assets)...
+[2019.05.19-15.07.19:440][326]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assignment/Audio/Music/DeathMusic_RuinedPeoples.DeathMusic_RuinedPeoples]
+[2019.05.19-15.07.19:440][326]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assignment/Audio/Music/DeathMusic_RuinedPeoples]
+[2019.05.19-15.07.21:439][326]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/DeathMusic_RuinedPeoples_Auto155C4C78742669D4345434CA87A8AFA10.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Autosaves/Game/Assignment/Audio/Music/DeathMusic_RuinedPeoples_Auto1.uasset'
+[2019.05.19-15.07.21:445][326]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assignment/Audio/Music/IntroMusic_ReturnToDarkness] ([1] browsable assets)...
+[2019.05.19-15.07.21:576][326]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assignment/Audio/Music/IntroMusic_ReturnToDarkness.IntroMusic_ReturnToDarkness]
+[2019.05.19-15.07.21:576][326]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assignment/Audio/Music/IntroMusic_ReturnToDarkness]
+[2019.05.19-15.07.23:519][326]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/IntroMusic_ReturnToDarkness_AutoCD6289704561049AAA684ABBAE218B62.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Autosaves/Game/Assignment/Audio/Music/IntroMusic_ReturnToDarkness_Auto1.uasset'
+[2019.05.19-15.07.23:524][326]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assignment/Audio/Music/MenuMusic_BattleWithDevilGeneral] ([1] browsable assets)...
+[2019.05.19-15.07.23:646][326]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assignment/Audio/Music/MenuMusic_BattleWithDevilGeneral.MenuMusic_BattleWithDevilGeneral]
+[2019.05.19-15.07.23:646][326]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assignment/Audio/Music/MenuMusic_BattleWithDevilGeneral]
+[2019.05.19-15.07.25:467][326]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/MenuMusic_BattleWithDevilGeneralFED2D0B849BAF7D27C40B9A4DCCFD818.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Autosaves/Game/Assignment/Audio/Music/MenuMusic_BattleWithDevilGeneral_Auto1.uasset'
+[2019.05.19-15.07.25:472][326]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assignment/Audio/Music/OverworldMusic1_TowerOfDespair] ([1] browsable assets)...
+[2019.05.19-15.07.25:585][326]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assignment/Audio/Music/OverworldMusic1_TowerOfDespair.OverworldMusic1_TowerOfDespair]
+[2019.05.19-15.07.25:585][326]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assignment/Audio/Music/OverworldMusic1_TowerOfDespair]
+[2019.05.19-15.08.15:322][326]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/OverworldMusic1_TowerOfDespair_AAF289D044FE1D71C14B909B9080746FD.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Autosaves/Game/Assignment/Audio/Music/OverworldMusic1_TowerOfDespair_Auto1.uasset'
+[2019.05.19-15.08.15:325][326]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assignment/Audio/Music/OverworldMusic2_SealedRoom] ([1] browsable assets)...
+[2019.05.19-15.08.15:590][326]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assignment/Audio/Music/OverworldMusic2_SealedRoom.OverworldMusic2_SealedRoom]
+[2019.05.19-15.08.15:590][326]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assignment/Audio/Music/OverworldMusic2_SealedRoom]
+[2019.05.19-15.08.18:578][326]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/OverworldMusic2_SealedRoom_Auto1EA9F55404A680CBE77D77DB9FDE39834.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Autosaves/Game/Assignment/Audio/Music/OverworldMusic2_SealedRoom_Auto1.uasset'
+[2019.05.19-15.08.18:593][326]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assignment/Audio/Music/OverworldMusic3_CursedHouse] ([1] browsable assets)...
+[2019.05.19-15.08.18:755][326]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assignment/Audio/Music/OverworldMusic3_CursedHouse.OverworldMusic3_CursedHouse]
+[2019.05.19-15.08.18:755][326]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assignment/Audio/Music/OverworldMusic3_CursedHouse]
+[2019.05.19-15.08.21:569][326]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/OverworldMusic3_CursedHouse_Auto88DA02624F104FCE627D69839DCC7B71.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Autosaves/Game/Assignment/Audio/Music/OverworldMusic3_CursedHouse_Auto1.uasset'
+[2019.05.19-15.08.21:573][326]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assignment/Audio/Music/OverworldMusic4_DungeonCave] ([1] browsable assets)...
+[2019.05.19-15.08.21:810][326]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assignment/Audio/Music/OverworldMusic4_DungeonCave.OverworldMusic4_DungeonCave]
+[2019.05.19-15.08.21:810][326]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assignment/Audio/Music/OverworldMusic4_DungeonCave]
+[2019.05.19-15.08.23:142][326]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/OverworldMusic4_DungeonCave_AutoDFB11D994FA2CEA4F87203856FAE5140.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Autosaves/Game/Assignment/Audio/Music/OverworldMusic4_DungeonCave_Auto1.uasset'
+[2019.05.19-15.08.23:151][326]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assignment/Audio/Music/OverworldMusic5_ElvenSanctuary] ([1] browsable assets)...
+[2019.05.19-15.08.23:420][326]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assignment/Audio/Music/OverworldMusic5_ElvenSanctuary.OverworldMusic5_ElvenSanctuary]
+[2019.05.19-15.08.23:420][326]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assignment/Audio/Music/OverworldMusic5_ElvenSanctuary]
+[2019.05.19-15.08.24:455][326]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/OverworldMusic5_ElvenSanctuary_A9F83F76F4AE15CA5EDC6CCA3E856DC4D.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Autosaves/Game/Assignment/Audio/Music/OverworldMusic5_ElvenSanctuary_Auto1.uasset'
+[2019.05.19-15.08.24:606][326]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assignment/Audio/Music/OverworldMusic6_MoonRuins] ([1] browsable assets)...
+[2019.05.19-15.08.24:873][326]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assignment/Audio/Music/OverworldMusic6_MoonRuins.OverworldMusic6_MoonRuins]
+[2019.05.19-15.08.24:874][326]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assignment/Audio/Music/OverworldMusic6_MoonRuins]
+[2019.05.19-15.08.26:538][326]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/OverworldMusic6_MoonRuins_Auto1DB35E5014199A28E44D5048A11894E05.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Autosaves/Game/Assignment/Audio/Music/OverworldMusic6_MoonRuins_Auto1.uasset'
+[2019.05.19-15.08.26:543][326]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assignment/Audio/Music/OverworldMusic7_MystyValley] ([1] browsable assets)...
+[2019.05.19-15.08.26:687][326]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assignment/Audio/Music/OverworldMusic7_MystyValley.OverworldMusic7_MystyValley]
+[2019.05.19-15.08.26:687][326]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assignment/Audio/Music/OverworldMusic7_MystyValley]
+[2019.05.19-15.08.28:604][326]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/OverworldMusic7_MystyValley_AutoCBA4BA444B0946D0229AFCA7E5195720.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Autosaves/Game/Assignment/Audio/Music/OverworldMusic7_MystyValley_Auto1.uasset'
+[2019.05.19-15.08.28:608][326]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assignment/Audio/Music/OverworldMusic8_IllusionField] ([1] browsable assets)...
+[2019.05.19-15.08.28:771][326]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assignment/Audio/Music/OverworldMusic8_IllusionField.OverworldMusic8_IllusionField]
+[2019.05.19-15.08.28:772][326]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assignment/Audio/Music/OverworldMusic8_IllusionField]
+[2019.05.19-15.08.29:877][326]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/OverworldMusic8_IllusionField_Au6A926277498E7BB2463DA9BFEB572D60.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Autosaves/Game/Assignment/Audio/Music/OverworldMusic8_IllusionField_Auto1.uasset'
+[2019.05.19-15.08.29:891][326]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assignment/Audio/Music/OverworldMusic9_MainTheme02] ([1] browsable assets)...
+[2019.05.19-15.08.30:081][326]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assignment/Audio/Music/OverworldMusic9_MainTheme02.OverworldMusic9_MainTheme02]
+[2019.05.19-15.08.30:082][326]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assignment/Audio/Music/OverworldMusic9_MainTheme02]
+[2019.05.19-15.08.31:286][326]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/OverworldMusic9_MainTheme02_Auto37EC289248873A9812F674BE78701618.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Autosaves/Game/Assignment/Audio/Music/OverworldMusic9_MainTheme02_Auto1.uasset'
+[2019.05.19-15.08.31:290][326]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assignment/Audio/Music/OverworldMusic10_Airship] ([1] browsable assets)...
+[2019.05.19-15.08.31:789][326]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assignment/Audio/Music/OverworldMusic10_Airship.OverworldMusic10_Airship]
+[2019.05.19-15.08.31:789][326]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assignment/Audio/Music/OverworldMusic10_Airship]
+[2019.05.19-15.08.34:569][326]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/OverworldMusic10_Airship_Auto104FD2F3D41C1FE0305E31FB8E3FED21B.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Autosaves/Game/Assignment/Audio/Music/OverworldMusic10_Airship_Auto1.uasset'
+[2019.05.19-15.08.34:573][326]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assignment/Audio/Music/OverworldMusic11_EndlessJourney] ([1] browsable assets)...
+[2019.05.19-15.08.36:272][326]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assignment/Audio/Music/OverworldMusic11_EndlessJourney.OverworldMusic11_EndlessJourney]
+[2019.05.19-15.08.36:272][326]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assignment/Audio/Music/OverworldMusic11_EndlessJourney]
+[2019.05.19-15.08.37:452][326]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/OverworldMusic11_EndlessJourney_3872608840F0941FCAB4F6B529A0CE29.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Autosaves/Game/Assignment/Audio/Music/OverworldMusic11_EndlessJourney_Auto1.uasset'
+[2019.05.19-15.08.37:459][326]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assignment/Audio/Music/OverworldMusic12_Order_of_the_Kingdom] ([1] browsable assets)...
+[2019.05.19-15.08.37:570][326]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assignment/Audio/Music/OverworldMusic12_Order_of_the_Kingdom.OverworldMusic12_Order_of_the_Kingdom]
+[2019.05.19-15.08.37:570][326]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assignment/Audio/Music/OverworldMusic12_Order_of_the_Kingdom]
+[2019.05.19-15.08.38:540][326]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/OverworldMusic12_Order_of_the_Ki4D00F03E45E2CBB5FB07FB8550A9B004.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Autosaves/Game/Assignment/Audio/Music/OverworldMusic12_Order_of_the_Kingdom_Auto1.uasset'
+[2019.05.19-15.08.38:549][326]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assignment/Audio/Music/OverworldMusic13_ForgottenPlace] ([1] browsable assets)...
+[2019.05.19-15.08.38:649][326]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assignment/Audio/Music/OverworldMusic13_ForgottenPlace.OverworldMusic13_ForgottenPlace]
+[2019.05.19-15.08.38:649][326]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assignment/Audio/Music/OverworldMusic13_ForgottenPlace]
+[2019.05.19-15.08.40:903][326]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/OverworldMusic13_ForgottenPlace_2C6BC3764E964E84DCE97DBFD49AB414.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Autosaves/Game/Assignment/Audio/Music/OverworldMusic13_ForgottenPlace_Auto1.uasset'
+[2019.05.19-15.08.40:906][326]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assignment/Audio/Music/OverworldMusic14_ShoppingDistrict] ([1] browsable assets)...
+[2019.05.19-15.08.41:255][326]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assignment/Audio/Music/OverworldMusic14_ShoppingDistrict.OverworldMusic14_ShoppingDistrict]
+[2019.05.19-15.08.41:255][326]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assignment/Audio/Music/OverworldMusic14_ShoppingDistrict]
+[2019.05.19-15.08.42:070][326]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/OverworldMusic14_ShoppingDistricEDE9A29948FD89CC0138D58046C43CF8.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Autosaves/Game/Assignment/Audio/Music/OverworldMusic14_ShoppingDistrict_Auto1.uasset'
+[2019.05.19-15.08.42:077][326]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assignment/Audio/Music/OverworldMusic15_ParadiseLost] ([1] browsable assets)...
+[2019.05.19-15.08.42:169][326]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assignment/Audio/Music/OverworldMusic15_ParadiseLost.OverworldMusic15_ParadiseLost]
+[2019.05.19-15.08.42:169][326]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assignment/Audio/Music/OverworldMusic15_ParadiseLost]
+[2019.05.19-15.08.44:139][326]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/OverworldMusic15_ParadiseLost_Au4DD4ED8147DD2135BC1AA8B680B600F9.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Autosaves/Game/Assignment/Audio/Music/OverworldMusic15_ParadiseLost_Auto1.uasset'
+[2019.05.19-15.08.44:156][326]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assignment/Audio/Music/OverworldMusic16_RemotestLibrary] ([1] browsable assets)...
+[2019.05.19-15.08.45:174][326]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assignment/Audio/Music/OverworldMusic16_RemotestLibrary.OverworldMusic16_RemotestLibrary]
+[2019.05.19-15.08.45:175][326]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assignment/Audio/Music/OverworldMusic16_RemotestLibrary]
+[2019.05.19-15.08.47:589][326]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/OverworldMusic16_RemotestLibraryCAB598B5434A2F04B46317B37BE2338F.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Autosaves/Game/Assignment/Audio/Music/OverworldMusic16_RemotestLibrary_Auto1.uasset'
+[2019.05.19-15.08.47:592][326]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assignment/Audio/Music/OverworldMusic4_DungeonCave_Cue] ([1] browsable assets)...
+[2019.05.19-15.08.47:592][326]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assignment/Audio/Music/OverworldMusic4_DungeonCave_Cue]
+[2019.05.19-15.08.47:630][326]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/OverworldMusic4_DungeonCave_Cue_586CCAAD4DF35C2BF03AD4AC32B8E4E2.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Autosaves/Game/Assignment/Audio/Music/OverworldMusic4_DungeonCave_Cue_Auto1.uasset'
+[2019.05.19-15.08.47:637][326]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assignment/Audio/Music/OverworldMusic3_CursedHouse_Cue] ([1] browsable assets)...
+[2019.05.19-15.08.47:637][326]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assignment/Audio/Music/OverworldMusic3_CursedHouse_Cue]
+[2019.05.19-15.08.47:672][326]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/OverworldMusic3_CursedHouse_Cue_3ADD133B4064C3947EB51CA3228FD0D8.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Autosaves/Game/Assignment/Audio/Music/OverworldMusic3_CursedHouse_Cue_Auto1.uasset'
+[2019.05.19-15.08.47:683][326]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assignment/Audio/Music/OverworldMusic2_SealedRoom_Cue] ([1] browsable assets)...
+[2019.05.19-15.08.47:683][326]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assignment/Audio/Music/OverworldMusic2_SealedRoom_Cue]
+[2019.05.19-15.08.47:908][326]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/OverworldMusic2_SealedRoom_Cue_AC0B86D4342A2A9795A77508DEFE23933.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Autosaves/Game/Assignment/Audio/Music/OverworldMusic2_SealedRoom_Cue_Auto1.uasset'
+[2019.05.19-15.08.47:920][326]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assignment/Audio/Music/OverworldMusic1_TowerOfDespair_Cue] ([1] browsable assets)...
+[2019.05.19-15.08.47:921][326]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assignment/Audio/Music/OverworldMusic1_TowerOfDespair_Cue]
+[2019.05.19-15.08.48:043][326]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/OverworldMusic1_TowerOfDespair_C40780FDB4EA0D6C40179F38B084A8082.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Autosaves/Game/Assignment/Audio/Music/OverworldMusic1_TowerOfDespair_Cue_Auto1.uasset'
+[2019.05.19-15.08.48:052][326]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assignment/Audio/Music/OverworldMusic16_RemotestLibrary_Cue] ([1] browsable assets)...
+[2019.05.19-15.08.48:052][326]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assignment/Audio/Music/OverworldMusic16_RemotestLibrary_Cue]
+[2019.05.19-15.08.48:090][326]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/OverworldMusic16_RemotestLibrary01F5DC1C40AD0546EA2C868C207125F8.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Autosaves/Game/Assignment/Audio/Music/OverworldMusic16_RemotestLibrary_Cue_Auto1.uasset'
+[2019.05.19-15.08.48:099][326]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assignment/Audio/Music/OverworldMusic15_ParadiseLost_Cue] ([1] browsable assets)...
+[2019.05.19-15.08.48:099][326]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assignment/Audio/Music/OverworldMusic15_ParadiseLost_Cue]
+[2019.05.19-15.08.48:154][326]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/OverworldMusic15_ParadiseLost_Cu9A4E83E14E007301DA1B1FB26548936C.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Autosaves/Game/Assignment/Audio/Music/OverworldMusic15_ParadiseLost_Cue_Auto1.uasset'
+[2019.05.19-15.08.48:159][326]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assignment/Audio/Music/OverworldMusic14_ShoppingDistrict_Cue] ([1] browsable assets)...
+[2019.05.19-15.08.48:159][326]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assignment/Audio/Music/OverworldMusic14_ShoppingDistrict_Cue]
+[2019.05.19-15.08.48:203][326]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/OverworldMusic14_ShoppingDistric2F9046E343889CAE53C0D88D7EB104B3.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Autosaves/Game/Assignment/Audio/Music/OverworldMusic14_ShoppingDistrict_Cue_Auto1.uasset'
+[2019.05.19-15.08.48:209][326]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assignment/Audio/Music/OverworldMusic13_ForgottenPlace_Cue] ([1] browsable assets)...
+[2019.05.19-15.08.48:209][326]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assignment/Audio/Music/OverworldMusic13_ForgottenPlace_Cue]
+[2019.05.19-15.08.48:285][326]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/OverworldMusic13_ForgottenPlace_A2E1FA3246DC90A6DB3B2BA3C8A9362E.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Autosaves/Game/Assignment/Audio/Music/OverworldMusic13_ForgottenPlace_Cue_Auto1.uasset'
+[2019.05.19-15.08.48:292][326]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assignment/Audio/Music/OverworldMusic12_Order_of_the_Kingdom_Cue] ([1] browsable assets)...
+[2019.05.19-15.08.48:292][326]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assignment/Audio/Music/OverworldMusic12_Order_of_the_Kingdom_Cue]
+[2019.05.19-15.08.48:356][326]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/OverworldMusic12_Order_of_the_Ki19E29710423F6D492594CBB84606C2DE.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Autosaves/Game/Assignment/Audio/Music/OverworldMusic12_Order_of_the_Kingdom_Cue_Auto1.uasset'
+[2019.05.19-15.08.48:361][326]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assignment/Audio/Music/OverworldMusic11_EndlessJourney_Cue] ([1] browsable assets)...
+[2019.05.19-15.08.48:362][326]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assignment/Audio/Music/OverworldMusic11_EndlessJourney_Cue]
+[2019.05.19-15.08.48:404][326]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/OverworldMusic11_EndlessJourney_AE0F926A47D201B82FF994AD7DB07598.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Autosaves/Game/Assignment/Audio/Music/OverworldMusic11_EndlessJourney_Cue_Auto1.uasset'
+[2019.05.19-15.08.48:425][326]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assignment/Audio/Music/OverworldMusic10_Airship_Cue] ([1] browsable assets)...
+[2019.05.19-15.08.48:425][326]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assignment/Audio/Music/OverworldMusic10_Airship_Cue]
+[2019.05.19-15.08.48:500][326]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/OverworldMusic10_Airship_Cue_AutCCF6DAB14EB7D807514F53B496E3CDB9.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Autosaves/Game/Assignment/Audio/Music/OverworldMusic10_Airship_Cue_Auto1.uasset'
+[2019.05.19-15.08.48:523][326]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assignment/Audio/Music/MenuMusic_BattleWithDevilGeneral_Cue] ([1] browsable assets)...
+[2019.05.19-15.08.48:523][326]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assignment/Audio/Music/MenuMusic_BattleWithDevilGeneral_Cue]
+[2019.05.19-15.08.48:591][326]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/MenuMusic_BattleWithDevilGeneral291F05F24AD12449AE9BB59704DCDCA6.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Autosaves/Game/Assignment/Audio/Music/MenuMusic_BattleWithDevilGeneral_Cue_Auto1.uasset'
+[2019.05.19-15.08.48:695][326]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assignment/Audio/Music/IntroMusic_ReturnToDarkness_Cue] ([1] browsable assets)...
+[2019.05.19-15.08.48:695][326]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assignment/Audio/Music/IntroMusic_ReturnToDarkness_Cue]
+[2019.05.19-15.08.48:818][326]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/IntroMusic_ReturnToDarkness_Cue_D3133F0343A4796979B66DBA3B627C23.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Autosaves/Game/Assignment/Audio/Music/IntroMusic_ReturnToDarkness_Cue_Auto1.uasset'
+[2019.05.19-15.08.48:822][326]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assignment/Audio/Music/DeathMusic_RuinedPeoples_Cue] ([1] browsable assets)...
+[2019.05.19-15.08.48:823][326]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assignment/Audio/Music/DeathMusic_RuinedPeoples_Cue]
+[2019.05.19-15.08.48:871][326]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/DeathMusic_RuinedPeoples_Cue_AutB2C0271741B3594B1DE37EA07D525E13.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Autosaves/Game/Assignment/Audio/Music/DeathMusic_RuinedPeoples_Cue_Auto1.uasset'
+[2019.05.19-15.08.48:892][326]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assignment/Audio/Music/CreditsMusic_Prologue_Cue] ([1] browsable assets)...
+[2019.05.19-15.08.48:892][326]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assignment/Audio/Music/CreditsMusic_Prologue_Cue]
+[2019.05.19-15.08.48:958][326]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/CreditsMusic_Prologue_Cue_Auto10FABCF4945E15B9DBB81939060E85ADA.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Autosaves/Game/Assignment/Audio/Music/CreditsMusic_Prologue_Cue_Auto1.uasset'
+[2019.05.19-15.08.48:969][326]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assignment/Audio/Music/BossMusic6_FatalBlood_Cue] ([1] browsable assets)...
+[2019.05.19-15.08.48:969][326]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assignment/Audio/Music/BossMusic6_FatalBlood_Cue]
+[2019.05.19-15.08.49:008][326]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/BossMusic6_FatalBlood_Cue_Auto1EF09FD9E498F26A073C770A5AA9738D1.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Autosaves/Game/Assignment/Audio/Music/BossMusic6_FatalBlood_Cue_Auto1.uasset'
+[2019.05.19-15.08.49:021][326]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assignment/Audio/Music/BossMusic5_FinalBattle_Cue] ([1] browsable assets)...
+[2019.05.19-15.08.49:021][326]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assignment/Audio/Music/BossMusic5_FinalBattle_Cue]
+[2019.05.19-15.08.49:086][326]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/BossMusic5_FinalBattle_Cue_Auto1AEB1412D42F52C2AC704B3A8DA0A8837.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Autosaves/Game/Assignment/Audio/Music/BossMusic5_FinalBattle_Cue_Auto1.uasset'
+[2019.05.19-15.08.49:121][326]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assignment/Audio/Music/BossMusic4_Nemesis_Cue] ([1] browsable assets)...
+[2019.05.19-15.08.49:140][326]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assignment/Audio/Music/BossMusic4_Nemesis_Cue]
+[2019.05.19-15.08.49:242][326]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/BossMusic4_Nemesis_Cue_Auto1BA0CCFDE43078CEDB2C1DA844DACD881.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Autosaves/Game/Assignment/Audio/Music/BossMusic4_Nemesis_Cue_Auto1.uasset'
+[2019.05.19-15.08.49:257][326]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assignment/Audio/Music/BossMusic2_VampirePrayer_Cue] ([1] browsable assets)...
+[2019.05.19-15.08.49:257][326]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assignment/Audio/Music/BossMusic2_VampirePrayer_Cue]
+[2019.05.19-15.08.49:529][326]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/BossMusic2_VampirePrayer_Cue_AutB8866BE046AF019CE590A581037D19D9.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Autosaves/Game/Assignment/Audio/Music/BossMusic2_VampirePrayer_Cue_Auto1.uasset'
+[2019.05.19-15.08.49:642][326]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assignment/Audio/Music/BossMusic1_ImmortalSpirits_Cue] ([1] browsable assets)...
+[2019.05.19-15.08.49:642][326]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assignment/Audio/Music/BossMusic1_ImmortalSpirits_Cue]
+[2019.05.19-15.08.49:767][326]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/BossMusic1_ImmortalSpirits_Cue_A948F1FC34D4E6F126C8442B9ADFBF226.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Autosaves/Game/Assignment/Audio/Music/BossMusic1_ImmortalSpirits_Cue_Auto1.uasset'
+[2019.05.19-15.08.49:782][326]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assignment/Audio/Music/BasicBattleMusic1_BattleConflict_Cue] ([1] browsable assets)...
+[2019.05.19-15.08.49:782][326]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assignment/Audio/Music/BasicBattleMusic1_BattleConflict_Cue]
+[2019.05.19-15.08.49:819][326]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/BasicBattleMusic1_BattleConflict03D69B6243ADC701C96C9FAF1DA7B2EC.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Autosaves/Game/Assignment/Audio/Music/BasicBattleMusic1_BattleConflict_Cue_Auto1.uasset'
+[2019.05.19-15.08.49:822][326]LogFileHelpers: Auto-saving content packages took 124.253
+[2019.05.19-15.08.49:876][327]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.19-15.08.49:876][327]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.19-15.09.49:112][567]LogAssetEditorManager: Opening Asset editor for SoundCue /Game/Assignment/Audio/Music/OverworldMusic4_DungeonCave_Cue.OverworldMusic4_DungeonCave_Cue
+[2019.05.19-15.09.57:229][750]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/OverworldMusic4_DungeonCave_CueA307A2184621FD2BAD3EEF8150D76287.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Audio/Music/OverworldMusic4_DungeonCave_Cue.uasset'
+[2019.05.19-15.09.59:515][809]LogSlate: Window 'OverworldMusic4_DungeonCave_Cue' being destroyed
+[2019.05.19-15.09.59:535][809]LogSlate: Window 'OverworldMusic4_DungeonCave_Cue' being destroyed
+[2019.05.19-15.10.01:776][860]LogAssetEditorManager: Opening Asset editor for SoundCue /Game/Assignment/Audio/Music/OverworldMusic3_CursedHouse_Cue.OverworldMusic3_CursedHouse_Cue
+[2019.05.19-15.10.08:951][997]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/OverworldMusic3_CursedHouse_CueC70A208C42B4B05FB7A41B830263BD73.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Audio/Music/OverworldMusic3_CursedHouse_Cue.uasset'
+[2019.05.19-15.10.10:843][ 39]LogSlate: Window 'OverworldMusic3_CursedHouse_Cue' being destroyed
+[2019.05.19-15.10.10:865][ 39]LogSlate: Window 'OverworldMusic3_CursedHouse_Cue' being destroyed
+[2019.05.19-15.10.12:869][ 76]LogAssetEditorManager: Opening Asset editor for SoundCue /Game/Assignment/Audio/Music/OverworldMusic2_SealedRoom_Cue.OverworldMusic2_SealedRoom_Cue
+[2019.05.19-15.10.20:611][229]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/OverworldMusic2_SealedRoom_Cue9818F4184F63E52165F11DB127C6641B.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Audio/Music/OverworldMusic2_SealedRoom_Cue.uasset'
+[2019.05.19-15.10.22:944][280]LogSlate: Window 'OverworldMusic2_SealedRoom_Cue' being destroyed
+[2019.05.19-15.10.22:965][280]LogSlate: Window 'OverworldMusic2_SealedRoom_Cue' being destroyed
+[2019.05.19-15.10.24:884][312]LogAssetEditorManager: Opening Asset editor for SoundCue /Game/Assignment/Audio/Music/OverworldMusic1_TowerOfDespair_Cue.OverworldMusic1_TowerOfDespair_Cue
+[2019.05.19-15.10.32:512][461]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/OverworldMusic1_TowerOfDespair_C9B2A20D84E56659740F0829A01C7EA79.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Audio/Music/OverworldMusic1_TowerOfDespair_Cue.uasset'
+[2019.05.19-15.10.34:344][499]LogSlate: Window 'OverworldMusic1_TowerOfDespair_Cue' being destroyed
+[2019.05.19-15.10.34:362][499]LogSlate: Window 'OverworldMusic1_TowerOfDespair_Cue' being destroyed
+[2019.05.19-15.10.36:132][539]LogAssetEditorManager: Opening Asset editor for SoundCue /Game/Assignment/Audio/Music/OverworldMusic16_RemotestLibrary_Cue.OverworldMusic16_RemotestLibrary_Cue
+[2019.05.19-15.10.43:046][669]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/OverworldMusic16_RemotestLibrary4A9D3C994252BDDA9F5A36B1166CD4DA.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Audio/Music/OverworldMusic16_RemotestLibrary_Cue.uasset'
+[2019.05.19-15.10.44:995][711]LogSlate: Window 'OverworldMusic16_RemotestLibrary_Cue' being destroyed
+[2019.05.19-15.10.45:014][711]LogSlate: Window 'OverworldMusic16_RemotestLibrary_Cue' being destroyed
+[2019.05.19-15.10.49:792][833]LogAssetEditorManager: Opening Asset editor for SoundCue /Game/Assignment/Audio/Music/OverworldMusic15_ParadiseLost_Cue.OverworldMusic15_ParadiseLost_Cue
+[2019.05.19-15.10.57:138][972]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/OverworldMusic15_ParadiseLost_Cu7BE29B5748654D66B6AC3D8167A306CC.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Audio/Music/OverworldMusic15_ParadiseLost_Cue.uasset'
+[2019.05.19-15.10.59:341][ 17]LogSlate: Window 'OverworldMusic15_ParadiseLost_Cue' being destroyed
+[2019.05.19-15.10.59:383][ 17]LogSlate: Window 'OverworldMusic15_ParadiseLost_Cue' being destroyed
+[2019.05.19-15.11.01:548][ 64]LogAssetEditorManager: Opening Asset editor for SoundCue /Game/Assignment/Audio/Music/OverworldMusic14_ShoppingDistrict_Cue.OverworldMusic14_ShoppingDistrict_Cue
+[2019.05.19-15.11.09:549][223]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/OverworldMusic14_ShoppingDistricC65274574EB895DBE756BDA29378F281.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Audio/Music/OverworldMusic14_ShoppingDistrict_Cue.uasset'
+[2019.05.19-15.11.11:368][262]LogSlate: Window 'OverworldMusic14_ShoppingDistrict_Cue' being destroyed
+[2019.05.19-15.11.11:385][262]LogSlate: Window 'OverworldMusic14_ShoppingDistrict_Cue' being destroyed
+[2019.05.19-15.11.13:890][324]LogAssetEditorManager: Opening Asset editor for SoundCue /Game/Assignment/Audio/Music/OverworldMusic13_ForgottenPlace_Cue.OverworldMusic13_ForgottenPlace_Cue
+[2019.05.19-15.11.21:147][461]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/OverworldMusic13_ForgottenPlace_16D9F7BD47A92D8CBB445D878F38EC20.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Audio/Music/OverworldMusic13_ForgottenPlace_Cue.uasset'
+[2019.05.19-15.11.22:764][495]LogSlate: Window 'OverworldMusic13_ForgottenPlace_Cue' being destroyed
+[2019.05.19-15.11.22:785][495]LogSlate: Window 'OverworldMusic13_ForgottenPlace_Cue' being destroyed
+[2019.05.19-15.11.24:982][545]LogAssetEditorManager: Opening Asset editor for SoundCue /Game/Assignment/Audio/Music/OverworldMusic12_Order_of_the_Kingdom_Cue.OverworldMusic12_Order_of_the_Kingdom_Cue
+[2019.05.19-15.11.32:028][681]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/OverworldMusic12_Order_of_the_Ki2E5BC6C94D5E42641139279A08414256.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Audio/Music/OverworldMusic12_Order_of_the_Kingdom_Cue.uasset'
+[2019.05.19-15.11.33:532][711]LogSlate: Window 'OverworldMusic12_Order_of_the_Kingdom_Cue' being destroyed
+[2019.05.19-15.11.33:557][711]LogSlate: Window 'OverworldMusic12_Order_of_the_Kingdom_Cue' being destroyed
+[2019.05.19-15.11.35:174][744]LogAssetEditorManager: Opening Asset editor for SoundCue /Game/Assignment/Audio/Music/OverworldMusic11_EndlessJourney_Cue.OverworldMusic11_EndlessJourney_Cue
+[2019.05.19-15.11.41:876][874]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/OverworldMusic11_EndlessJourney_9896D7AA4CC72849B79BA6AD640A7C25.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Audio/Music/OverworldMusic11_EndlessJourney_Cue.uasset'
+[2019.05.19-15.11.43:515][908]LogSlate: Window 'OverworldMusic11_EndlessJourney_Cue' being destroyed
+[2019.05.19-15.11.43:539][908]LogSlate: Window 'OverworldMusic11_EndlessJourney_Cue' being destroyed
+[2019.05.19-15.11.45:375][948]LogAssetEditorManager: Opening Asset editor for SoundCue /Game/Assignment/Audio/Music/OverworldMusic10_Airship_Cue.OverworldMusic10_Airship_Cue
+[2019.05.19-15.11.52:043][ 76]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/OverworldMusic10_Airship_Cue8ACA05364515456C2BA242AD1E6FDADB.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Audio/Music/OverworldMusic10_Airship_Cue.uasset'
+[2019.05.19-15.11.53:915][117]LogSlate: Window 'OverworldMusic10_Airship_Cue' being destroyed
+[2019.05.19-15.11.53:938][117]LogSlate: Window 'OverworldMusic10_Airship_Cue' being destroyed
+[2019.05.19-15.11.56:238][170]LogAssetEditorManager: Opening Asset editor for SoundCue /Game/Assignment/Audio/Music/MenuMusic_BattleWithDevilGeneral_Cue.MenuMusic_BattleWithDevilGeneral_Cue
+[2019.05.19-15.12.02:773][299]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/MenuMusic_BattleWithDevilGeneral1CC3812543CB923D42499199500F64AF.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Audio/Music/MenuMusic_BattleWithDevilGeneral_Cue.uasset'
+[2019.05.19-15.12.04:368][331]LogSlate: Window 'MenuMusic_BattleWithDevilGeneral_Cue' being destroyed
+[2019.05.19-15.12.04:386][331]LogSlate: Window 'MenuMusic_BattleWithDevilGeneral_Cue' being destroyed
+[2019.05.19-15.12.06:522][378]LogAssetEditorManager: Opening Asset editor for SoundCue /Game/Assignment/Audio/Music/IntroMusic_ReturnToDarkness_Cue.IntroMusic_ReturnToDarkness_Cue
+[2019.05.19-15.12.14:178][527]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/IntroMusic_ReturnToDarkness_Cue5F177C1F4D33440BF65400B053A73E96.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Audio/Music/IntroMusic_ReturnToDarkness_Cue.uasset'
+[2019.05.19-15.12.15:762][561]LogSlate: Window 'IntroMusic_ReturnToDarkness_Cue' being destroyed
+[2019.05.19-15.12.15:785][561]LogSlate: Window 'IntroMusic_ReturnToDarkness_Cue' being destroyed
+[2019.05.19-15.12.19:462][648]LogAssetEditorManager: Opening Asset editor for SoundCue /Game/Assignment/Audio/Music/DeathMusic_RuinedPeoples_Cue.DeathMusic_RuinedPeoples_Cue
+[2019.05.19-15.12.26:604][790]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/DeathMusic_RuinedPeoples_CueA5BD14654724D7D041DCC592468095EE.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Audio/Music/DeathMusic_RuinedPeoples_Cue.uasset'
+[2019.05.19-15.12.28:879][838]LogSlate: Window 'DeathMusic_RuinedPeoples_Cue' being destroyed
+[2019.05.19-15.12.28:905][838]LogSlate: Window 'DeathMusic_RuinedPeoples_Cue' being destroyed
+[2019.05.19-15.12.30:872][872]LogAssetEditorManager: Opening Asset editor for SoundCue /Game/Assignment/Audio/Music/CreditsMusic_Prologue_Cue.CreditsMusic_Prologue_Cue
+[2019.05.19-15.12.39:296][ 38]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/CreditsMusic_Prologue_Cue842E75C245AA999022550D9C0C15D5DD.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Audio/Music/CreditsMusic_Prologue_Cue.uasset'
+[2019.05.19-15.12.40:842][ 72]LogSlate: Window 'CreditsMusic_Prologue_Cue' being destroyed
+[2019.05.19-15.12.40:870][ 72]LogSlate: Window 'CreditsMusic_Prologue_Cue' being destroyed
+[2019.05.19-15.12.43:070][122]LogAssetEditorManager: Opening Asset editor for SoundCue /Game/Assignment/Audio/Music/BossMusic6_FatalBlood_Cue.BossMusic6_FatalBlood_Cue
+[2019.05.19-15.12.51:484][285]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/BossMusic6_FatalBlood_Cue6D0E16F342155762B425E6BA9632BD37.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Audio/Music/BossMusic6_FatalBlood_Cue.uasset'
+[2019.05.19-15.12.53:168][321]LogSlate: Window 'BossMusic6_FatalBlood_Cue' being destroyed
+[2019.05.19-15.12.53:189][321]LogSlate: Window 'BossMusic6_FatalBlood_Cue' being destroyed
+[2019.05.19-15.12.55:112][362]LogAssetEditorManager: Opening Asset editor for SoundCue /Game/Assignment/Audio/Music/BossMusic5_FinalBattle_Cue.BossMusic5_FinalBattle_Cue
+[2019.05.19-15.13.02:059][494]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/BossMusic5_FinalBattle_Cue71CBE7F4454EDC6F815D10AF33C0185E.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Audio/Music/BossMusic5_FinalBattle_Cue.uasset'
+[2019.05.19-15.13.03:755][528]LogSlate: Window 'BossMusic5_FinalBattle_Cue' being destroyed
+[2019.05.19-15.13.03:775][528]LogSlate: Window 'BossMusic5_FinalBattle_Cue' being destroyed
+[2019.05.19-15.13.05:400][559]LogAssetEditorManager: Opening Asset editor for SoundCue /Game/Assignment/Audio/Music/BossMusic4_Nemesis_Cue.BossMusic4_Nemesis_Cue
+[2019.05.19-15.13.12:412][697]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/BossMusic4_Nemesis_CueBF9475B64B74AFFA5799A484732CA6B3.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Audio/Music/BossMusic4_Nemesis_Cue.uasset'
+[2019.05.19-15.13.14:124][735]LogSlate: Window 'BossMusic4_Nemesis_Cue' being destroyed
+[2019.05.19-15.13.14:150][735]LogSlate: Window 'BossMusic4_Nemesis_Cue' being destroyed
+[2019.05.19-15.13.16:111][782]LogAssetEditorManager: Opening Asset editor for SoundCue /Game/Assignment/Audio/Music/BossMusic2_VampirePrayer_Cue.BossMusic2_VampirePrayer_Cue
+[2019.05.19-15.13.24:158][943]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/BossMusic2_VampirePrayer_Cue634F1DC04541EA13B18097955B8648AB.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Audio/Music/BossMusic2_VampirePrayer_Cue.uasset'
+[2019.05.19-15.13.25:782][977]LogSlate: Window 'BossMusic2_VampirePrayer_Cue' being destroyed
+[2019.05.19-15.13.25:806][977]LogSlate: Window 'BossMusic2_VampirePrayer_Cue' being destroyed
+[2019.05.19-15.13.27:639][ 13]LogAssetEditorManager: Opening Asset editor for SoundCue /Game/Assignment/Audio/Music/BossMusic1_ImmortalSpirits_Cue.BossMusic1_ImmortalSpirits_Cue
+[2019.05.19-15.13.36:312][189]LogSlate: Window 'BossMusic1_ImmortalSpirits_Cue*' being destroyed
+[2019.05.19-15.13.36:333][189]LogSlate: Window 'BossMusic1_ImmortalSpirits_Cue*' being destroyed
+[2019.05.19-15.13.38:136][223]LogAssetEditorManager: Opening Asset editor for SoundCue /Game/Assignment/Audio/Music/BasicBattleMusic1_BattleConflict_Cue.BasicBattleMusic1_BattleConflict_Cue
+[2019.05.19-15.13.45:101][357]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/BasicBattleMusic1_BattleConflictFD59018C4A78E03F5153C2908623E088.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Audio/Music/BasicBattleMusic1_BattleConflict_Cue.uasset'
+[2019.05.19-15.13.46:557][388]LogSlate: Window 'BasicBattleMusic1_BattleConflict_Cue' being destroyed
+[2019.05.19-15.13.46:576][388]LogSlate: Window 'BasicBattleMusic1_BattleConflict_Cue' being destroyed
+[2019.05.19-15.13.49:761][440]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/ThirdPersonExampleMap4F883C1A4923BC497B81AA9E90D8142B.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.05.19-15.20.49:969][219]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (51.517 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.19-15.23.52:924][592]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.287
+[2019.05.19-15.23.52:940][592]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assignment/Audio/Music/BossMusic1_ImmortalSpirits_Cue] ([1] browsable assets)...
+[2019.05.19-15.23.52:940][592]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assignment/Audio/Music/BossMusic1_ImmortalSpirits_Cue]
+[2019.05.19-15.23.53:173][592]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/BossMusic1_ImmortalSpirits_Cue_A3F1A4D634763E023992A67947D965B20.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Autosaves/Game/Assignment/Audio/Music/BossMusic1_ImmortalSpirits_Cue_Auto2.uasset'
+[2019.05.19-15.23.53:204][592]LogFileHelpers: Auto-saving content packages took 0.265
+[2019.05.19-16.03.07:358][962]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Assignment/AI/InvestigationAlert.InvestigationAlert
+[2019.05.19-16.03.09:086][962]LogEnum: Warning: Enum name collision: 'Enum_ChairPoses::NewEnumerator0' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses'
+[2019.05.19-16.03.09:086][962]LogEnum: Warning: Enum name collision: 'Enum_ChairPoses::NewEnumerator1' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses'
+[2019.05.19-16.03.09:086][962]LogEnum: Warning: Enum name collision: 'Enum_ChairPoses::NewEnumerator2' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses'
+[2019.05.19-16.03.09:086][962]LogEnum: Warning: Enum name collision: 'Enum_ChairPoses::NewEnumerator3' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses'
+[2019.05.19-16.03.09:086][962]LogEnum: Warning: Enum name collision: 'Enum_ChairPoses::NewEnumerator5' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses'
+[2019.05.19-16.03.09:086][962]LogEnum: Warning: Enum name collision: 'Enum_ChairPoses::NewEnumerator4' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses'
+[2019.05.19-16.03.09:086][962]LogEnum: Warning: Enum name collision: 'Enum_ChairPoses::NewEnumerator15' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses'
+[2019.05.19-16.03.09:086][962]LogEnum: Warning: Enum name collision: 'Enum_ChairPoses::NewEnumerator6' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses'
+[2019.05.19-16.03.09:086][962]LogEnum: Warning: Enum name collision: 'Enum_ChairPoses::NewEnumerator7' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses'
+[2019.05.19-16.03.09:086][962]LogEnum: Warning: Enum name collision: 'Enum_ChairPoses::NewEnumerator8' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses'
+[2019.05.19-16.03.09:086][962]LogEnum: Warning: Enum name collision: 'Enum_ChairPoses::NewEnumerator9' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses'
+[2019.05.19-16.03.09:086][962]LogEnum: Warning: Enum name collision: 'Enum_ChairPoses::NewEnumerator10' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses'
+[2019.05.19-16.03.09:086][962]LogEnum: Warning: Enum name collision: 'Enum_ChairPoses::NewEnumerator11' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses'
+[2019.05.19-16.03.09:086][962]LogEnum: Warning: Enum name collision: 'Enum_ChairPoses::NewEnumerator12' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses'
+[2019.05.19-16.03.09:086][962]LogEnum: Warning: Enum name collision: 'Enum_ChairPoses::NewEnumerator13' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses'
+[2019.05.19-16.03.09:086][962]LogEnum: Warning: Enum name collision: 'Enum_ChairPoses::NewEnumerator14' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses'
+[2019.05.19-16.03.09:086][962]LogEnum: Warning: Enum name collision: 'Enum_ChairPoses::Enum_MAX' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses'
+[2019.05.19-16.03.09:086][962]LogEnum: Warning: Enum name collision: 'Enum_ChairPoses::NewEnumerator0' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses'
+[2019.05.19-16.03.09:086][962]LogEnum: Warning: Enum name collision: 'Enum_ChairPoses::NewEnumerator1' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses'
+[2019.05.19-16.03.09:086][962]LogEnum: Warning: Enum name collision: 'Enum_ChairPoses::NewEnumerator2' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses'
+[2019.05.19-16.03.09:087][962]LogEnum: Warning: Enum name collision: 'Enum_ChairPoses::NewEnumerator3' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses'
+[2019.05.19-16.03.09:087][962]LogEnum: Warning: Enum name collision: 'Enum_ChairPoses::NewEnumerator5' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses'
+[2019.05.19-16.03.09:087][962]LogEnum: Warning: Enum name collision: 'Enum_ChairPoses::NewEnumerator4' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses'
+[2019.05.19-16.03.09:087][962]LogEnum: Warning: Enum name collision: 'Enum_ChairPoses::NewEnumerator15' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses'
+[2019.05.19-16.03.09:087][962]LogEnum: Warning: Enum name collision: 'Enum_ChairPoses::NewEnumerator6' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses'
+[2019.05.19-16.03.09:087][962]LogEnum: Warning: Enum name collision: 'Enum_ChairPoses::NewEnumerator7' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses'
+[2019.05.19-16.03.09:087][962]LogEnum: Warning: Enum name collision: 'Enum_ChairPoses::NewEnumerator8' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses'
+[2019.05.19-16.03.09:087][962]LogEnum: Warning: Enum name collision: 'Enum_ChairPoses::NewEnumerator9' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses'
+[2019.05.19-16.03.09:087][962]LogEnum: Warning: Enum name collision: 'Enum_ChairPoses::NewEnumerator10' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses'
+[2019.05.19-16.03.09:087][962]LogEnum: Warning: Enum name collision: 'Enum_ChairPoses::NewEnumerator11' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses'
+[2019.05.19-16.03.09:087][962]LogEnum: Warning: Enum name collision: 'Enum_ChairPoses::NewEnumerator12' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses'
+[2019.05.19-16.03.09:087][962]LogEnum: Warning: Enum name collision: 'Enum_ChairPoses::NewEnumerator13' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses'
+[2019.05.19-16.03.09:087][962]LogEnum: Warning: Enum name collision: 'Enum_ChairPoses::NewEnumerator14' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses'
+[2019.05.19-16.03.09:094][962]LogEnum: Warning: Enum name collision: 'Enum_GroundPoses::NewEnumerator0' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_GroundPoses.Enum_GroundPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_GroundPoses.Enum_GroundPoses'
+[2019.05.19-16.03.09:094][962]LogEnum: Warning: Enum name collision: 'Enum_GroundPoses::NewEnumerator1' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_GroundPoses.Enum_GroundPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_GroundPoses.Enum_GroundPoses'
+[2019.05.19-16.03.09:094][962]LogEnum: Warning: Enum name collision: 'Enum_GroundPoses::NewEnumerator2' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_GroundPoses.Enum_GroundPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_GroundPoses.Enum_GroundPoses'
+[2019.05.19-16.03.09:094][962]LogEnum: Warning: Enum name collision: 'Enum_GroundPoses::NewEnumerator3' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_GroundPoses.Enum_GroundPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_GroundPoses.Enum_GroundPoses'
+[2019.05.19-16.03.09:094][962]LogEnum: Warning: Enum name collision: 'Enum_GroundPoses::NewEnumerator4' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_GroundPoses.Enum_GroundPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_GroundPoses.Enum_GroundPoses'
+[2019.05.19-16.03.09:094][962]LogEnum: Warning: Enum name collision: 'Enum_GroundPoses::NewEnumerator5' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_GroundPoses.Enum_GroundPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_GroundPoses.Enum_GroundPoses'
+[2019.05.19-16.03.09:094][962]LogEnum: Warning: Enum name collision: 'Enum_GroundPoses::NewEnumerator6' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_GroundPoses.Enum_GroundPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_GroundPoses.Enum_GroundPoses'
+[2019.05.19-16.03.09:094][962]LogEnum: Warning: Enum name collision: 'Enum_GroundPoses::NewEnumerator7' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_GroundPoses.Enum_GroundPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_GroundPoses.Enum_GroundPoses'
+[2019.05.19-16.03.09:094][962]LogEnum: Warning: Enum name collision: 'Enum_GroundPoses::NewEnumerator8' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_GroundPoses.Enum_GroundPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_GroundPoses.Enum_GroundPoses'
+[2019.05.19-16.03.09:094][962]LogEnum: Warning: Enum name collision: 'Enum_GroundPoses::Enum_MAX' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_GroundPoses.Enum_GroundPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_GroundPoses.Enum_GroundPoses'
+[2019.05.19-16.03.09:094][962]LogEnum: Warning: Enum name collision: 'Enum_GroundPoses::NewEnumerator0' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_GroundPoses.Enum_GroundPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_GroundPoses.Enum_GroundPoses'
+[2019.05.19-16.03.09:094][962]LogEnum: Warning: Enum name collision: 'Enum_GroundPoses::NewEnumerator1' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_GroundPoses.Enum_GroundPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_GroundPoses.Enum_GroundPoses'
+[2019.05.19-16.03.09:094][962]LogEnum: Warning: Enum name collision: 'Enum_GroundPoses::NewEnumerator2' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_GroundPoses.Enum_GroundPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_GroundPoses.Enum_GroundPoses'
+[2019.05.19-16.03.09:094][962]LogEnum: Warning: Enum name collision: 'Enum_GroundPoses::NewEnumerator3' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_GroundPoses.Enum_GroundPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_GroundPoses.Enum_GroundPoses'
+[2019.05.19-16.03.09:094][962]LogEnum: Warning: Enum name collision: 'Enum_GroundPoses::NewEnumerator4' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_GroundPoses.Enum_GroundPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_GroundPoses.Enum_GroundPoses'
+[2019.05.19-16.03.09:094][962]LogEnum: Warning: Enum name collision: 'Enum_GroundPoses::NewEnumerator5' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_GroundPoses.Enum_GroundPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_GroundPoses.Enum_GroundPoses'
+[2019.05.19-16.03.09:094][962]LogEnum: Warning: Enum name collision: 'Enum_GroundPoses::NewEnumerator6' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_GroundPoses.Enum_GroundPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_GroundPoses.Enum_GroundPoses'
+[2019.05.19-16.03.09:094][962]LogEnum: Warning: Enum name collision: 'Enum_GroundPoses::NewEnumerator7' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_GroundPoses.Enum_GroundPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_GroundPoses.Enum_GroundPoses'
+[2019.05.19-16.03.09:094][962]LogEnum: Warning: Enum name collision: 'Enum_GroundPoses::NewEnumerator8' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_GroundPoses.Enum_GroundPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_GroundPoses.Enum_GroundPoses'
+[2019.05.19-16.03.09:101][962]LogEnum: Warning: Enum name collision: 'Enum_SitPoses::NewEnumerator0' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_SitPoses.Enum_SitPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_SitPoses.Enum_SitPoses'
+[2019.05.19-16.03.09:101][962]LogEnum: Warning: Enum name collision: 'Enum_SitPoses::NewEnumerator1' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_SitPoses.Enum_SitPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_SitPoses.Enum_SitPoses'
+[2019.05.19-16.03.09:101][962]LogEnum: Warning: Enum name collision: 'Enum_SitPoses::NewEnumerator2' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_SitPoses.Enum_SitPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_SitPoses.Enum_SitPoses'
+[2019.05.19-16.03.09:101][962]LogEnum: Warning: Enum name collision: 'Enum_SitPoses::Enum_MAX' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_SitPoses.Enum_SitPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_SitPoses.Enum_SitPoses'
+[2019.05.19-16.03.09:101][962]LogEnum: Warning: Enum name collision: 'Enum_SitPoses::NewEnumerator0' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_SitPoses.Enum_SitPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_SitPoses.Enum_SitPoses'
+[2019.05.19-16.03.09:101][962]LogEnum: Warning: Enum name collision: 'Enum_SitPoses::NewEnumerator1' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_SitPoses.Enum_SitPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_SitPoses.Enum_SitPoses'
+[2019.05.19-16.03.09:102][962]LogEnum: Warning: Enum name collision: 'Enum_SitPoses::NewEnumerator2' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_SitPoses.Enum_SitPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_SitPoses.Enum_SitPoses'
+[2019.05.19-16.03.09:107][962]LogEnum: Warning: Enum name collision: 'Enum_SitStates::NewEnumerator0' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_SitStates.Enum_SitStates' and '/Game/HaveASitPack/Blueprints/Enums/Enum_SitStates.Enum_SitStates'
+[2019.05.19-16.03.09:107][962]LogEnum: Warning: Enum name collision: 'Enum_SitStates::NewEnumerator1' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_SitStates.Enum_SitStates' and '/Game/HaveASitPack/Blueprints/Enums/Enum_SitStates.Enum_SitStates'
+[2019.05.19-16.03.09:107][962]LogEnum: Warning: Enum name collision: 'Enum_SitStates::NewEnumerator2' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_SitStates.Enum_SitStates' and '/Game/HaveASitPack/Blueprints/Enums/Enum_SitStates.Enum_SitStates'
+[2019.05.19-16.03.09:108][962]LogEnum: Warning: Enum name collision: 'Enum_SitStates::NewEnumerator3' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_SitStates.Enum_SitStates' and '/Game/HaveASitPack/Blueprints/Enums/Enum_SitStates.Enum_SitStates'
+[2019.05.19-16.03.09:108][962]LogEnum: Warning: Enum name collision: 'Enum_SitStates::Enum_MAX' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_SitStates.Enum_SitStates' and '/Game/HaveASitPack/Blueprints/Enums/Enum_SitStates.Enum_SitStates'
+[2019.05.19-16.03.09:108][962]LogEnum: Warning: Enum name collision: 'Enum_SitStates::NewEnumerator0' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_SitStates.Enum_SitStates' and '/Game/HaveASitPack/Blueprints/Enums/Enum_SitStates.Enum_SitStates'
+[2019.05.19-16.03.09:108][962]LogEnum: Warning: Enum name collision: 'Enum_SitStates::NewEnumerator1' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_SitStates.Enum_SitStates' and '/Game/HaveASitPack/Blueprints/Enums/Enum_SitStates.Enum_SitStates'
+[2019.05.19-16.03.09:108][962]LogEnum: Warning: Enum name collision: 'Enum_SitStates::NewEnumerator2' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_SitStates.Enum_SitStates' and '/Game/HaveASitPack/Blueprints/Enums/Enum_SitStates.Enum_SitStates'
+[2019.05.19-16.03.09:108][962]LogEnum: Warning: Enum name collision: 'Enum_SitStates::NewEnumerator3' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_SitStates.Enum_SitStates' and '/Game/HaveASitPack/Blueprints/Enums/Enum_SitStates.Enum_SitStates'
+[2019.05.19-16.03.09:115][962]LogEnum: Warning: Enum name collision: 'Enum_TablePoses::NewEnumerator0' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_TablePoses.Enum_TablePoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_TablePoses.Enum_TablePoses'
+[2019.05.19-16.03.09:115][962]LogEnum: Warning: Enum name collision: 'Enum_TablePoses::NewEnumerator1' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_TablePoses.Enum_TablePoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_TablePoses.Enum_TablePoses'
+[2019.05.19-16.03.09:115][962]LogEnum: Warning: Enum name collision: 'Enum_TablePoses::Enum_MAX' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_TablePoses.Enum_TablePoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_TablePoses.Enum_TablePoses'
+[2019.05.19-16.03.09:115][962]LogEnum: Warning: Enum name collision: 'Enum_TablePoses::NewEnumerator0' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_TablePoses.Enum_TablePoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_TablePoses.Enum_TablePoses'
+[2019.05.19-16.03.09:115][962]LogEnum: Warning: Enum name collision: 'Enum_TablePoses::NewEnumerator1' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_TablePoses.Enum_TablePoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_TablePoses.Enum_TablePoses'
+[2019.05.19-16.03.09:128][962]LogClass: Warning: Enum '/Game/UI_Kit/Blueprints/Objectives/E_ObjectiveType.E_ObjectiveType' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2019.05.19-16.03.09:140][962]LogClass: Warning: Enum '/Game/UI_Kit/Showcase/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2019.05.19-16.03.09:163][962]LogClass: Warning: Enum '/Game/UI_Kit/Widgets/Window/ResizeType.ResizeType' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2019.05.19-16.03.09:427][962]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0031 seconds. Added 117 classes and 0 folders.
+[2019.05.19-16.08.24:440][839]LogSlate: Window 'Color Picker' being destroyed
+[2019.05.19-16.09.01:006][765]BlueprintLog: New page: Compile InvestigationAlert
+[2019.05.19-16.09.10:238][ 27]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/AI/InvestigationAlert" FILE="../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/AI/InvestigationAlert.uasset" SILENT=true
+[2019.05.19-16.09.10:292][ 27]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/InvestigationAlert5B536CCD4BDA07A17CA15AA91AAFA817.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/AI/InvestigationAlert.uasset'
+[2019.05.19-16.09.14:537][148]LogSlate: Window 'InvestigationAlert' being destroyed
+[2019.05.19-16.09.14:576][148]LogSlate: Window 'InvestigationAlert' being destroyed
+[2019.05.19-16.09.34:675][ 56]LogSlate: Window 'Delete Assets' being destroyed
+[2019.05.19-16.09.43:588][477]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Assignment/AI/HuntingAlert.HuntingAlert
+[2019.05.19-16.10.46:998][764]LogSlate: Window 'Color Picker' being destroyed
+[2019.05.19-16.10.49:137][802]BlueprintLog: New page: Compile HuntingAlert
+[2019.05.19-16.10.53:050][895]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/AI/HuntingAlert" FILE="../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/AI/HuntingAlert.uasset" SILENT=true
+[2019.05.19-16.10.53:093][895]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/HuntingAlert29481C714A558A9F1FCF6F980C8F474E.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/AI/HuntingAlert.uasset'
+[2019.05.19-16.10.55:980][958]LogSlate: Window 'HuntingAlert' being destroyed
+[2019.05.19-16.10.56:023][958]LogSlate: Window 'HuntingAlert' being destroyed
+[2019.05.19-16.10.57:891][ 49]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Assignment/AI/InvestigationAlert.InvestigationAlert
+[2019.05.19-16.11.10:046][297]BlueprintLog: New page: Compile InvestigationAlert
+[2019.05.19-16.11.11:486][320]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/AI/InvestigationAlert" FILE="../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/AI/InvestigationAlert.uasset" SILENT=true
+[2019.05.19-16.11.11:734][320]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/InvestigationAlertA527474349062B9B0D31F091C57A8B8A.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/AI/InvestigationAlert.uasset'
+[2019.05.19-16.11.13:793][365]LogSlate: Window 'InvestigationAlert' being destroyed
+[2019.05.19-16.11.13:818][365]LogSlate: Window 'InvestigationAlert' being destroyed
+[2019.05.19-16.11.16:402][453]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/ThirdPersonExampleMapCB8A942D43BCDAE32EF6BFA2532B217D.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.05.19-16.13.02:368][861]LogSlate: Window 'Save Content' being destroyed
+[2019.05.19-16.13.03:202][861]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/BasicBattleMusic1_BattleConflictD59C7D9E4DDDD958617CD7A4601A02D0.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Audio/Music/BasicBattleMusic1_BattleConflict.uasset'
+[2019.05.19-16.13.03:315][861]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/BossMusic1_ImmortalSpirits5012C6B547EF89DDFA096F9DF4790F00.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Audio/Music/BossMusic1_ImmortalSpirits.uasset'
+[2019.05.19-16.13.03:394][861]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/BossMusic1_ImmortalSpirits_Cue0E3EEC2C46C4EE991713FCAFC0E2511A.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Audio/Music/BossMusic1_ImmortalSpirits_Cue.uasset'
+[2019.05.19-16.13.04:168][861]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/BossMusic2_VampirePrayerB965854B479FFD99017173B22918274C.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Audio/Music/BossMusic2_VampirePrayer.uasset'
+[2019.05.19-16.13.04:291][861]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/BossMusic4_NemesisBEC3D8904FA7899D35D0C1B38B5CC722.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Audio/Music/BossMusic4_Nemesis.uasset'
+[2019.05.19-16.13.05:316][861]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/BossMusic5_FinalBattle7B825CB54AA1A7E8E25A1F8C61350741.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Audio/Music/BossMusic5_FinalBattle.uasset'
+[2019.05.19-16.13.06:369][861]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/BossMusic6_FatalBloodB94D7AD244D0B2789A4600AC74211854.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Audio/Music/BossMusic6_FatalBlood.uasset'
+[2019.05.19-16.13.07:233][861]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/CreditsMusic_PrologueCD941CB748BEC0A74C2625BE273CEC10.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Audio/Music/CreditsMusic_Prologue.uasset'
+[2019.05.19-16.13.07:694][861]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/DeathMusic_RuinedPeoples153EA57F45BBEC863AADD7BFCD9BEC23.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Audio/Music/DeathMusic_RuinedPeoples.uasset'
+[2019.05.19-16.13.08:365][861]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/IntroMusic_ReturnToDarkness5BB985E6437F76648B35B68479D74F30.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Audio/Music/IntroMusic_ReturnToDarkness.uasset'
+[2019.05.19-16.13.12:260][861]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/MenuMusic_BattleWithDevilGeneralF1EA778D41B0D0B3F6C688989A6F7038.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Audio/Music/MenuMusic_BattleWithDevilGeneral.uasset'
+[2019.05.19-16.13.13:156][861]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/OverworldMusic10_Airship196A956E4A965D7C18BE9FB44E868D1B.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Audio/Music/OverworldMusic10_Airship.uasset'
+[2019.05.19-16.13.13:842][861]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/OverworldMusic11_EndlessJourneyBA2E2FBE49F4FE6E8AE542BAE8456E81.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Audio/Music/OverworldMusic11_EndlessJourney.uasset'
+[2019.05.19-16.13.14:888][861]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/OverworldMusic12_Order_of_the_Ki0B5C4BD7416632455AE51BB23EBCB2F0.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Audio/Music/OverworldMusic12_Order_of_the_Kingdom.uasset'
+[2019.05.19-16.13.16:947][861]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/OverworldMusic13_ForgottenPlace0B1A863A4EAC2EE6325227853E80AD27.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Audio/Music/OverworldMusic13_ForgottenPlace.uasset'
+[2019.05.19-16.13.18:563][861]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/OverworldMusic14_ShoppingDistricF54B39624EAE432B7EB430ABF329AC2A.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Audio/Music/OverworldMusic14_ShoppingDistrict.uasset'
+[2019.05.19-16.13.18:975][861]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/OverworldMusic15_ParadiseLost735A49974E97F52021FAA3845ED93BE6.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Audio/Music/OverworldMusic15_ParadiseLost.uasset'
+[2019.05.19-16.13.20:299][861]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/OverworldMusic16_RemotestLibrary0C12AE614B0D88D034880DB40F2EB189.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Audio/Music/OverworldMusic16_RemotestLibrary.uasset'
+[2019.05.19-16.13.20:469][861]LogFileManager: Error: Error writing to file: ../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/OverworldMusic1_TowerOfDespairCED80FD24D76302661141BB5575600CC.tmp (There is not enough space on the disk.)
+[2019.05.19-16.13.20:469][861]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.05.19-16.13.20:470][861]LogWindows: Windows GetLastError: The operation completed successfully. (0)
+[2019.05.19-16.13.28:425][861]LogFileManager: Error: Error writing to file: C:/Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Crashes/UE4CC-Windows-054F0E04401726DA5F024982EDA3620B_0000/CrashContext.runtime-xml (There is not enough space on the disk.)
+[2019.05.19-16.13.28:425][861]LogWindows: Error: === Critical error: ===
+[2019.05.19-16.13.28:425][861]LogWindows: Error: 
+[2019.05.19-16.13.28:425][861]LogWindows: Error: Assertion failed: NewPosition <= FileSize [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Core\Private\Windows\WindowsPlatformFile.cpp] [Line: 513] 
+[2019.05.19-16.13.28:425][861]LogWindows: Error: 
+[2019.05.19-16.13.28:425][861]LogWindows: Error: 
+[2019.05.19-16.13.28:425][861]LogWindows: Error: 
+[2019.05.19-16.13.28:425][861]LogWindows: Error: [Callstack] 0x00007ff8cf7fa388 KERNELBASE.dll!UnknownFunction []
+[2019.05.19-16.13.28:425][861]LogWindows: Error: [Callstack] 0x00007ff892dfcd1a UE4Editor-Core.dll!UnknownFunction []
+[2019.05.19-16.13.28:425][861]LogWindows: Error: [Callstack] 0x00007ff892bda967 UE4Editor-Core.dll!UnknownFunction []
+[2019.05.19-16.13.28:425][861]LogWindows: Error: [Callstack] 0x00007ff892b10df7 UE4Editor-Core.dll!UnknownFunction []
+[2019.05.19-16.13.28:425][861]LogWindows: Error: [Callstack] 0x00007ff892dfc924 UE4Editor-Core.dll!UnknownFunction []
+[2019.05.19-16.13.28:425][861]LogWindows: Error: [Callstack] 0x00007ff8929f4b74 UE4Editor-Core.dll!UnknownFunction []
+[2019.05.19-16.13.28:425][861]LogWindows: Error: [Callstack] 0x00007ff893773257 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.05.19-16.13.28:425][861]LogWindows: Error: [Callstack] 0x00007ff8780b92e6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.05.19-16.13.28:425][861]LogWindows: Error: [Callstack] 0x00007ff8780b9d07 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.05.19-16.13.28:425][861]LogWindows: Error: [Callstack] 0x00007ff8780fdfd4 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.05.19-16.13.28:425][861]LogWindows: Error: [Callstack] 0x00007ff8780fa7c5 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.05.19-16.13.28:425][861]LogWindows: Error: [Callstack] 0x00007ff878a00b33 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.05.19-16.13.28:425][861]LogWindows: Error: [Callstack] 0x00007ff8784cd6e4 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.05.19-16.13.28:425][861]LogWindows: Error: [Callstack] 0x00007ff8784cbfe1 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.05.19-16.13.28:426][861]LogWindows: Error: [Callstack] 0x00007ff8784e3878 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.05.19-16.13.28:426][861]LogWindows: Error: [Callstack] 0x00007ff8784fb498 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.05.19-16.13.28:426][861]LogWindows: Error: [Callstack] 0x00007ff86a90257c UE4Editor-MainFrame.dll!UnknownFunction []
+[2019.05.19-16.13.28:426][861]LogWindows: Error: [Callstack] 0x00007ff86a902a9e UE4Editor-MainFrame.dll!UnknownFunction []
+[2019.05.19-16.13.28:426][861]LogWindows: Error: [Callstack] 0x00007ff8926d1146 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.05.19-16.13.28:426][861]LogWindows: Error: [Callstack] 0x00007ff8920c1665 UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.19-16.13.28:426][861]LogWindows: Error: [Callstack] 0x00007ff8920d1fdf UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.19-16.13.28:426][861]LogWindows: Error: [Callstack] 0x00007ff89229c7bb UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.19-16.13.28:426][861]LogWindows: Error: [Callstack] 0x00007ff892088e25 UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.19-16.13.28:426][861]LogWindows: Error: [Callstack] 0x00007ff892122678 UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.19-16.13.28:426][861]LogWindows: Error: [Callstack] 0x00007ff89210857a UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.19-16.13.28:426][861]LogWindows: Error: [Callstack] 0x00007ff8920fb44c UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.19-16.13.28:426][861]LogWindows: Error: [Callstack] 0x00007ff8ac0cde26 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.05.19-16.13.28:426][861]LogWindows: Error: [Callstack] 0x00007ff8ac0c0de0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.05.19-16.13.28:426][861]LogWindows: Error: [Callstack] 0x00007ff8ac0d01eb UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.05.19-16.13.28:426][861]LogWindows: Error: [Callstack] 0x00007ff8ac0bca19 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.05.19-16.13.28:426][861]LogWindows: Error: [Callstack] 0x00007ff8d1806d41 USER32.dll!UnknownFunction []
+[2019.05.19-16.13.28:426][861]LogWindows: Error: [Callstack] 0x00007ff8d1806713 USER32.dll!UnknownFunction []
+[2019.05.19-16.13.28:426][861]LogWindows: Error: [Callstack] 0x00007ff8ac0d1746 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.05.19-16.13.28:426][861]LogWindows: Error: [Callstack] 0x00007ff698bf5546 UE4Editor.exe!UnknownFunction []
+[2019.05.19-16.13.28:426][861]LogWindows: Error: [Callstack] 0x00007ff698c0596c UE4Editor.exe!UnknownFunction []
+[2019.05.19-16.13.28:426][861]LogWindows: Error: [Callstack] 0x00007ff698c059ea UE4Editor.exe!UnknownFunction []
+[2019.05.19-16.13.28:426][861]LogWindows: Error: [Callstack] 0x00007ff698c148da UE4Editor.exe!UnknownFunction []
+[2019.05.19-16.13.28:426][861]LogWindows: Error: [Callstack] 0x00007ff698c1659a UE4Editor.exe!UnknownFunction []
+[2019.05.19-16.13.28:426][861]LogWindows: Error: [Callstack] 0x00007ff8d1a44034 KERNEL32.DLL!UnknownFunction []
+[2019.05.19-16.13.28:427][861]LogWindows: Error: [Callstack] 0x00007ff8d26c3691 ntdll.dll!UnknownFunction []
+[2019.05.19-16.13.28:427][861]LogWindows: Error: 
+[2019.05.19-16.13.28:461][861]LogFileManager: Error: Error flushing file: C:/Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Config/Windows/Engine.ini (There is not enough space on the disk.)
+[2019.05.19-16.13.28:461][861]LogExit: Executing StaticShutdownAfterError
+[2019.05.19-16.13.28:515][861]LogWindows: FPlatformMisc::RequestExit(1)
+[2019.05.19-16.13.28:524][861]Log file closed, 05/20/19 01:43:28
