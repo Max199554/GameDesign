@@ -27201,3 +27201,763 @@ Script call stack:
 [2019.05.26-02.52.07:245][191]LogSlate: Window 'Enemy_Type3' being destroyed
 [2019.05.26-02.52.09:614][232]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/ThirdPersonExampleMap24201E0C4447C36AD311AB8177CCBE54.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
 [2019.05.26-02.52.10:798][232]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/ThirdPersonExampleMap_BuiltDataBF9395CC4EE9B6D91AEF618AB67CC9F0.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2019.05.26-02.55.34:272][790]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.26-02.55.35:270][793]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.26-02.55.36:622][797]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.26-02.55.38:014][801]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.26-02.55.41:718][812]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.26-02.56.06:698][871]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.26-02.56.12:522][887]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.26-02.56.17:623][902]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.26-03.00.08:500][577]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.26-03.00.11:616][586]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.26-03.04.17:459][510]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.26-03.04.17:562][511]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.26-03.31.42:353][383]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.26-03.49.42:140][702]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.05.26-03.49.42:295][702]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.05.26-03.49.42:295][702]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.26-03.49.42:296][702]PIE: New page: PIE session: ThirdPersonExampleMap (26 May 2019 10:49:42 pm)
+[2019.05.26-03.49.42:298][702]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.05.26-03.49.42:375][702]LogPlayLevel: PIE: StaticDuplicateObject took: (0.075699s)
+[2019.05.26-03.49.42:378][702]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.05.26-03.49.42:380][702]LogPlayLevel: PIE: World Init took: (0.004739s)
+[2019.05.26-03.49.42:380][702]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.081837s)
+[2019.05.26-03.49.42:493][702]LogGarbage: Warning: GC detected illegal reference to PIE object from content [possibly via [todo]]:
+[2019.05.26-03.49.42:493][702]LogGarbage: Warning:       PIE object: World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap
+[2019.05.26-03.49.42:493][702]LogGarbage: Warning:   NON-PIE object: UnrealEdEngine /Engine/Transient.UnrealEdEngine_0
+[2019.05.26-03.49.42:600][702]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.26-03.49.42:636][702]LogInit: FAudioDevice initialized.
+[2019.05.26-03.49.42:670][702]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.26-03.49.42:717][702]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.05.26-03.49.42:745][702]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.05.26-13.19.42
+[2019.05.26-03.49.42:750][702]LogWorld: Bringing up level for play took: 0.028274
+[2019.05.26-03.49.42:774][702]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  BP_Animation Function:  Execute Ubergraph BP Animation Graph:  EventGraph Node:  Set IsCrouched
+[2019.05.26-03.49.42:809][702]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.383
+[2019.05.26-03.49.42:811][702]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.05.26-03.49.49:138][730]LogGarbage: Warning: GC detected illegal reference to PIE object from content [possibly via [todo]]:
+[2019.05.26-03.49.49:138][730]LogGarbage: Warning:       PIE object: World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap
+[2019.05.26-03.49.49:138][730]LogGarbage: Warning:   NON-PIE object: UnrealEdEngine /Engine/Transient.UnrealEdEngine_0
+[2019.05.26-03.49.49:190][730]LogGarbage: Warning: GC detected illegal reference to PIE object from content [possibly via [todo]]:
+[2019.05.26-03.49.49:190][730]LogGarbage: Warning:       PIE object: BP_Character_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BP_Character_C_0
+[2019.05.26-03.49.49:190][730]LogGarbage: Warning:   NON-PIE object: Character_HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_16.Character_HUD_C_0
+[2019.05.26-03.49.56:863][776]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Health Bar Percent 0 Graph:  Get_HealthBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.56:863][776]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Health Bar Percent 0 Graph:  Get_HealthBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.56:863][776]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assignment/Character/HUD/Character_HUD.Character_HUD_C:Get_HealthBar_Percent_0
+
+[2019.05.26-03.49.56:864][776]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Magic Bar Percent 0 Graph:  Get_MagicBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.56:864][776]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Magic Bar Percent 0 Graph:  Get_MagicBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.56:864][776]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assignment/Character/HUD/Character_HUD.Character_HUD_C:Get_MagicBar_Percent_0
+
+[2019.05.26-03.49.56:865][776]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Stamina Bar Percent 0 Graph:  Get_StaminaBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.56:865][776]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Stamina Bar Percent 0 Graph:  Get_StaminaBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.56:865][776]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assignment/Character/HUD/Character_HUD.Character_HUD_C:Get_StaminaBar_Percent_0
+
+[2019.05.26-03.49.56:867][776]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Experience Bar Percent 0 Graph:  Get_ExperienceBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.56:867][776]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Experience Bar Percent 0 Graph:  Get_ExperienceBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.56:867][776]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assignment/Character/HUD/Character_HUD.Character_HUD_C:Get_ExperienceBar_Percent_0
+
+[2019.05.26-03.49.57:024][777]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Health Bar Percent 0 Graph:  Get_HealthBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.57:024][777]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Health Bar Percent 0 Graph:  Get_HealthBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.57:024][777]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assignment/Character/HUD/Character_HUD.Character_HUD_C:Get_HealthBar_Percent_0
+
+[2019.05.26-03.49.57:024][777]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Magic Bar Percent 0 Graph:  Get_MagicBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.57:025][777]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Magic Bar Percent 0 Graph:  Get_MagicBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.57:025][777]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assignment/Character/HUD/Character_HUD.Character_HUD_C:Get_MagicBar_Percent_0
+
+[2019.05.26-03.49.57:025][777]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Stamina Bar Percent 0 Graph:  Get_StaminaBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.57:027][777]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Stamina Bar Percent 0 Graph:  Get_StaminaBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.57:027][777]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assignment/Character/HUD/Character_HUD.Character_HUD_C:Get_StaminaBar_Percent_0
+
+[2019.05.26-03.49.57:027][777]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Experience Bar Percent 0 Graph:  Get_ExperienceBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.57:027][777]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Experience Bar Percent 0 Graph:  Get_ExperienceBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.57:027][777]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assignment/Character/HUD/Character_HUD.Character_HUD_C:Get_ExperienceBar_Percent_0
+
+[2019.05.26-03.49.57:169][778]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Health Bar Percent 0 Graph:  Get_HealthBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.57:170][778]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Health Bar Percent 0 Graph:  Get_HealthBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.57:170][778]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assignment/Character/HUD/Character_HUD.Character_HUD_C:Get_HealthBar_Percent_0
+
+[2019.05.26-03.49.57:171][778]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Magic Bar Percent 0 Graph:  Get_MagicBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.57:171][778]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Magic Bar Percent 0 Graph:  Get_MagicBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.57:171][778]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assignment/Character/HUD/Character_HUD.Character_HUD_C:Get_MagicBar_Percent_0
+
+[2019.05.26-03.49.57:172][778]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Stamina Bar Percent 0 Graph:  Get_StaminaBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.57:172][778]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Stamina Bar Percent 0 Graph:  Get_StaminaBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.57:172][778]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assignment/Character/HUD/Character_HUD.Character_HUD_C:Get_StaminaBar_Percent_0
+
+[2019.05.26-03.49.57:172][778]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Experience Bar Percent 0 Graph:  Get_ExperienceBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.57:173][778]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Experience Bar Percent 0 Graph:  Get_ExperienceBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.57:173][778]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assignment/Character/HUD/Character_HUD.Character_HUD_C:Get_ExperienceBar_Percent_0
+
+[2019.05.26-03.49.57:341][779]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Health Bar Percent 0 Graph:  Get_HealthBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.57:342][779]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Health Bar Percent 0 Graph:  Get_HealthBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.57:342][779]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assignment/Character/HUD/Character_HUD.Character_HUD_C:Get_HealthBar_Percent_0
+
+[2019.05.26-03.49.57:342][779]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Magic Bar Percent 0 Graph:  Get_MagicBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.57:342][779]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Magic Bar Percent 0 Graph:  Get_MagicBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.57:342][779]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assignment/Character/HUD/Character_HUD.Character_HUD_C:Get_MagicBar_Percent_0
+
+[2019.05.26-03.49.57:343][779]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Stamina Bar Percent 0 Graph:  Get_StaminaBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.57:343][779]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Stamina Bar Percent 0 Graph:  Get_StaminaBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.57:343][779]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assignment/Character/HUD/Character_HUD.Character_HUD_C:Get_StaminaBar_Percent_0
+
+[2019.05.26-03.49.57:343][779]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Experience Bar Percent 0 Graph:  Get_ExperienceBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.57:343][779]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Experience Bar Percent 0 Graph:  Get_ExperienceBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.57:344][779]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assignment/Character/HUD/Character_HUD.Character_HUD_C:Get_ExperienceBar_Percent_0
+
+[2019.05.26-03.49.57:512][780]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Health Bar Percent 0 Graph:  Get_HealthBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.57:512][780]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Health Bar Percent 0 Graph:  Get_HealthBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.57:512][780]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assignment/Character/HUD/Character_HUD.Character_HUD_C:Get_HealthBar_Percent_0
+
+[2019.05.26-03.49.57:513][780]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Magic Bar Percent 0 Graph:  Get_MagicBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.57:513][780]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Magic Bar Percent 0 Graph:  Get_MagicBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.57:513][780]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assignment/Character/HUD/Character_HUD.Character_HUD_C:Get_MagicBar_Percent_0
+
+[2019.05.26-03.49.57:513][780]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Stamina Bar Percent 0 Graph:  Get_StaminaBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.57:514][780]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Stamina Bar Percent 0 Graph:  Get_StaminaBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.57:514][780]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assignment/Character/HUD/Character_HUD.Character_HUD_C:Get_StaminaBar_Percent_0
+
+[2019.05.26-03.49.57:514][780]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Experience Bar Percent 0 Graph:  Get_ExperienceBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.57:514][780]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Experience Bar Percent 0 Graph:  Get_ExperienceBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.57:514][780]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assignment/Character/HUD/Character_HUD.Character_HUD_C:Get_ExperienceBar_Percent_0
+
+[2019.05.26-03.49.57:669][781]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Health Bar Percent 0 Graph:  Get_HealthBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.57:670][781]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Health Bar Percent 0 Graph:  Get_HealthBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.57:670][781]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assignment/Character/HUD/Character_HUD.Character_HUD_C:Get_HealthBar_Percent_0
+
+[2019.05.26-03.49.57:670][781]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Magic Bar Percent 0 Graph:  Get_MagicBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.57:671][781]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Magic Bar Percent 0 Graph:  Get_MagicBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.57:671][781]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assignment/Character/HUD/Character_HUD.Character_HUD_C:Get_MagicBar_Percent_0
+
+[2019.05.26-03.49.57:671][781]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Stamina Bar Percent 0 Graph:  Get_StaminaBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.57:671][781]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Stamina Bar Percent 0 Graph:  Get_StaminaBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.57:672][781]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assignment/Character/HUD/Character_HUD.Character_HUD_C:Get_StaminaBar_Percent_0
+
+[2019.05.26-03.49.57:672][781]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Experience Bar Percent 0 Graph:  Get_ExperienceBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.57:672][781]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Experience Bar Percent 0 Graph:  Get_ExperienceBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.57:672][781]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assignment/Character/HUD/Character_HUD.Character_HUD_C:Get_ExperienceBar_Percent_0
+
+[2019.05.26-03.49.57:829][782]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Health Bar Percent 0 Graph:  Get_HealthBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.57:829][782]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Health Bar Percent 0 Graph:  Get_HealthBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.57:829][782]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assignment/Character/HUD/Character_HUD.Character_HUD_C:Get_HealthBar_Percent_0
+
+[2019.05.26-03.49.57:830][782]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Magic Bar Percent 0 Graph:  Get_MagicBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.57:830][782]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Magic Bar Percent 0 Graph:  Get_MagicBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.57:830][782]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assignment/Character/HUD/Character_HUD.Character_HUD_C:Get_MagicBar_Percent_0
+
+[2019.05.26-03.49.57:830][782]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Stamina Bar Percent 0 Graph:  Get_StaminaBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.57:830][782]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Stamina Bar Percent 0 Graph:  Get_StaminaBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.57:831][782]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assignment/Character/HUD/Character_HUD.Character_HUD_C:Get_StaminaBar_Percent_0
+
+[2019.05.26-03.49.57:831][782]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Experience Bar Percent 0 Graph:  Get_ExperienceBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.57:831][782]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Experience Bar Percent 0 Graph:  Get_ExperienceBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.57:831][782]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assignment/Character/HUD/Character_HUD.Character_HUD_C:Get_ExperienceBar_Percent_0
+
+[2019.05.26-03.49.57:992][783]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Health Bar Percent 0 Graph:  Get_HealthBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.57:993][783]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Health Bar Percent 0 Graph:  Get_HealthBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.57:993][783]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assignment/Character/HUD/Character_HUD.Character_HUD_C:Get_HealthBar_Percent_0
+
+[2019.05.26-03.49.57:993][783]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Magic Bar Percent 0 Graph:  Get_MagicBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.57:993][783]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Magic Bar Percent 0 Graph:  Get_MagicBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.57:993][783]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assignment/Character/HUD/Character_HUD.Character_HUD_C:Get_MagicBar_Percent_0
+
+[2019.05.26-03.49.57:994][783]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Stamina Bar Percent 0 Graph:  Get_StaminaBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.57:994][783]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Stamina Bar Percent 0 Graph:  Get_StaminaBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.57:994][783]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assignment/Character/HUD/Character_HUD.Character_HUD_C:Get_StaminaBar_Percent_0
+
+[2019.05.26-03.49.57:994][783]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Experience Bar Percent 0 Graph:  Get_ExperienceBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.57:995][783]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Experience Bar Percent 0 Graph:  Get_ExperienceBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.57:995][783]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assignment/Character/HUD/Character_HUD.Character_HUD_C:Get_ExperienceBar_Percent_0
+
+[2019.05.26-03.49.58:154][784]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Health Bar Percent 0 Graph:  Get_HealthBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.58:155][784]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Health Bar Percent 0 Graph:  Get_HealthBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.58:155][784]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assignment/Character/HUD/Character_HUD.Character_HUD_C:Get_HealthBar_Percent_0
+
+[2019.05.26-03.49.58:155][784]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Magic Bar Percent 0 Graph:  Get_MagicBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.58:155][784]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Magic Bar Percent 0 Graph:  Get_MagicBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.58:156][784]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assignment/Character/HUD/Character_HUD.Character_HUD_C:Get_MagicBar_Percent_0
+
+[2019.05.26-03.49.58:157][784]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Stamina Bar Percent 0 Graph:  Get_StaminaBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.58:157][784]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Stamina Bar Percent 0 Graph:  Get_StaminaBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.58:158][784]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assignment/Character/HUD/Character_HUD.Character_HUD_C:Get_StaminaBar_Percent_0
+
+[2019.05.26-03.49.58:158][784]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Experience Bar Percent 0 Graph:  Get_ExperienceBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.58:159][784]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Experience Bar Percent 0 Graph:  Get_ExperienceBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.58:159][784]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assignment/Character/HUD/Character_HUD.Character_HUD_C:Get_ExperienceBar_Percent_0
+
+[2019.05.26-03.49.58:319][785]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Health Bar Percent 0 Graph:  Get_HealthBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.58:319][785]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Health Bar Percent 0 Graph:  Get_HealthBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.58:319][785]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assignment/Character/HUD/Character_HUD.Character_HUD_C:Get_HealthBar_Percent_0
+
+[2019.05.26-03.49.58:320][785]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Magic Bar Percent 0 Graph:  Get_MagicBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.58:321][785]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Magic Bar Percent 0 Graph:  Get_MagicBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.58:321][785]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assignment/Character/HUD/Character_HUD.Character_HUD_C:Get_MagicBar_Percent_0
+
+[2019.05.26-03.49.58:321][785]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Stamina Bar Percent 0 Graph:  Get_StaminaBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.58:322][785]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Stamina Bar Percent 0 Graph:  Get_StaminaBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.58:322][785]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assignment/Character/HUD/Character_HUD.Character_HUD_C:Get_StaminaBar_Percent_0
+
+[2019.05.26-03.49.58:322][785]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Experience Bar Percent 0 Graph:  Get_ExperienceBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.58:323][785]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Experience Bar Percent 0 Graph:  Get_ExperienceBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.58:323][785]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assignment/Character/HUD/Character_HUD.Character_HUD_C:Get_ExperienceBar_Percent_0
+
+[2019.05.26-03.49.58:479][786]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Health Bar Percent 0 Graph:  Get_HealthBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.58:480][786]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Health Bar Percent 0 Graph:  Get_HealthBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.58:480][786]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assignment/Character/HUD/Character_HUD.Character_HUD_C:Get_HealthBar_Percent_0
+
+[2019.05.26-03.49.58:481][786]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Magic Bar Percent 0 Graph:  Get_MagicBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.58:481][786]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Magic Bar Percent 0 Graph:  Get_MagicBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.58:481][786]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assignment/Character/HUD/Character_HUD.Character_HUD_C:Get_MagicBar_Percent_0
+
+[2019.05.26-03.49.58:481][786]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Stamina Bar Percent 0 Graph:  Get_StaminaBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.58:482][786]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Stamina Bar Percent 0 Graph:  Get_StaminaBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.58:482][786]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assignment/Character/HUD/Character_HUD.Character_HUD_C:Get_StaminaBar_Percent_0
+
+[2019.05.26-03.49.58:482][786]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Experience Bar Percent 0 Graph:  Get_ExperienceBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.58:482][786]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Experience Bar Percent 0 Graph:  Get_ExperienceBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.58:482][786]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assignment/Character/HUD/Character_HUD.Character_HUD_C:Get_ExperienceBar_Percent_0
+
+[2019.05.26-03.49.58:643][787]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Health Bar Percent 0 Graph:  Get_HealthBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.58:644][787]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Health Bar Percent 0 Graph:  Get_HealthBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.58:644][787]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assignment/Character/HUD/Character_HUD.Character_HUD_C:Get_HealthBar_Percent_0
+
+[2019.05.26-03.49.58:644][787]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Magic Bar Percent 0 Graph:  Get_MagicBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.58:645][787]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Magic Bar Percent 0 Graph:  Get_MagicBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.58:645][787]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assignment/Character/HUD/Character_HUD.Character_HUD_C:Get_MagicBar_Percent_0
+
+[2019.05.26-03.49.58:645][787]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Stamina Bar Percent 0 Graph:  Get_StaminaBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.58:645][787]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Stamina Bar Percent 0 Graph:  Get_StaminaBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.58:645][787]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assignment/Character/HUD/Character_HUD.Character_HUD_C:Get_StaminaBar_Percent_0
+
+[2019.05.26-03.49.58:647][787]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Experience Bar Percent 0 Graph:  Get_ExperienceBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.58:647][787]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Experience Bar Percent 0 Graph:  Get_ExperienceBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.58:647][787]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assignment/Character/HUD/Character_HUD.Character_HUD_C:Get_ExperienceBar_Percent_0
+
+[2019.05.26-03.49.58:805][788]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Health Bar Percent 0 Graph:  Get_HealthBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.58:805][788]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Health Bar Percent 0 Graph:  Get_HealthBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.58:805][788]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assignment/Character/HUD/Character_HUD.Character_HUD_C:Get_HealthBar_Percent_0
+
+[2019.05.26-03.49.58:806][788]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Magic Bar Percent 0 Graph:  Get_MagicBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.58:807][788]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Magic Bar Percent 0 Graph:  Get_MagicBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.58:807][788]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assignment/Character/HUD/Character_HUD.Character_HUD_C:Get_MagicBar_Percent_0
+
+[2019.05.26-03.49.58:808][788]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Stamina Bar Percent 0 Graph:  Get_StaminaBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.58:808][788]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Stamina Bar Percent 0 Graph:  Get_StaminaBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.58:808][788]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assignment/Character/HUD/Character_HUD.Character_HUD_C:Get_StaminaBar_Percent_0
+
+[2019.05.26-03.49.58:809][788]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Experience Bar Percent 0 Graph:  Get_ExperienceBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.58:809][788]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Experience Bar Percent 0 Graph:  Get_ExperienceBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.58:809][788]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assignment/Character/HUD/Character_HUD.Character_HUD_C:Get_ExperienceBar_Percent_0
+
+[2019.05.26-03.49.58:967][789]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Health Bar Percent 0 Graph:  Get_HealthBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.58:967][789]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Health Bar Percent 0 Graph:  Get_HealthBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.58:968][789]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assignment/Character/HUD/Character_HUD.Character_HUD_C:Get_HealthBar_Percent_0
+
+[2019.05.26-03.49.58:968][789]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Magic Bar Percent 0 Graph:  Get_MagicBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.58:968][789]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Magic Bar Percent 0 Graph:  Get_MagicBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.58:969][789]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assignment/Character/HUD/Character_HUD.Character_HUD_C:Get_MagicBar_Percent_0
+
+[2019.05.26-03.49.58:969][789]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Stamina Bar Percent 0 Graph:  Get_StaminaBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.58:970][789]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Stamina Bar Percent 0 Graph:  Get_StaminaBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.58:970][789]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assignment/Character/HUD/Character_HUD.Character_HUD_C:Get_StaminaBar_Percent_0
+
+[2019.05.26-03.49.58:970][789]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Experience Bar Percent 0 Graph:  Get_ExperienceBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.58:970][789]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Experience Bar Percent 0 Graph:  Get_ExperienceBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.58:971][789]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assignment/Character/HUD/Character_HUD.Character_HUD_C:Get_ExperienceBar_Percent_0
+
+[2019.05.26-03.49.59:131][790]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Health Bar Percent 0 Graph:  Get_HealthBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.59:131][790]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Health Bar Percent 0 Graph:  Get_HealthBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.59:131][790]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assignment/Character/HUD/Character_HUD.Character_HUD_C:Get_HealthBar_Percent_0
+
+[2019.05.26-03.49.59:132][790]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Magic Bar Percent 0 Graph:  Get_MagicBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.59:132][790]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Magic Bar Percent 0 Graph:  Get_MagicBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.59:132][790]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assignment/Character/HUD/Character_HUD.Character_HUD_C:Get_MagicBar_Percent_0
+
+[2019.05.26-03.49.59:132][790]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Stamina Bar Percent 0 Graph:  Get_StaminaBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.59:133][790]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Stamina Bar Percent 0 Graph:  Get_StaminaBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.59:133][790]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assignment/Character/HUD/Character_HUD.Character_HUD_C:Get_StaminaBar_Percent_0
+
+[2019.05.26-03.49.59:133][790]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Experience Bar Percent 0 Graph:  Get_ExperienceBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.59:133][790]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Experience Bar Percent 0 Graph:  Get_ExperienceBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.59:134][790]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assignment/Character/HUD/Character_HUD.Character_HUD_C:Get_ExperienceBar_Percent_0
+
+[2019.05.26-03.49.59:293][791]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Health Bar Percent 0 Graph:  Get_HealthBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.59:294][791]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Health Bar Percent 0 Graph:  Get_HealthBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.59:294][791]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assignment/Character/HUD/Character_HUD.Character_HUD_C:Get_HealthBar_Percent_0
+
+[2019.05.26-03.49.59:294][791]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Magic Bar Percent 0 Graph:  Get_MagicBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.59:295][791]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Magic Bar Percent 0 Graph:  Get_MagicBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.59:295][791]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assignment/Character/HUD/Character_HUD.Character_HUD_C:Get_MagicBar_Percent_0
+
+[2019.05.26-03.49.59:295][791]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Stamina Bar Percent 0 Graph:  Get_StaminaBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.59:296][791]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Stamina Bar Percent 0 Graph:  Get_StaminaBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.59:296][791]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assignment/Character/HUD/Character_HUD.Character_HUD_C:Get_StaminaBar_Percent_0
+
+[2019.05.26-03.49.59:297][791]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Experience Bar Percent 0 Graph:  Get_ExperienceBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.59:297][791]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Experience Bar Percent 0 Graph:  Get_ExperienceBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.59:297][791]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assignment/Character/HUD/Character_HUD.Character_HUD_C:Get_ExperienceBar_Percent_0
+
+[2019.05.26-03.49.59:461][792]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Health Bar Percent 0 Graph:  Get_HealthBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.59:461][792]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Health Bar Percent 0 Graph:  Get_HealthBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.59:461][792]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assignment/Character/HUD/Character_HUD.Character_HUD_C:Get_HealthBar_Percent_0
+
+[2019.05.26-03.49.59:462][792]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Magic Bar Percent 0 Graph:  Get_MagicBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.59:462][792]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Magic Bar Percent 0 Graph:  Get_MagicBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.59:462][792]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assignment/Character/HUD/Character_HUD.Character_HUD_C:Get_MagicBar_Percent_0
+
+[2019.05.26-03.49.59:462][792]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Stamina Bar Percent 0 Graph:  Get_StaminaBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.59:462][792]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Stamina Bar Percent 0 Graph:  Get_StaminaBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.59:462][792]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assignment/Character/HUD/Character_HUD.Character_HUD_C:Get_StaminaBar_Percent_0
+
+[2019.05.26-03.49.59:463][792]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Experience Bar Percent 0 Graph:  Get_ExperienceBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.59:463][792]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Experience Bar Percent 0 Graph:  Get_ExperienceBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.59:463][792]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assignment/Character/HUD/Character_HUD.Character_HUD_C:Get_ExperienceBar_Percent_0
+
+[2019.05.26-03.49.59:615][793]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Health Bar Percent 0 Graph:  Get_HealthBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.59:617][793]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Health Bar Percent 0 Graph:  Get_HealthBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.59:617][793]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assignment/Character/HUD/Character_HUD.Character_HUD_C:Get_HealthBar_Percent_0
+
+[2019.05.26-03.49.59:617][793]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Magic Bar Percent 0 Graph:  Get_MagicBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.59:618][793]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Magic Bar Percent 0 Graph:  Get_MagicBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.59:618][793]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assignment/Character/HUD/Character_HUD.Character_HUD_C:Get_MagicBar_Percent_0
+
+[2019.05.26-03.49.59:618][793]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Stamina Bar Percent 0 Graph:  Get_StaminaBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.59:618][793]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Stamina Bar Percent 0 Graph:  Get_StaminaBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.59:618][793]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assignment/Character/HUD/Character_HUD.Character_HUD_C:Get_StaminaBar_Percent_0
+
+[2019.05.26-03.49.59:619][793]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Experience Bar Percent 0 Graph:  Get_ExperienceBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.59:619][793]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Experience Bar Percent 0 Graph:  Get_ExperienceBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.59:619][793]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assignment/Character/HUD/Character_HUD.Character_HUD_C:Get_ExperienceBar_Percent_0
+
+[2019.05.26-03.49.59:780][794]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Health Bar Percent 0 Graph:  Get_HealthBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.59:780][794]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Health Bar Percent 0 Graph:  Get_HealthBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.59:781][794]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assignment/Character/HUD/Character_HUD.Character_HUD_C:Get_HealthBar_Percent_0
+
+[2019.05.26-03.49.59:781][794]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Magic Bar Percent 0 Graph:  Get_MagicBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.59:781][794]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Magic Bar Percent 0 Graph:  Get_MagicBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.59:781][794]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assignment/Character/HUD/Character_HUD.Character_HUD_C:Get_MagicBar_Percent_0
+
+[2019.05.26-03.49.59:782][794]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Stamina Bar Percent 0 Graph:  Get_StaminaBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.59:782][794]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Stamina Bar Percent 0 Graph:  Get_StaminaBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.59:782][794]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assignment/Character/HUD/Character_HUD.Character_HUD_C:Get_StaminaBar_Percent_0
+
+[2019.05.26-03.49.59:782][794]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Experience Bar Percent 0 Graph:  Get_ExperienceBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.59:783][794]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Experience Bar Percent 0 Graph:  Get_ExperienceBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.59:783][794]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assignment/Character/HUD/Character_HUD.Character_HUD_C:Get_ExperienceBar_Percent_0
+
+[2019.05.26-03.49.59:942][795]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Health Bar Percent 0 Graph:  Get_HealthBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.59:942][795]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Health Bar Percent 0 Graph:  Get_HealthBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.59:943][795]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assignment/Character/HUD/Character_HUD.Character_HUD_C:Get_HealthBar_Percent_0
+
+[2019.05.26-03.49.59:943][795]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Magic Bar Percent 0 Graph:  Get_MagicBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.59:943][795]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Magic Bar Percent 0 Graph:  Get_MagicBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.59:943][795]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assignment/Character/HUD/Character_HUD.Character_HUD_C:Get_MagicBar_Percent_0
+
+[2019.05.26-03.49.59:943][795]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Stamina Bar Percent 0 Graph:  Get_StaminaBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.59:944][795]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Stamina Bar Percent 0 Graph:  Get_StaminaBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.59:944][795]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assignment/Character/HUD/Character_HUD.Character_HUD_C:Get_StaminaBar_Percent_0
+
+[2019.05.26-03.49.59:944][795]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Experience Bar Percent 0 Graph:  Get_ExperienceBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.59:944][795]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Experience Bar Percent 0 Graph:  Get_ExperienceBar_Percent_0 Node:  Return Node
+[2019.05.26-03.49.59:944][795]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assignment/Character/HUD/Character_HUD.Character_HUD_C:Get_ExperienceBar_Percent_0
+
+[2019.05.26-03.50.00:106][796]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Health Bar Percent 0 Graph:  Get_HealthBar_Percent_0 Node:  Return Node
+[2019.05.26-03.50.00:107][796]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Health Bar Percent 0 Graph:  Get_HealthBar_Percent_0 Node:  Return Node
+[2019.05.26-03.50.00:107][796]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assignment/Character/HUD/Character_HUD.Character_HUD_C:Get_HealthBar_Percent_0
+
+[2019.05.26-03.50.00:108][796]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Magic Bar Percent 0 Graph:  Get_MagicBar_Percent_0 Node:  Return Node
+[2019.05.26-03.50.00:108][796]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Magic Bar Percent 0 Graph:  Get_MagicBar_Percent_0 Node:  Return Node
+[2019.05.26-03.50.00:108][796]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assignment/Character/HUD/Character_HUD.Character_HUD_C:Get_MagicBar_Percent_0
+
+[2019.05.26-03.50.00:108][796]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Stamina Bar Percent 0 Graph:  Get_StaminaBar_Percent_0 Node:  Return Node
+[2019.05.26-03.50.00:109][796]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Stamina Bar Percent 0 Graph:  Get_StaminaBar_Percent_0 Node:  Return Node
+[2019.05.26-03.50.00:109][796]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assignment/Character/HUD/Character_HUD.Character_HUD_C:Get_StaminaBar_Percent_0
+
+[2019.05.26-03.50.00:109][796]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Experience Bar Percent 0 Graph:  Get_ExperienceBar_Percent_0 Node:  Return Node
+[2019.05.26-03.50.00:110][796]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Experience Bar Percent 0 Graph:  Get_ExperienceBar_Percent_0 Node:  Return Node
+[2019.05.26-03.50.00:110][796]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assignment/Character/HUD/Character_HUD.Character_HUD_C:Get_ExperienceBar_Percent_0
+
+[2019.05.26-03.50.00:265][797]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Health Bar Percent 0 Graph:  Get_HealthBar_Percent_0 Node:  Return Node
+[2019.05.26-03.50.00:266][797]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Health Bar Percent 0 Graph:  Get_HealthBar_Percent_0 Node:  Return Node
+[2019.05.26-03.50.00:267][797]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assignment/Character/HUD/Character_HUD.Character_HUD_C:Get_HealthBar_Percent_0
+
+[2019.05.26-03.50.00:267][797]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Magic Bar Percent 0 Graph:  Get_MagicBar_Percent_0 Node:  Return Node
+[2019.05.26-03.50.00:268][797]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Magic Bar Percent 0 Graph:  Get_MagicBar_Percent_0 Node:  Return Node
+[2019.05.26-03.50.00:268][797]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assignment/Character/HUD/Character_HUD.Character_HUD_C:Get_MagicBar_Percent_0
+
+[2019.05.26-03.50.00:268][797]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Stamina Bar Percent 0 Graph:  Get_StaminaBar_Percent_0 Node:  Return Node
+[2019.05.26-03.50.00:268][797]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Stamina Bar Percent 0 Graph:  Get_StaminaBar_Percent_0 Node:  Return Node
+[2019.05.26-03.50.00:268][797]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assignment/Character/HUD/Character_HUD.Character_HUD_C:Get_StaminaBar_Percent_0
+
+[2019.05.26-03.50.00:269][797]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Experience Bar Percent 0 Graph:  Get_ExperienceBar_Percent_0 Node:  Return Node
+[2019.05.26-03.50.00:269][797]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Experience Bar Percent 0 Graph:  Get_ExperienceBar_Percent_0 Node:  Return Node
+[2019.05.26-03.50.00:269][797]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assignment/Character/HUD/Character_HUD.Character_HUD_C:Get_ExperienceBar_Percent_0
+
+[2019.05.26-03.50.00:429][798]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Health Bar Percent 0 Graph:  Get_HealthBar_Percent_0 Node:  Return Node
+[2019.05.26-03.50.00:429][798]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Health Bar Percent 0 Graph:  Get_HealthBar_Percent_0 Node:  Return Node
+[2019.05.26-03.50.00:429][798]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assignment/Character/HUD/Character_HUD.Character_HUD_C:Get_HealthBar_Percent_0
+
+[2019.05.26-03.50.00:430][798]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Magic Bar Percent 0 Graph:  Get_MagicBar_Percent_0 Node:  Return Node
+[2019.05.26-03.50.00:430][798]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Magic Bar Percent 0 Graph:  Get_MagicBar_Percent_0 Node:  Return Node
+[2019.05.26-03.50.00:430][798]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assignment/Character/HUD/Character_HUD.Character_HUD_C:Get_MagicBar_Percent_0
+
+[2019.05.26-03.50.00:430][798]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Stamina Bar Percent 0 Graph:  Get_StaminaBar_Percent_0 Node:  Return Node
+[2019.05.26-03.50.00:430][798]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Stamina Bar Percent 0 Graph:  Get_StaminaBar_Percent_0 Node:  Return Node
+[2019.05.26-03.50.00:431][798]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assignment/Character/HUD/Character_HUD.Character_HUD_C:Get_StaminaBar_Percent_0
+
+[2019.05.26-03.50.00:431][798]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Experience Bar Percent 0 Graph:  Get_ExperienceBar_Percent_0 Node:  Return Node
+[2019.05.26-03.50.00:431][798]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Character_C_0 via property Character_Reference, but BP_Character_C_0 is pending kill". Blueprint:  Character_HUD Function:  Get Experience Bar Percent 0 Graph:  Get_ExperienceBar_Percent_0 Node:  Return Node
+[2019.05.26-03.50.00:431][798]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assignment/Character/HUD/Character_HUD.Character_HUD_C:Get_ExperienceBar_Percent_0
+
+[2019.05.26-03.50.00:572][799]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.05.26-03.50.00:573][799]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.26-03.50.00:769][799]LogSlate: Window 'test Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.05.26-03.50.00:840][799]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.26-03.50.00:840][799]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.05.26-03.50.01:365][800]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2019.05.26-03.50.03:240][817]LogSlate: Window 'Message Log' being destroyed
+[2019.05.26-03.50.03:344][817]LogSlate: Window 'Message Log' being destroyed
+[2019.05.26-03.53.57:081][489]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.26-03.54.00:268][492]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.26-03.56.16:671][781]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.26-03.56.38:720][800]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.26-03.56.48:102][819]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.26-03.56.50:207][825]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.26-03.56.51:817][829]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.26-03.56.52:920][832]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.26-03.56.54:456][835]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.26-03.57.02:971][854]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.26-03.57.04:361][858]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.26-03.57.04:977][859]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.26-03.57.11:556][878]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.26-03.57.13:108][883]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.26-03.57.14:144][886]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.26-03.57.15:376][889]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.26-03.57.16:410][892]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.26-03.57.17:761][896]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.26-03.57.20:779][905]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.26-03.57.24:024][909]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.26-03.57.26:209][914]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.26-03.57.26:994][916]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.26-03.57.28:404][920]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.26-03.57.34:212][937]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.26-03.57.35:971][940]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.26-03.57.38:372][945]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.26-03.57.39:433][946]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.26-03.57.41:818][953]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.26-03.58.07:253][991]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.26-03.58.09:554][995]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.26-04.03.01:552][800]LogAIModule: Creating AISystem for world Main
+[2019.05.26-04.03.01:983][800]LogAssetEditorManager: Opening Asset editor for World /Game/Assignment/Main.Main
+[2019.05.26-04.03.04:728][800]LogSlate: Window 'Save Content' being destroyed
+[2019.05.26-04.03.04:804][800]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/AI/OrangeEye" FILE="../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/AI/OrangeEye.uasset" SILENT=true
+[2019.05.26-04.03.04:927][800]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/OrangeEyeC56CA049431BBAA89E31ADA0BECD96E5.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/AI/OrangeEye.uasset'
+[2019.05.26-04.03.04:966][800]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/AI/RedEye" FILE="../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/AI/RedEye.uasset" SILENT=true
+[2019.05.26-04.03.05:020][800]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/RedEyeCCFCDBE741B1C5A7DD6F44ACA17D1C05.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/AI/RedEye.uasset'
+[2019.05.26-04.03.05:097][800]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/HuntingSound5F83F1CC40080C45930134976F07020A.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Audio/Sounds/HuntingSound.uasset'
+[2019.05.26-04.03.05:162][800]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/HuntingSound_Cue3ABC0C4945D1905D35B7CFAB13EB7FDE.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Audio/Sounds/HuntingSound_Cue.uasset'
+[2019.05.26-04.03.05:261][800]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/InvestigatingSound817DBF84498959E2E25170AB10E25AFE.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Audio/Sounds/InvestigatingSound.uasset'
+[2019.05.26-04.03.05:331][800]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/InvestigatingSound_CueB643331541E535914EE0DFAD99B75AB8.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Audio/Sounds/InvestigatingSound_Cue.uasset'
+[2019.05.26-04.03.05:354][800]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/Menu/Handprint" FILE="../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Menu/Handprint.uasset" SILENT=true
+[2019.05.26-04.03.05:437][800]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/Handprint6670997F4243D928EAA1C28640CD6F81.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Menu/Handprint.uasset'
+[2019.05.26-04.03.05:486][800]Cmd: MAP LOAD FILE="../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Main.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.26-04.03.05:488][800]LightingResults: New page: Lighting Build
+[2019.05.26-04.03.05:493][800]LoadErrors: New page: Loading map: Main.umap
+[2019.05.26-04.03.05:519][800]MapCheck: New page: Map Check
+[2019.05.26-04.03.05:519][800]LightingResults: New page: Lighting Build
+[2019.05.26-04.03.06:913][800]LogEditorServer: Finished looking for orphan Actors (0.003 secs)
+[2019.05.26-04.03.07:343][800]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.26-04.03.07:352][800]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 7.463ms to complete.
+[2019.05.26-04.03.07:353][800]LogFileHelpers: Loading map 'Main' took 1.894
+[2019.05.26-04.03.07:958][800]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.26-04.03.15:432][844]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.05.26-04.03.15:588][844]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Assignment/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Assignment/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Assignment/Main.Main_C' with ClassGeneratedBy '/Game/Assignment/Main.Main:PersistentLevel.Main'
+[2019.05.26-04.03.15:589][844]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.26-04.03.15:589][844]PIE: New page: PIE session: Main (26 May 2019 11:03:15 pm)
+[2019.05.26-04.03.15:592][844]LogPlayLevel: Creating play world package: /Game/Assignment/UEDPIE_0_Main
+[2019.05.26-04.03.15:942][844]LogPlayLevel: PIE: StaticDuplicateObject took: (0.349793s)
+[2019.05.26-04.03.15:944][844]LogAIModule: Creating AISystem for world Main
+[2019.05.26-04.03.15:945][844]LogPlayLevel: PIE: World Init took: (0.002813s)
+[2019.05.26-04.03.15:946][844]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assignment/Main.Main to /Game/Assignment/UEDPIE_0_Main.Main (0.354699s)
+[2019.05.26-04.03.16:069][844]LogGarbage: Warning: GC detected illegal reference to PIE object from content [possibly via [todo]]:
+[2019.05.26-04.03.16:070][844]LogGarbage: Warning:       PIE object: World /Game/Assignment/UEDPIE_0_Main.Main
+[2019.05.26-04.03.16:070][844]LogGarbage: Warning:   NON-PIE object: UnrealEdEngine /Engine/Transient.UnrealEdEngine_0
+[2019.05.26-04.03.16:162][844]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.26-04.03.16:222][844]LogInit: FAudioDevice initialized.
+[2019.05.26-04.03.16:297][844]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.26-04.03.16:365][844]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.05.26-04.03.16:795][844]LogWorld: Bringing World /Game/Assignment/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2019.05.26-13.33.16
+[2019.05.26-04.03.16:826][844]LogWorld: Bringing up level for play took: 0.459413
+[2019.05.26-04.03.16:848][844]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  BP_Animation Function:  Execute Ubergraph BP Animation Graph:  EventGraph Node:  Set IsCrouched
+[2019.05.26-04.03.16:886][844]PIE: Play in editor start time for /Game/Assignment/UEDPIE_0_Main 1.694
+[2019.05.26-04.03.16:888][844]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Assignment/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Assignment/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Assignment/Main.Main_C' with ClassGeneratedBy '/Game/Assignment/Main.Main:PersistentLevel.Main'
+[2019.05.26-04.03.39:013][895]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Assignment/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Assignment/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Assignment/Main.Main_C' with ClassGeneratedBy '/Game/Assignment/Main.Main:PersistentLevel.Main'
+[2019.05.26-04.03.39:014][895]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.26-04.03.39:266][895]LogSlate: Window 'test Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.05.26-04.03.39:611][895]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.26-04.03.39:613][895]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Assignment/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Assignment/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Assignment/Main.Main_C' with ClassGeneratedBy '/Game/Assignment/Main.Main:PersistentLevel.Main'
+[2019.05.26-04.03.40:349][896]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2019.05.26-04.03.42:349][908]LogSlate: Window 'Message Log' being destroyed
+[2019.05.26-04.03.42:408][908]LogSlate: Window 'Message Log' being destroyed
+[2019.05.26-04.04.38:278][299]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.26-04.04.42:841][400]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.26-04.06.48:770][ 96]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.26-04.07.09:266][204]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.26-04.07.19:179][307]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.26-04.07.51:177][487]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.26-04.08.28:355][791]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.26-04.08.30:496][806]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Tile_Dirt_10)
+[2019.05.26-04.08.32:868][815]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.26-04.08.33:046][819]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/Main" FILE="../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.05.26-04.08.36:601][819]LogSavePackage: Moving '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Saved/MainEFB2811743E2D53CE9F6FDA98F27B997.tmp' to '../../../../../../Users/filse/Documents/GitHub/GameDesign/test/test/Content/Assignment/Main.umap'
+[2019.05.26-04.08.38:567][829]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.05.26-04.08.38:683][829]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Assignment/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Assignment/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Assignment/Main.Main_C' with ClassGeneratedBy '/Game/Assignment/Main.Main:PersistentLevel.Main'
+[2019.05.26-04.08.38:684][829]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.26-04.08.38:684][829]PIE: New page: PIE session: Main (26 May 2019 11:08:38 pm)
+[2019.05.26-04.08.38:684][829]LogPlayLevel: Creating play world package: /Game/Assignment/UEDPIE_0_Main
+[2019.05.26-04.08.38:912][829]LogPlayLevel: PIE: StaticDuplicateObject took: (0.227285s)
+[2019.05.26-04.08.38:915][829]LogAIModule: Creating AISystem for world Main
+[2019.05.26-04.08.38:916][829]LogPlayLevel: PIE: World Init took: (0.004233s)
+[2019.05.26-04.08.38:917][829]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assignment/Main.Main to /Game/Assignment/UEDPIE_0_Main.Main (0.232922s)
+[2019.05.26-04.08.38:999][829]LogGarbage: Warning: GC detected illegal reference to PIE object from content [possibly via [todo]]:
+[2019.05.26-04.08.38:999][829]LogGarbage: Warning:       PIE object: World /Game/Assignment/UEDPIE_0_Main.Main
+[2019.05.26-04.08.38:999][829]LogGarbage: Warning:   NON-PIE object: UnrealEdEngine /Engine/Transient.UnrealEdEngine_0
+[2019.05.26-04.08.39:086][829]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.26-04.08.39:139][829]LogInit: FAudioDevice initialized.
+[2019.05.26-04.08.39:163][829]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.26-04.08.39:255][829]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.05.26-04.08.39:586][829]LogWorld: Bringing World /Game/Assignment/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2019.05.26-13.38.39
+[2019.05.26-04.08.39:598][829]LogWorld: Bringing up level for play took: 0.341970
+[2019.05.26-04.08.39:618][829]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  BP_Animation Function:  Execute Ubergraph BP Animation Graph:  EventGraph Node:  Set IsCrouched
+[2019.05.26-04.08.39:670][829]PIE: Play in editor start time for /Game/Assignment/UEDPIE_0_Main 0.478
+[2019.05.26-04.08.39:673][829]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Assignment/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Assignment/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Assignment/Main.Main_C' with ClassGeneratedBy '/Game/Assignment/Main.Main:PersistentLevel.Main'
+[2019.05.26-04.09.04:756][910]LogGarbage: Warning: GC detected illegal reference to PIE object from content [possibly via [todo]]:
+[2019.05.26-04.09.04:757][910]LogGarbage: Warning:       PIE object: World /Game/Assignment/UEDPIE_0_Main.Main
+[2019.05.26-04.09.04:757][910]LogGarbage: Warning:   NON-PIE object: UnrealEdEngine /Engine/Transient.UnrealEdEngine_0
+[2019.05.26-04.09.04:793][910]LogGarbage: Warning: GC detected illegal reference to PIE object from content [possibly via [todo]]:
+[2019.05.26-04.09.04:793][910]LogGarbage: Warning:       PIE object: BP_Character_C /Game/Assignment/UEDPIE_0_Main.Main:PersistentLevel.BP_Character_C_0
+[2019.05.26-04.09.04:793][910]LogGarbage: Warning:   NON-PIE object: Character_HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_18.Character_HUD_C_0
+[2019.05.26-04.09.06:736][916]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Assignment/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Assignment/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Assignment/Main.Main_C' with ClassGeneratedBy '/Game/Assignment/Main.Main:PersistentLevel.Main'
+[2019.05.26-04.09.06:737][916]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.26-04.09.06:952][916]LogSlate: Window 'test Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.05.26-04.09.07:278][916]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.26-04.09.07:280][916]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Assignment/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Assignment/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Assignment/Main.Main_C' with ClassGeneratedBy '/Game/Assignment/Main.Main:PersistentLevel.Main'
+[2019.05.26-04.09.07:862][917]LogPlayLevel: Display: Destroying online subsystem :Context_63
+[2019.05.26-04.09.09:568][926]LogSlate: Window 'Message Log' being destroyed
+[2019.05.26-04.09.09:628][926]LogSlate: Window 'Message Log' being destroyed
+[2019.05.26-04.09.29:699][ 48]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.26-04.10.12:157][301]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.26-04.13.07:497][459]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.26-04.13.07:784][460]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.05.26-04.13.07:897][460]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Assignment/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Assignment/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Assignment/Main.Main_C' with ClassGeneratedBy '/Game/Assignment/Main.Main:PersistentLevel.Main'
+[2019.05.26-04.13.07:897][460]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.26-04.13.07:897][460]PIE: New page: PIE session: Main (26 May 2019 11:13:07 pm)
+[2019.05.26-04.13.07:898][460]LogPlayLevel: Creating play world package: /Game/Assignment/UEDPIE_0_Main
+[2019.05.26-04.13.08:265][460]LogPlayLevel: PIE: StaticDuplicateObject took: (0.366728s)
+[2019.05.26-04.13.08:266][460]LogAIModule: Creating AISystem for world Main
+[2019.05.26-04.13.08:267][460]LogPlayLevel: PIE: World Init took: (0.002347s)
+[2019.05.26-04.13.08:274][460]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assignment/Main.Main to /Game/Assignment/UEDPIE_0_Main.Main (0.376455s)
+[2019.05.26-04.13.08:372][460]LogGarbage: Warning: GC detected illegal reference to PIE object from content [possibly via [todo]]:
+[2019.05.26-04.13.08:372][460]LogGarbage: Warning:       PIE object: World /Game/Assignment/UEDPIE_0_Main.Main
+[2019.05.26-04.13.08:372][460]LogGarbage: Warning:   NON-PIE object: UnrealEdEngine /Engine/Transient.UnrealEdEngine_0
+[2019.05.26-04.13.08:453][460]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.26-04.13.08:497][460]LogInit: FAudioDevice initialized.
+[2019.05.26-04.13.08:522][460]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.26-04.13.08:602][460]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.05.26-04.13.08:944][460]LogWorld: Bringing World /Game/Assignment/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2019.05.26-13.43.08
+[2019.05.26-04.13.08:959][460]LogWorld: Bringing up level for play took: 0.355737
+[2019.05.26-04.13.08:979][460]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  BP_Animation Function:  Execute Ubergraph BP Animation Graph:  EventGraph Node:  Set IsCrouched
+[2019.05.26-04.13.09:018][460]PIE: Play in editor start time for /Game/Assignment/UEDPIE_0_Main 1.827
+[2019.05.26-04.13.09:020][460]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Assignment/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Assignment/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Assignment/Main.Main_C' with ClassGeneratedBy '/Game/Assignment/Main.Main:PersistentLevel.Main'
+[2019.05.26-04.13.25:266][503]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Assignment/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Assignment/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Assignment/Main.Main_C' with ClassGeneratedBy '/Game/Assignment/Main.Main:PersistentLevel.Main'
+[2019.05.26-04.13.25:267][503]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.26-04.13.25:498][503]LogSlate: Window 'test Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.05.26-04.13.25:885][503]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.26-04.13.25:886][503]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Assignment/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Assignment/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Assignment/Main.Main_C' with ClassGeneratedBy '/Game/Assignment/Main.Main:PersistentLevel.Main'
+[2019.05.26-04.13.26:495][504]LogPlayLevel: Display: Destroying online subsystem :Context_64
+[2019.05.26-04.13.28:393][517]LogSlate: Window 'Message Log' being destroyed
+[2019.05.26-04.13.28:438][517]LogSlate: Window 'Message Log' being destroyed
