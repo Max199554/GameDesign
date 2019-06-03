@@ -31,6 +31,9 @@ public:
 	UPROPERTY(BlueprintReadWrite, Category = "Health")
 		float health;
 
+	UPROPERTY(BlueprintReadWrite, EditAnywhere, Category = "Health")
+		float enemyDamage;
+
 	UFUNCTION(BlueprintCallable)
 		void TakeDamage(float Damage);
 

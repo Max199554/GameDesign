@@ -15,6 +15,15 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 
 #define test_Source_test_MainPlayer_h_12_RPC_WRAPPERS \
  \
+	DECLARE_FUNCTION(execTakeDamage) \
+	{ \
+		P_GET_PROPERTY(UIntProperty,Z_Param_Damage); \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		P_THIS->TakeDamage(Z_Param_Damage); \
+		P_NATIVE_END; \
+	} \
+ \
 	DECLARE_FUNCTION(execChangeCrouchState) \
 	{ \
 		P_FINISH; \
@@ -33,6 +42,15 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 
 
 #define test_Source_test_MainPlayer_h_12_RPC_WRAPPERS_NO_PURE_DECLS \
+ \
+	DECLARE_FUNCTION(execTakeDamage) \
+	{ \
+		P_GET_PROPERTY(UIntProperty,Z_Param_Damage); \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		P_THIS->TakeDamage(Z_Param_Damage); \
+		P_NATIVE_END; \
+	} \
  \
 	DECLARE_FUNCTION(execChangeCrouchState) \
 	{ \

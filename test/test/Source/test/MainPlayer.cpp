@@ -8,7 +8,7 @@ AMainPlayer::AMainPlayer()
 {
  	// Set this character to call Tick() every frame.  You can turn this off to improve performance if you don't need it.
 	PrimaryActorTick.bCanEverTick = true;
-
+	health = 100;
 }
 
 // Called when the game starts or when spawned
@@ -42,5 +42,12 @@ void AMainPlayer::ChangeCrouchState() {
 	}
 	else {
 		GetCharacterMovement()->UnCrouch();
+	}
+}
+
+void AMainPlayer::TakeDamage(int Damage) {
+	health -= Damage;
+	if (health <= 0) {
+		Destroy();
 	}
 }
