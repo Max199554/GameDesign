@@ -1,0 +1,638 @@
+﻿Log file open, 12/05/16 23:41:32
+LogInit:Display: Running engine for game: RPG_Effects_Pack
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(1946231377) SRandInit(1946231378).
+LogTaskGraph: Started task graph with 4 named threads and 7 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.073081
+LogInit: Version: 4.12.5-3039270+++UE4+Release-4.12
+LogInit: API Version: 2992821
+LogInit: Net Version: 3039270
+LogDevObjectVersion: Number of dev versions registered: 13
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 3
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 1
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 2
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 6
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 2
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 0
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogInit: Compiled (64-bit): Jul  6 2016 09:09:46
+LogInit: Compiled with Visual C++: 19.00.23026.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.12
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Using libcurl 7.41.0
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with WinSSL
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2016.12.05-15.41.33:058][  0]LogInit: Selected Device Profile: [Windows]
+[2016.12.05-15.41.33:058][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2016.12.05-15.41.33:066][  0]LogInit: Computer: DESKTOP-H6UJHAM
+[2016.12.05-15.41.33:066][  0]LogInit: User: YangHongpeng
+[2016.12.05-15.41.33:066][  0]LogInit: CPU Page size=65536, Cores=4
+[2016.12.05-15.41.33:066][  0]LogInit: High frequency timer resolution =3.906245 MHz
+[2016.12.05-15.41.33:066][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2016.12.05-15.41.33:067][  0]LogMemory: Platform Memory Stats for Windows
+[2016.12.05-15.41.33:067][  0]LogMemory: Process Physical Memory: 190.14 MB used, 190.14 MB peak
+[2016.12.05-15.41.33:067][  0]LogMemory: Process Virtual Memory: 195.19 MB used, 195.19 MB peak
+[2016.12.05-15.41.33:067][  0]LogMemory: Physical Memory: 4819.45 MB used, 16326.48 MB total
+[2016.12.05-15.41.33:067][  0]LogMemory: Virtual Memory: 552.82 MB used, 134217728.00 MB total
+[2016.12.05-15.41.33:132][  0]LogTextLocalizationManager:Warning: Loaded localization resources contain conflicting entries for (Namespace:K2Node, Key:Target):
+Localization Resource: (C:/Program Files (x86)/Epic Games/4.12/Engine/Content/Localization/EditorTutorials/zh-CN/EditorTutorials.locres) Source String Hash: (-1589014459) Localized String: (目标)
+Localization Resource: (C:/Program Files (x86)/Epic Games/4.12/Engine/Content/Localization/Engine/zh-CN/Engine.locres) Source String Hash: (-1589014459) Localized String: (对象)
+[2016.12.05-15.41.33:132][  0]LogTextLocalizationManager:Warning: Loaded localization resources contain conflicting entries for (Namespace:K2Node, Key:false):
+Localization Resource: (C:/Program Files (x86)/Epic Games/4.12/Engine/Content/Localization/EditorTutorials/zh-CN/EditorTutorials.locres) Source String Hash: (816077464) Localized String: (假)
+Localization Resource: (C:/Program Files (x86)/Epic Games/4.12/Engine/Content/Localization/Engine/zh-CN/Engine.locres) Source String Hash: (816077464) Localized String: (错误)
+[2016.12.05-15.41.33:132][  0]LogTextLocalizationManager:Warning: Loaded localization resources contain conflicting entries for (Namespace:K2Node, Key:true):
+Localization Resource: (C:/Program Files (x86)/Epic Games/4.12/Engine/Content/Localization/EditorTutorials/zh-CN/EditorTutorials.locres) Source String Hash: (-942328987) Localized String: (真)
+Localization Resource: (C:/Program Files (x86)/Epic Games/4.12/Engine/Content/Localization/Engine/zh-CN/Engine.locres) Source String Hash: (-942328987) Localized String: (正确)
+[2016.12.05-15.41.33:132][  0]LogTextLocalizationManager:Warning: Loaded localization resources contain conflicting entries for (Namespace:UObjectToolTips, Key:AnimNode_AssetPlayerBase:InternalTimeAccumulator):
+Localization Resource: (C:/Program Files (x86)/Epic Games/4.12/Engine/Content/Localization/EditorTutorials/zh-CN/EditorTutorials.locres) Source String Hash: (502993589) Localized String: (用于引用此节点中的资源的累积时间)
+Localization Resource: (C:/Program Files (x86)/Epic Games/4.12/Engine/Content/Localization/Engine/zh-CN/Engine.locres) Source String Hash: (502993589) Localized String: (引用该节点中资源所用的累计时间)
+[2016.12.05-15.41.33:132][  0]LogTextLocalizationManager:Warning: Loaded localization resources contain conflicting entries for (Namespace:UObjectToolTips, Key:AnimNode_AssetPlayerBase:bIgnoreForRelevancyTest):
+Localization Resource: (C:/Program Files (x86)/Epic Games/4.12/Engine/Content/Localization/EditorTutorials/zh-CN/EditorTutorials.locres) Source String Hash: (319969718) Localized String: (若为真，在状态中寻找最高权重动画的“相关动画”节点将忽视 此节点)
+Localization Resource: (C:/Program Files (x86)/Epic Games/4.12/Engine/Content/Localization/Engine/zh-CN/Engine.locres) Source String Hash: (319969718) Localized String: (如果为真，那么将会忽略查找最高权重动画的"相关动画"节点。
+这个节点)
+[2016.12.05-15.41.33:132][  0]LogTextLocalizationManager:Warning: Loaded localization resources contain conflicting entries for (Namespace:UObjectToolTips, Key:AnimNode_AssetPlayerBase:BlendWeight):
+Localization Resource: (C:/Program Files (x86)/Epic Games/4.12/Engine/Content/Localization/EditorTutorials/zh-CN/EditorTutorials.locres) Source String Hash: (-1232800293) Localized String: (此节点最后交会的混合权重)
+Localization Resource: (C:/Program Files (x86)/Epic Games/4.12/Engine/Content/Localization/Engine/zh-CN/Engine.locres) Source String Hash: (-1232800293) Localized String: (该节点上一次遇到的混合权重)
+[2016.12.05-15.41.33:237][  0]LogD3D11RHI: D3D11 adapters:
+[2016.12.05-15.41.33:702][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 980 Ti' (Feature Level 11_0)
+[2016.12.05-15.41.33:702][  0]LogD3D11RHI:       6102/0/8163 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2016.12.05-15.41.33:704][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2016.12.05-15.41.33:704][  0]LogD3D11RHI:       0/0/8163 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2016.12.05-15.41.33:704][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2016.12.05-15.41.33:710][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2016.12.05-15.41.33:710][  0]LogD3D11RHI:     GPU DeviceId: 0x17c8 (for the marketing name, search the web for "GPU Device Id")
+[2016.12.05-15.41.33:710][  0]LogWindows: EnumDisplayDevices:
+[2016.12.05-15.41.33:710][  0]LogWindows:    0. 'NVIDIA GeForce GTX 980 Ti' (P:1 D:1)
+[2016.12.05-15.41.33:710][  0]LogWindows:    1. 'NVIDIA GeForce GTX 980 Ti' (P:0 D:0)
+[2016.12.05-15.41.33:711][  0]LogWindows:    2. 'NVIDIA GeForce GTX 980 Ti' (P:0 D:0)
+[2016.12.05-15.41.33:711][  0]LogWindows:    3. 'NVIDIA GeForce GTX 980 Ti' (P:0 D:0)
+[2016.12.05-15.41.33:711][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2016.12.05-15.41.33:711][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 980 Ti
+[2016.12.05-15.41.33:711][  0]LogD3D11RHI:   Driver Version: 376.09 (internal:21.21.13.7609, unified:376.09)
+[2016.12.05-15.41.33:711][  0]LogD3D11RHI:      Driver Date: 11-24-2016
+[2016.12.05-15.41.33:711][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2016.12.05-15.41.34:251][  0]LogD3D11RHI: Async texture creation enabled
+[2016.12.05-15.41.34:521][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2016.12.05-15.41.34:521][  0]LogShaderCompilers: Guid format shader working directory is 12 characters bigger than the processId version (E:/_Unreal4_Project/RPG_Effects_Pack/Intermediate/Shaders/WorkingDirectory/16912/).
+[2016.12.05-15.41.34:521][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/YANGHO~1/AppData/Local/Temp/UnrealShaderWorkingDir/C4A5DCF14DC73C8EBCBBEA82BEA22685/'.
+[2016.12.05-15.41.34:521][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2016.12.05-15.41.35:647][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2016.12.05-15.41.35:658][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2016.12.05-15.41.35:667][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2016.12.05-15.41.35:676][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2016.12.05-15.41.35:684][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2016.12.05-15.41.35:690][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2016.12.05-15.41.35:695][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2016.12.05-15.41.35:701][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2016.12.05-15.41.35:708][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2016.12.05-15.41.35:714][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2016.12.05-15.41.35:719][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2016.12.05-15.41.35:731][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2016.12.05-15.41.35:731][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2016.12.05-15.41.35:732][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2016.12.05-15.41.35:752][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2016.12.05-15.41.35:757][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2016.12.05-15.41.35:763][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2016.12.05-15.41.35:769][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2016.12.05-15.41.35:776][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2016.12.05-15.41.35:776][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2016.12.05-15.41.35:855][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2016.12.05-15.41.35:896][  0]LogDerivedDataCache: Loaded boot cache 0.04s 48MB C:/Users/YangHongpeng/AppData/Local/UnrealEngine/4.12/DerivedDataCache/Boot.ddc.
+[2016.12.05-15.41.35:896][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/YangHongpeng/AppData/Local/UnrealEngine/4.12/DerivedDataCache/Boot.ddc
+[2016.12.05-15.41.35:896][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/_Unreal4_Project/RPG_Effects_Pack/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2016.12.05-15.41.35:896][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2016.12.05-15.41.35:896][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/_Unreal4_Project/RPG_Effects_Pack/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2016.12.05-15.41.35:896][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2016.12.05-15.41.35:909][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2016.12.05-15.41.35:924][  0]LogDerivedDataCache: Using Local data cache path C:/Users/YangHongpeng/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2016.12.05-15.41.36:066][  0]LogInit: Selected Device Profile: [Windows]
+[2016.12.05-15.41.36:067][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2016.12.05-15.41.36:198][  0]LogMeshUtilities: No automatic mesh reduction module available
+[2016.12.05-15.41.36:198][  0]LogMeshUtilities: No automatic mesh merging module available
+[2016.12.05-15.41.36:198][  0]LogMeshUtilities: No distributed automatic mesh merging module available
+[2016.12.05-15.41.36:395][  0]LogAssetRegistry: FAssetRegistry took 0.0216 seconds to start up
+[2016.12.05-15.41.36:467][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 4 prioritized culture(s) in 0.067881 seconds
+[2016.12.05-15.41.36:470][  0]LogUObjectArray: 28739 objects as part of root set at end of initial load.
+[2016.12.05-15.41.36:470][  0]LogUObjectAllocator: 5855632 out of 0 bytes used by permanent object pool.
+[2016.12.05-15.41.36:470][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2016.12.05-15.41.36:477][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2016.12.05-15.41.36:629][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2016.12.05-15.41.36:629][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2016.12.05-15.41.37:096][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2016.12.05-15.41.37:317][  0]SourceControl: 信息 源码控制已禁用
+[2016.12.05-15.41.37:318][  0]SourceControl: 信息 源码控制已禁用
+[2016.12.05-15.41.37:327][  0]SourceControl: 信息 源码控制已禁用
+[2016.12.05-15.41.37:336][  0]SourceControl: 信息 源码控制已禁用
+[2016.12.05-15.41.37:550][  0]LogEngine: Initializing Engine...
+[2016.12.05-15.41.37:551][  0]LogHMD: SteamVR failed to initialize.  Err: 110
+[2016.12.05-15.41.37:552][  0]LogHMD: SteamVR failed to initialize.  Err: 110
+[2016.12.05-15.41.37:660][  0]LogAIModule: Creating AISystem for world NewWorld
+[2016.12.05-15.41.37:672][  0]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.12.05-15.41.37:685][  0]LogInit: FAudioDevice initialized.
+[2016.12.05-15.41.37:710][  0]LogDerivedDataCache: Saved boot cache 0.02s 48MB C:/Users/YangHongpeng/AppData/Local/UnrealEngine/4.12/DerivedDataCache/Boot.ddc.
+[2016.12.05-15.41.37:716][  0]LogInit: Texture streaming: Enabled
+[2016.12.05-15.41.37:735][  0]LogInit: Transaction tracking system initialized
+[2016.12.05-15.41.37:761][  0]BlueprintLog: New page: 编辑器加载
+[2016.12.05-15.41.37:846][  0]LocalizationService: 信息 本地化服务已被禁用
+[2016.12.05-15.41.37:924][  0]LogConsoleResponse:Display: 
+[2016.12.05-15.41.38:024][  0]LogCook:Display: Max memory allowance for cook 8192mb
+[2016.12.05-15.41.38:024][  0]LogCook:Display: Mobile HDR setting 1
+[2016.12.05-15.41.38:115][  0]LogFileCache: Scanning file cache for directory 'E:/_Unreal4_Project/RPG_Effects_Pack/Content/' took 0.01s
+[2016.12.05-15.41.38:115][  0]SourceControl: 信息 源码控制已禁用
+[2016.12.05-15.41.38:115][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2016.12.05-15.41.38:116][  0]LightingResults: New page: 光照构建
+[2016.12.05-15.41.38:118][  0]MapCheck: New page: 地图检测
+[2016.12.05-15.41.38:118][  0]LightingResults: New page: 光照构建
+[2016.12.05-15.41.38:285][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2016.12.05-15.41.38:291][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2016.12.05-15.41.38:298][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2016.12.05-15.41.38:353][  0]MapCheck: 信息 地图检测完成：0个错误，0 个警告，用时54.734毫秒完成。
+[2016.12.05-15.41.38:353][  0]LogFileHelpers: Loading map 'Template_Default' took 0.238
+[2016.12.05-15.41.38:503][  0]LogCollectionManager: Loaded 0 collections in 0.008320 seconds
+[2016.12.05-15.41.38:568][  0]LogFileCache: Scanning file cache for directory 'E:/_Unreal4_Project/RPG_Effects_Pack/Saved/Collections/' took 0.01s
+[2016.12.05-15.41.38:568][  0]LogFileCache: Scanning file cache for directory 'E:/_Unreal4_Project/RPG_Effects_Pack/Content/Developers/YangHongpeng/Collections/' took 0.01s
+[2016.12.05-15.41.38:568][  0]LogFileCache: Scanning file cache for directory 'E:/_Unreal4_Project/RPG_Effects_Pack/Content/Collections/' took 0.01s
+[2016.12.05-15.41.38:568][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000008 seconds
+[2016.12.05-15.41.38:587][  0]LogContentBrowser: Native class hierarchy populated in 0.0190 seconds. Added 2047 classes and 369 folders.
+[2016.12.05-15.41.38:597][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2016.12.05-15.41.38:597][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2016.12.05-15.41.38:598][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0008 seconds. Added 12 classes and 0 folders.
+[2016.12.05-15.41.38:614][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2016.12.05-15.41.38:696][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2016.12.05-15.41.38:744][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2016.12.05-15.41.38:754][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2016.12.05-15.41.38:759][  0]LogUObjectGlobals:Warning: 寻找对象'Class 无.'失败
+[2016.12.05-15.41.38:784][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2016.12.05-15.41.38:785][  0]LogLoad: Full Startup: 6.73 seconds (BP compile: 0.02 seconds)
+[2016.12.05-15.41.38:785][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2016.12.05-15.41.39:124][  0]LogOcInput: OculusInput pre-init called
+[2016.12.05-15.41.39:142][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2016.12.05-15.41.39:286][  0]LogRenderer: Reallocating scene render targets to support 1220x996 (Frame:2).
+[2016.12.05-15.41.39:789][  2]LogAssetRegistry: Asset discovery search completed in 3.4161 seconds
+[2016.12.05-15.41.39:789][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2016.12.05-15.41.39:789][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000022 seconds (updated 0 objects)
+[2016.12.05-15.41.43:209][328]LogWindowsTextInputMethodSystem:Display: IME system now activated using TSF (QQ拼音Win8版).
+[2016.12.05-15.41.46:272][651]LogStaticMesh: 正在构建静态网格物体SM_Spiral...
+[2016.12.05-15.41.46:276][651]LogStaticMesh: Built static mesh [0.01s] /Game/RPGEffects/Meshes/SM_Spiral.SM_Spiral
+[2016.12.05-15.41.46:298][651]LogTexture:Display: 正在构建贴图: T_FrameClamp (AutoDXT)
+[2016.12.05-15.41.46:492][651]LogMaterial: Missing cached shader map for material M_SpiralMesh, compiling. 
+[2016.12.05-15.41.46:516][651]LogTexture:Display: 正在构建贴图: T_Ring (AutoDXT)
+[2016.12.05-15.41.46:546][651]LogMaterial: Missing cached shader map for material M_Whirlwind_Rings, compiling. 
+[2016.12.05-15.41.46:560][651]LogTexture:Display: 正在构建贴图: ThumbnailTexture (DXT1)
+[2016.12.05-15.41.46:599][651]LogTexture:Display: 正在构建贴图: T_HealingCross (AutoDXT)
+[2016.12.05-15.41.46:738][651]LogMaterial: Missing cached shader map for material M_Spiral, compiling. 
+[2016.12.05-15.41.46:750][651]LogMaterial: Missing cached shader map for material M_Ring, compiling. 
+[2016.12.05-15.41.46:777][651]LogTexture:Display: 正在构建贴图: T_StarAnim (AutoDXT)
+[2016.12.05-15.41.46:871][651]LogMaterial: Missing cached shader map for material M_StarAnim, compiling. 
+[2016.12.05-15.41.46:887][651]LogTexture:Display: 正在构建贴图: ThumbnailTexture (DXT1)
+[2016.12.05-15.41.46:950][651]LogTexture:Display: 正在构建贴图: T_Earth_Crack (AutoDXT)
+[2016.12.05-15.41.47:085][651]LogMaterial: Missing cached shader map for material M_Earth_Crack, compiling. 
+[2016.12.05-15.41.47:098][651]LogTexture:Display: 正在构建贴图: T_Sparks (AutoDXT)
+[2016.12.05-15.41.47:120][651]LogMaterial: Missing cached shader map for material M_Sparks, compiling. 
+[2016.12.05-15.41.47:137][651]LogTexture:Display: 正在构建贴图: ThumbnailTexture (DXT1)
+[2016.12.05-15.41.47:201][651]LogTexture:Display: 正在构建贴图: T_Impact_Star (AutoDXT)
+[2016.12.05-15.41.47:319][651]LogMaterial: Missing cached shader map for material M_Impact_Star, compiling. 
+[2016.12.05-15.41.47:341][651]LogTexture:Display: 正在构建贴图: T_EnergyBeam (AutoDXT)
+[2016.12.05-15.41.47:491][651]LogMaterial: Missing cached shader map for material M_Heal_Sphere, compiling. 
+[2016.12.05-15.41.47:510][651]LogTexture:Display: 正在构建贴图: ThumbnailTexture (DXT1)
+[2016.12.05-15.41.47:542][651]LogStaticMesh: 正在构建静态网格物体SM_Shield...
+[2016.12.05-15.41.47:545][651]LogStaticMesh: Built static mesh [0.00s] /Game/RPGEffects/Meshes/SM_Shield.SM_Shield
+[2016.12.05-15.41.47:549][651]LogMaterial: Missing cached shader map for material M_HealingCross_3D, compiling. 
+[2016.12.05-15.41.47:560][651]LogTexture:Display: 正在构建贴图: ThumbnailTexture (DXT1)
+[2016.12.05-15.41.47:585][651]LogStaticMesh: 正在构建静态网格物体SM_EarthSlam...
+[2016.12.05-15.41.47:586][651]LogStaticMesh: Built static mesh [0.00s] /Game/RPGEffects/Meshes/SM_EarthSlam.SM_EarthSlam
+[2016.12.05-15.41.47:610][651]LogTexture:Display: 正在构建贴图: T_Earth_Slam (AutoDXT)
+[2016.12.05-15.41.47:740][651]LogMaterial: Missing cached shader map for material M_Earth_Slam, compiling. 
+[2016.12.05-15.41.47:753][651]LogStaticMesh: 正在构建静态网格物体SM_HealingCross...
+[2016.12.05-15.41.47:756][651]LogStaticMesh: Built static mesh [0.00s] /Game/RPGEffects/Meshes/SM_HealingCross.SM_HealingCross
+[2016.12.05-15.41.47:761][651]LogTexture:Display: 正在构建贴图: ThumbnailTexture (DXT1)
+[2016.12.05-15.41.47:788][651]LogTexture:Display: 正在构建贴图: T_Player_Select (AutoDXT)
+[2016.12.05-15.41.47:877][651]LogMaterial: Missing cached shader map for material M_Decal, compiling. 
+[2016.12.05-15.41.47:899][651]LogTexture:Display: 正在构建贴图: T_Movement_Arrow (AutoDXT)
+[2016.12.05-15.41.47:992][651]LogTexture:Display: 正在构建贴图: T_Movement_Arrows (AutoDXT)
+[2016.12.05-15.41.48:068][651]LogTexture:Display: 正在构建贴图: ThumbnailTexture (DXT1)
+[2016.12.05-15.41.48:089][651]LogMaterial: Missing cached shader map for material M_HealingCross_2D, compiling. 
+[2016.12.05-15.41.48:104][651]LogTexture:Display: 正在构建贴图: ThumbnailTexture (DXT1)
+[2016.12.05-15.41.48:132][651]LogStaticMesh: 正在构建静态网格物体SM_Cone...
+[2016.12.05-15.41.48:132][651]LogStaticMesh: Built static mesh [0.00s] /Game/RPGEffects/Meshes/SM_Cone.SM_Cone
+[2016.12.05-15.41.48:190][651]LogTexture:Display: 正在构建贴图: T_LightRays (AutoDXT)
+[2016.12.05-15.41.48:850][651]LogMaterial: Missing cached shader map for material M_Impact_Lines, compiling. 
+[2016.12.05-15.41.48:864][651]LogTexture:Display: 正在构建贴图: ThumbnailTexture (DXT1)
+[2016.12.05-15.41.48:897][651]LogMaterial: Missing cached shader map for material M_EnergyBeam, compiling. 
+[2016.12.05-15.41.48:912][651]LogTexture:Display: 正在构建贴图: ThumbnailTexture (DXT1)
+[2016.12.05-15.41.48:944][651]LogTexture:Display: 正在构建贴图: ThumbnailTexture (DXT1)
+[2016.12.05-15.41.48:980][651]LogStaticMesh: 正在构建静态网格物体SM_Cylinder...
+[2016.12.05-15.41.48:980][651]LogStaticMesh: Built static mesh [0.00s] /Game/RPGEffects/Meshes/SM_Cylinder.SM_Cylinder
+[2016.12.05-15.41.49:005][651]LogTexture:Display: 正在构建贴图: T_EnergyLines (AutoDXT)
+[2016.12.05-15.41.49:201][651]LogTexture:Display: 正在构建贴图: T_Noises (AutoDXT)
+[2016.12.05-15.41.49:742][651]LogMaterial: Missing cached shader map for material M_Energy_Sphere, compiling. 
+[2016.12.05-15.41.49:764][651]LogTexture:Display: 正在构建贴图: ThumbnailTexture (DXT1)
+[2016.12.05-15.41.49:804][651]LogStaticMesh: 正在构建静态网格物体SM_Whirlwind...
+[2016.12.05-15.41.49:806][651]LogStaticMesh: Built static mesh [0.00s] /Game/RPGEffects/Meshes/SM_Whirlwind.SM_Whirlwind
+[2016.12.05-15.41.49:817][651]LogTexture:Display: 正在构建贴图: T_Whirlwind_Lines (AutoDXT)
+[2016.12.05-15.41.49:916][651]LogMaterial: Missing cached shader map for material M_Whirlwind, compiling. 
+[2016.12.05-15.41.49:936][651]LogTexture:Display: 正在构建贴图: ThumbnailTexture (DXT1)
+[2016.12.05-15.41.49:970][651]LogTexture:Display: 正在构建贴图: ThumbnailTexture (DXT1)
+[2016.12.05-15.41.50:017][651]LogTexture:Display: 正在构建贴图: ThumbnailTexture (DXT1)
+[2016.12.05-15.41.50:052][651]LogTexture:Display: 正在构建贴图: ThumbnailTexture (DXT1)
+[2016.12.05-15.41.50:083][651]LogStaticMesh: 正在构建静态网格物体SM_Lightning_Bolt...
+[2016.12.05-15.41.50:083][651]LogStaticMesh: Built static mesh [0.00s] /Game/RPGEffects/Meshes/SM_Lightning_Bolt.SM_Lightning_Bolt
+[2016.12.05-15.41.50:096][651]LogTexture:Display: 正在构建贴图: T_Stone_N (BC5)
+[2016.12.05-15.41.50:127][651]LogTexture:Display: 正在构建贴图: T_Stone (AutoDXT)
+[2016.12.05-15.41.50:291][651]LogMaterial: Missing cached shader map for material M_Stones, compiling. 
+[2016.12.05-15.41.50:328][651]LogTexture:Display: 正在构建贴图: T_LightningScrollMask (AutoDXT)
+[2016.12.05-15.41.50:346][651]LogMaterial: Missing cached shader map for material M_LightningScroll, compiling. 
+[2016.12.05-15.41.50:366][651]LogTexture:Display: 正在构建贴图: ThumbnailTexture (DXT1)
+[2016.12.05-15.41.50:426][651]LogTexture:Display: 正在构建贴图: T_Fire_Masks (AutoDXT)
+[2016.12.05-15.41.50:871][651]LogTexture:Display: 正在构建贴图: T_Fire_Base (AutoDXT)
+[2016.12.05-15.41.51:098][651]LogMaterial: Missing cached shader map for material M_Glow, compiling. 
+[2016.12.05-15.41.51:156][651]LogTexture:Display: 正在构建贴图: T_Fire_Tiling (AutoDXT)
+[2016.12.05-15.41.51:677][651]LogTexture:Display: 正在构建贴图: T_FireGradient (AutoDXT)
+[2016.12.05-15.41.51:717][651]LogMaterial: Missing cached shader map for material M_Fire_Base, compiling. 
+[2016.12.05-15.41.51:828][651]LogTexture:Display: 正在构建贴图: T_Fire_Burst (AutoDXT)
+[2016.12.05-15.41.52:298][651]LogMaterial: Missing cached shader map for material M_Fire_Burst, compiling. 
+[2016.12.05-15.41.52:312][651]LogMaterial: Missing cached shader map for material M_Fire_Mesh, compiling. 
+[2016.12.05-15.41.52:334][651]LogTexture:Display: 正在构建贴图: ThumbnailTexture (DXT1)
+[2016.12.05-15.41.52:414][651]LogTexture:Display: 正在构建贴图: T_ThrowingAxe_N (BC5)
+[2016.12.05-15.41.52:524][651]LogTexture:Display: 正在构建贴图: T_ThrowingAxe_AMS (AutoDXT)
+[2016.12.05-15.41.52:772][651]LogTexture:Display: 正在构建贴图: T_ThrowingAxe (AutoDXT)
+[2016.12.05-15.41.53:015][651]LogMaterial: Missing cached shader map for material M_ThrowingAxe, compiling. 
+[2016.12.05-15.41.53:037][651]LogTexture:Display: 正在构建贴图: ThumbnailTexture (DXT1)
+[2016.12.05-15.41.53:055][651]LogStaticMesh: 正在构建静态网格物体SM_Swipe...
+[2016.12.05-15.41.53:055][651]LogStaticMesh: Built static mesh [0.00s] /Game/RPGEffects/Meshes/SM_Swipe.SM_Swipe
+[2016.12.05-15.41.53:075][651]LogTexture:Display: 正在构建贴图: T_Shout (AutoDXT)
+[2016.12.05-15.41.53:197][651]LogMaterial: Missing cached shader map for material M_Swipe, compiling. 
+[2016.12.05-15.41.53:208][651]LogTexture:Display: 正在构建贴图: ThumbnailTexture (DXT1)
+[2016.12.05-15.41.53:236][651]LogStaticMesh: 正在构建静态网格物体SM_Disc...
+[2016.12.05-15.41.53:241][651]LogStaticMesh: Built static mesh [0.01s] /Game/RPGEffects/Meshes/SM_Disc.SM_Disc
+[2016.12.05-15.41.53:246][651]LogTexture:Display: 正在构建贴图: ThumbnailTexture (DXT1)
+[2016.12.05-15.41.53:280][651]LogMaterial: Missing cached shader map for material M_Shout, compiling. 
+[2016.12.05-15.41.53:295][651]LogTexture:Display: 正在构建贴图: ThumbnailTexture (DXT1)
+[2016.12.05-15.41.53:332][651]LogTexture:Display: 正在构建贴图: ThumbnailTexture (DXT1)
+[2016.12.05-15.41.53:367][651]LogStaticMesh: 正在构建静态网格物体SM_EarthSpike...
+[2016.12.05-15.41.53:367][651]LogStaticMesh: Built static mesh [0.00s] /Game/RPGEffects/Meshes/SM_EarthSpike.SM_EarthSpike
+[2016.12.05-15.41.53:377][651]LogTexture:Display: 正在构建贴图: ThumbnailTexture (DXT1)
+[2016.12.05-15.41.53:439][651]LogTexture:Display: 正在构建贴图: ThumbnailTexture (DXT1)
+[2016.12.05-15.41.53:494][651]LogTexture:Display: 正在构建贴图: ThumbnailTexture (DXT1)
+[2016.12.05-15.41.53:533][651]LogStaticMesh: 正在构建静态网格物体SM_CurvedPlane...
+[2016.12.05-15.41.53:533][651]LogStaticMesh: Built static mesh [0.00s] /Game/RPGEffects/Meshes/SM_CurvedPlane.SM_CurvedPlane
+[2016.12.05-15.41.53:536][651]LogTexture:Display: 正在构建贴图: ThumbnailTexture (DXT1)
+[2016.12.05-15.41.53:570][651]LogTexture:Display: 正在构建贴图: ThumbnailTexture (DXT1)
+[2016.12.05-15.41.53:596][651]LogStaticMesh: 正在构建静态网格物体SM_ThrowingAxe...
+[2016.12.05-15.41.53:600][651]LogStaticMesh: Built static mesh [0.00s] /Game/RPGEffects/Meshes/SM_ThrowingAxe.SM_ThrowingAxe
+[2016.12.05-15.41.53:610][651]LogTexture:Display: 正在构建贴图: T_Arrow_N (BC5)
+[2016.12.05-15.41.53:641][651]LogTexture:Display: 正在构建贴图: T_Arrow (AutoDXT)
+[2016.12.05-15.41.53:751][651]LogTexture:Display: 正在构建贴图: T_Arrow_AMS (AutoDXT)
+[2016.12.05-15.41.53:814][651]LogMaterial: Missing cached shader map for material M_Arrow_Feather, compiling. 
+[2016.12.05-15.41.53:921][651]LogTexture:Display: 正在构建贴图: HQ_Lightmap0_2 (AutoDXT)
+[2016.12.05-15.41.54:025][651]LogTexture:Display: 正在构建贴图: HQ_Lightmap0_4 (AutoDXT)
+[2016.12.05-15.41.54:132][651]LogTexture:Display: 正在构建贴图: HQ_Lightmap0_5 (AutoDXT)
+[2016.12.05-15.41.54:234][651]LogTexture:Display: 正在构建贴图: HQ_Lightmap0_6 (AutoDXT)
+[2016.12.05-15.41.54:304][651]LogTexture:Display: 正在构建贴图: HQ_Lightmap0_7 (AutoDXT)
+[2016.12.05-15.41.54:311][651]LogTexture:Display: 正在构建贴图: HQ_Lightmap0_8 (AutoDXT)
+[2016.12.05-15.41.54:321][651]LogTexture:Display: 正在构建贴图: HQ_Lightmap0_9 (AutoDXT)
+[2016.12.05-15.41.54:333][651]LogTexture:Display: 正在构建贴图: HQ_Lightmap1_1 (AutoDXT)
+[2016.12.05-15.41.54:443][651]LogTexture:Display: 正在构建贴图: HQ_Lightmap1_3 (AutoDXT)
+[2016.12.05-15.41.54:545][651]LogTexture:Display: 正在构建贴图: LQ_Lightmap_0_2 (DXT1)
+[2016.12.05-15.41.54:603][651]LogTexture:Display: 正在构建贴图: LQ_Lightmap_0_4 (DXT1)
+[2016.12.05-15.41.54:663][651]LogTexture:Display: 正在构建贴图: LQ_Lightmap_0_5 (DXT1)
+[2016.12.05-15.41.54:720][651]LogTexture:Display: 正在构建贴图: LQ_Lightmap_0_6 (DXT1)
+[2016.12.05-15.41.54:761][651]LogTexture:Display: 正在构建贴图: LQ_Lightmap_0_7 (DXT1)
+[2016.12.05-15.41.54:777][651]LogTexture:Display: 正在构建贴图: LQ_Lightmap_0_8 (DXT1)
+[2016.12.05-15.41.54:785][651]LogTexture:Display: 正在构建贴图: LQ_Lightmap_0_9 (DXT1)
+[2016.12.05-15.41.54:801][651]LogTexture:Display: 正在构建贴图: LQ_Lightmap_1_1 (DXT1)
+[2016.12.05-15.41.54:860][651]LogTexture:Display: 正在构建贴图: LQ_Lightmap_1_3 (DXT1)
+[2016.12.05-15.41.54:912][651]LogTexture:Display: 正在构建贴图: SkyOcclusion0_4 (AutoDXT)
+[2016.12.05-15.41.54:977][651]LogTexture:Display: 正在构建贴图: SkyOcclusion0_5 (AutoDXT)
+[2016.12.05-15.41.55:043][651]LogTexture:Display: 正在构建贴图: SkyOcclusion0_6 (AutoDXT)
+[2016.12.05-15.41.55:086][651]LogTexture:Display: 正在构建贴图: SkyOcclusion0_7 (AutoDXT)
+[2016.12.05-15.41.55:106][651]LogTexture:Display: 正在构建贴图: SkyOcclusion0_8 (AutoDXT)
+[2016.12.05-15.41.55:112][651]LogTexture:Display: 正在构建贴图: SkyOcclusion0_9 (AutoDXT)
+[2016.12.05-15.41.55:120][651]LogTexture:Display: 正在构建贴图: SkyOcclusion1_1 (AutoDXT)
+[2016.12.05-15.41.55:190][651]LogTexture:Display: 正在构建贴图: SkyOcclusion1_2 (AutoDXT)
+[2016.12.05-15.41.55:256][651]LogTexture:Display: 正在构建贴图: SkyOcclusion1_3 (AutoDXT)
+[2016.12.05-15.41.55:334][651]LogTexture:Display: 正在构建贴图: T_Lightning_Zaps (AutoDXT)
+[2016.12.05-15.41.55:430][651]LogMaterial: Missing cached shader map for material M_Lightning_Zaps, compiling. 
+[2016.12.05-15.41.55:448][651]LogTexture:Display: 正在构建贴图: T_Arrow_Trail (AutoDXT)
+[2016.12.05-15.41.55:534][651]LogMaterial: Missing cached shader map for material M_Arrow_Trail, compiling. 
+[2016.12.05-15.41.55:546][651]LogMaterial: Missing cached shader map for material M_Arrow_ImpactShadow, compiling. 
+[2016.12.05-15.41.55:572][651]LogTexture:Display: 正在构建贴图: T_Caltrops_FX (AutoDXT)
+[2016.12.05-15.41.55:632][651]LogMaterial: Missing cached shader map for material M_Caltrops_Spike, compiling. 
+[2016.12.05-15.41.55:646][651]LogTexture:Display: 正在构建贴图: T_Caltrops (AutoDXT)
+[2016.12.05-15.41.55:704][651]LogMaterial: Missing cached shader map for material M_Caltrops, compiling. 
+[2016.12.05-15.41.55:725][651]LogMaterial: Missing cached shader map for material M_Portal_Edge, compiling. 
+[2016.12.05-15.41.55:746][651]LogTexture:Display: 正在构建贴图: T_Targeting_Arc (AutoDXT)
+[2016.12.05-15.41.55:773][651]LogMaterial: Missing cached shader map for material M_Targeting_Arc, compiling. 
+[2016.12.05-15.41.55:790][651]LogTexture:Display: 正在构建贴图: T_Targeting_Arrow (AutoDXT)
+[2016.12.05-15.41.55:859][651]LogMaterial: Missing cached shader map for material M_Targeting_Arrow, compiling. 
+[2016.12.05-15.41.55:877][651]LogTexture:Display: 正在构建贴图: T_Targeting_Circle (AutoDXT)
+[2016.12.05-15.41.55:908][651]LogMaterial: Missing cached shader map for material M_Targeting_Circle, compiling. 
+[2016.12.05-15.41.55:923][651]LogTexture:Display: 正在构建贴图: ShadowMapTexture2D_2 (G8)
+[2016.12.05-15.41.56:013][651]LogTexture:Display: 正在构建贴图: ShadowMapTexture2D_3 (G8)
+[2016.12.05-15.41.56:094][651]LogTexture:Display: 正在构建贴图: ShadowMapTexture2D_4 (G8)
+[2016.12.05-15.41.56:165][651]LogTexture:Display: 正在构建贴图: ShadowMapTexture2D_5 (G8)
+[2016.12.05-15.41.56:166][651]LogTexture:Display: 正在构建贴图: ShadowMapTexture2D_8 (G8)
+[2016.12.05-15.41.56:172][651]LogStaticMesh: 正在构建静态网格物体SM_ReferenceMan...
+[2016.12.05-15.41.56:204][651]LogStaticMesh: Built static mesh [0.03s] /Game/RPGEffects/Meshes/SM_ReferenceMan.SM_ReferenceMan
+[2016.12.05-15.41.56:222][651]LogTexture:Display: 正在构建贴图: ThumbnailTexture (DXT1)
+[2016.12.05-15.41.56:243][651]LogTexture:Display: 正在构建贴图: ThumbnailTexture (DXT1)
+[2016.12.05-15.41.56:265][651]LogTexture:Display: 正在构建贴图: ThumbnailTexture (DXT1)
+[2016.12.05-15.41.56:290][651]LogTexture:Display: 正在构建贴图: ThumbnailTexture (DXT1)
+[2016.12.05-15.41.56:340][651]LogMaterial: Missing cached shader map for material M_Colour, compiling. 
+[2016.12.05-15.41.56:370][651]LogTexture:Display: 正在构建贴图: ThumbnailTexture (DXT1)
+[2016.12.05-15.41.56:391][651]LogStaticMesh: 正在构建静态网格物体SM_Caltops...
+[2016.12.05-15.41.56:395][651]LogStaticMesh: Built static mesh [0.00s] /Game/RPGEffects/Meshes/SM_Caltops.SM_Caltops
+[2016.12.05-15.41.56:399][651]LogTexture:Display: 正在构建贴图: ThumbnailTexture (DXT1)
+[2016.12.05-15.41.56:421][651]LogTexture:Display: 正在构建贴图: ThumbnailTexture (DXT1)
+[2016.12.05-15.41.56:442][651]LogStaticMesh: 正在构建静态网格物体SM_Stone...
+[2016.12.05-15.41.56:447][651]LogStaticMesh: Built static mesh [0.00s] /Game/RPGEffects/Meshes/SM_Stone.SM_Stone
+[2016.12.05-15.41.56:448][651]LogStaticMesh: 正在构建静态网格物体SM_Arrow_PivotMiddle...
+[2016.12.05-15.41.56:455][651]LogStaticMesh: Built static mesh [0.01s] /Game/RPGEffects/Meshes/SM_Arrow_PivotMiddle.SM_Arrow_PivotMiddle
+[2016.12.05-15.41.56:459][651]LogMaterial: Missing cached shader map for material M_Arrow, compiling. 
+[2016.12.05-15.41.56:532][651]LogStaticMesh: 正在构建静态网格物体SM_Arrow_PivotEnd...
+[2016.12.05-15.41.56:538][651]LogStaticMesh: Built static mesh [0.01s] /Game/RPGEffects/Meshes/SM_Arrow_PivotEnd.SM_Arrow_PivotEnd
+[2016.12.05-15.41.56:545][651]LogTexture:Display: 正在构建贴图: ThumbnailTexture (DXT1)
+[2016.12.05-15.41.56:579][651]LogStaticMesh: 正在构建静态网格物体SM_Arrow_Trail...
+[2016.12.05-15.41.56:581][651]LogStaticMesh: Built static mesh [0.00s] /Game/RPGEffects/Meshes/SM_Arrow_Trail.SM_Arrow_Trail
+[2016.12.05-15.41.56:586][651]LogTexture:Display: 正在构建贴图: ThumbnailTexture (DXT1)
+[2016.12.05-15.41.56:613][651]LogTexture:Display: 正在构建贴图: ThumbnailTexture (DXT1)
+[2016.12.05-15.41.56:635][651]LogStaticMesh: 正在构建静态网格物体SM_Lightning_Shield...
+[2016.12.05-15.41.56:636][651]LogStaticMesh: Built static mesh [0.00s] /Game/RPGEffects/Meshes/SM_Lightning_Shield.SM_Lightning_Shield
+[2016.12.05-15.41.56:637][651]LogStaticMesh: 正在构建静态网格物体SM_Arrow_PivotStart...
+[2016.12.05-15.41.56:645][651]LogStaticMesh: Built static mesh [0.01s] /Game/RPGEffects/Meshes/SM_Arrow_PivotStart.SM_Arrow_PivotStart
+[2016.12.05-15.41.56:648][651]LogTexture:Display: 正在构建贴图: ThumbnailTexture (DXT1)
+[2016.12.05-15.41.56:665][651]LogStaticMesh: 正在构建静态网格物体SM_Sphere...
+[2016.12.05-15.41.56:675][651]LogStaticMesh: Built static mesh [0.01s] /Game/RPGEffects/Meshes/SM_Sphere.SM_Sphere
+[2016.12.05-15.41.56:682][651]LogTexture:Display: 正在构建贴图: ThumbnailTexture (DXT1)
+[2016.12.05-15.41.56:714][651]LogTexture:Display: 正在构建贴图: ThumbnailTexture (DXT1)
+[2016.12.05-15.41.56:739][651]LogTexture:Display: 正在构建贴图: ThumbnailTexture (DXT1)
+[2016.12.05-15.41.56:761][651]LogTexture:Display: 正在构建贴图: ThumbnailTexture (DXT1)
+[2016.12.05-15.41.56:819][651]LogTexture:Display: 正在构建贴图: T_Star_Field (AutoDXT)
+[2016.12.05-15.41.57:335][651]LogMaterial: Missing cached shader map for material M_Portal, compiling. 
+[2016.12.05-15.41.57:349][651]LogStaticMesh: 正在构建静态网格物体SM_Portal...
+[2016.12.05-15.41.57:350][651]LogStaticMesh: Built static mesh [0.00s] /Game/RPGEffects/Meshes/SM_Portal.SM_Portal
+[2016.12.05-15.41.57:356][651]LogTexture:Display: 正在构建贴图: ThumbnailTexture (DXT1)
+[2016.12.05-15.41.57:398][651]LogStaticMesh: 正在构建静态网格物体SM_CurvedRing...
+[2016.12.05-15.41.57:400][651]LogStaticMesh: Built static mesh [0.00s] /Game/RPGEffects/Meshes/SM_CurvedRing.SM_CurvedRing
+[2016.12.05-15.41.57:405][651]LogTexture:Display: 正在构建贴图: ThumbnailTexture (DXT1)
+[2016.12.05-15.41.57:441][651]LogTexture:Display: 正在构建贴图: ThumbnailTexture (DXT1)
+[2016.12.05-15.41.57:470][651]LogStaticMesh: 正在构建静态网格物体SM_Excalimation...
+[2016.12.05-15.41.57:471][651]LogStaticMesh: Built static mesh [0.00s] /Game/RPGEffects/Meshes/SM_Excalimation.SM_Excalimation
+[2016.12.05-15.41.57:475][651]LogTexture:Display: 正在构建贴图: ThumbnailTexture (DXT1)
+[2016.12.05-15.41.57:505][651]LogTexture:Display: 正在构建贴图: ThumbnailTexture (DXT1)
+[2016.12.05-15.41.57:551][651]LogTexture:Display: 正在构建贴图: ThumbnailTexture (DXT1)
+[2016.12.05-15.41.57:580][651]LogTexture:Display: 正在构建贴图: ThumbnailTexture (DXT1)
+[2016.12.05-15.41.57:627][651]LogAIModule: Creating AISystem for world Overview
+[2016.12.05-15.41.57:679][651]Cmd: MAP LOAD FILE="E:/_Unreal4_Project/RPG_Effects_Pack/Content/rpgeffects/Maps/Overview.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2016.12.05-15.41.57:679][651]LightingResults: New page: 光照构建
+[2016.12.05-15.41.57:679][651]LoadErrors: New page: 正在加载地图： Overview.umap
+[2016.12.05-15.41.57:680][651]MapCheck: New page: 地图检测
+[2016.12.05-15.41.57:680][651]LightingResults: New page: 光照构建
+[2016.12.05-15.41.57:743][651]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2016.12.05-15.41.57:763][651]Cmd: MAP CHECKDEP NOCLEARLOG
+[2016.12.05-15.41.57:820][651]MapCheck: 信息 地图检测完成：0个错误，0 个警告，用时56.913毫秒完成。
+[2016.12.05-15.41.57:820][651]LogFileHelpers: Loading map 'Overview' took 0.142
+[2016.12.05-15.47.17:470][992]LogWindowsTextInputMethodSystem:Display: IME system now activated using TSF (QQ拼音Win8版).
+[2016.12.05-15.47.17:482][992]LogWindowsTextInputMethodSystem:Display: IME system now activated using TSF (QQ拼音Win8版).
+[2016.12.05-15.47.17:684][993]Cmd: QUIT_EDITOR
+[2016.12.05-15.47.17:807][993]LogExit: Preparing to exit.
+[2016.12.05-15.47.18:452][993]LogExit: Editor shut down
+[2016.12.05-15.47.18:452][993]LogExit: Transaction tracking system shut down
+[2016.12.05-15.47.18:719][993]LogObj: Freed 0b from 0 cluster array pools.
+[2016.12.05-15.47.18:720][993]LogExit: Object subsystem successfully closed.
+[2016.12.05-15.47.18:760][993]LogD3D11RHI: Shutdown
+[2016.12.05-15.47.18:760][993]LogD3D11RHI: CleanupD3DDevice
+[2016.12.05-15.47.18:818][993]LogD3D11RHI: ~FD3D11DynamicRHI
+[2016.12.05-15.47.18:829][993]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (210)
+[2016.12.05-15.47.18:829][993]LogModuleManager: Shutting down and abandoning module CrashTracker (209)
+[2016.12.05-15.47.18:829][993]LogModuleManager: Shutting down and abandoning module SceneOutliner (208)
+[2016.12.05-15.47.18:829][993]LogModuleManager: Shutting down and abandoning module WidgetCarousel (207)
+[2016.12.05-15.47.18:829][993]LogModuleManager: Shutting down and abandoning module AddContentDialog (206)
+[2016.12.05-15.47.18:829][993]LogModuleManager: Shutting down and abandoning module GameplayTags (205)
+[2016.12.05-15.47.18:829][993]LogModuleManager: Shutting down and abandoning module EditorWidgets (204)
+[2016.12.05-15.47.18:829][993]LogModuleManager: Shutting down and abandoning module CollectionManager (203)
+[2016.12.05-15.47.18:830][993]LogModuleManager: Shutting down and abandoning module StatsViewer (202)
+[2016.12.05-15.47.18:830][993]LogModuleManager: Shutting down and abandoning module FoliageEdit (201)
+[2016.12.05-15.47.18:830][993]LogModuleManager: Shutting down and abandoning module LandscapeEditor (200)
+[2016.12.05-15.47.18:830][993]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (199)
+[2016.12.05-15.47.18:830][993]LogModuleManager: Shutting down and abandoning module ActorPickerMode (198)
+[2016.12.05-15.47.18:830][993]LogModuleManager: Shutting down and abandoning module GeometryMode (197)
+[2016.12.05-15.47.18:830][993]LogModuleManager: Shutting down and abandoning module TextureAlignMode (196)
+[2016.12.05-15.47.18:830][993]LogModuleManager: Shutting down and abandoning module BspMode (195)
+[2016.12.05-15.47.18:830][993]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (194)
+[2016.12.05-15.47.18:830][993]LogModuleManager: Shutting down and abandoning module SequenceRecorder (193)
+[2016.12.05-15.47.18:830][993]LogModuleManager: Shutting down and abandoning module AutomationWorker (192)
+[2016.12.05-15.47.18:830][993]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (191)
+[2016.12.05-15.47.18:830][993]LogModuleManager: Shutting down and abandoning module PlacementMode (190)
+[2016.12.05-15.47.18:830][993]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (189)
+[2016.12.05-15.47.18:830][993]LogModuleManager: Shutting down and abandoning module CharacterAI (188)
+[2016.12.05-15.47.18:830][993]LogModuleManager: Shutting down and abandoning module SmartSnapping (187)
+[2016.12.05-15.47.18:830][993]LogModuleManager: Shutting down and abandoning module SessionServices (186)
+[2016.12.05-15.47.18:830][993]LogModuleManager: Shutting down and abandoning module ViewportSnapping (185)
+[2016.12.05-15.47.18:830][993]LogModuleManager: Shutting down and abandoning module LogVisualizer (184)
+[2016.12.05-15.47.18:830][993]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (183)
+[2016.12.05-15.47.18:830][993]LogModuleManager: Shutting down and abandoning module IntroTutorials (182)
+[2016.12.05-15.47.18:830][993]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (181)
+[2016.12.05-15.47.18:830][993]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (180)
+[2016.12.05-15.47.18:830][993]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (179)
+[2016.12.05-15.47.18:830][993]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (178)
+[2016.12.05-15.47.19:041][993]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (177)
+[2016.12.05-15.47.19:041][993]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (176)
+[2016.12.05-15.47.19:042][993]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (175)
+[2016.12.05-15.47.19:042][993]LogModuleManager: Shutting down and abandoning module MergeActors (174)
+[2016.12.05-15.47.19:042][993]LogModuleManager: Shutting down and abandoning module SizeMap (173)
+[2016.12.05-15.47.19:042][993]LogModuleManager: Shutting down and abandoning module TreeMap (172)
+[2016.12.05-15.47.19:042][993]LogModuleManager: Shutting down and abandoning module ReferenceViewer (171)
+[2016.12.05-15.47.19:042][993]LogModuleManager: Shutting down and abandoning module LocalizationService (170)
+[2016.12.05-15.47.19:042][993]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (169)
+[2016.12.05-15.47.19:042][993]LogModuleManager: Shutting down and abandoning module HardwareTargeting (168)
+[2016.12.05-15.47.19:042][993]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (167)
+[2016.12.05-15.47.19:042][993]LogModuleManager: Shutting down and abandoning module UndoHistory (166)
+[2016.12.05-15.47.19:042][993]LogModuleManager: Shutting down and abandoning module UserFeedback (165)
+[2016.12.05-15.47.19:042][993]LogModuleManager: Shutting down and abandoning module XmlParser (164)
+[2016.12.05-15.47.19:042][993]LogModuleManager: Shutting down and abandoning module Blutility (163)
+[2016.12.05-15.47.19:042][993]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (162)
+[2016.12.05-15.47.19:042][993]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (161)
+[2016.12.05-15.47.19:043][993]LogModuleManager: Shutting down and abandoning module InputBindingEditor (160)
+[2016.12.05-15.47.19:043][993]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (159)
+[2016.12.05-15.47.19:043][993]LogModuleManager: Shutting down and abandoning module SettingsEditor (158)
+[2016.12.05-15.47.19:043][993]LogModuleManager: Shutting down and abandoning module ProjectLauncher (157)
+[2016.12.05-15.47.19:043][993]LogModuleManager: Shutting down and abandoning module SessionFrontend (156)
+[2016.12.05-15.47.19:043][993]LogModuleManager: Shutting down and abandoning module ProfilerClient (155)
+[2016.12.05-15.47.19:043][993]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (154)
+[2016.12.05-15.47.19:043][993]LogModuleManager: Shutting down and abandoning module DeviceManager (153)
+[2016.12.05-15.47.19:086][993]LogModuleManager: Shutting down and abandoning module AutomationController (152)
+[2016.12.05-15.47.19:086][993]LogModuleManager: Shutting down and abandoning module AutomationWindow (151)
+[2016.12.05-15.47.19:086][993]LogModuleManager: Shutting down and abandoning module Layers (150)
+[2016.12.05-15.47.19:086][993]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (149)
+[2016.12.05-15.47.19:086][993]LogModuleManager: Shutting down and abandoning module DetailCustomizations (148)
+[2016.12.05-15.47.19:086][993]LogModuleManager: Shutting down and abandoning module PackagesDialog (147)
+[2016.12.05-15.47.19:086][993]LogModuleManager: Shutting down and abandoning module Persona (146)
+[2016.12.05-15.47.19:086][993]LogModuleManager: Shutting down and abandoning module Kismet (145)
+[2016.12.05-15.47.19:086][993]LogModuleManager: Shutting down and abandoning module GraphEditor (144)
+[2016.12.05-15.47.19:086][993]LogModuleManager: Shutting down and abandoning module ClassViewer (143)
+[2016.12.05-15.47.19:086][993]LogModuleManager: Shutting down and abandoning module Toolbox (142)
+[2016.12.05-15.47.19:086][993]LogModuleManager: Shutting down and abandoning module ModuleUI (141)
+[2016.12.05-15.47.19:086][993]LogModuleManager: Shutting down and abandoning module MovieSceneTools (140)
+[2016.12.05-15.47.19:086][993]LogModuleManager: Shutting down and abandoning module OutputLog (139)
+[2016.12.05-15.47.19:086][993]LogModuleManager: Shutting down and abandoning module GammaUI (138)
+[2016.12.05-15.47.19:086][993]LogModuleManager: Shutting down and abandoning module Documentation (137)
+[2016.12.05-15.47.19:087][993]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (136)
+[2016.12.05-15.47.19:087][993]LogModuleManager: Shutting down and abandoning module PortalServices (135)
+[2016.12.05-15.47.19:087][993]LogModuleManager: Shutting down and abandoning module PortalRpc (134)
+[2016.12.05-15.47.19:087][993]LogModuleManager: Shutting down and abandoning module MessagingRpc (133)
+[2016.12.05-15.47.19:087][993]LogModuleManager: Shutting down and abandoning module GameplayDebugger (132)
+[2016.12.05-15.47.19:087][993]LogModuleManager: Shutting down and abandoning module AITestSuite (131)
+[2016.12.05-15.47.19:087][993]LogModuleManager: Shutting down and abandoning module AIModule (130)
+[2016.12.05-15.47.19:087][993]LogModuleManager: Shutting down and abandoning module ProfilerService (129)
+[2016.12.05-15.47.19:295][993]LogModuleManager: Shutting down and abandoning module TaskGraph (128)
+[2016.12.05-15.47.19:295][993]LogModuleManager: Shutting down and abandoning module SlateRemote (127)
+[2016.12.05-15.47.19:295][993]LogModuleManager: Shutting down and abandoning module SteamVRController (126)
+[2016.12.05-15.47.19:295][993]LogModuleManager: Shutting down and abandoning module SteamVR (125)
+[2016.12.05-15.47.19:296][993]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (124)
+[2016.12.05-15.47.19:296][993]LogModuleManager: Shutting down and abandoning module OculusLibrary (123)
+[2016.12.05-15.47.19:296][993]LogModuleManager: Shutting down and abandoning module OculusInput (122)
+[2016.12.05-15.47.19:296][993]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (121)
+[2016.12.05-15.47.19:296][993]LogModuleManager: Shutting down and abandoning module CableComponent (120)
+[2016.12.05-15.47.19:296][993]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (119)
+[2016.12.05-15.47.19:296][993]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (118)
+[2016.12.05-15.47.19:296][993]LogModuleManager: Shutting down and abandoning module HTML5Networking (117)
+[2016.12.05-15.47.19:296][993]LogModuleManager: Shutting down and abandoning module SuperSearch (116)
+[2016.12.05-15.47.19:296][993]LogModuleManager: Shutting down and abandoning module SuperSearchEditor (115)
+[2016.12.05-15.47.19:296][993]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (114)
+[2016.12.05-15.47.19:296][993]LogModuleManager: Shutting down and abandoning module PluginBrowser (113)
+[2016.12.05-15.47.19:296][993]LogModuleManager: Shutting down and abandoning module EpicSurvey (112)
+[2016.12.05-15.47.19:296][993]LogModuleManager: Shutting down and abandoning module DesktopPlatform (111)
+[2016.12.05-15.47.19:296][993]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (110)
+[2016.12.05-15.47.19:296][993]LogModuleManager: Shutting down and abandoning module UObjectPlugin (109)
+[2016.12.05-15.47.19:296][993]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (108)
+[2016.12.05-15.47.19:296][993]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (107)
+[2016.12.05-15.47.19:296][993]LogModuleManager: Shutting down and abandoning module SourceControl (106)
+[2016.12.05-15.47.19:296][993]LogModuleManager: Shutting down and abandoning module GitSourceControl (105)
+[2016.12.05-15.47.19:296][993]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (104)
+[2016.12.05-15.47.19:296][993]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (103)
+[2016.12.05-15.47.19:296][993]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (102)
+[2016.12.05-15.47.19:296][993]LogModuleManager: Shutting down and abandoning module MeshPaint (101)
+[2016.12.05-15.47.19:296][993]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (100)
+[2016.12.05-15.47.19:297][993]LogModuleManager: Shutting down and abandoning module HotReload (99)
+[2016.12.05-15.47.19:298][993]LogModuleManager: Shutting down and abandoning module MainFrame (98)
+[2016.12.05-15.47.19:298][993]LogModuleManager: Shutting down and abandoning module LevelEditor (97)
+[2016.12.05-15.47.19:299][993]LogModuleManager: Shutting down and abandoning module ContentBrowser (96)
+[2016.12.05-15.47.19:301][993]LogModuleManager: Shutting down and abandoning module Paper2DEditor (95)
+[2016.12.05-15.47.19:301][993]LogModuleManager: Shutting down and abandoning module UdpMessaging (94)
+[2016.12.05-15.47.19:401][993]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (93)
+[2016.12.05-15.47.19:401][993]LogModuleManager: Shutting down and abandoning module Paper2D (92)
+[2016.12.05-15.47.19:401][993]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (91)
+[2016.12.05-15.47.19:401][993]LogModuleManager: Shutting down and abandoning module Media (90)
+[2016.12.05-15.47.19:401][993]LogModuleManager: Shutting down and abandoning module WmfMedia (89)
+[2016.12.05-15.47.19:401][993]LogModuleManager: Shutting down and abandoning module MediaAssets (88)
+[2016.12.05-15.47.19:401][993]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (87)
+[2016.12.05-15.47.19:401][993]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (86)
+[2016.12.05-15.47.19:401][993]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (85)
+[2016.12.05-15.47.19:401][993]LogModuleManager: Shutting down and abandoning module VREditor (84)
+[2016.12.05-15.47.19:401][993]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (83)
+[2016.12.05-15.47.19:401][993]LogModuleManager: Shutting down and abandoning module PropertyEditor (82)
+[2016.12.05-15.47.19:401][993]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (81)
+[2016.12.05-15.47.19:401][993]LogModuleManager: Shutting down and abandoning module FunctionalTesting (80)
+[2016.12.05-15.47.19:401][993]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (79)
+[2016.12.05-15.47.19:401][993]LogModuleManager: Shutting down and abandoning module Sequencer (78)
+[2016.12.05-15.47.19:401][993]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (77)
+[2016.12.05-15.47.19:401][993]LogModuleManager: Shutting down and abandoning module MessageLog (76)
+[2016.12.05-15.47.19:401][993]LogModuleManager: Shutting down and abandoning module AssetTools (75)
+[2016.12.05-15.47.19:402][993]LogModuleManager: Shutting down and abandoning module UMGEditor (74)
+[2016.12.05-15.47.19:402][993]LogModuleManager: Shutting down and abandoning module UMG (73)
+[2016.12.05-15.47.19:402][993]LogModuleManager: Shutting down and abandoning module SlateReflector (72)
+[2016.12.05-15.47.19:402][993]LogModuleManager: Shutting down and abandoning module Slate (71)
+[2016.12.05-15.47.19:402][993]LogModuleManager: Shutting down and abandoning module EditorStyle (70)
+[2016.12.05-15.47.19:407][993]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (69)
+[2016.12.05-15.47.19:407][993]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (68)
+[2016.12.05-15.47.19:408][993]LogModuleManager: Shutting down and abandoning module XAudio2 (67)
+[2016.12.05-15.47.19:408][993]LogModuleManager: Shutting down and abandoning module Networking (65)
+[2016.12.05-15.47.19:408][993]LogModuleManager: Shutting down and abandoning module Core (64)
+[2016.12.05-15.47.19:408][993]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (63)
+[2016.12.05-15.47.19:409][993]LogModuleManager: Shutting down and abandoning module AssetRegistry (62)
+[2016.12.05-15.47.19:592][993]LogModuleManager: Shutting down and abandoning module KismetCompiler (61)
+[2016.12.05-15.47.19:592][993]LogModuleManager: Shutting down and abandoning module PhysXFormats (60)
+[2016.12.05-15.47.19:592][993]LogModuleManager: Shutting down and abandoning module MeshUtilities (59)
+[2016.12.05-15.47.19:592][993]LogModuleManager: Shutting down and abandoning module DerivedDataCache (58)
+[2016.12.05-15.47.19:599][993]LogDerivedDataCache: Shutdown
+[2016.12.05-15.47.19:599][993]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (57)
+[2016.12.05-15.47.19:599][993]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (56)
+[2016.12.05-15.47.19:599][993]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (55)
+[2016.12.05-15.47.19:599][993]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (54)
+[2016.12.05-15.47.19:599][993]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (53)
+[2016.12.05-15.47.19:599][993]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (52)
+[2016.12.05-15.47.19:599][993]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (51)
+[2016.12.05-15.47.19:599][993]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (50)
+[2016.12.05-15.47.19:600][993]LogModuleManager: Shutting down and abandoning module ImageWrapper (49)
+[2016.12.05-15.47.19:600][993]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (48)
+[2016.12.05-15.47.19:600][993]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (47)
+[2016.12.05-15.47.19:600][993]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (46)
+[2016.12.05-15.47.19:600][993]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (45)
+[2016.12.05-15.47.19:600][993]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (44)
+[2016.12.05-15.47.19:600][993]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (43)
+[2016.12.05-15.47.19:600][993]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (42)
+[2016.12.05-15.47.19:600][993]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (41)
+[2016.12.05-15.47.19:600][993]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (40)
+[2016.12.05-15.47.19:600][993]LogModuleManager: Shutting down and abandoning module Messaging (39)
+[2016.12.05-15.47.19:600][993]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (38)
+[2016.12.05-15.47.19:600][993]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (37)
+[2016.12.05-15.47.19:600][993]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (36)
+[2016.12.05-15.47.19:600][993]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (35)
+[2016.12.05-15.47.19:600][993]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (34)
+[2016.12.05-15.47.19:600][993]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (33)
+[2016.12.05-15.47.19:600][993]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (32)
+[2016.12.05-15.47.19:600][993]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (31)
+[2016.12.05-15.47.19:600][993]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (30)
+[2016.12.05-15.47.19:600][993]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (29)
+[2016.12.05-15.47.19:600][993]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (28)
+[2016.12.05-15.47.19:600][993]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (27)
+[2016.12.05-15.47.19:600][993]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (26)
+[2016.12.05-15.47.19:600][993]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (25)
+[2016.12.05-15.47.19:600][993]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (24)
+[2016.12.05-15.47.19:600][993]LogModuleManager: Shutting down and abandoning module TargetPlatform (23)
+[2016.12.05-15.47.19:600][993]LogModuleManager: Shutting down and abandoning module InputCore (22)
+[2016.12.05-15.47.19:600][993]LogModuleManager: Shutting down and abandoning module Settings (21)
+[2016.12.05-15.47.19:600][993]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (19)
+[2016.12.05-15.47.19:600][993]LogModuleManager: Shutting down and abandoning module HTTP (18)
+[2016.12.05-15.47.19:601][993]LogModuleManager: Shutting down and abandoning module XMPP (17)
+[2016.12.05-15.47.19:601][993]LogModuleManager: Shutting down and abandoning module OculusRift (16)
+[2016.12.05-15.47.19:601][993]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (15)
+[2016.12.05-15.47.19:601][993]LogModuleManager: Shutting down and abandoning module TextureCompressor (14)
+[2016.12.05-15.47.19:601][993]LogModuleManager: Shutting down and abandoning module ShaderCore (13)
+[2016.12.05-15.47.19:601][993]LogModuleManager: Shutting down and abandoning module Landscape (12)
+[2016.12.05-15.47.19:601][993]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (11)
+[2016.12.05-15.47.19:604][993]LogModuleManager: Shutting down and abandoning module OpenGLDrv (10)
+[2016.12.05-15.47.19:604][993]LogModuleManager: Shutting down and abandoning module D3D11RHI (9)
+[2016.12.05-15.47.19:604][993]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (8)
+[2016.12.05-15.47.19:604][993]LogModuleManager: Shutting down and abandoning module Renderer (7)
+[2016.12.05-15.47.19:604][993]LogModuleManager: Shutting down and abandoning module Engine (6)
+[2016.12.05-15.47.19:604][993]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+[2016.12.05-15.47.19:604][993]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+[2016.12.05-15.47.19:604][993]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+[2016.12.05-15.47.19:604][993]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+[2016.12.05-15.47.19:604][993]LogModuleManager: Shutting down and abandoning module PakFile (1)
+[2016.12.05-15.47.19:606][993]LogExit: Exiting.
+[2016.12.05-15.47.19:625][993]Log file closed, 12/05/16 23:47:19
