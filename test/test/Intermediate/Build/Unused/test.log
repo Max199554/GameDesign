@@ -1,0 +1,37 @@
+﻿  Performing full C++ include scan (building a new target)
+  Creating makefile for testEditor (no existing makefile)
+  Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Parsing headers for testEditor
+    Running UnrealHeaderTool "E:\GameDesign\test\test\test.uproject" "E:\GameDesign\test\test\Intermediate\Build\Win64\testEditor\Development\testEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for testEditor in 11.1202675 seconds
+  Building 18 actions with 4 processes...
+    [1/18] PCLaunch.rc
+    [2/18] SharedPCH.Engine.cpp
+    [3/18] MyPawn.gen.cpp
+    [4/18] MyStealthController.gen.cpp
+    [5/18] PlayerBehaviour.gen.cpp
+    [6/18] MainPlayer.gen.cpp
+    [7/18] PlayerBehaviour.cpp
+    [8/18] EnemyBehaviour.gen.cpp
+    [9/18] MyStealthController.cpp
+    [10/18] EnemyCharacter.gen.cpp
+E:\GameDesign\test\test\Source\test/EnemyCharacter.h(35): warning C4263: 'void AEnemyCharacter::TakeDamage(float)': member function does not override any base class virtual member function
+E:\GameDesign\test\test\Source\test/EnemyCharacter.h(39): warning C4264: 'float APawn::TakeDamage(float,const FDamageEvent &,AController *,AActor *)': no override available for virtual member function from base 'APawn'; function is hidden
+    E:\UE_4.21\Engine\Source\Runtime\Engine\Classes\GameFramework/Pawn.h(242): note: see declaration of 'APawn::TakeDamage'
+    E:\UE_4.21\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AnimInstance.generated.h(23): note: see declaration of 'APawn'
+    [11/18] MyPawn.cpp
+    [12/18] EnemyBehaviour.cpp
+    [13/18] EnemyCharacter.cpp
+e:\gamedesign\test\test\source\test\EnemyCharacter.h(35): warning C4263: 'void AEnemyCharacter::TakeDamage(float)': member function does not override any base class virtual member function
+e:\gamedesign\test\test\source\test\EnemyCharacter.h(39): warning C4264: 'float APawn::TakeDamage(float,const FDamageEvent &,AController *,AActor *)': no override available for virtual member function from base 'APawn'; function is hidden
+    E:\UE_4.21\Engine\Source\Runtime\Engine\Classes\GameFramework/Pawn.h(242): note: see declaration of 'APawn::TakeDamage'
+    E:\UE_4.21\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AnimInstance.generated.h(23): note: see declaration of 'APawn'
+    [14/18] test.cpp
+    [15/18] MainPlayer.cpp
+    [16/18] test.init.gen.cpp
+    [17/18] UE4Editor-test.lib
+       Creating library E:\GameDesign\test\test\Intermediate\Build\Win64\UE4Editor\Development\test\UE4Editor-test.lib and object E:\GameDesign\test\test\Intermediate\Build\Win64\UE4Editor\Development\test\UE4Editor-test.exp
+    [18/18] UE4Editor-test.dll
+       Creating library E:\GameDesign\test\test\Intermediate\Build\Win64\UE4Editor\Development\test\UE4Editor-test.suppressed.lib and object E:\GameDesign\test\test\Intermediate\Build\Win64\UE4Editor\Development\test\UE4Editor-test.suppressed.exp
+  Deploying testEditor Win64 Development...
+  Total build time: 71.14 seconds (Parallel executor: 39.36 seconds)
