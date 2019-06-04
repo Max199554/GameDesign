@@ -29,7 +29,7 @@ public:
 	UPROPERTY(EditAnywhere, Category = "stealth")
 		bool isCrouch;
 
-	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Status")
+	UPROPERTY(EditAnywhere, Category = "Status")
 		int health;
 
 	UFUNCTION(BlueprintCallable, Category = "stealth")
