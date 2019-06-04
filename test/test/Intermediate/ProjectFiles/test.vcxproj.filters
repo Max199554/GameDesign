@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\test.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{089DD83C-63E2-4C3F-9EE4-322E53787741}</UniqueIdentifier>
+      <UniqueIdentifier>{D3A8066B-5EE0-4893-9200-790F119B62DE}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\test.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{266E1B57-7559-4B08-94B8-5E287EA326B8}</UniqueIdentifier>
+      <UniqueIdentifier>{E366BF42-720F-4001-B579-C40DAC23574D}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -30,7 +30,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\test">
-      <UniqueIdentifier>{4BC8AEF3-4E71-4277-8328-8BFC9176FA52}</UniqueIdentifier>
+      <UniqueIdentifier>{D6B239EC-F773-4CD7-BC4C-2836FC1EBE2F}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\test\EnemyBehaviour.cpp">
       <Filter>Source\test</Filter>
@@ -42,12 +42,6 @@
       <Filter>Source\test</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\test\EnemyCharacter.h">
-      <Filter>Source\test</Filter>
-    </ClInclude>
-    <ClCompile Include="..\..\Source\test\MainPlayer.cpp">
-      <Filter>Source\test</Filter>
-    </ClCompile>
-    <ClInclude Include="..\..\Source\test\MainPlayer.h">
       <Filter>Source\test</Filter>
     </ClInclude>
     <ClCompile Include="..\..\Source\test\MyPawn.cpp">
@@ -77,5 +71,15 @@
     <ClInclude Include="..\..\Source\test\test.h">
       <Filter>Source\test</Filter>
     </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\test\MainPlayer.h">
+      <Filter>Source\test</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\test\MainPlayer.cpp">
+      <Filter>Source\test</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

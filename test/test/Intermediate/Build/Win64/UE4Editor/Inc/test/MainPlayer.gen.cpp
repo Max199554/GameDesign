@@ -171,7 +171,7 @@ void EmptyLinkFunctionForGeneratedCodeMainPlayer() {}
 		{ "ModuleRelativePath", "MainPlayer.h" },
 	};
 #endif
-	const UE4CodeGen_Private::FUnsizedIntPropertyParams Z_Construct_UClass_AMainPlayer_Statics::NewProp_health = { UE4CodeGen_Private::EPropertyClass::Int, "health", RF_Public|RF_Transient|RF_MarkAsNative, (EPropertyFlags)0x0010000000000005, 1, nullptr, STRUCT_OFFSET(AMainPlayer, health), METADATA_PARAMS(Z_Construct_UClass_AMainPlayer_Statics::NewProp_health_MetaData, ARRAY_COUNT(Z_Construct_UClass_AMainPlayer_Statics::NewProp_health_MetaData)) };
+	const UE4CodeGen_Private::FUnsizedIntPropertyParams Z_Construct_UClass_AMainPlayer_Statics::NewProp_health = { UE4CodeGen_Private::EPropertyClass::Int, "health", RF_Public|RF_Transient|RF_MarkAsNative, (EPropertyFlags)0x0010000000000001, 1, nullptr, STRUCT_OFFSET(AMainPlayer, health), METADATA_PARAMS(Z_Construct_UClass_AMainPlayer_Statics::NewProp_health_MetaData, ARRAY_COUNT(Z_Construct_UClass_AMainPlayer_Statics::NewProp_health_MetaData)) };
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AMainPlayer_Statics::NewProp_isCrouch_MetaData[] = {
 		{ "Category", "stealth" },
@@ -210,7 +210,7 @@ void EmptyLinkFunctionForGeneratedCodeMainPlayer() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(AMainPlayer, 1142420478);
+	IMPLEMENT_CLASS(AMainPlayer, 4204926759);
 	static FCompiledInDefer Z_CompiledInDefer_UClass_AMainPlayer(Z_Construct_UClass_AMainPlayer, &AMainPlayer::StaticClass, TEXT("/Script/test"), TEXT("AMainPlayer"), false, nullptr, nullptr, nullptr);
 	DEFINE_VTABLE_PTR_HELPER_CTOR(AMainPlayer);
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
