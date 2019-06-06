@@ -24,11 +24,13 @@ public:
 	virtual void Tick(float DeltaTime) override;
 
 	// Called to bind functionality to input
-	virtual void SetupPlayerInputComponent(class UInputComponent* PlayerInputComponent) override;
+	virtual void SetupPlayerInputComponent(class UInputComponent* PlayerInputComponent) override
+
+
 
 	//virtual void OnComponentBeginOverlap()
 
-	UPROPERTY(BlueprintReadWrite, Category = "Health")
+	UPROPERTY(BlueprintReadWrite,EditAnywhere, Category = "Health")
 		float health;
 
 	UPROPERTY(BlueprintReadWrite, EditAnywhere, Category = "Health")

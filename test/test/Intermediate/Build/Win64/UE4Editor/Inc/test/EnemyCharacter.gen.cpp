@@ -126,7 +126,7 @@ void EmptyLinkFunctionForGeneratedCodeEnemyCharacter() {}
 		{ "ToolTip", "virtual void OnComponentBeginOverlap()" },
 	};
 #endif
-	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UClass_AEnemyCharacter_Statics::NewProp_health = { UE4CodeGen_Private::EPropertyClass::Float, "health", RF_Public|RF_Transient|RF_MarkAsNative, (EPropertyFlags)0x0010000000000004, 1, nullptr, STRUCT_OFFSET(AEnemyCharacter, health), METADATA_PARAMS(Z_Construct_UClass_AEnemyCharacter_Statics::NewProp_health_MetaData, ARRAY_COUNT(Z_Construct_UClass_AEnemyCharacter_Statics::NewProp_health_MetaData)) };
+	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UClass_AEnemyCharacter_Statics::NewProp_health = { UE4CodeGen_Private::EPropertyClass::Float, "health", RF_Public|RF_Transient|RF_MarkAsNative, (EPropertyFlags)0x0010000000000005, 1, nullptr, STRUCT_OFFSET(AEnemyCharacter, health), METADATA_PARAMS(Z_Construct_UClass_AEnemyCharacter_Statics::NewProp_health_MetaData, ARRAY_COUNT(Z_Construct_UClass_AEnemyCharacter_Statics::NewProp_health_MetaData)) };
 	const UE4CodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_AEnemyCharacter_Statics::PropPointers[] = {
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AEnemyCharacter_Statics::NewProp_canTakeDown,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AEnemyCharacter_Statics::NewProp_enemyDamage,
@@ -155,7 +155,7 @@ void EmptyLinkFunctionForGeneratedCodeEnemyCharacter() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(AEnemyCharacter, 3390924914);
+	IMPLEMENT_CLASS(AEnemyCharacter, 1602186083);
 	static FCompiledInDefer Z_CompiledInDefer_UClass_AEnemyCharacter(Z_Construct_UClass_AEnemyCharacter, &AEnemyCharacter::StaticClass, TEXT("/Script/test"), TEXT("AEnemyCharacter"), false, nullptr, nullptr, nullptr);
 	DEFINE_VTABLE_PTR_HELPER_CTOR(AEnemyCharacter);
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
