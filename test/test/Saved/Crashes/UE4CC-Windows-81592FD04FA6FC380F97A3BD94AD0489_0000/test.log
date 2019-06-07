@@ -1,0 +1,1213 @@
+﻿Log file open, 06/07/19 13:57:21
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: test
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.288967
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:30, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.499s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz, GPU: Intel(R) HD Graphics 530
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: D:/ComputerGameDesignConcepts/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.152s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.06.07-04.27.21:901][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.06.07-04.27.21:901][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.06.07-04.27.21:902][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/ComputerGameDesignConcepts/Assignment/GameRepo/GameDesign/test/test/Saved/Config/Windows/Engine.ini]
+[2019.06.07-04.27.21:902][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.06.07-04.27.21:902][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/ComputerGameDesignConcepts/Assignment/GameRepo/GameDesign/test/test/Saved/Config/Windows/Engine.ini]
+[2019.06.07-04.27.21:902][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/ComputerGameDesignConcepts/Assignment/GameRepo/GameDesign/test/test/Saved/Config/Windows/Engine.ini]
+[2019.06.07-04.27.21:902][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.06.07-04.27.21:902][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.06.07-04.27.21:902][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.06.07-04.27.21:902][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.06.07-04.27.21:902][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.06.07-04.27.21:902][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.06.07-04.27.21:902][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.06.07-04.27.21:902][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.06.07-04.27.21:902][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.06.07-04.27.21:902][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.06.07-04.27.21:902][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.06.07-04.27.21:902][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.06.07-04.27.21:902][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.06.07-04.27.21:902][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/ComputerGameDesignConcepts/Assignment/GameRepo/GameDesign/test/test/Saved/Config/Windows/Engine.ini]
+[2019.06.07-04.27.21:902][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.06.07-04.27.21:902][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.06.07-04.27.21:902][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.06.07-04.27.21:902][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.06.07-04.27.21:902][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.06.07-04.27.21:902][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.06.07-04.27.21:902][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.06.07-04.27.21:902][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.06.07-04.27.21:902][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.06.07-04.27.21:902][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.06.07-04.27.21:902][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.06.07-04.27.21:902][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.06.07-04.27.21:902][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.06.07-04.27.21:902][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.06.07-04.27.21:902][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/ComputerGameDesignConcepts/Assignment/GameRepo/GameDesign/test/test/Saved/Config/Windows/Engine.ini]
+[2019.06.07-04.27.21:902][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/ComputerGameDesignConcepts/Assignment/GameRepo/GameDesign/test/test/Saved/Config/Windows/Engine.ini]
+[2019.06.07-04.27.21:905][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/ComputerGameDesignConcepts/Assignment/GameRepo/GameDesign/test/test/Saved/Config/Windows/Scalability.ini]
+[2019.06.07-04.27.21:905][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.06.07-04.27.21:905][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.06.07-04.27.21:905][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/ComputerGameDesignConcepts/Assignment/GameRepo/GameDesign/test/test/Saved/Config/Windows/Scalability.ini]
+[2019.06.07-04.27.21:905][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.06.07-04.27.21:905][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/ComputerGameDesignConcepts/Assignment/GameRepo/GameDesign/test/test/Saved/Config/Windows/Scalability.ini]
+[2019.06.07-04.27.21:905][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.06.07-04.27.21:905][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.06.07-04.27.21:905][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.06.07-04.27.21:905][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.06.07-04.27.21:905][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.06.07-04.27.21:905][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.06.07-04.27.21:905][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.06.07-04.27.21:905][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.06.07-04.27.21:905][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.06.07-04.27.21:905][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.06.07-04.27.21:905][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.06.07-04.27.21:905][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.06.07-04.27.21:905][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.06.07-04.27.21:905][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.06.07-04.27.21:905][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.06.07-04.27.21:905][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.06.07-04.27.21:905][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.06.07-04.27.21:905][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.06.07-04.27.21:905][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/ComputerGameDesignConcepts/Assignment/GameRepo/GameDesign/test/test/Saved/Config/Windows/Scalability.ini]
+[2019.06.07-04.27.21:905][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.06.07-04.27.21:905][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.06.07-04.27.21:905][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.06.07-04.27.21:905][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.06.07-04.27.21:905][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.06.07-04.27.21:905][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.06.07-04.27.21:905][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.06.07-04.27.21:905][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.06.07-04.27.21:905][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.06.07-04.27.21:905][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.06.07-04.27.21:905][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.06.07-04.27.21:905][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.06.07-04.27.21:905][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.06.07-04.27.21:905][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.06.07-04.27.21:905][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.06.07-04.27.21:905][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.06.07-04.27.21:905][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.06.07-04.27.21:905][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.06.07-04.27.21:905][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.06.07-04.27.21:905][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.06.07-04.27.21:905][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.06.07-04.27.21:905][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.06.07-04.27.21:905][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.06.07-04.27.21:905][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.06.07-04.27.21:905][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.06.07-04.27.21:905][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.06.07-04.27.21:905][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.06.07-04.27.21:905][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.06.07-04.27.21:905][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.06.07-04.27.21:905][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.06.07-04.27.21:905][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/ComputerGameDesignConcepts/Assignment/GameRepo/GameDesign/test/test/Saved/Config/Windows/Scalability.ini]
+[2019.06.07-04.27.21:905][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.06.07-04.27.21:905][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.06.07-04.27.21:905][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.06.07-04.27.21:905][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.06.07-04.27.21:905][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.06.07-04.27.21:905][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.06.07-04.27.21:905][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.06.07-04.27.21:905][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.06.07-04.27.21:905][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/ComputerGameDesignConcepts/Assignment/GameRepo/GameDesign/test/test/Saved/Config/Windows/Scalability.ini]
+[2019.06.07-04.27.21:905][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.06.07-04.27.21:905][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.06.07-04.27.21:905][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.06.07-04.27.21:905][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.06.07-04.27.21:905][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.06.07-04.27.21:906][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.06.07-04.27.21:906][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.06.07-04.27.21:906][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.06.07-04.27.21:906][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.06.07-04.27.21:906][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.06.07-04.27.21:906][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.06.07-04.27.21:906][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.06.07-04.27.21:906][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.06.07-04.27.21:906][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/ComputerGameDesignConcepts/Assignment/GameRepo/GameDesign/test/test/Saved/Config/Windows/Scalability.ini]
+[2019.06.07-04.27.21:906][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.06.07-04.27.21:906][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.06.07-04.27.21:906][  0]LogInit: Selected Device Profile: [Windows]
+[2019.06.07-04.27.21:906][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.06.07-04.27.21:954][  0]LogHAL: Display: Platform has ~ 16 GB [17037049856 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.06.07-04.27.21:954][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.06.07-04.27.21:954][  0]LogInit: Going up to parent DeviceProfile []
+[2019.06.07-04.27.21:954][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/ComputerGameDesignConcepts/Assignment/GameRepo/GameDesign/test/test/Saved/Config/Windows/Scalability.ini]
+[2019.06.07-04.27.21:954][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.06.07-04.27.21:954][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.06.07-04.27.21:954][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/ComputerGameDesignConcepts/Assignment/GameRepo/GameDesign/test/test/Saved/Config/Windows/Scalability.ini]
+[2019.06.07-04.27.21:954][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.06.07-04.27.21:954][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/ComputerGameDesignConcepts/Assignment/GameRepo/GameDesign/test/test/Saved/Config/Windows/Scalability.ini]
+[2019.06.07-04.27.21:954][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.06.07-04.27.21:954][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.06.07-04.27.21:954][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.06.07-04.27.21:954][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.06.07-04.27.21:954][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.06.07-04.27.21:954][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.06.07-04.27.21:954][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.06.07-04.27.21:954][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.06.07-04.27.21:954][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.06.07-04.27.21:954][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.06.07-04.27.21:954][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.06.07-04.27.21:954][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.06.07-04.27.21:954][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.06.07-04.27.21:954][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.06.07-04.27.21:954][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.06.07-04.27.21:954][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.06.07-04.27.21:954][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.06.07-04.27.21:955][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.06.07-04.27.21:955][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/ComputerGameDesignConcepts/Assignment/GameRepo/GameDesign/test/test/Saved/Config/Windows/Scalability.ini]
+[2019.06.07-04.27.21:955][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.06.07-04.27.21:955][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.06.07-04.27.21:955][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.06.07-04.27.21:955][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.06.07-04.27.21:955][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.06.07-04.27.21:955][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.06.07-04.27.21:955][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.06.07-04.27.21:955][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.06.07-04.27.21:955][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.06.07-04.27.21:955][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.06.07-04.27.21:955][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.06.07-04.27.21:955][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.06.07-04.27.21:955][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.06.07-04.27.21:955][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.06.07-04.27.21:955][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.06.07-04.27.21:955][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.06.07-04.27.21:955][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.06.07-04.27.21:955][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.06.07-04.27.21:955][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.06.07-04.27.21:955][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.06.07-04.27.21:955][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.06.07-04.27.21:955][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.06.07-04.27.21:955][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.06.07-04.27.21:955][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.06.07-04.27.21:955][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.06.07-04.27.21:955][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.06.07-04.27.21:955][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.06.07-04.27.21:955][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.06.07-04.27.21:955][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.06.07-04.27.21:955][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.06.07-04.27.21:955][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/ComputerGameDesignConcepts/Assignment/GameRepo/GameDesign/test/test/Saved/Config/Windows/Scalability.ini]
+[2019.06.07-04.27.21:955][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.06.07-04.27.21:955][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.06.07-04.27.21:955][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.06.07-04.27.21:955][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.06.07-04.27.21:955][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.06.07-04.27.21:955][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.06.07-04.27.21:955][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.06.07-04.27.21:955][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.06.07-04.27.21:955][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/ComputerGameDesignConcepts/Assignment/GameRepo/GameDesign/test/test/Saved/Config/Windows/Scalability.ini]
+[2019.06.07-04.27.21:955][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.06.07-04.27.21:955][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.06.07-04.27.21:955][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.06.07-04.27.21:955][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.06.07-04.27.21:955][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.06.07-04.27.21:955][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.06.07-04.27.21:955][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.06.07-04.27.21:955][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.06.07-04.27.21:955][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.06.07-04.27.21:955][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.06.07-04.27.21:955][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.06.07-04.27.21:955][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.06.07-04.27.21:955][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.06.07-04.27.21:955][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/ComputerGameDesignConcepts/Assignment/GameRepo/GameDesign/test/test/Saved/Config/Windows/Scalability.ini]
+[2019.06.07-04.27.21:955][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.06.07-04.27.21:955][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.06.07-04.27.21:955][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.06.07-04.27.21:956][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.06.07-04.27.21:956][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/ComputerGameDesignConcepts/Assignment/GameRepo/GameDesign/test/test/Saved/Config/Windows/Engine.ini]
+[2019.06.07-04.27.21:956][  0]LogInit: Computer: DESKTOP-BNNKCJV
+[2019.06.07-04.27.21:956][  0]LogInit: User: Administrator
+[2019.06.07-04.27.21:956][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.06.07-04.27.21:956][  0]LogInit: High frequency timer resolution =2.531255 MHz
+[2019.06.07-04.27.21:956][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.06.07-04.27.21:956][  0]LogMemory: Platform Memory Stats for Windows
+[2019.06.07-04.27.21:956][  0]LogMemory: Process Physical Memory: 105.52 MB used, 105.52 MB peak
+[2019.06.07-04.27.21:956][  0]LogMemory: Process Virtual Memory: 97.88 MB used, 97.88 MB peak
+[2019.06.07-04.27.21:956][  0]LogMemory: Physical Memory: 6350.71 MB used,  9897.08 MB free, 16247.80 MB total
+[2019.06.07-04.27.21:956][  0]LogMemory: Virtual Memory: 4659.16 MB used,  134213072.00 MB free, 134217728.00 MB total
+[2019.06.07-04.27.21:980][  0]LogInit: Using OS detected language (en-US).
+[2019.06.07-04.27.21:980][  0]LogInit: Using OS detected locale (en-US).
+[2019.06.07-04.27.21:980][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.06.07-04.27.22:383][  0]LogStreaming: Display: Took  0.404s to InitEngineTextLocalization.
+[2019.06.07-04.27.22:427][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.06.07-04.27.22:427][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.06.07-04.27.22:664][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.06.07-04.27.22:664][  0]LogD3D11RHI: D3D11 adapters:
+[2019.06.07-04.27.23:780][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970M' (Feature Level 11_0)
+[2019.06.07-04.27.23:780][  0]LogD3D11RHI:       6108/0/8123 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.06.07-04.27.23:789][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2019.06.07-04.27.23:789][  0]LogD3D11RHI:       128/0/8123 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.06.07-04.27.23:791][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.06.07-04.27.23:791][  0]LogD3D11RHI:       0/0/8123 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.06.07-04.27.23:791][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.06.07-04.27.23:831][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.06.07-04.27.23:831][  0]LogD3D11RHI:     GPU DeviceId: 0x13d8 (for the marketing name, search the web for "GPU Device Id")
+[2019.06.07-04.27.23:831][  0]LogWindows: EnumDisplayDevices:
+[2019.06.07-04.27.23:831][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2019.06.07-04.27.23:831][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2019.06.07-04.27.23:832][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2019.06.07-04.27.23:833][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.06.07-04.27.23:833][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970M
+[2019.06.07-04.27.23:833][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.06.07-04.27.23:833][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.06.07-04.27.23:833][  0]LogRHI: Texture pool is 4276 MB (70% of 6108 MB)
+[2019.06.07-04.27.23:867][  0]LogD3D11RHI: Async texture creation enabled
+[2019.06.07-04.27.23:880][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.06.07-04.27.24:219][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.06.07-04.27.24:233][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.06.07-04.27.24:245][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.06.07-04.27.24:258][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.06.07-04.27.24:271][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.06.07-04.27.24:283][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.06.07-04.27.24:296][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.06.07-04.27.24:309][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.06.07-04.27.24:315][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.06.07-04.27.24:387][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.07-04.27.24:387][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.07-04.27.24:387][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.07-04.27.24:387][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.07-04.27.24:387][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.07-04.27.24:387][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.07-04.27.24:387][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.07-04.27.24:387][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.07-04.27.24:387][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.07-04.27.24:387][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.07-04.27.24:387][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.07-04.27.24:387][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.07-04.27.24:387][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.07-04.27.24:387][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.07-04.27.24:387][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.07-04.27.24:387][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.07-04.27.24:387][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.07-04.27.24:387][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.07-04.27.24:388][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.06.07-04.27.24:449][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.06.07-04.27.24:449][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.06.07-04.27.24:473][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.06.07-04.27.24:473][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.06.07-04.27.24:486][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.06.07-04.27.24:499][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.06.07-04.27.24:511][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.06.07-04.27.24:524][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.06.07-04.27.24:570][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.06.07-04.27.24:570][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.06.07-04.27.24:570][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.06.07-04.27.24:618][  0]LogShaderCompilers: Guid format shader working directory is 1 characters bigger than the processId version (../../../../Assignment/GameRepo/GameDesign/test/test/Intermediate/Shaders/WorkingDirectory/16920/).
+[2019.06.07-04.27.24:618][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Administrator/AppData/Local/Temp/UnrealShaderWorkingDir/8508D4324C6DBA8D368961B1EF864C66/'.
+[2019.06.07-04.27.24:619][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.06.07-04.27.24:619][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.06.07-04.27.24:620][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.06.07-04.27.25:200][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.06.07-04.27.25:260][  0]LogDerivedDataCache: Loaded boot cache 0.06s 71MB C:/Users/Administrator/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.06.07-04.27.25:260][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Administrator/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.06.07-04.27.25:260][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../Assignment/GameRepo/GameDesign/test/test/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.06.07-04.27.25:260][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.06.07-04.27.25:260][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../Assignment/GameRepo/GameDesign/test/test/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.06.07-04.27.25:260][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.06.07-04.27.25:276][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.06.07-04.27.25:276][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.06.07-04.27.25:277][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.06.07-04.27.25:290][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Administrator/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.06.07-04.27.25:290][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.06.07-04.27.25:290][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.06.07-04.27.25:319][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.06.07-04.27.25:321][  0]LogSlate: Using FreeType 2.6.0
+[2019.06.07-04.27.25:321][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.06.07-04.27.25:415][  0]LogAssetRegistry: FAssetRegistry took 0.0347 seconds to start up
+[2019.06.07-04.27.25:735][  0]LogInit: Selected Device Profile: [Windows]
+[2019.06.07-04.27.25:897][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.06.07-04.27.25:900][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.06.07-04.27.25:900][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.06.07-04.27.25:900][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.06.07-04.27.25:900][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.06.07-04.27.25:918][  0]LogNetVersion: test 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2122378638)
+[2019.06.07-04.27.26:999][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.584643 seconds
+[2019.06.07-04.27.27:006][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.06.07-04.27.27:006][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2019.06.07-04.27.27:006][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.06.07-04.27.27:884][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.06.07-04.27.27:898][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.06.07-04.27.29:394][  0]SourceControl: Source control is disabled
+[2019.06.07-04.27.29:395][  0]SourceControl: Source control is disabled
+[2019.06.07-04.27.29:396][  0]SourceControl: Source control is disabled
+[2019.06.07-04.27.29:397][  0]SourceControl: Source control is disabled
+[2019.06.07-04.27.29:556][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.06.07-04.27.29:611][  0]LogOcInput: OculusInput pre-init called
+[2019.06.07-04.27.29:898][  0]LogEngine: Initializing Engine...
+[2019.06.07-04.27.29:899][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.06.07-04.27.29:900][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.06.07-04.27.29:900][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.06.07-04.27.29:900][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.06.07-04.27.29:900][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.06.07-04.27.30:163][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.06.07-04.27.30:173][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.06.07-04.27.30:198][  0]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.07-04.27.30:272][  0]LogInit: FAudioDevice initialized.
+[2019.06.07-04.27.30:273][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.06.07-04.27.30:429][  0]LogDerivedDataCache: Saved boot cache 0.16s 71MB C:/Users/Administrator/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.06.07-04.27.30:446][  0]LogInit: Texture streaming: Enabled
+[2019.06.07-04.27.30:459][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.06.07-04.27.30:519][  0]LogInit: Transaction tracking system initialized
+[2019.06.07-04.27.30:581][  0]BlueprintLog: New page: Editor Load
+[2019.06.07-04.27.30:636][  0]LocalizationService: Localization service is disabled
+[2019.06.07-04.27.31:977][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.06.07-04.27.31:977][  0]LogCook: Display: Mobile HDR setting 1
+[2019.06.07-04.27.31:977][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.06.07-04.27.31:977][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.06.07-04.27.31:977][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.06.07-04.27.31:977][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.06.07-04.27.31:977][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.06.07-04.27.32:097][  0]SourceControl: Source control is disabled
+[2019.06.07-04.27.32:097][  0]Cmd: MAP LOAD FILE="../../../../Assignment/GameRepo/GameDesign/test/test/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.06.07-04.27.32:302][  0]LightingResults: New page: Lighting Build
+[2019.06.07-04.27.32:304][  0]MapCheck: New page: Map Check
+[2019.06.07-04.27.32:305][  0]LightingResults: New page: Lighting Build
+[2019.06.07-04.27.39:923][  0]LogFileCache: Scanning file cache for directory 'D:/ComputerGameDesignConcepts/Assignment/GameRepo/GameDesign/test/test/Content/' took 7.88s
+[2019.06.07-04.27.53:560][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.07-04.27.53:898][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.06.07-04.27.53:934][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.06.07-04.27.53:934][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.176ms to complete.
+[2019.06.07-04.27.53:934][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 21.838
+[2019.06.07-04.27.54:675][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.07-04.27.54:685][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.07-04.27.54:694][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.07-04.27.54:702][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.07-04.27.54:726][  0]LogCollectionManager: Loaded 0 collections in 0.000949 seconds
+[2019.06.07-04.27.54:835][  0]LogFileCache: Scanning file cache for directory 'D:/ComputerGameDesignConcepts/Assignment/GameRepo/GameDesign/test/test/Saved/Collections/' took 0.01s
+[2019.06.07-04.27.54:835][  0]LogFileCache: Scanning file cache for directory 'D:/ComputerGameDesignConcepts/Assignment/GameRepo/GameDesign/test/test/Content/Developers/Administrator/Collections/' took 0.00s
+[2019.06.07-04.27.54:835][  0]LogFileCache: Scanning file cache for directory 'D:/ComputerGameDesignConcepts/Assignment/GameRepo/GameDesign/test/test/Content/Collections/' took 0.00s
+[2019.06.07-04.27.54:835][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.06.07-04.27.54:844][  0]LogContentBrowser: Native class hierarchy populated in 0.0091 seconds. Added 2658 classes and 624 folders.
+[2019.06.07-04.27.54:892][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.06.07-04.27.54:993][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.07-04.27.55:075][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.07-04.27.55:104][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.07-04.27.55:129][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.07-04.27.55:140][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.07-04.27.55:150][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.07-04.27.55:162][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.07-04.27.55:181][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.07-04.27.55:201][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.07-04.27.55:224][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.07-04.27.55:244][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.07-04.27.55:255][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.07-04.27.55:277][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.07-04.27.55:293][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.07-04.27.55:304][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.07-04.27.55:321][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.07-04.27.55:352][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.07-04.27.55:366][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.07-04.27.55:379][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.07-04.27.55:387][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.07-04.27.55:427][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.07-04.27.55:447][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.07-04.27.55:459][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.07-04.27.55:478][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.07-04.27.55:501][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.07-04.27.55:523][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.07-04.27.56:591][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.06.07-04.27.57:554][  0]LogSlate: Took 0.000265 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.06.07-04.27.57:565][  0]LogSlate: Took 0.000201 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.06.07-04.27.57:644][  0]LogSlate: Took 0.019923 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.06.07-04.27.57:956][  0]LogRenderer: Reallocating scene render targets to support 1084x492 Format 10 NumSamples 1 (Frame:1).
+[2019.06.07-04.27.58:206][  0]LogSlate: Took 0.030610 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.06.07-04.27.58:422][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.06.07-04.27.58:422][  0]LogLoad: (Engine Initialization) Total time: 40.48 seconds
+[2019.06.07-04.27.58:423][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.06.07-04.27.58:443][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft Pinyin).
+[2019.06.07-04.27.58:594][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.06.07-04.28.00:121][  8]LogAssetRegistry: Asset discovery search completed in 34.7280 seconds
+[2019.06.07-04.28.00:124][  8]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.06.07-04.28.00:124][  8]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000074 seconds (updated 0 objects)
+[2019.06.07-04.28.10:823][261]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-04.28.16:675][355]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.06.07-04.28.16:675][355]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.06.07-04.28.21:574][610]LogSlate: Took 0.000243 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.06.07-04.28.30:893][610]LogAIModule: Creating AISystem for world Main
+[2019.06.07-04.28.31:087][610]LogAssetEditorManager: Opening Asset editor for World /Game/Assignment/Main.Main
+[2019.06.07-04.28.31:158][610]Cmd: MAP LOAD FILE="../../../../Assignment/GameRepo/GameDesign/test/test/Content/Assignment/Main.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.06.07-04.28.31:158][610]LightingResults: New page: Lighting Build
+[2019.06.07-04.28.31:159][610]LoadErrors: New page: Loading map: Main.umap
+[2019.06.07-04.28.31:162][610]MapCheck: New page: Map Check
+[2019.06.07-04.28.31:162][610]LightingResults: New page: Lighting Build
+[2019.06.07-04.28.31:441][610]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.06.07-04.28.31:570][610]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.06.07-04.28.31:570][610]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.425ms to complete.
+[2019.06.07-04.28.31:570][610]LogFileHelpers: Loading map 'Main' took 0.412
+[2019.06.07-04.28.31:670][610]LogFileCache: Retrieving MD5 hashes for directory 'D:/ComputerGameDesignConcepts/Assignment/GameRepo/GameDesign/test/test/Content/' took 33.21s
+[2019.06.07-04.28.31:846][611]LogRenderer: Reallocating scene render targets to support 1084x512 Format 10 NumSamples 1 (Frame:1).
+[2019.06.07-04.28.33:159][683]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.07-04.28.33:245][683]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Assignment/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Assignment/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Assignment/Main.Main_C' with ClassGeneratedBy '/Game/Assignment/Main.Main:PersistentLevel.Main'
+[2019.06.07-04.28.33:246][683]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.07-04.28.33:263][683]PIE: New page: PIE session: Main (Jun 7, 2019, 11:28:33 PM)
+[2019.06.07-04.28.33:314][683]LogPlayLevel: Creating play world package: /Game/Assignment/UEDPIE_0_Main
+[2019.06.07-04.28.33:405][683]LogPlayLevel: PIE: StaticDuplicateObject took: (0.091318s)
+[2019.06.07-04.28.33:406][683]LogAIModule: Creating AISystem for world Main
+[2019.06.07-04.28.33:406][683]LogPlayLevel: PIE: World Init took: (0.000744s)
+[2019.06.07-04.28.33:407][683]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assignment/Main.Main to /Game/Assignment/UEDPIE_0_Main.Main (0.092873s)
+[2019.06.07-04.28.33:436][683]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.07-04.28.33:506][683]LogInit: FAudioDevice initialized.
+[2019.06.07-04.28.33:597][683]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.07-04.28.33:663][683]LogWorld: Bringing World /Game/Assignment/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2019.06.07-13.58.33
+[2019.06.07-04.28.33:811][683]LogWorld: Bringing up level for play took: 0.194613
+[2019.06.07-04.28.33:915][683]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2019.06.07-04.28.33:916][683]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	BP_Animation_C /Game/Assignment/UEDPIE_0_Main.Main:PersistentLevel.BP_Character_C_0.CharacterMesh0.BP_Animation_C_0
+	Function /Game/Assignment/Character/BP_Animation.BP_Animation_C:ExecuteUbergraph_BP_Animation:004F
+[2019.06.07-04.28.33:916][683]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  BP_Animation Function:  Execute Ubergraph BP Animation Graph:  EventGraph Node:  Set IsCrouched
+[2019.06.07-04.28.33:982][683]PIE: Play in editor start time for /Game/Assignment/UEDPIE_0_Main 1.214
+[2019.06.07-04.28.33:983][683]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Assignment/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Assignment/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Assignment/Main.Main_C' with ClassGeneratedBy '/Game/Assignment/Main.Main:PersistentLevel.Main'
+[2019.06.07-04.28.36:491][818]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Assignment/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Assignment/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Assignment/Main.Main_C' with ClassGeneratedBy '/Game/Assignment/Main.Main:PersistentLevel.Main'
+[2019.06.07-04.28.36:492][818]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.07-04.28.36:542][818]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.07-04.28.36:542][818]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Assignment/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Assignment/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Assignment/Main.Main_C' with ClassGeneratedBy '/Game/Assignment/Main.Main:PersistentLevel.Main'
+[2019.06.07-04.28.36:573][818]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.07-04.28.36:618][818]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.07-04.28.36:734][819]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2019.06.07-04.28.37:913][876]LogSlate: Window 'Message Log' being destroyed
+[2019.06.07-04.28.37:937][876]LogSlate: Window 'Message Log' being destroyed
+[2019.06.07-04.28.47:429][226]LogAssetEditorManager: Opening Asset editor for AnimMontage /Game/BossAttack2.BossAttack2
+[2019.06.07-04.28.47:584][226]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.06.07-04.28.48:405][226]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.07-04.28.48:461][226]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0005 seconds. Added 1 classes and 0 folders.
+[2019.06.07-04.28.48:872][226]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.06.07-04.28.50:084][226]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0004 seconds. Added 1 classes and 0 folders.
+[2019.06.07-04.28.50:212][228]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.06.07-04.28.57:057][541]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.06.07-04.29.04:215][761]LogSlate: Took 0.116388 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2019.06.07-04.31.11:337][601]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BossAttack2" FILE="../../../../Assignment/GameRepo/GameDesign/test/test/Content/BossAttack2.uasset" SILENT=true
+[2019.06.07-04.31.11:695][601]LogSavePackage: Moving '../../../../Assignment/GameRepo/GameDesign/test/test/Saved/BossAttack26AB9B0AA43CF120EDBECBFB5C7918B5B.tmp' to '../../../../Assignment/GameRepo/GameDesign/test/test/Content/BossAttack2.uasset'
+[2019.06.07-04.31.28:477][381]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/BossAttack2.BossAttack2
+[2019.06.07-04.31.30:376][472]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/BossAttack2.BossAttack2
+[2019.06.07-04.31.32:268][527]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/BossAttack2.BossAttack2
+[2019.06.07-04.31.34:176][603]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/BossAttack2.BossAttack2
+[2019.06.07-04.31.36:061][688]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/BossAttack2.BossAttack2
+[2019.06.07-04.31.46:520][161]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BossAttack2" FILE="../../../../Assignment/GameRepo/GameDesign/test/test/Content/BossAttack2.uasset" SILENT=true
+[2019.06.07-04.31.46:539][161]LogSavePackage: Moving '../../../../Assignment/GameRepo/GameDesign/test/test/Saved/BossAttack221FD665E4E0DF75574E5E698D62DC64B.tmp' to '../../../../Assignment/GameRepo/GameDesign/test/test/Content/BossAttack2.uasset'
+[2019.06.07-04.32.07:904][ 88]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/PolygonFantasyRivals/Meshes/Characters/SK_BR_Character_BarbarianGiant_01.SK_BR_Character_BarbarianGiant_01
+[2019.06.07-04.32.07:949][ 88]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.07-04.32.08:011][ 88]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.06.07-04.32.08:528][ 88]LogSlate: Took 0.032252 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.06.07-04.32.08:655][ 88]LogRenderer: Reallocating scene render targets to support 1084x788 Format 10 NumSamples 1 (Frame:1).
+[2019.06.07-04.32.09:296][115]LogAssetEditorManager: Opening Asset editor for Skeleton /Game/PolygonFantasyRivals/Meshes/Characters/SK_BR_Character_Skeleton.SK_BR_Character_Skeleton
+[2019.06.07-04.32.09:313][115]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.07-04.32.09:428][115]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.06.07-04.32.55:166][172]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-04.33.02:992][507]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.07-04.33.03:036][507]LogSavePackage: Moving '../../../../Assignment/GameRepo/GameDesign/test/test/Saved/SK_BR_Character_Skeleton075E8D0D4EFB43BC2D1153A4B47AB5F1.tmp' to '../../../../Assignment/GameRepo/GameDesign/test/test/Content/PolygonFantasyRivals/Meshes/Characters/SK_BR_Character_Skeleton.uasset'
+[2019.06.07-04.33.16:227][ 57]LogSavePackage: Moving '../../../../Assignment/GameRepo/GameDesign/test/test/Saved/SK_BR_Character_Skeleton8EF1A8D3480D0250B358E29C25B067F3.tmp' to '../../../../Assignment/GameRepo/GameDesign/test/test/Content/PolygonFantasyRivals/Meshes/Characters/SK_BR_Character_Skeleton.uasset'
+[2019.06.07-04.33.17:787][116]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.07-04.33.17:802][116]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BossAttack2" FILE="../../../../Assignment/GameRepo/GameDesign/test/test/Content/BossAttack2.uasset" SILENT=true
+[2019.06.07-04.33.17:818][116]LogSavePackage: Moving '../../../../Assignment/GameRepo/GameDesign/test/test/Saved/BossAttack26D0A806E451ADDA4E1A9ED8FCDF59C7C.tmp' to '../../../../Assignment/GameRepo/GameDesign/test/test/Content/BossAttack2.uasset'
+[2019.06.07-04.33.27:860][594]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BossAttack2" FILE="../../../../Assignment/GameRepo/GameDesign/test/test/Content/BossAttack2.uasset" SILENT=true
+[2019.06.07-04.33.27:878][594]LogSavePackage: Moving '../../../../Assignment/GameRepo/GameDesign/test/test/Saved/BossAttack2430FF41C47DD65B20C0AC597073C3AD8.tmp' to '../../../../Assignment/GameRepo/GameDesign/test/test/Content/BossAttack2.uasset'
+[2019.06.07-04.33.41:740][244]LogSavePackage: Moving '../../../../Assignment/GameRepo/GameDesign/test/test/Saved/SK_BR_Character_Skeleton85D091274081B0F4BB62D388B1D8DD45.tmp' to '../../../../Assignment/GameRepo/GameDesign/test/test/Content/PolygonFantasyRivals/Meshes/Characters/SK_BR_Character_Skeleton.uasset'
+[2019.06.07-04.34.04:571][301]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BossAttack2" FILE="../../../../Assignment/GameRepo/GameDesign/test/test/Content/BossAttack2.uasset" SILENT=true
+[2019.06.07-04.34.04:592][301]LogSavePackage: Moving '../../../../Assignment/GameRepo/GameDesign/test/test/Saved/BossAttack29B2E22CD4F976674FA8118B4404F4BC3.tmp' to '../../../../Assignment/GameRepo/GameDesign/test/test/Content/BossAttack2.uasset'
+[2019.06.07-04.34.32:087][661]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BossAttack2" FILE="../../../../Assignment/GameRepo/GameDesign/test/test/Content/BossAttack2.uasset" SILENT=true
+[2019.06.07-04.34.32:106][661]LogSavePackage: Moving '../../../../Assignment/GameRepo/GameDesign/test/test/Saved/BossAttack26724573148D943A9332C918CFBA24679.tmp' to '../../../../Assignment/GameRepo/GameDesign/test/test/Content/BossAttack2.uasset'
+[2019.06.07-04.36.25:866][277]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BossAttack2" FILE="../../../../Assignment/GameRepo/GameDesign/test/test/Content/BossAttack2.uasset" SILENT=true
+[2019.06.07-04.36.26:751][277]LogSavePackage: Moving '../../../../Assignment/GameRepo/GameDesign/test/test/Saved/BossAttack2003E3E2A4517F51A4E3CE0AE6D09C6F7.tmp' to '../../../../Assignment/GameRepo/GameDesign/test/test/Content/BossAttack2.uasset'
+[2019.06.07-04.36.42:748][  1]LogAssetEditorManager: Opening Asset editor for AnimMontage /Game/EnemyAttack2.EnemyAttack2
+[2019.06.07-04.36.42:764][  1]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.07-04.36.42:827][  1]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.06.07-04.36.43:744][  3]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.06.07-04.37.27:860][ 28]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2xAttack_Move_med_Rdown_L_1" FILE="../../../../Assignment/GameRepo/GameDesign/test/test/Content/2xAttack_Move_med_Rdown_L_1.uasset" SILENT=true
+[2019.06.07-04.37.28:746][ 28]LogSavePackage: Moving '../../../../Assignment/GameRepo/GameDesign/test/test/Saved/2xAttack_Move_med_Rdown_L_1B4FF6EC44474EC6FFA1571A7ECFF7846.tmp' to '../../../../Assignment/GameRepo/GameDesign/test/test/Content/2xAttack_Move_med_Rdown_L_1.uasset'
+[2019.06.07-04.39.40:260][809]LogAssetEditorManager: Opening Asset editor for Skeleton /Game/PolygonKnights/Meshes/Characters/SK_Character_Knight_01_Skeleton.SK_Character_Knight_01_Skeleton
+[2019.06.07-04.39.40:276][809]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.07-04.39.40:341][809]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.06.07-04.40.32:458][317]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-04.40.38:586][616]LogSavePackage: Moving '../../../../Assignment/GameRepo/GameDesign/test/test/Saved/SK_BR_Character_Skeleton69CDA95C4FF563E70B3E18843CB18DA6.tmp' to '../../../../Assignment/GameRepo/GameDesign/test/test/Content/PolygonFantasyRivals/Meshes/Characters/SK_BR_Character_Skeleton.uasset'
+[2019.06.07-04.40.41:218][734]LogSavePackage: Moving '../../../../Assignment/GameRepo/GameDesign/test/test/Saved/SK_BR_Character_Skeleton7C312FDD47048469D0B7ED82F1D4E3E7.tmp' to '../../../../Assignment/GameRepo/GameDesign/test/test/Content/PolygonFantasyRivals/Meshes/Characters/SK_BR_Character_Skeleton.uasset'
+[2019.06.07-04.41.08:713][ 59]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BossAttack2" FILE="../../../../Assignment/GameRepo/GameDesign/test/test/Content/BossAttack2.uasset" SILENT=true
+[2019.06.07-04.41.08:731][ 59]LogSavePackage: Moving '../../../../Assignment/GameRepo/GameDesign/test/test/Saved/BossAttack2BE7A01754A6F300AC7C040BBDC453781.tmp' to '../../../../Assignment/GameRepo/GameDesign/test/test/Content/BossAttack2.uasset'
+[2019.06.07-04.41.21:312][574]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BossAttack2" FILE="../../../../Assignment/GameRepo/GameDesign/test/test/Content/BossAttack2.uasset" SILENT=true
+[2019.06.07-04.41.21:331][574]LogSavePackage: Moving '../../../../Assignment/GameRepo/GameDesign/test/test/Saved/BossAttack268037C48421BB769E9BCEF9060B62804.tmp' to '../../../../Assignment/GameRepo/GameDesign/test/test/Content/BossAttack2.uasset'
+[2019.06.07-04.41.43:163][619]LogSavePackage: Moving '../../../../Assignment/GameRepo/GameDesign/test/test/Saved/SK_Character_Knight_01_Skeleton247307374C71F5E092E9B891D1F2E2DB.tmp' to '../../../../Assignment/GameRepo/GameDesign/test/test/Content/PolygonKnights/Meshes/Characters/SK_Character_Knight_01_Skeleton.uasset'
+[2019.06.07-04.41.56:224][250]LogSavePackage: Moving '../../../../Assignment/GameRepo/GameDesign/test/test/Saved/SK_Character_Knight_01_Skeleton03D747ED4FB344577301E7858FC7A324.tmp' to '../../../../Assignment/GameRepo/GameDesign/test/test/Content/PolygonKnights/Meshes/Characters/SK_Character_Knight_01_Skeleton.uasset'
+[2019.06.07-04.42.03:844][593]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/EnemyAttack2.EnemyAttack2
+[2019.06.07-04.42.06:524][725]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/EnemyAttack2.EnemyAttack2
+[2019.06.07-04.42.09:224][858]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/EnemyAttack2.EnemyAttack2
+[2019.06.07-04.42.11:898][987]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/EnemyAttack2.EnemyAttack2
+[2019.06.07-04.42.13:368][ 56]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EnemyAttack2" FILE="../../../../Assignment/GameRepo/GameDesign/test/test/Content/EnemyAttack2.uasset" SILENT=true
+[2019.06.07-04.42.13:398][ 56]LogSavePackage: Moving '../../../../Assignment/GameRepo/GameDesign/test/test/Saved/EnemyAttack21B116BF543E8E1E20EF10CA5E2CBBB59.tmp' to '../../../../Assignment/GameRepo/GameDesign/test/test/Content/EnemyAttack2.uasset'
+[2019.06.07-04.42.14:586][108]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/EnemyAttack2.EnemyAttack2
+[2019.06.07-04.42.17:268][237]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/EnemyAttack2.EnemyAttack2
+[2019.06.07-04.42.19:953][361]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/EnemyAttack2.EnemyAttack2
+[2019.06.07-04.43.01:382][263]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EnemyAttack2" FILE="../../../../Assignment/GameRepo/GameDesign/test/test/Content/EnemyAttack2.uasset" SILENT=true
+[2019.06.07-04.43.01:400][263]LogSavePackage: Moving '../../../../Assignment/GameRepo/GameDesign/test/test/Saved/EnemyAttack2270B22314E0D9953E20534AAA1067DBC.tmp' to '../../../../Assignment/GameRepo/GameDesign/test/test/Content/EnemyAttack2.uasset'
+[2019.06.07-04.43.08:776][613]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EnemyAttack2" FILE="../../../../Assignment/GameRepo/GameDesign/test/test/Content/EnemyAttack2.uasset" SILENT=true
+[2019.06.07-04.43.08:791][613]LogSavePackage: Moving '../../../../Assignment/GameRepo/GameDesign/test/test/Saved/EnemyAttack2ABC25D57453FCCD9864ED79530281083.tmp' to '../../../../Assignment/GameRepo/GameDesign/test/test/Content/EnemyAttack2.uasset'
+[2019.06.07-04.43.17:066][961]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.07-04.43.17:082][961]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EnemyAttack2" FILE="../../../../Assignment/GameRepo/GameDesign/test/test/Content/EnemyAttack2.uasset" SILENT=true
+[2019.06.07-04.43.17:102][961]LogSavePackage: Moving '../../../../Assignment/GameRepo/GameDesign/test/test/Saved/EnemyAttack2A42F9F0C4F3DE954FE2A3D8278F0B183.tmp' to '../../../../Assignment/GameRepo/GameDesign/test/test/Content/EnemyAttack2.uasset'
+[2019.06.07-04.43.23:265][236]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-04.43.28:382][433]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-04.43.32:683][614]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-04.43.43:232][ 72]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.07-04.43.43:265][ 72]LogSavePackage: Moving '../../../../Assignment/GameRepo/GameDesign/test/test/Saved/SK_Character_Knight_01_SkeletonA279068747A7C517879C8DBCC320182F.tmp' to '../../../../Assignment/GameRepo/GameDesign/test/test/Content/PolygonKnights/Meshes/Characters/SK_Character_Knight_01_Skeleton.uasset'
+[2019.06.07-04.43.50:787][389]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-04.43.54:758][578]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EnemyAttack2" FILE="../../../../Assignment/GameRepo/GameDesign/test/test/Content/EnemyAttack2.uasset" SILENT=true
+[2019.06.07-04.43.54:778][578]LogSavePackage: Moving '../../../../Assignment/GameRepo/GameDesign/test/test/Saved/EnemyAttack2734235D1440878E065A16AB5FADA428F.tmp' to '../../../../Assignment/GameRepo/GameDesign/test/test/Content/EnemyAttack2.uasset'
+[2019.06.07-04.44.11:003][249]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	BP_Animation_C /Engine/Transient.World_17:PersistentLevel.BP_Character_C_0.CharacterMesh0.BP_Animation_C_0
+	Function /Game/Assignment/Character/BP_Animation.BP_Animation_C:ExecuteUbergraph_BP_Animation:004F
+[2019.06.07-04.44.12:911][344]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Assignment/Character/BP_Character.BP_Character
+[2019.06.07-04.44.13:756][344]LogClass: Warning: Enum '/Game/AdvancedMagicFX12/DemoRoomData/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2019.06.07-04.44.13:852][344]LogEnum: Warning: Enum name collision: 'Enum_ChairPoses::NewEnumerator0' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses'
+[2019.06.07-04.44.13:852][344]LogEnum: Warning: Enum name collision: 'Enum_ChairPoses::NewEnumerator1' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses'
+[2019.06.07-04.44.13:853][344]LogEnum: Warning: Enum name collision: 'Enum_ChairPoses::NewEnumerator2' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses'
+[2019.06.07-04.44.13:853][344]LogEnum: Warning: Enum name collision: 'Enum_ChairPoses::NewEnumerator3' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses'
+[2019.06.07-04.44.13:853][344]LogEnum: Warning: Enum name collision: 'Enum_ChairPoses::NewEnumerator5' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses'
+[2019.06.07-04.44.13:853][344]LogEnum: Warning: Enum name collision: 'Enum_ChairPoses::NewEnumerator4' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses'
+[2019.06.07-04.44.13:853][344]LogEnum: Warning: Enum name collision: 'Enum_ChairPoses::NewEnumerator15' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses'
+[2019.06.07-04.44.13:853][344]LogEnum: Warning: Enum name collision: 'Enum_ChairPoses::NewEnumerator6' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses'
+[2019.06.07-04.44.13:853][344]LogEnum: Warning: Enum name collision: 'Enum_ChairPoses::NewEnumerator7' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses'
+[2019.06.07-04.44.13:853][344]LogEnum: Warning: Enum name collision: 'Enum_ChairPoses::NewEnumerator8' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses'
+[2019.06.07-04.44.13:853][344]LogEnum: Warning: Enum name collision: 'Enum_ChairPoses::NewEnumerator9' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses'
+[2019.06.07-04.44.13:853][344]LogEnum: Warning: Enum name collision: 'Enum_ChairPoses::NewEnumerator10' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses'
+[2019.06.07-04.44.13:853][344]LogEnum: Warning: Enum name collision: 'Enum_ChairPoses::NewEnumerator11' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses'
+[2019.06.07-04.44.13:853][344]LogEnum: Warning: Enum name collision: 'Enum_ChairPoses::NewEnumerator12' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses'
+[2019.06.07-04.44.13:853][344]LogEnum: Warning: Enum name collision: 'Enum_ChairPoses::NewEnumerator13' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses'
+[2019.06.07-04.44.13:853][344]LogEnum: Warning: Enum name collision: 'Enum_ChairPoses::NewEnumerator14' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses'
+[2019.06.07-04.44.13:853][344]LogEnum: Warning: Enum name collision: 'Enum_ChairPoses::Enum_MAX' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses'
+[2019.06.07-04.44.13:853][344]LogEnum: Warning: Enum name collision: 'Enum_ChairPoses::NewEnumerator0' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses'
+[2019.06.07-04.44.13:853][344]LogEnum: Warning: Enum name collision: 'Enum_ChairPoses::NewEnumerator1' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses'
+[2019.06.07-04.44.13:853][344]LogEnum: Warning: Enum name collision: 'Enum_ChairPoses::NewEnumerator2' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses'
+[2019.06.07-04.44.13:853][344]LogEnum: Warning: Enum name collision: 'Enum_ChairPoses::NewEnumerator3' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses'
+[2019.06.07-04.44.13:853][344]LogEnum: Warning: Enum name collision: 'Enum_ChairPoses::NewEnumerator5' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses'
+[2019.06.07-04.44.13:853][344]LogEnum: Warning: Enum name collision: 'Enum_ChairPoses::NewEnumerator4' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses'
+[2019.06.07-04.44.13:853][344]LogEnum: Warning: Enum name collision: 'Enum_ChairPoses::NewEnumerator15' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses'
+[2019.06.07-04.44.13:853][344]LogEnum: Warning: Enum name collision: 'Enum_ChairPoses::NewEnumerator6' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses'
+[2019.06.07-04.44.13:853][344]LogEnum: Warning: Enum name collision: 'Enum_ChairPoses::NewEnumerator7' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses'
+[2019.06.07-04.44.13:853][344]LogEnum: Warning: Enum name collision: 'Enum_ChairPoses::NewEnumerator8' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses'
+[2019.06.07-04.44.13:853][344]LogEnum: Warning: Enum name collision: 'Enum_ChairPoses::NewEnumerator9' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses'
+[2019.06.07-04.44.13:853][344]LogEnum: Warning: Enum name collision: 'Enum_ChairPoses::NewEnumerator10' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses'
+[2019.06.07-04.44.13:853][344]LogEnum: Warning: Enum name collision: 'Enum_ChairPoses::NewEnumerator11' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses'
+[2019.06.07-04.44.13:853][344]LogEnum: Warning: Enum name collision: 'Enum_ChairPoses::NewEnumerator12' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses'
+[2019.06.07-04.44.13:854][344]LogEnum: Warning: Enum name collision: 'Enum_ChairPoses::NewEnumerator13' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses'
+[2019.06.07-04.44.13:854][344]LogEnum: Warning: Enum name collision: 'Enum_ChairPoses::NewEnumerator14' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_ChairPoses.Enum_ChairPoses'
+[2019.06.07-04.44.13:859][344]LogEnum: Warning: Enum name collision: 'Enum_GroundPoses::NewEnumerator0' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_GroundPoses.Enum_GroundPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_GroundPoses.Enum_GroundPoses'
+[2019.06.07-04.44.13:859][344]LogEnum: Warning: Enum name collision: 'Enum_GroundPoses::NewEnumerator1' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_GroundPoses.Enum_GroundPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_GroundPoses.Enum_GroundPoses'
+[2019.06.07-04.44.13:859][344]LogEnum: Warning: Enum name collision: 'Enum_GroundPoses::NewEnumerator2' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_GroundPoses.Enum_GroundPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_GroundPoses.Enum_GroundPoses'
+[2019.06.07-04.44.13:859][344]LogEnum: Warning: Enum name collision: 'Enum_GroundPoses::NewEnumerator3' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_GroundPoses.Enum_GroundPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_GroundPoses.Enum_GroundPoses'
+[2019.06.07-04.44.13:859][344]LogEnum: Warning: Enum name collision: 'Enum_GroundPoses::NewEnumerator4' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_GroundPoses.Enum_GroundPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_GroundPoses.Enum_GroundPoses'
+[2019.06.07-04.44.13:859][344]LogEnum: Warning: Enum name collision: 'Enum_GroundPoses::NewEnumerator5' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_GroundPoses.Enum_GroundPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_GroundPoses.Enum_GroundPoses'
+[2019.06.07-04.44.13:859][344]LogEnum: Warning: Enum name collision: 'Enum_GroundPoses::NewEnumerator6' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_GroundPoses.Enum_GroundPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_GroundPoses.Enum_GroundPoses'
+[2019.06.07-04.44.13:859][344]LogEnum: Warning: Enum name collision: 'Enum_GroundPoses::NewEnumerator7' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_GroundPoses.Enum_GroundPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_GroundPoses.Enum_GroundPoses'
+[2019.06.07-04.44.13:859][344]LogEnum: Warning: Enum name collision: 'Enum_GroundPoses::NewEnumerator8' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_GroundPoses.Enum_GroundPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_GroundPoses.Enum_GroundPoses'
+[2019.06.07-04.44.13:859][344]LogEnum: Warning: Enum name collision: 'Enum_GroundPoses::Enum_MAX' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_GroundPoses.Enum_GroundPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_GroundPoses.Enum_GroundPoses'
+[2019.06.07-04.44.13:859][344]LogEnum: Warning: Enum name collision: 'Enum_GroundPoses::NewEnumerator0' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_GroundPoses.Enum_GroundPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_GroundPoses.Enum_GroundPoses'
+[2019.06.07-04.44.13:859][344]LogEnum: Warning: Enum name collision: 'Enum_GroundPoses::NewEnumerator1' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_GroundPoses.Enum_GroundPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_GroundPoses.Enum_GroundPoses'
+[2019.06.07-04.44.13:859][344]LogEnum: Warning: Enum name collision: 'Enum_GroundPoses::NewEnumerator2' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_GroundPoses.Enum_GroundPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_GroundPoses.Enum_GroundPoses'
+[2019.06.07-04.44.13:859][344]LogEnum: Warning: Enum name collision: 'Enum_GroundPoses::NewEnumerator3' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_GroundPoses.Enum_GroundPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_GroundPoses.Enum_GroundPoses'
+[2019.06.07-04.44.13:859][344]LogEnum: Warning: Enum name collision: 'Enum_GroundPoses::NewEnumerator4' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_GroundPoses.Enum_GroundPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_GroundPoses.Enum_GroundPoses'
+[2019.06.07-04.44.13:859][344]LogEnum: Warning: Enum name collision: 'Enum_GroundPoses::NewEnumerator5' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_GroundPoses.Enum_GroundPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_GroundPoses.Enum_GroundPoses'
+[2019.06.07-04.44.13:859][344]LogEnum: Warning: Enum name collision: 'Enum_GroundPoses::NewEnumerator6' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_GroundPoses.Enum_GroundPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_GroundPoses.Enum_GroundPoses'
+[2019.06.07-04.44.13:859][344]LogEnum: Warning: Enum name collision: 'Enum_GroundPoses::NewEnumerator7' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_GroundPoses.Enum_GroundPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_GroundPoses.Enum_GroundPoses'
+[2019.06.07-04.44.13:859][344]LogEnum: Warning: Enum name collision: 'Enum_GroundPoses::NewEnumerator8' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_GroundPoses.Enum_GroundPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_GroundPoses.Enum_GroundPoses'
+[2019.06.07-04.44.13:865][344]LogEnum: Warning: Enum name collision: 'Enum_SitPoses::NewEnumerator0' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_SitPoses.Enum_SitPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_SitPoses.Enum_SitPoses'
+[2019.06.07-04.44.13:865][344]LogEnum: Warning: Enum name collision: 'Enum_SitPoses::NewEnumerator1' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_SitPoses.Enum_SitPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_SitPoses.Enum_SitPoses'
+[2019.06.07-04.44.13:865][344]LogEnum: Warning: Enum name collision: 'Enum_SitPoses::NewEnumerator2' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_SitPoses.Enum_SitPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_SitPoses.Enum_SitPoses'
+[2019.06.07-04.44.13:865][344]LogEnum: Warning: Enum name collision: 'Enum_SitPoses::Enum_MAX' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_SitPoses.Enum_SitPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_SitPoses.Enum_SitPoses'
+[2019.06.07-04.44.13:865][344]LogEnum: Warning: Enum name collision: 'Enum_SitPoses::NewEnumerator0' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_SitPoses.Enum_SitPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_SitPoses.Enum_SitPoses'
+[2019.06.07-04.44.13:865][344]LogEnum: Warning: Enum name collision: 'Enum_SitPoses::NewEnumerator1' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_SitPoses.Enum_SitPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_SitPoses.Enum_SitPoses'
+[2019.06.07-04.44.13:865][344]LogEnum: Warning: Enum name collision: 'Enum_SitPoses::NewEnumerator2' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_SitPoses.Enum_SitPoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_SitPoses.Enum_SitPoses'
+[2019.06.07-04.44.13:870][344]LogEnum: Warning: Enum name collision: 'Enum_SitStates::NewEnumerator0' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_SitStates.Enum_SitStates' and '/Game/HaveASitPack/Blueprints/Enums/Enum_SitStates.Enum_SitStates'
+[2019.06.07-04.44.13:870][344]LogEnum: Warning: Enum name collision: 'Enum_SitStates::NewEnumerator1' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_SitStates.Enum_SitStates' and '/Game/HaveASitPack/Blueprints/Enums/Enum_SitStates.Enum_SitStates'
+[2019.06.07-04.44.13:870][344]LogEnum: Warning: Enum name collision: 'Enum_SitStates::NewEnumerator2' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_SitStates.Enum_SitStates' and '/Game/HaveASitPack/Blueprints/Enums/Enum_SitStates.Enum_SitStates'
+[2019.06.07-04.44.13:870][344]LogEnum: Warning: Enum name collision: 'Enum_SitStates::NewEnumerator3' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_SitStates.Enum_SitStates' and '/Game/HaveASitPack/Blueprints/Enums/Enum_SitStates.Enum_SitStates'
+[2019.06.07-04.44.13:870][344]LogEnum: Warning: Enum name collision: 'Enum_SitStates::Enum_MAX' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_SitStates.Enum_SitStates' and '/Game/HaveASitPack/Blueprints/Enums/Enum_SitStates.Enum_SitStates'
+[2019.06.07-04.44.13:870][344]LogEnum: Warning: Enum name collision: 'Enum_SitStates::NewEnumerator0' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_SitStates.Enum_SitStates' and '/Game/HaveASitPack/Blueprints/Enums/Enum_SitStates.Enum_SitStates'
+[2019.06.07-04.44.13:870][344]LogEnum: Warning: Enum name collision: 'Enum_SitStates::NewEnumerator1' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_SitStates.Enum_SitStates' and '/Game/HaveASitPack/Blueprints/Enums/Enum_SitStates.Enum_SitStates'
+[2019.06.07-04.44.13:871][344]LogEnum: Warning: Enum name collision: 'Enum_SitStates::NewEnumerator2' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_SitStates.Enum_SitStates' and '/Game/HaveASitPack/Blueprints/Enums/Enum_SitStates.Enum_SitStates'
+[2019.06.07-04.44.13:871][344]LogEnum: Warning: Enum name collision: 'Enum_SitStates::NewEnumerator3' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_SitStates.Enum_SitStates' and '/Game/HaveASitPack/Blueprints/Enums/Enum_SitStates.Enum_SitStates'
+[2019.06.07-04.44.13:876][344]LogEnum: Warning: Enum name collision: 'Enum_TablePoses::NewEnumerator0' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_TablePoses.Enum_TablePoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_TablePoses.Enum_TablePoses'
+[2019.06.07-04.44.13:876][344]LogEnum: Warning: Enum name collision: 'Enum_TablePoses::NewEnumerator1' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_TablePoses.Enum_TablePoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_TablePoses.Enum_TablePoses'
+[2019.06.07-04.44.13:876][344]LogEnum: Warning: Enum name collision: 'Enum_TablePoses::Enum_MAX' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_TablePoses.Enum_TablePoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_TablePoses.Enum_TablePoses'
+[2019.06.07-04.44.13:876][344]LogEnum: Warning: Enum name collision: 'Enum_TablePoses::NewEnumerator0' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_TablePoses.Enum_TablePoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_TablePoses.Enum_TablePoses'
+[2019.06.07-04.44.13:876][344]LogEnum: Warning: Enum name collision: 'Enum_TablePoses::NewEnumerator1' is in both '/Game/SittingPack/Content/HaveASitPack/Blueprints/Enums/Enum_TablePoses.Enum_TablePoses' and '/Game/HaveASitPack/Blueprints/Enums/Enum_TablePoses.Enum_TablePoses'
+[2019.06.07-04.44.13:897][344]LogClass: Warning: Enum '/Game/UI_Kit/Blueprints/Objectives/E_ObjectiveType.E_ObjectiveType' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2019.06.07-04.44.13:900][344]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::ROund' is in both '/Game/UI_Kit/Showcase/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/AdvancedMagicFX12/DemoRoomData/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.06.07-04.44.13:900][344]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::SquareL' is in both '/Game/UI_Kit/Showcase/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/AdvancedMagicFX12/DemoRoomData/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.06.07-04.44.13:900][344]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::RoomL' is in both '/Game/UI_Kit/Showcase/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/AdvancedMagicFX12/DemoRoomData/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.06.07-04.44.13:900][344]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::DescriptionOnly' is in both '/Game/UI_Kit/Showcase/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/AdvancedMagicFX12/DemoRoomData/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.06.07-04.44.13:900][344]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::NewEnumerator0' is in both '/Game/UI_Kit/Showcase/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/AdvancedMagicFX12/DemoRoomData/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.06.07-04.44.13:900][344]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::BP_DemoDisplay_MAX' is in both '/Game/UI_Kit/Showcase/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/AdvancedMagicFX12/DemoRoomData/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.06.07-04.44.13:900][344]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::ROund' is in both '/Game/UI_Kit/Showcase/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/AdvancedMagicFX12/DemoRoomData/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.06.07-04.44.13:900][344]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::SquareL' is in both '/Game/UI_Kit/Showcase/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/AdvancedMagicFX12/DemoRoomData/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.06.07-04.44.13:901][344]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::RoomL' is in both '/Game/UI_Kit/Showcase/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/AdvancedMagicFX12/DemoRoomData/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.06.07-04.44.13:901][344]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::DescriptionOnly' is in both '/Game/UI_Kit/Showcase/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/AdvancedMagicFX12/DemoRoomData/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.06.07-04.44.13:901][344]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::NewEnumerator0' is in both '/Game/UI_Kit/Showcase/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/AdvancedMagicFX12/DemoRoomData/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.06.07-04.44.13:901][344]LogClass: Warning: Enum '/Game/UI_Kit/Showcase/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2019.06.07-04.44.13:904][344]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::Standard' is in both '/Game/UI_Kit/Showcase/DemoRoom/BluePrint/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/AdvancedMagicFX12/DemoRoomData/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.06.07-04.44.13:904][344]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::RoofwithHole' is in both '/Game/UI_Kit/Showcase/DemoRoom/BluePrint/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/AdvancedMagicFX12/DemoRoomData/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.06.07-04.44.13:904][344]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::RoofOpen' is in both '/Game/UI_Kit/Showcase/DemoRoom/BluePrint/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/AdvancedMagicFX12/DemoRoomData/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.06.07-04.44.13:904][344]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::BP_DemoRoom_MAX' is in both '/Game/UI_Kit/Showcase/DemoRoom/BluePrint/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/AdvancedMagicFX12/DemoRoomData/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.06.07-04.44.13:904][344]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::Standard' is in both '/Game/UI_Kit/Showcase/DemoRoom/BluePrint/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/AdvancedMagicFX12/DemoRoomData/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.06.07-04.44.13:904][344]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::RoofwithHole' is in both '/Game/UI_Kit/Showcase/DemoRoom/BluePrint/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/AdvancedMagicFX12/DemoRoomData/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.06.07-04.44.13:904][344]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::RoofOpen' is in both '/Game/UI_Kit/Showcase/DemoRoom/BluePrint/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/AdvancedMagicFX12/DemoRoomData/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.06.07-04.44.13:947][344]LogClass: Warning: Enum '/Game/UI_Kit/Widgets/Window/ResizeType.ResizeType' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2019.06.07-04.44.14:200][344]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 117 classes and 0 folders.
+[2019.06.07-04.44.15:958][344]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	BP_Animation_C /Engine/Transient.World_19:PersistentLevel.BP_Character_C_0.CharacterMesh0.BP_Animation_C_0
+	Function /Game/Assignment/Character/BP_Animation.BP_Animation_C:ExecuteUbergraph_BP_Animation:004F
+[2019.06.07-04.44.15:962][344]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	BP_Animation_C /Engine/Transient.World_19:PersistentLevel.BP_Character_C_0.CharacterMesh0.BP_Animation_C_0
+	Function /Game/Assignment/Character/BP_Animation.BP_Animation_C:ExecuteUbergraph_BP_Animation:004F
+[2019.06.07-04.44.16:031][344]LogSlate: Took 0.024941 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.06.07-04.44.16:890][345]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	BP_Animation_C /Engine/Transient.World_19:PersistentLevel.BP_Character_C_0.CharacterMesh0.BP_Animation_C_0
+	Function /Game/Assignment/Character/BP_Animation.BP_Animation_C:ExecuteUbergraph_BP_Animation:004F
+[2019.06.07-04.44.16:967][346]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	BP_Animation_C /Engine/Transient.World_19:PersistentLevel.BP_Character_C_0.CharacterMesh0.BP_Animation_C_0
+	Function /Game/Assignment/Character/BP_Animation.BP_Animation_C:ExecuteUbergraph_BP_Animation:004F
+[2019.06.07-04.44.16:986][347]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	BP_Animation_C /Engine/Transient.World_19:PersistentLevel.BP_Character_C_0.CharacterMesh0.BP_Animation_C_0
+	Function /Game/Assignment/Character/BP_Animation.BP_Animation_C:ExecuteUbergraph_BP_Animation:004F
+[2019.06.07-04.44.17:003][348]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	BP_Animation_C /Engine/Transient.World_19:PersistentLevel.BP_Character_C_0.CharacterMesh0.BP_Animation_C_0
+	Function /Game/Assignment/Character/BP_Animation.BP_Animation_C:ExecuteUbergraph_BP_Animation:004F
+[2019.06.07-04.44.17:077][349]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	BP_Animation_C /Engine/Transient.World_19:PersistentLevel.BP_Character_C_0.CharacterMesh0.BP_Animation_C_0
+	Function /Game/Assignment/Character/BP_Animation.BP_Animation_C:ExecuteUbergraph_BP_Animation:004F
+[2019.06.07-04.44.17:145][350]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	BP_Animation_C /Engine/Transient.World_19:PersistentLevel.BP_Character_C_0.CharacterMesh0.BP_Animation_C_0
+	Function /Game/Assignment/Character/BP_Animation.BP_Animation_C:ExecuteUbergraph_BP_Animation:004F
+[2019.06.07-04.44.17:165][351]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	BP_Animation_C /Engine/Transient.World_19:PersistentLevel.BP_Character_C_0.CharacterMesh0.BP_Animation_C_0
+	Function /Game/Assignment/Character/BP_Animation.BP_Animation_C:ExecuteUbergraph_BP_Animation:004F
+[2019.06.07-04.44.17:228][352]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	BP_Animation_C /Engine/Transient.World_19:PersistentLevel.BP_Character_C_0.CharacterMesh0.BP_Animation_C_0
+	Function /Game/Assignment/Character/BP_Animation.BP_Animation_C:ExecuteUbergraph_BP_Animation:004F
+[2019.06.07-04.44.17:247][353]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	BP_Animation_C /Engine/Transient.World_19:PersistentLevel.BP_Character_C_0.CharacterMesh0.BP_Animation_C_0
+	Function /Game/Assignment/Character/BP_Animation.BP_Animation_C:ExecuteUbergraph_BP_Animation:004F
+[2019.06.07-04.44.17:270][354]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	BP_Animation_C /Engine/Transient.World_19:PersistentLevel.BP_Character_C_0.CharacterMesh0.BP_Animation_C_0
+	Function /Game/Assignment/Character/BP_Animation.BP_Animation_C:ExecuteUbergraph_BP_Animation:004F
+[2019.06.07-04.44.17:290][355]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	BP_Animation_C /Engine/Transient.World_19:PersistentLevel.BP_Character_C_0.CharacterMesh0.BP_Animation_C_0
+	Function /Game/Assignment/Character/BP_Animation.BP_Animation_C:ExecuteUbergraph_BP_Animation:004F
+[2019.06.07-04.44.17:311][356]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	BP_Animation_C /Engine/Transient.World_19:PersistentLevel.BP_Character_C_0.CharacterMesh0.BP_Animation_C_0
+	Function /Game/Assignment/Character/BP_Animation.BP_Animation_C:ExecuteUbergraph_BP_Animation:004F
+[2019.06.07-04.44.17:330][357]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	BP_Animation_C /Engine/Transient.World_19:PersistentLevel.BP_Character_C_0.CharacterMesh0.BP_Animation_C_0
+	Function /Game/Assignment/Character/BP_Animation.BP_Animation_C:ExecuteUbergraph_BP_Animation:004F
+[2019.06.07-04.44.32:112][ 49]BlueprintLog: New page: Compile BP_Character
+[2019.06.07-04.44.32:607][ 49]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	BP_Animation_C /Engine/Transient.World_17:PersistentLevel.BP_Character_C_0.CharacterMesh0.BP_Animation_C_1
+	Function /Game/Assignment/Character/BP_Animation.BP_Animation_C:ExecuteUbergraph_BP_Animation:004F
+[2019.06.07-04.44.32:610][ 49]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	BP_Animation_C /Engine/Transient.World_19:PersistentLevel.BP_Character_C_0.CharacterMesh0.BP_Animation_C_1
+	Function /Game/Assignment/Character/BP_Animation.BP_Animation_C:ExecuteUbergraph_BP_Animation:004F
+[2019.06.07-04.44.32:930][ 49]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	BP_Animation_C /Engine/Transient.World_17:PersistentLevel.BP_Character_C_0.CharacterMesh0.BP_Animation_C_1
+	Function /Game/Assignment/Character/BP_Animation.BP_Animation_C:ExecuteUbergraph_BP_Animation:004F
+[2019.06.07-04.44.32:931][ 49]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	BP_Animation_C /Engine/Transient.World_17:PersistentLevel.BP_Character_C_0.CharacterMesh0.BP_Animation_C_1
+	Function /Game/Assignment/Character/BP_Animation.BP_Animation_C:ExecuteUbergraph_BP_Animation:004F
+[2019.06.07-04.44.32:932][ 49]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	BP_Animation_C /Engine/Transient.World_19:PersistentLevel.BP_Character_C_0.CharacterMesh0.BP_Animation_C_1
+	Function /Game/Assignment/Character/BP_Animation.BP_Animation_C:ExecuteUbergraph_BP_Animation:004F
+[2019.06.07-04.44.32:934][ 49]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	BP_Animation_C /Engine/Transient.World_19:PersistentLevel.BP_Character_C_0.CharacterMesh0.BP_Animation_C_1
+	Function /Game/Assignment/Character/BP_Animation.BP_Animation_C:ExecuteUbergraph_BP_Animation:004F
+[2019.06.07-04.44.32:994][ 49]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	BP_Animation_C /Engine/Transient.World_19:PersistentLevel.BP_Character_C_0.CharacterMesh0.BP_Animation_C_1
+	Function /Game/Assignment/Character/BP_Animation.BP_Animation_C:ExecuteUbergraph_BP_Animation:004F
+[2019.06.07-04.44.32:996][ 49]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	BP_Animation_C /Engine/Transient.World_19:PersistentLevel.BP_Character_C_0.CharacterMesh0.BP_Animation_C_1
+	Function /Game/Assignment/Character/BP_Animation.BP_Animation_C:ExecuteUbergraph_BP_Animation:004F
+[2019.06.07-04.44.33:011][ 49]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	BP_Animation_C /Engine/Transient.World_19:PersistentLevel.BP_Character_C_0.CharacterMesh0.BP_Animation_C_1
+	Function /Game/Assignment/Character/BP_Animation.BP_Animation_C:ExecuteUbergraph_BP_Animation:004F
+[2019.06.07-04.44.33:424][ 50]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	BP_Animation_C /Engine/Transient.World_19:PersistentLevel.BP_Character_C_0.CharacterMesh0.BP_Animation_C_1
+	Function /Game/Assignment/Character/BP_Animation.BP_Animation_C:ExecuteUbergraph_BP_Animation:004F
+[2019.06.07-04.44.33:443][ 51]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	BP_Animation_C /Engine/Transient.World_19:PersistentLevel.BP_Character_C_0.CharacterMesh0.BP_Animation_C_1
+	Function /Game/Assignment/Character/BP_Animation.BP_Animation_C:ExecuteUbergraph_BP_Animation:004F
+[2019.06.07-04.44.33:477][ 52]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	BP_Animation_C /Engine/Transient.World_19:PersistentLevel.BP_Character_C_0.CharacterMesh0.BP_Animation_C_1
+	Function /Game/Assignment/Character/BP_Animation.BP_Animation_C:ExecuteUbergraph_BP_Animation:004F
+[2019.06.07-04.44.33:499][ 53]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	BP_Animation_C /Engine/Transient.World_19:PersistentLevel.BP_Character_C_0.CharacterMesh0.BP_Animation_C_1
+	Function /Game/Assignment/Character/BP_Animation.BP_Animation_C:ExecuteUbergraph_BP_Animation:004F
+[2019.06.07-04.44.33:521][ 54]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	BP_Animation_C /Engine/Transient.World_19:PersistentLevel.BP_Character_C_0.CharacterMesh0.BP_Animation_C_1
+	Function /Game/Assignment/Character/BP_Animation.BP_Animation_C:ExecuteUbergraph_BP_Animation:004F
+[2019.06.07-04.44.33:539][ 55]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	BP_Animation_C /Engine/Transient.World_19:PersistentLevel.BP_Character_C_0.CharacterMesh0.BP_Animation_C_1
+	Function /Game/Assignment/Character/BP_Animation.BP_Animation_C:ExecuteUbergraph_BP_Animation:004F
+[2019.06.07-04.44.33:559][ 56]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	BP_Animation_C /Engine/Transient.World_19:PersistentLevel.BP_Character_C_0.CharacterMesh0.BP_Animation_C_1
+	Function /Game/Assignment/Character/BP_Animation.BP_Animation_C:ExecuteUbergraph_BP_Animation:004F
+[2019.06.07-04.44.33:577][ 57]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	BP_Animation_C /Engine/Transient.World_19:PersistentLevel.BP_Character_C_0.CharacterMesh0.BP_Animation_C_1
+	Function /Game/Assignment/Character/BP_Animation.BP_Animation_C:ExecuteUbergraph_BP_Animation:004F
+[2019.06.07-04.45.26:814][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/Character/BP_Character" FILE="../../../../Assignment/GameRepo/GameDesign/test/test/Content/Assignment/Character/BP_Character.uasset" SILENT=true
+[2019.06.07-04.45.27:347][520]LogSavePackage: Moving '../../../../Assignment/GameRepo/GameDesign/test/test/Saved/BP_CharacterDA10C7204A09A79A31E02BAD03F99DDE.tmp' to '../../../../Assignment/GameRepo/GameDesign/test/test/Content/Assignment/Character/BP_Character.uasset'
+[2019.06.07-04.45.27:760][538]BlueprintLog: New page: Compile BP_Character
+[2019.06.07-04.45.41:919][212]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/Character/BP_Character" FILE="../../../../Assignment/GameRepo/GameDesign/test/test/Content/Assignment/Character/BP_Character.uasset" SILENT=true
+[2019.06.07-04.45.42:406][212]LogSavePackage: Moving '../../../../Assignment/GameRepo/GameDesign/test/test/Saved/BP_CharacterF0E11D8F4AF2D7A8CDB1029553291376.tmp' to '../../../../Assignment/GameRepo/GameDesign/test/test/Content/Assignment/Character/BP_Character.uasset'
+[2019.06.07-04.45.43:359][250]BlueprintLog: New page: Compile BP_Character
+[2019.06.07-04.45.46:748][365]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/Character/BP_Character" FILE="../../../../Assignment/GameRepo/GameDesign/test/test/Content/Assignment/Character/BP_Character.uasset" SILENT=true
+[2019.06.07-04.45.47:235][365]LogSavePackage: Moving '../../../../Assignment/GameRepo/GameDesign/test/test/Saved/BP_Character4E1AE0FF480A40F6BCCB33BF9ECAD20C.tmp' to '../../../../Assignment/GameRepo/GameDesign/test/test/Content/Assignment/Character/BP_Character.uasset'
+[2019.06.07-04.46.42:850][999]LogEditorTransaction: Undo Add Node
+[2019.06.07-04.46.43:368][999]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.07-04.46.43:374][999]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.07-04.46.43:376][999]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.07-04.46.43:381][999]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.07-04.46.43:390][999]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.07-04.47.36:321][449]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/Character/BP_Character" FILE="../../../../Assignment/GameRepo/GameDesign/test/test/Content/Assignment/Character/BP_Character.uasset" SILENT=true
+[2019.06.07-04.47.36:790][449]LogSavePackage: Moving '../../../../Assignment/GameRepo/GameDesign/test/test/Saved/BP_Character5D8AFB8749D6165BFDBF61B7698434B0.tmp' to '../../../../Assignment/GameRepo/GameDesign/test/test/Content/Assignment/Character/BP_Character.uasset'
+[2019.06.07-04.47.37:243][468]BlueprintLog: New page: Compile BP_Character
+[2019.06.07-04.47.41:466][634]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.07-04.47.41:514][634]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Assignment/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Assignment/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Assignment/Main.Main_C' with ClassGeneratedBy '/Game/Assignment/Main.Main:PersistentLevel.Main'
+[2019.06.07-04.47.41:514][634]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.07-04.47.41:514][634]PIE: New page: PIE session: Main (Jun 7, 2019, 11:47:41 PM)
+[2019.06.07-04.47.41:514][634]LogPlayLevel: Creating play world package: /Game/Assignment/UEDPIE_0_Main
+[2019.06.07-04.47.41:603][634]LogPlayLevel: PIE: StaticDuplicateObject took: (0.087644s)
+[2019.06.07-04.47.41:603][634]LogAIModule: Creating AISystem for world Main
+[2019.06.07-04.47.41:603][634]LogPlayLevel: PIE: World Init took: (0.000610s)
+[2019.06.07-04.47.41:604][634]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assignment/Main.Main to /Game/Assignment/UEDPIE_0_Main.Main (0.088547s)
+[2019.06.07-04.47.41:651][634]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.07-04.47.41:723][634]LogInit: FAudioDevice initialized.
+[2019.06.07-04.47.41:755][634]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.07-04.47.41:788][634]LogWorld: Bringing World /Game/Assignment/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2019.06.07-14.17.41
+[2019.06.07-04.47.41:792][634]LogWorld: Bringing up level for play took: 0.034834
+[2019.06.07-04.47.41:806][634]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  BP_Animation Function:  Execute Ubergraph BP Animation Graph:  EventGraph Node:  Set IsCrouched
+[2019.06.07-04.47.41:813][634]PIE: Play in editor start time for /Game/Assignment/UEDPIE_0_Main 1.044
+[2019.06.07-04.47.41:813][634]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Assignment/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Assignment/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Assignment/Main.Main_C' with ClassGeneratedBy '/Game/Assignment/Main.Main:PersistentLevel.Main'
+[2019.06.07-04.47.45:980][872]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Array' of length 1 in '/Game/Assignment/Character/HUD/UI_Inventory.UI_Inventory_C:SetWightStyle'!
+[2019.06.07-04.47.45:981][872]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Inventory' of length 1 in '/Game/Assignment/Character/BP_Character.BP_Character_C'!
+[2019.06.07-04.47.45:981][872]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Array' of length 1 in '/Game/Assignment/Character/HUD/UI_Inventory.UI_Inventory_C:SetWightStyle'!
+[2019.06.07-04.47.45:981][872]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Inventory' of length 1 in '/Game/Assignment/Character/BP_Character.BP_Character_C'!
+[2019.06.07-04.47.45:981][872]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'Array' of length 1 in '/Game/Assignment/Character/HUD/UI_Inventory.UI_Inventory_C:SetWightStyle'!
+[2019.06.07-04.47.45:981][872]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'Inventory' of length 1 in '/Game/Assignment/Character/BP_Character.BP_Character_C'!
+[2019.06.07-04.47.45:982][872]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'Array' of length 1 in '/Game/Assignment/Character/HUD/UI_Inventory.UI_Inventory_C:SetWightStyle'!
+[2019.06.07-04.47.45:982][872]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'Inventory' of length 1 in '/Game/Assignment/Character/BP_Character.BP_Character_C'!
+[2019.06.07-04.47.45:982][872]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'Array' of length 1 in '/Game/Assignment/Character/HUD/UI_Inventory.UI_Inventory_C:SetWightStyle'!
+[2019.06.07-04.47.45:982][872]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'Inventory' of length 1 in '/Game/Assignment/Character/BP_Character.BP_Character_C'!
+[2019.06.07-04.47.45:982][872]LogScript: Warning: Script Msg: Attempted to access index 6 from array 'Array' of length 1 in '/Game/Assignment/Character/HUD/UI_Inventory.UI_Inventory_C:SetWightStyle'!
+[2019.06.07-04.47.45:982][872]LogScript: Warning: Script Msg: Attempted to access index 6 from array 'Inventory' of length 1 in '/Game/Assignment/Character/BP_Character.BP_Character_C'!
+[2019.06.07-04.47.45:982][872]LogScript: Warning: Script Msg: Attempted to access index 7 from array 'Array' of length 1 in '/Game/Assignment/Character/HUD/UI_Inventory.UI_Inventory_C:SetWightStyle'!
+[2019.06.07-04.47.45:982][872]LogScript: Warning: Script Msg: Attempted to access index 7 from array 'Inventory' of length 1 in '/Game/Assignment/Character/BP_Character.BP_Character_C'!
+[2019.06.07-04.47.45:983][872]LogScript: Warning: Script Msg: Attempted to access index 8 from array 'Array' of length 1 in '/Game/Assignment/Character/HUD/UI_Inventory.UI_Inventory_C:SetWightStyle'!
+[2019.06.07-04.47.45:983][872]LogScript: Warning: Script Msg: Attempted to access index 8 from array 'Inventory' of length 1 in '/Game/Assignment/Character/BP_Character.BP_Character_C'!
+[2019.06.07-04.47.45:983][872]LogScript: Warning: Script Msg: Attempted to access index 9 from array 'Array' of length 1 in '/Game/Assignment/Character/HUD/UI_Inventory.UI_Inventory_C:SetWightStyle'!
+[2019.06.07-04.47.45:983][872]LogScript: Warning: Script Msg: Attempted to access index 9 from array 'Inventory' of length 1 in '/Game/Assignment/Character/BP_Character.BP_Character_C'!
+[2019.06.07-04.47.45:983][872]LogScript: Warning: Script Msg: Attempted to access index 10 from array 'Array' of length 1 in '/Game/Assignment/Character/HUD/UI_Inventory.UI_Inventory_C:SetWightStyle'!
+[2019.06.07-04.47.45:983][872]LogScript: Warning: Script Msg: Attempted to access index 10 from array 'Inventory' of length 1 in '/Game/Assignment/Character/BP_Character.BP_Character_C'!
+[2019.06.07-04.47.45:984][872]LogScript: Warning: Script Msg: Attempted to access index 11 from array 'Array' of length 1 in '/Game/Assignment/Character/HUD/UI_Inventory.UI_Inventory_C:SetWightStyle'!
+[2019.06.07-04.47.45:984][872]LogScript: Warning: Script Msg: Attempted to access index 11 from array 'Inventory' of length 1 in '/Game/Assignment/Character/BP_Character.BP_Character_C'!
+[2019.06.07-04.47.45:984][872]LogScript: Warning: Script Msg: Attempted to access index 12 from array 'Array' of length 1 in '/Game/Assignment/Character/HUD/UI_Inventory.UI_Inventory_C:SetWightStyle'!
+[2019.06.07-04.47.45:984][872]LogScript: Warning: Script Msg: Attempted to access index 12 from array 'Inventory' of length 1 in '/Game/Assignment/Character/BP_Character.BP_Character_C'!
+[2019.06.07-04.47.45:984][872]LogScript: Warning: Script Msg: Attempted to access index 13 from array 'Array' of length 1 in '/Game/Assignment/Character/HUD/UI_Inventory.UI_Inventory_C:SetWightStyle'!
+[2019.06.07-04.47.45:984][872]LogScript: Warning: Script Msg: Attempted to access index 13 from array 'Inventory' of length 1 in '/Game/Assignment/Character/BP_Character.BP_Character_C'!
+[2019.06.07-04.47.45:984][872]LogScript: Warning: Script Msg: Attempted to access index 14 from array 'Array' of length 1 in '/Game/Assignment/Character/HUD/UI_Inventory.UI_Inventory_C:SetWightStyle'!
+[2019.06.07-04.47.45:984][872]LogScript: Warning: Script Msg: Attempted to access index 14 from array 'Inventory' of length 1 in '/Game/Assignment/Character/BP_Character.BP_Character_C'!
+[2019.06.07-04.47.45:985][872]LogScript: Warning: Script Msg: Attempted to access index 15 from array 'Array' of length 1 in '/Game/Assignment/Character/HUD/UI_Inventory.UI_Inventory_C:SetWightStyle'!
+[2019.06.07-04.47.45:985][872]LogScript: Warning: Script Msg: Attempted to access index 15 from array 'Inventory' of length 1 in '/Game/Assignment/Character/BP_Character.BP_Character_C'!
+[2019.06.07-04.47.45:985][872]LogScript: Warning: Script Msg: Attempted to access index 16 from array 'Array' of length 1 in '/Game/Assignment/Character/HUD/UI_Inventory.UI_Inventory_C:SetWightStyle'!
+[2019.06.07-04.47.45:985][872]LogScript: Warning: Script Msg: Attempted to access index 16 from array 'Inventory' of length 1 in '/Game/Assignment/Character/BP_Character.BP_Character_C'!
+[2019.06.07-04.47.45:985][872]LogScript: Warning: Script Msg: Attempted to access index 17 from array 'Array' of length 1 in '/Game/Assignment/Character/HUD/UI_Inventory.UI_Inventory_C:SetWightStyle'!
+[2019.06.07-04.47.45:985][872]LogScript: Warning: Script Msg: Attempted to access index 17 from array 'Inventory' of length 1 in '/Game/Assignment/Character/BP_Character.BP_Character_C'!
+[2019.06.07-04.47.45:985][872]LogScript: Warning: Script Msg: Attempted to access index 18 from array 'Array' of length 1 in '/Game/Assignment/Character/HUD/UI_Inventory.UI_Inventory_C:SetWightStyle'!
+[2019.06.07-04.47.45:985][872]LogScript: Warning: Script Msg: Attempted to access index 18 from array 'Inventory' of length 1 in '/Game/Assignment/Character/BP_Character.BP_Character_C'!
+[2019.06.07-04.47.45:986][872]LogScript: Warning: Script Msg: Attempted to access index 19 from array 'Array' of length 1 in '/Game/Assignment/Character/HUD/UI_Inventory.UI_Inventory_C:SetWightStyle'!
+[2019.06.07-04.47.45:986][872]LogScript: Warning: Script Msg: Attempted to access index 19 from array 'Inventory' of length 1 in '/Game/Assignment/Character/BP_Character.BP_Character_C'!
+[2019.06.07-04.47.45:986][872]LogScript: Warning: Script Msg: Attempted to access index 20 from array 'Array' of length 1 in '/Game/Assignment/Character/HUD/UI_Inventory.UI_Inventory_C:SetWightStyle'!
+[2019.06.07-04.47.45:986][872]LogScript: Warning: Script Msg: Attempted to access index 20 from array 'Inventory' of length 1 in '/Game/Assignment/Character/BP_Character.BP_Character_C'!
+[2019.06.07-04.47.45:986][872]LogScript: Warning: Script Msg: Attempted to access index 21 from array 'Array' of length 1 in '/Game/Assignment/Character/HUD/UI_Inventory.UI_Inventory_C:SetWightStyle'!
+[2019.06.07-04.47.45:986][872]LogScript: Warning: Script Msg: Attempted to access index 21 from array 'Inventory' of length 1 in '/Game/Assignment/Character/BP_Character.BP_Character_C'!
+[2019.06.07-04.47.45:987][872]LogScript: Warning: Script Msg: Attempted to access index 22 from array 'Array' of length 1 in '/Game/Assignment/Character/HUD/UI_Inventory.UI_Inventory_C:SetWightStyle'!
+[2019.06.07-04.47.45:987][872]LogScript: Warning: Script Msg: Attempted to access index 22 from array 'Inventory' of length 1 in '/Game/Assignment/Character/BP_Character.BP_Character_C'!
+[2019.06.07-04.47.45:987][872]LogScript: Warning: Script Msg: Attempted to access index 23 from array 'Array' of length 1 in '/Game/Assignment/Character/HUD/UI_Inventory.UI_Inventory_C:SetWightStyle'!
+[2019.06.07-04.47.45:987][872]LogScript: Warning: Script Msg: Attempted to access index 23 from array 'Inventory' of length 1 in '/Game/Assignment/Character/BP_Character.BP_Character_C'!
+[2019.06.07-04.47.45:987][872]LogScript: Warning: Script Msg: Attempted to access index 24 from array 'Array' of length 1 in '/Game/Assignment/Character/HUD/UI_Inventory.UI_Inventory_C:SetWightStyle'!
+[2019.06.07-04.47.45:987][872]LogScript: Warning: Script Msg: Attempted to access index 24 from array 'Inventory' of length 1 in '/Game/Assignment/Character/BP_Character.BP_Character_C'!
+[2019.06.07-04.47.46:786][920]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-04.47.47:651][972]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-04.47.47:719][976]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Array' of length 0 in '/Game/Assignment/Character/HUD/UI_Inventory.UI_Inventory_C:SetWightStyle'!
+[2019.06.07-04.47.47:719][976]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Inventory' of length 0 in '/Game/Assignment/Character/BP_Character.BP_Character_C'!
+[2019.06.07-04.47.47:719][976]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Array' of length 0 in '/Game/Assignment/Character/HUD/UI_Inventory.UI_Inventory_C:SetWightStyle'!
+[2019.06.07-04.47.47:719][976]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Inventory' of length 0 in '/Game/Assignment/Character/BP_Character.BP_Character_C'!
+[2019.06.07-04.47.47:719][976]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Array' of length 0 in '/Game/Assignment/Character/HUD/UI_Inventory.UI_Inventory_C:SetWightStyle'!
+[2019.06.07-04.47.47:719][976]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Inventory' of length 0 in '/Game/Assignment/Character/BP_Character.BP_Character_C'!
+[2019.06.07-04.47.47:720][976]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'Array' of length 0 in '/Game/Assignment/Character/HUD/UI_Inventory.UI_Inventory_C:SetWightStyle'!
+[2019.06.07-04.47.47:720][976]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'Inventory' of length 0 in '/Game/Assignment/Character/BP_Character.BP_Character_C'!
+[2019.06.07-04.47.47:720][976]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'Array' of length 0 in '/Game/Assignment/Character/HUD/UI_Inventory.UI_Inventory_C:SetWightStyle'!
+[2019.06.07-04.47.47:720][976]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'Inventory' of length 0 in '/Game/Assignment/Character/BP_Character.BP_Character_C'!
+[2019.06.07-04.47.47:720][976]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'Array' of length 0 in '/Game/Assignment/Character/HUD/UI_Inventory.UI_Inventory_C:SetWightStyle'!
+[2019.06.07-04.47.47:720][976]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'Inventory' of length 0 in '/Game/Assignment/Character/BP_Character.BP_Character_C'!
+[2019.06.07-04.47.47:720][976]LogScript: Warning: Script Msg: Attempted to access index 6 from array 'Array' of length 0 in '/Game/Assignment/Character/HUD/UI_Inventory.UI_Inventory_C:SetWightStyle'!
+[2019.06.07-04.47.47:720][976]LogScript: Warning: Script Msg: Attempted to access index 6 from array 'Inventory' of length 0 in '/Game/Assignment/Character/BP_Character.BP_Character_C'!
+[2019.06.07-04.47.47:721][976]LogScript: Warning: Script Msg: Attempted to access index 7 from array 'Array' of length 0 in '/Game/Assignment/Character/HUD/UI_Inventory.UI_Inventory_C:SetWightStyle'!
+[2019.06.07-04.47.47:721][976]LogScript: Warning: Script Msg: Attempted to access index 7 from array 'Inventory' of length 0 in '/Game/Assignment/Character/BP_Character.BP_Character_C'!
+[2019.06.07-04.47.47:721][976]LogScript: Warning: Script Msg: Attempted to access index 8 from array 'Array' of length 0 in '/Game/Assignment/Character/HUD/UI_Inventory.UI_Inventory_C:SetWightStyle'!
+[2019.06.07-04.47.47:721][976]LogScript: Warning: Script Msg: Attempted to access index 8 from array 'Inventory' of length 0 in '/Game/Assignment/Character/BP_Character.BP_Character_C'!
+[2019.06.07-04.47.47:721][976]LogScript: Warning: Script Msg: Attempted to access index 9 from array 'Array' of length 0 in '/Game/Assignment/Character/HUD/UI_Inventory.UI_Inventory_C:SetWightStyle'!
+[2019.06.07-04.47.47:722][976]LogScript: Warning: Script Msg: Attempted to access index 9 from array 'Inventory' of length 0 in '/Game/Assignment/Character/BP_Character.BP_Character_C'!
+[2019.06.07-04.47.47:722][976]LogScript: Warning: Script Msg: Attempted to access index 10 from array 'Array' of length 0 in '/Game/Assignment/Character/HUD/UI_Inventory.UI_Inventory_C:SetWightStyle'!
+[2019.06.07-04.47.47:722][976]LogScript: Warning: Script Msg: Attempted to access index 10 from array 'Inventory' of length 0 in '/Game/Assignment/Character/BP_Character.BP_Character_C'!
+[2019.06.07-04.47.47:722][976]LogScript: Warning: Script Msg: Attempted to access index 11 from array 'Array' of length 0 in '/Game/Assignment/Character/HUD/UI_Inventory.UI_Inventory_C:SetWightStyle'!
+[2019.06.07-04.47.47:722][976]LogScript: Warning: Script Msg: Attempted to access index 11 from array 'Inventory' of length 0 in '/Game/Assignment/Character/BP_Character.BP_Character_C'!
+[2019.06.07-04.47.47:722][976]LogScript: Warning: Script Msg: Attempted to access index 12 from array 'Array' of length 0 in '/Game/Assignment/Character/HUD/UI_Inventory.UI_Inventory_C:SetWightStyle'!
+[2019.06.07-04.47.47:722][976]LogScript: Warning: Script Msg: Attempted to access index 12 from array 'Inventory' of length 0 in '/Game/Assignment/Character/BP_Character.BP_Character_C'!
+[2019.06.07-04.47.47:723][976]LogScript: Warning: Script Msg: Attempted to access index 13 from array 'Array' of length 0 in '/Game/Assignment/Character/HUD/UI_Inventory.UI_Inventory_C:SetWightStyle'!
+[2019.06.07-04.47.47:723][976]LogScript: Warning: Script Msg: Attempted to access index 13 from array 'Inventory' of length 0 in '/Game/Assignment/Character/BP_Character.BP_Character_C'!
+[2019.06.07-04.47.47:723][976]LogScript: Warning: Script Msg: Attempted to access index 14 from array 'Array' of length 0 in '/Game/Assignment/Character/HUD/UI_Inventory.UI_Inventory_C:SetWightStyle'!
+[2019.06.07-04.47.47:723][976]LogScript: Warning: Script Msg: Attempted to access index 14 from array 'Inventory' of length 0 in '/Game/Assignment/Character/BP_Character.BP_Character_C'!
+[2019.06.07-04.47.47:723][976]LogScript: Warning: Script Msg: Attempted to access index 15 from array 'Array' of length 0 in '/Game/Assignment/Character/HUD/UI_Inventory.UI_Inventory_C:SetWightStyle'!
+[2019.06.07-04.47.47:723][976]LogScript: Warning: Script Msg: Attempted to access index 15 from array 'Inventory' of length 0 in '/Game/Assignment/Character/BP_Character.BP_Character_C'!
+[2019.06.07-04.47.47:723][976]LogScript: Warning: Script Msg: Attempted to access index 16 from array 'Array' of length 0 in '/Game/Assignment/Character/HUD/UI_Inventory.UI_Inventory_C:SetWightStyle'!
+[2019.06.07-04.47.47:723][976]LogScript: Warning: Script Msg: Attempted to access index 16 from array 'Inventory' of length 0 in '/Game/Assignment/Character/BP_Character.BP_Character_C'!
+[2019.06.07-04.47.47:724][976]LogScript: Warning: Script Msg: Attempted to access index 17 from array 'Array' of length 0 in '/Game/Assignment/Character/HUD/UI_Inventory.UI_Inventory_C:SetWightStyle'!
+[2019.06.07-04.47.47:724][976]LogScript: Warning: Script Msg: Attempted to access index 17 from array 'Inventory' of length 0 in '/Game/Assignment/Character/BP_Character.BP_Character_C'!
+[2019.06.07-04.47.47:724][976]LogScript: Warning: Script Msg: Attempted to access index 18 from array 'Array' of length 0 in '/Game/Assignment/Character/HUD/UI_Inventory.UI_Inventory_C:SetWightStyle'!
+[2019.06.07-04.47.47:724][976]LogScript: Warning: Script Msg: Attempted to access index 18 from array 'Inventory' of length 0 in '/Game/Assignment/Character/BP_Character.BP_Character_C'!
+[2019.06.07-04.47.47:724][976]LogScript: Warning: Script Msg: Attempted to access index 19 from array 'Array' of length 0 in '/Game/Assignment/Character/HUD/UI_Inventory.UI_Inventory_C:SetWightStyle'!
+[2019.06.07-04.47.47:724][976]LogScript: Warning: Script Msg: Attempted to access index 19 from array 'Inventory' of length 0 in '/Game/Assignment/Character/BP_Character.BP_Character_C'!
+[2019.06.07-04.47.47:724][976]LogScript: Warning: Script Msg: Attempted to access index 20 from array 'Array' of length 0 in '/Game/Assignment/Character/HUD/UI_Inventory.UI_Inventory_C:SetWightStyle'!
+[2019.06.07-04.47.47:725][976]LogScript: Warning: Script Msg: Attempted to access index 20 from array 'Inventory' of length 0 in '/Game/Assignment/Character/BP_Character.BP_Character_C'!
+[2019.06.07-04.47.47:725][976]LogScript: Warning: Script Msg: Attempted to access index 21 from array 'Array' of length 0 in '/Game/Assignment/Character/HUD/UI_Inventory.UI_Inventory_C:SetWightStyle'!
+[2019.06.07-04.47.47:725][976]LogScript: Warning: Script Msg: Attempted to access index 21 from array 'Inventory' of length 0 in '/Game/Assignment/Character/BP_Character.BP_Character_C'!
+[2019.06.07-04.47.47:725][976]LogScript: Warning: Script Msg: Attempted to access index 22 from array 'Array' of length 0 in '/Game/Assignment/Character/HUD/UI_Inventory.UI_Inventory_C:SetWightStyle'!
+[2019.06.07-04.47.47:725][976]LogScript: Warning: Script Msg: Attempted to access index 22 from array 'Inventory' of length 0 in '/Game/Assignment/Character/BP_Character.BP_Character_C'!
+[2019.06.07-04.47.47:725][976]LogScript: Warning: Script Msg: Attempted to access index 23 from array 'Array' of length 0 in '/Game/Assignment/Character/HUD/UI_Inventory.UI_Inventory_C:SetWightStyle'!
+[2019.06.07-04.47.47:725][976]LogScript: Warning: Script Msg: Attempted to access index 23 from array 'Inventory' of length 0 in '/Game/Assignment/Character/BP_Character.BP_Character_C'!
+[2019.06.07-04.47.47:726][976]LogScript: Warning: Script Msg: Attempted to access index 24 from array 'Array' of length 0 in '/Game/Assignment/Character/HUD/UI_Inventory.UI_Inventory_C:SetWightStyle'!
+[2019.06.07-04.47.47:726][976]LogScript: Warning: Script Msg: Attempted to access index 24 from array 'Inventory' of length 0 in '/Game/Assignment/Character/BP_Character.BP_Character_C'!
+[2019.06.07-04.47.57:543][561]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Assignment/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Assignment/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Assignment/Main.Main_C' with ClassGeneratedBy '/Game/Assignment/Main.Main:PersistentLevel.Main'
+[2019.06.07-04.47.57:543][561]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.07-04.47.57:594][561]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.07-04.47.57:594][561]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Assignment/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Assignment/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Assignment/Main.Main_C' with ClassGeneratedBy '/Game/Assignment/Main.Main:PersistentLevel.Main'
+[2019.06.07-04.47.57:640][561]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.07-04.47.57:656][561]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.07-04.47.57:746][562]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2019.06.07-04.47.58:691][609]LogSlate: Window 'Message Log' being destroyed
+[2019.06.07-04.47.58:711][609]LogSlate: Window 'Message Log' being destroyed
+[2019.06.07-04.48.22:911][785]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/Character/BP_Character" FILE="../../../../Assignment/GameRepo/GameDesign/test/test/Content/Assignment/Character/BP_Character.uasset" SILENT=true
+[2019.06.07-04.48.23:374][785]LogSavePackage: Moving '../../../../Assignment/GameRepo/GameDesign/test/test/Saved/BP_CharacterAB72459044A9BA48CE8B179083B246C1.tmp' to '../../../../Assignment/GameRepo/GameDesign/test/test/Content/Assignment/Character/BP_Character.uasset'
+[2019.06.07-04.48.35:865][371]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/Assignment/Character/BP_Animation.BP_Animation
+[2019.06.07-04.48.35:955][371]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.07-04.48.36:333][371]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.06.07-04.48.37:072][373]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.06.07-04.48.41:174][564]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimMontage
+[2019.06.07-04.48.42:584][630]LogAssetEditorManager: Opening Asset editor for AnimMontage /Game/Assignment/SwordAnimation/Combo_2_Montage.Combo_2_Montage
+[2019.06.07-04.48.42:601][630]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.07-04.48.42:660][630]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.06.07-04.48.43:392][632]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.06.07-04.48.58:583][328]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.07-04.48.58:614][328]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EnemyAttack2" FILE="../../../../Assignment/GameRepo/GameDesign/test/test/Content/EnemyAttack2.uasset" SILENT=true
+[2019.06.07-04.48.58:646][328]LogSavePackage: Moving '../../../../Assignment/GameRepo/GameDesign/test/test/Saved/EnemyAttack254DC350A4DBC82A710EB05AF99F84196.tmp' to '../../../../Assignment/GameRepo/GameDesign/test/test/Content/EnemyAttack2.uasset'
+[2019.06.07-04.49.29:199][873]BlueprintLog: New page: Compile BP_Character
+[2019.06.07-04.49.40:134][346]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/Character/BP_Character" FILE="../../../../Assignment/GameRepo/GameDesign/test/test/Content/Assignment/Character/BP_Character.uasset" SILENT=true
+[2019.06.07-04.49.40:605][346]LogSavePackage: Moving '../../../../Assignment/GameRepo/GameDesign/test/test/Saved/BP_Character08577E304A1AEE54360FA2B4B41990E7.tmp' to '../../../../Assignment/GameRepo/GameDesign/test/test/Content/Assignment/Character/BP_Character.uasset'
+[2019.06.07-04.49.53:874][957]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/Character/BP_Character" FILE="../../../../Assignment/GameRepo/GameDesign/test/test/Content/Assignment/Character/BP_Character.uasset" SILENT=true
+[2019.06.07-04.49.54:334][957]LogSavePackage: Moving '../../../../Assignment/GameRepo/GameDesign/test/test/Saved/BP_Character0136BC794246F535D65BE4B42E5C19F2.tmp' to '../../../../Assignment/GameRepo/GameDesign/test/test/Content/Assignment/Character/BP_Character.uasset'
+[2019.06.07-04.49.56:002][ 41]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.07-04.49.56:050][ 41]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Assignment/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Assignment/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Assignment/Main.Main_C' with ClassGeneratedBy '/Game/Assignment/Main.Main:PersistentLevel.Main'
+[2019.06.07-04.49.56:050][ 41]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.07-04.49.56:050][ 41]PIE: New page: PIE session: Main (Jun 7, 2019, 11:49:56 PM)
+[2019.06.07-04.49.56:050][ 41]LogPlayLevel: Creating play world package: /Game/Assignment/UEDPIE_0_Main
+[2019.06.07-04.49.56:141][ 41]LogPlayLevel: PIE: StaticDuplicateObject took: (0.090281s)
+[2019.06.07-04.49.56:142][ 41]LogAIModule: Creating AISystem for world Main
+[2019.06.07-04.49.56:142][ 41]LogPlayLevel: PIE: World Init took: (0.000632s)
+[2019.06.07-04.49.56:142][ 41]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assignment/Main.Main to /Game/Assignment/UEDPIE_0_Main.Main (0.091251s)
+[2019.06.07-04.49.56:192][ 41]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.07-04.49.56:263][ 41]LogInit: FAudioDevice initialized.
+[2019.06.07-04.49.56:302][ 41]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.07-04.49.56:335][ 41]LogWorld: Bringing World /Game/Assignment/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2019.06.07-14.19.56
+[2019.06.07-04.49.56:339][ 41]LogWorld: Bringing up level for play took: 0.035727
+[2019.06.07-04.49.56:352][ 41]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  BP_Animation Function:  Execute Ubergraph BP Animation Graph:  EventGraph Node:  Set IsCrouched
+[2019.06.07-04.49.56:360][ 41]PIE: Play in editor start time for /Game/Assignment/UEDPIE_0_Main -0.409
+[2019.06.07-04.49.56:360][ 41]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Assignment/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Assignment/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Assignment/Main.Main_C' with ClassGeneratedBy '/Game/Assignment/Main.Main:PersistentLevel.Main'
+[2019.06.07-04.50.00:181][257]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Array' of length 1 in '/Game/Assignment/Character/HUD/UI_Inventory.UI_Inventory_C:SetWightStyle'!
+[2019.06.07-04.50.00:182][257]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Inventory' of length 1 in '/Game/Assignment/Character/BP_Character.BP_Character_C'!
+[2019.06.07-04.50.00:182][257]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Array' of length 1 in '/Game/Assignment/Character/HUD/UI_Inventory.UI_Inventory_C:SetWightStyle'!
+[2019.06.07-04.50.00:182][257]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Inventory' of length 1 in '/Game/Assignment/Character/BP_Character.BP_Character_C'!
+[2019.06.07-04.50.00:182][257]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'Array' of length 1 in '/Game/Assignment/Character/HUD/UI_Inventory.UI_Inventory_C:SetWightStyle'!
+[2019.06.07-04.50.00:182][257]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'Inventory' of length 1 in '/Game/Assignment/Character/BP_Character.BP_Character_C'!
+[2019.06.07-04.50.00:183][257]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'Array' of length 1 in '/Game/Assignment/Character/HUD/UI_Inventory.UI_Inventory_C:SetWightStyle'!
+[2019.06.07-04.50.00:183][257]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'Inventory' of length 1 in '/Game/Assignment/Character/BP_Character.BP_Character_C'!
+[2019.06.07-04.50.00:183][257]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'Array' of length 1 in '/Game/Assignment/Character/HUD/UI_Inventory.UI_Inventory_C:SetWightStyle'!
+[2019.06.07-04.50.00:183][257]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'Inventory' of length 1 in '/Game/Assignment/Character/BP_Character.BP_Character_C'!
+[2019.06.07-04.50.00:183][257]LogScript: Warning: Script Msg: Attempted to access index 6 from array 'Array' of length 1 in '/Game/Assignment/Character/HUD/UI_Inventory.UI_Inventory_C:SetWightStyle'!
+[2019.06.07-04.50.00:183][257]LogScript: Warning: Script Msg: Attempted to access index 6 from array 'Inventory' of length 1 in '/Game/Assignment/Character/BP_Character.BP_Character_C'!
+[2019.06.07-04.50.00:183][257]LogScript: Warning: Script Msg: Attempted to access index 7 from array 'Array' of length 1 in '/Game/Assignment/Character/HUD/UI_Inventory.UI_Inventory_C:SetWightStyle'!
+[2019.06.07-04.50.00:183][257]LogScript: Warning: Script Msg: Attempted to access index 7 from array 'Inventory' of length 1 in '/Game/Assignment/Character/BP_Character.BP_Character_C'!
+[2019.06.07-04.50.00:184][257]LogScript: Warning: Script Msg: Attempted to access index 8 from array 'Array' of length 1 in '/Game/Assignment/Character/HUD/UI_Inventory.UI_Inventory_C:SetWightStyle'!
+[2019.06.07-04.50.00:184][257]LogScript: Warning: Script Msg: Attempted to access index 8 from array 'Inventory' of length 1 in '/Game/Assignment/Character/BP_Character.BP_Character_C'!
+[2019.06.07-04.50.00:184][257]LogScript: Warning: Script Msg: Attempted to access index 9 from array 'Array' of length 1 in '/Game/Assignment/Character/HUD/UI_Inventory.UI_Inventory_C:SetWightStyle'!
+[2019.06.07-04.50.00:184][257]LogScript: Warning: Script Msg: Attempted to access index 9 from array 'Inventory' of length 1 in '/Game/Assignment/Character/BP_Character.BP_Character_C'!
+[2019.06.07-04.50.00:184][257]LogScript: Warning: Script Msg: Attempted to access index 10 from array 'Array' of length 1 in '/Game/Assignment/Character/HUD/UI_Inventory.UI_Inventory_C:SetWightStyle'!
+[2019.06.07-04.50.00:184][257]LogScript: Warning: Script Msg: Attempted to access index 10 from array 'Inventory' of length 1 in '/Game/Assignment/Character/BP_Character.BP_Character_C'!
+[2019.06.07-04.50.00:184][257]LogScript: Warning: Script Msg: Attempted to access index 11 from array 'Array' of length 1 in '/Game/Assignment/Character/HUD/UI_Inventory.UI_Inventory_C:SetWightStyle'!
+[2019.06.07-04.50.00:184][257]LogScript: Warning: Script Msg: Attempted to access index 11 from array 'Inventory' of length 1 in '/Game/Assignment/Character/BP_Character.BP_Character_C'!
+[2019.06.07-04.50.00:185][257]LogScript: Warning: Script Msg: Attempted to access index 12 from array 'Array' of length 1 in '/Game/Assignment/Character/HUD/UI_Inventory.UI_Inventory_C:SetWightStyle'!
+[2019.06.07-04.50.00:185][257]LogScript: Warning: Script Msg: Attempted to access index 12 from array 'Inventory' of length 1 in '/Game/Assignment/Character/BP_Character.BP_Character_C'!
+[2019.06.07-04.50.00:185][257]LogScript: Warning: Script Msg: Attempted to access index 13 from array 'Array' of length 1 in '/Game/Assignment/Character/HUD/UI_Inventory.UI_Inventory_C:SetWightStyle'!
+[2019.06.07-04.50.00:185][257]LogScript: Warning: Script Msg: Attempted to access index 13 from array 'Inventory' of length 1 in '/Game/Assignment/Character/BP_Character.BP_Character_C'!
+[2019.06.07-04.50.00:185][257]LogScript: Warning: Script Msg: Attempted to access index 14 from array 'Array' of length 1 in '/Game/Assignment/Character/HUD/UI_Inventory.UI_Inventory_C:SetWightStyle'!
+[2019.06.07-04.50.00:185][257]LogScript: Warning: Script Msg: Attempted to access index 14 from array 'Inventory' of length 1 in '/Game/Assignment/Character/BP_Character.BP_Character_C'!
+[2019.06.07-04.50.00:186][257]LogScript: Warning: Script Msg: Attempted to access index 15 from array 'Array' of length 1 in '/Game/Assignment/Character/HUD/UI_Inventory.UI_Inventory_C:SetWightStyle'!
+[2019.06.07-04.50.00:186][257]LogScript: Warning: Script Msg: Attempted to access index 15 from array 'Inventory' of length 1 in '/Game/Assignment/Character/BP_Character.BP_Character_C'!
+[2019.06.07-04.50.00:186][257]LogScript: Warning: Script Msg: Attempted to access index 16 from array 'Array' of length 1 in '/Game/Assignment/Character/HUD/UI_Inventory.UI_Inventory_C:SetWightStyle'!
+[2019.06.07-04.50.00:186][257]LogScript: Warning: Script Msg: Attempted to access index 16 from array 'Inventory' of length 1 in '/Game/Assignment/Character/BP_Character.BP_Character_C'!
+[2019.06.07-04.50.00:186][257]LogScript: Warning: Script Msg: Attempted to access index 17 from array 'Array' of length 1 in '/Game/Assignment/Character/HUD/UI_Inventory.UI_Inventory_C:SetWightStyle'!
+[2019.06.07-04.50.00:186][257]LogScript: Warning: Script Msg: Attempted to access index 17 from array 'Inventory' of length 1 in '/Game/Assignment/Character/BP_Character.BP_Character_C'!
+[2019.06.07-04.50.00:186][257]LogScript: Warning: Script Msg: Attempted to access index 18 from array 'Array' of length 1 in '/Game/Assignment/Character/HUD/UI_Inventory.UI_Inventory_C:SetWightStyle'!
+[2019.06.07-04.50.00:186][257]LogScript: Warning: Script Msg: Attempted to access index 18 from array 'Inventory' of length 1 in '/Game/Assignment/Character/BP_Character.BP_Character_C'!
+[2019.06.07-04.50.00:187][257]LogScript: Warning: Script Msg: Attempted to access index 19 from array 'Array' of length 1 in '/Game/Assignment/Character/HUD/UI_Inventory.UI_Inventory_C:SetWightStyle'!
+[2019.06.07-04.50.00:187][257]LogScript: Warning: Script Msg: Attempted to access index 19 from array 'Inventory' of length 1 in '/Game/Assignment/Character/BP_Character.BP_Character_C'!
+[2019.06.07-04.50.00:187][257]LogScript: Warning: Script Msg: Attempted to access index 20 from array 'Array' of length 1 in '/Game/Assignment/Character/HUD/UI_Inventory.UI_Inventory_C:SetWightStyle'!
+[2019.06.07-04.50.00:187][257]LogScript: Warning: Script Msg: Attempted to access index 20 from array 'Inventory' of length 1 in '/Game/Assignment/Character/BP_Character.BP_Character_C'!
+[2019.06.07-04.50.00:187][257]LogScript: Warning: Script Msg: Attempted to access index 21 from array 'Array' of length 1 in '/Game/Assignment/Character/HUD/UI_Inventory.UI_Inventory_C:SetWightStyle'!
+[2019.06.07-04.50.00:187][257]LogScript: Warning: Script Msg: Attempted to access index 21 from array 'Inventory' of length 1 in '/Game/Assignment/Character/BP_Character.BP_Character_C'!
+[2019.06.07-04.50.00:187][257]LogScript: Warning: Script Msg: Attempted to access index 22 from array 'Array' of length 1 in '/Game/Assignment/Character/HUD/UI_Inventory.UI_Inventory_C:SetWightStyle'!
+[2019.06.07-04.50.00:187][257]LogScript: Warning: Script Msg: Attempted to access index 22 from array 'Inventory' of length 1 in '/Game/Assignment/Character/BP_Character.BP_Character_C'!
+[2019.06.07-04.50.00:188][257]LogScript: Warning: Script Msg: Attempted to access index 23 from array 'Array' of length 1 in '/Game/Assignment/Character/HUD/UI_Inventory.UI_Inventory_C:SetWightStyle'!
+[2019.06.07-04.50.00:188][257]LogScript: Warning: Script Msg: Attempted to access index 23 from array 'Inventory' of length 1 in '/Game/Assignment/Character/BP_Character.BP_Character_C'!
+[2019.06.07-04.50.00:188][257]LogScript: Warning: Script Msg: Attempted to access index 24 from array 'Array' of length 1 in '/Game/Assignment/Character/HUD/UI_Inventory.UI_Inventory_C:SetWightStyle'!
+[2019.06.07-04.50.00:188][257]LogScript: Warning: Script Msg: Attempted to access index 24 from array 'Inventory' of length 1 in '/Game/Assignment/Character/BP_Character.BP_Character_C'!
+[2019.06.07-04.50.00:835][296]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-04.50.01:519][337]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Array' of length 0 in '/Game/Assignment/Character/HUD/UI_Inventory.UI_Inventory_C:SetWightStyle'!
+[2019.06.07-04.50.01:519][337]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Inventory' of length 0 in '/Game/Assignment/Character/BP_Character.BP_Character_C'!
+[2019.06.07-04.50.01:520][337]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Array' of length 0 in '/Game/Assignment/Character/HUD/UI_Inventory.UI_Inventory_C:SetWightStyle'!
+[2019.06.07-04.50.01:520][337]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Inventory' of length 0 in '/Game/Assignment/Character/BP_Character.BP_Character_C'!
+[2019.06.07-04.50.01:520][337]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Array' of length 0 in '/Game/Assignment/Character/HUD/UI_Inventory.UI_Inventory_C:SetWightStyle'!
+[2019.06.07-04.50.01:520][337]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Inventory' of length 0 in '/Game/Assignment/Character/BP_Character.BP_Character_C'!
+[2019.06.07-04.50.01:520][337]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'Array' of length 0 in '/Game/Assignment/Character/HUD/UI_Inventory.UI_Inventory_C:SetWightStyle'!
+[2019.06.07-04.50.01:520][337]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'Inventory' of length 0 in '/Game/Assignment/Character/BP_Character.BP_Character_C'!
+[2019.06.07-04.50.01:520][337]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'Array' of length 0 in '/Game/Assignment/Character/HUD/UI_Inventory.UI_Inventory_C:SetWightStyle'!
+[2019.06.07-04.50.01:520][337]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'Inventory' of length 0 in '/Game/Assignment/Character/BP_Character.BP_Character_C'!
+[2019.06.07-04.50.01:521][337]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'Array' of length 0 in '/Game/Assignment/Character/HUD/UI_Inventory.UI_Inventory_C:SetWightStyle'!
+[2019.06.07-04.50.01:521][337]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'Inventory' of length 0 in '/Game/Assignment/Character/BP_Character.BP_Character_C'!
+[2019.06.07-04.50.01:521][337]LogScript: Warning: Script Msg: Attempted to access index 6 from array 'Array' of length 0 in '/Game/Assignment/Character/HUD/UI_Inventory.UI_Inventory_C:SetWightStyle'!
+[2019.06.07-04.50.01:521][337]LogScript: Warning: Script Msg: Attempted to access index 6 from array 'Inventory' of length 0 in '/Game/Assignment/Character/BP_Character.BP_Character_C'!
+[2019.06.07-04.50.01:521][337]LogScript: Warning: Script Msg: Attempted to access index 7 from array 'Array' of length 0 in '/Game/Assignment/Character/HUD/UI_Inventory.UI_Inventory_C:SetWightStyle'!
+[2019.06.07-04.50.01:521][337]LogScript: Warning: Script Msg: Attempted to access index 7 from array 'Inventory' of length 0 in '/Game/Assignment/Character/BP_Character.BP_Character_C'!
+[2019.06.07-04.50.01:521][337]LogScript: Warning: Script Msg: Attempted to access index 8 from array 'Array' of length 0 in '/Game/Assignment/Character/HUD/UI_Inventory.UI_Inventory_C:SetWightStyle'!
+[2019.06.07-04.50.01:521][337]LogScript: Warning: Script Msg: Attempted to access index 8 from array 'Inventory' of length 0 in '/Game/Assignment/Character/BP_Character.BP_Character_C'!
+[2019.06.07-04.50.01:522][337]LogScript: Warning: Script Msg: Attempted to access index 9 from array 'Array' of length 0 in '/Game/Assignment/Character/HUD/UI_Inventory.UI_Inventory_C:SetWightStyle'!
+[2019.06.07-04.50.01:522][337]LogScript: Warning: Script Msg: Attempted to access index 9 from array 'Inventory' of length 0 in '/Game/Assignment/Character/BP_Character.BP_Character_C'!
+[2019.06.07-04.50.01:522][337]LogScript: Warning: Script Msg: Attempted to access index 10 from array 'Array' of length 0 in '/Game/Assignment/Character/HUD/UI_Inventory.UI_Inventory_C:SetWightStyle'!
+[2019.06.07-04.50.01:522][337]LogScript: Warning: Script Msg: Attempted to access index 10 from array 'Inventory' of length 0 in '/Game/Assignment/Character/BP_Character.BP_Character_C'!
+[2019.06.07-04.50.01:522][337]LogScript: Warning: Script Msg: Attempted to access index 11 from array 'Array' of length 0 in '/Game/Assignment/Character/HUD/UI_Inventory.UI_Inventory_C:SetWightStyle'!
+[2019.06.07-04.50.01:522][337]LogScript: Warning: Script Msg: Attempted to access index 11 from array 'Inventory' of length 0 in '/Game/Assignment/Character/BP_Character.BP_Character_C'!
+[2019.06.07-04.50.01:522][337]LogScript: Warning: Script Msg: Attempted to access index 12 from array 'Array' of length 0 in '/Game/Assignment/Character/HUD/UI_Inventory.UI_Inventory_C:SetWightStyle'!
+[2019.06.07-04.50.01:523][337]LogScript: Warning: Script Msg: Attempted to access index 12 from array 'Inventory' of length 0 in '/Game/Assignment/Character/BP_Character.BP_Character_C'!
+[2019.06.07-04.50.01:523][337]LogScript: Warning: Script Msg: Attempted to access index 13 from array 'Array' of length 0 in '/Game/Assignment/Character/HUD/UI_Inventory.UI_Inventory_C:SetWightStyle'!
+[2019.06.07-04.50.01:523][337]LogScript: Warning: Script Msg: Attempted to access index 13 from array 'Inventory' of length 0 in '/Game/Assignment/Character/BP_Character.BP_Character_C'!
+[2019.06.07-04.50.01:523][337]LogScript: Warning: Script Msg: Attempted to access index 14 from array 'Array' of length 0 in '/Game/Assignment/Character/HUD/UI_Inventory.UI_Inventory_C:SetWightStyle'!
+[2019.06.07-04.50.01:523][337]LogScript: Warning: Script Msg: Attempted to access index 14 from array 'Inventory' of length 0 in '/Game/Assignment/Character/BP_Character.BP_Character_C'!
+[2019.06.07-04.50.01:524][337]LogScript: Warning: Script Msg: Attempted to access index 15 from array 'Array' of length 0 in '/Game/Assignment/Character/HUD/UI_Inventory.UI_Inventory_C:SetWightStyle'!
+[2019.06.07-04.50.01:524][337]LogScript: Warning: Script Msg: Attempted to access index 15 from array 'Inventory' of length 0 in '/Game/Assignment/Character/BP_Character.BP_Character_C'!
+[2019.06.07-04.50.01:524][337]LogScript: Warning: Script Msg: Attempted to access index 16 from array 'Array' of length 0 in '/Game/Assignment/Character/HUD/UI_Inventory.UI_Inventory_C:SetWightStyle'!
+[2019.06.07-04.50.01:524][337]LogScript: Warning: Script Msg: Attempted to access index 16 from array 'Inventory' of length 0 in '/Game/Assignment/Character/BP_Character.BP_Character_C'!
+[2019.06.07-04.50.01:524][337]LogScript: Warning: Script Msg: Attempted to access index 17 from array 'Array' of length 0 in '/Game/Assignment/Character/HUD/UI_Inventory.UI_Inventory_C:SetWightStyle'!
+[2019.06.07-04.50.01:524][337]LogScript: Warning: Script Msg: Attempted to access index 17 from array 'Inventory' of length 0 in '/Game/Assignment/Character/BP_Character.BP_Character_C'!
+[2019.06.07-04.50.01:525][337]LogScript: Warning: Script Msg: Attempted to access index 18 from array 'Array' of length 0 in '/Game/Assignment/Character/HUD/UI_Inventory.UI_Inventory_C:SetWightStyle'!
+[2019.06.07-04.50.01:525][337]LogScript: Warning: Script Msg: Attempted to access index 18 from array 'Inventory' of length 0 in '/Game/Assignment/Character/BP_Character.BP_Character_C'!
+[2019.06.07-04.50.01:525][337]LogScript: Warning: Script Msg: Attempted to access index 19 from array 'Array' of length 0 in '/Game/Assignment/Character/HUD/UI_Inventory.UI_Inventory_C:SetWightStyle'!
+[2019.06.07-04.50.01:525][337]LogScript: Warning: Script Msg: Attempted to access index 19 from array 'Inventory' of length 0 in '/Game/Assignment/Character/BP_Character.BP_Character_C'!
+[2019.06.07-04.50.01:525][337]LogScript: Warning: Script Msg: Attempted to access index 20 from array 'Array' of length 0 in '/Game/Assignment/Character/HUD/UI_Inventory.UI_Inventory_C:SetWightStyle'!
+[2019.06.07-04.50.01:525][337]LogScript: Warning: Script Msg: Attempted to access index 20 from array 'Inventory' of length 0 in '/Game/Assignment/Character/BP_Character.BP_Character_C'!
+[2019.06.07-04.50.01:526][337]LogScript: Warning: Script Msg: Attempted to access index 21 from array 'Array' of length 0 in '/Game/Assignment/Character/HUD/UI_Inventory.UI_Inventory_C:SetWightStyle'!
+[2019.06.07-04.50.01:526][337]LogScript: Warning: Script Msg: Attempted to access index 21 from array 'Inventory' of length 0 in '/Game/Assignment/Character/BP_Character.BP_Character_C'!
+[2019.06.07-04.50.01:526][337]LogScript: Warning: Script Msg: Attempted to access index 22 from array 'Array' of length 0 in '/Game/Assignment/Character/HUD/UI_Inventory.UI_Inventory_C:SetWightStyle'!
+[2019.06.07-04.50.01:526][337]LogScript: Warning: Script Msg: Attempted to access index 22 from array 'Inventory' of length 0 in '/Game/Assignment/Character/BP_Character.BP_Character_C'!
+[2019.06.07-04.50.01:526][337]LogScript: Warning: Script Msg: Attempted to access index 23 from array 'Array' of length 0 in '/Game/Assignment/Character/HUD/UI_Inventory.UI_Inventory_C:SetWightStyle'!
+[2019.06.07-04.50.01:526][337]LogScript: Warning: Script Msg: Attempted to access index 23 from array 'Inventory' of length 0 in '/Game/Assignment/Character/BP_Character.BP_Character_C'!
+[2019.06.07-04.50.01:526][337]LogScript: Warning: Script Msg: Attempted to access index 24 from array 'Array' of length 0 in '/Game/Assignment/Character/HUD/UI_Inventory.UI_Inventory_C:SetWightStyle'!
+[2019.06.07-04.50.01:526][337]LogScript: Warning: Script Msg: Attempted to access index 24 from array 'Inventory' of length 0 in '/Game/Assignment/Character/BP_Character.BP_Character_C'!
+[2019.06.07-04.50.10:853][895]LogScript: Warning: Attempted to access Enemy_Type2 via property K2Node_DynamicCast_AsEnemy_Type_1, but Enemy_Type2 is pending kill
+	BP_BoardSword_C /Game/Assignment/UEDPIE_0_Main.Main:PersistentLevel.BP_BoardSword_C_0
+	Function /Game/Assignment/Character/Interactable_folder/Interactable/Weapon/BP_BaseWeapon.BP_BaseWeapon_C:ExecuteUbergraph_BP_BaseWeapon:06D1
+[2019.06.07-04.50.10:853][895]PIE: Error: Blueprint Runtime Error: "Attempted to access Enemy_Type2 via property K2Node_DynamicCast_AsEnemy_Type_1, but Enemy_Type2 is pending kill". Blueprint:  BP_BaseWeapon Function:  Execute Ubergraph BP Base Weapon Graph:  EventGraph Node:  Branch
+[2019.06.07-04.50.12:703][  6]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Assignment/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Assignment/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Assignment/Main.Main_C' with ClassGeneratedBy '/Game/Assignment/Main.Main:PersistentLevel.Main'
+[2019.06.07-04.50.12:704][  6]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.07-04.50.12:757][  6]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.07-04.50.12:758][  6]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Assignment/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Assignment/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Assignment/Main.Main_C' with ClassGeneratedBy '/Game/Assignment/Main.Main:PersistentLevel.Main'
+[2019.06.07-04.50.12:805][  6]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.07-04.50.12:822][  6]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.07-04.50.12:910][  7]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2019.06.07-04.50.13:676][ 43]LogSlate: Window 'Message Log' being destroyed
+[2019.06.07-04.50.13:684][ 43]LogSlate: Window 'Message Log' being destroyed
+[2019.06.07-04.50.50:109][864]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Assignment/Main' took 0.036
+[2019.06.07-04.50.50:963][864]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BossAttack2] ([1] browsable assets)...
+[2019.06.07-04.50.50:997][864]OBJ SavePackage:     Rendered thumbnail for [AnimMontage /Game/BossAttack2.BossAttack2]
+[2019.06.07-04.50.50:997][864]OBJ SavePackage: Finished generating thumbnails for package [/Game/BossAttack2]
+[2019.06.07-04.50.50:997][864]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BossAttack2" FILE="../../../../Assignment/GameRepo/GameDesign/test/test/Saved/Autosaves/Game/BossAttack2_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.06.07-04.50.51:027][864]LogSavePackage: Moving '../../../../Assignment/GameRepo/GameDesign/test/test/Saved/BossAttack2_Auto1F8E2EC1A448FC12C48A363BED89FE3ED.tmp' to '../../../../Assignment/GameRepo/GameDesign/test/test/Saved/Autosaves/Game/BossAttack2_Auto1.uasset'
+[2019.06.07-04.50.51:028][864]LogFileHelpers: Auto-saving content packages took 0.917
+[2019.06.07-04.51.46:720][693]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BaseAttack" FILE="../../../../Assignment/GameRepo/GameDesign/test/test/Content/BaseAttack.uasset" SILENT=true
+[2019.06.07-04.51.46:738][693]LogSavePackage: Moving '../../../../Assignment/GameRepo/GameDesign/test/test/Saved/BaseAttack00F2376446A8A7DB894AE39DBF68113E.tmp' to '../../../../Assignment/GameRepo/GameDesign/test/test/Content/BaseAttack.uasset'
+[2019.06.07-04.51.52:988][944]LogAssetEditorManager: Opening Asset editor for AnimMontage /Game/BaseAttack.BaseAttack
+[2019.06.07-04.51.58:125][170]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.06.07-04.52.01:782][334]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/BaseAttack.BaseAttack
+[2019.06.07-04.52.04:480][468]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/BaseAttack.BaseAttack
+[2019.06.07-04.52.07:290][601]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/BaseAttack.BaseAttack
+[2019.06.07-04.52.09:989][729]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/BaseAttack.BaseAttack
+[2019.06.07-04.52.12:656][853]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/BaseAttack.BaseAttack
+[2019.06.07-04.52.23:866][391]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BaseAttack" FILE="../../../../Assignment/GameRepo/GameDesign/test/test/Content/BaseAttack.uasset" SILENT=true
+[2019.06.07-04.52.23:891][391]LogSavePackage: Moving '../../../../Assignment/GameRepo/GameDesign/test/test/Saved/BaseAttackC65F06714674B3B56435F89871B6EE64.tmp' to '../../../../Assignment/GameRepo/GameDesign/test/test/Content/BaseAttack.uasset'
+[2019.06.07-04.52.24:965][424]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BaseAttack" FILE="../../../../Assignment/GameRepo/GameDesign/test/test/Content/BaseAttack.uasset" SILENT=true
+[2019.06.07-04.52.24:981][424]LogSavePackage: Moving '../../../../Assignment/GameRepo/GameDesign/test/test/Saved/BaseAttack8D0604A34446A1C51C2AE687C4E4F17F.tmp' to '../../../../Assignment/GameRepo/GameDesign/test/test/Content/BaseAttack.uasset'
+[2019.06.07-04.52.26:711][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BaseAttack" FILE="../../../../Assignment/GameRepo/GameDesign/test/test/Content/BaseAttack.uasset" SILENT=true
+[2019.06.07-04.52.26:725][483]LogSavePackage: Moving '../../../../Assignment/GameRepo/GameDesign/test/test/Saved/BaseAttack525125F2431CE5E764FB60B31E0D9BE4.tmp' to '../../../../Assignment/GameRepo/GameDesign/test/test/Content/BaseAttack.uasset'
+[2019.06.07-04.52.50:309][615]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.06.07-04.52.50:310][615]LogWindows: Windows GetLastError: The operation completed successfully. (0)
