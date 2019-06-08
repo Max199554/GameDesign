@@ -37,6 +37,8 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 	}
 
 
+#define test_Source_test_EnemyCharacter_h_12_EVENT_PARMS
+#define test_Source_test_EnemyCharacter_h_12_CALLBACK_WRAPPERS
 #define test_Source_test_EnemyCharacter_h_12_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAEnemyCharacter(); \
@@ -80,12 +82,16 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AEnemyCharacter); \
 
 
 #define test_Source_test_EnemyCharacter_h_12_PRIVATE_PROPERTY_OFFSET
-#define test_Source_test_EnemyCharacter_h_9_PROLOG
+#define test_Source_test_EnemyCharacter_h_9_PROLOG \
+	test_Source_test_EnemyCharacter_h_12_EVENT_PARMS
+
+
 #define test_Source_test_EnemyCharacter_h_12_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
 	test_Source_test_EnemyCharacter_h_12_PRIVATE_PROPERTY_OFFSET \
 	test_Source_test_EnemyCharacter_h_12_RPC_WRAPPERS \
+	test_Source_test_EnemyCharacter_h_12_CALLBACK_WRAPPERS \
 	test_Source_test_EnemyCharacter_h_12_INCLASS \
 	test_Source_test_EnemyCharacter_h_12_STANDARD_CONSTRUCTORS \
 public: \
@@ -97,6 +103,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
 	test_Source_test_EnemyCharacter_h_12_PRIVATE_PROPERTY_OFFSET \
 	test_Source_test_EnemyCharacter_h_12_RPC_WRAPPERS_NO_PURE_DECLS \
+	test_Source_test_EnemyCharacter_h_12_CALLBACK_WRAPPERS \
 	test_Source_test_EnemyCharacter_h_12_INCLASS_NO_PURE_DECLS \
 	test_Source_test_EnemyCharacter_h_12_ENHANCED_CONSTRUCTORS \
 private: \

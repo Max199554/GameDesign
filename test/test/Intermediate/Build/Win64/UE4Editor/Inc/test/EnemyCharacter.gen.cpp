@@ -17,8 +17,14 @@ void EmptyLinkFunctionForGeneratedCodeEnemyCharacter() {}
 	TEST_API UClass* Z_Construct_UClass_AEnemyCharacter();
 	ENGINE_API UClass* Z_Construct_UClass_ACharacter();
 	UPackage* Z_Construct_UPackage__Script_test();
+	TEST_API UFunction* Z_Construct_UFunction_AEnemyCharacter_DestoryFX();
 	TEST_API UFunction* Z_Construct_UFunction_AEnemyCharacter_TakeDamage();
 // End Cross Module References
+	static FName NAME_AEnemyCharacter_DestoryFX = FName(TEXT("DestoryFX"));
+	void AEnemyCharacter::DestoryFX()
+	{
+		ProcessEvent(FindFunctionChecked(NAME_AEnemyCharacter_DestoryFX),NULL);
+	}
 	void AEnemyCharacter::StaticRegisterNativesAEnemyCharacter()
 	{
 		UClass* Class = AEnemyCharacter::StaticClass();
@@ -26,6 +32,28 @@ void EmptyLinkFunctionForGeneratedCodeEnemyCharacter() {}
 			{ "TakeDamage", &AEnemyCharacter::execTakeDamage },
 		};
 		FNativeFunctionRegistrar::RegisterFunctions(Class, Funcs, ARRAY_COUNT(Funcs));
+	}
+	struct Z_Construct_UFunction_AEnemyCharacter_DestoryFX_Statics
+	{
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam Function_MetaDataParams[];
+#endif
+		static const UE4CodeGen_Private::FFunctionParams FuncParams;
+	};
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UFunction_AEnemyCharacter_DestoryFX_Statics::Function_MetaDataParams[] = {
+		{ "ModuleRelativePath", "EnemyCharacter.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FFunctionParams Z_Construct_UFunction_AEnemyCharacter_DestoryFX_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_AEnemyCharacter, "DestoryFX", RF_Public|RF_Transient|RF_MarkAsNative, nullptr, (EFunctionFlags)0x08020800, 0, nullptr, 0, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_AEnemyCharacter_DestoryFX_Statics::Function_MetaDataParams, ARRAY_COUNT(Z_Construct_UFunction_AEnemyCharacter_DestoryFX_Statics::Function_MetaDataParams)) };
+	UFunction* Z_Construct_UFunction_AEnemyCharacter_DestoryFX()
+	{
+		static UFunction* ReturnFunction = nullptr;
+		if (!ReturnFunction)
+		{
+			UE4CodeGen_Private::ConstructUFunction(ReturnFunction, Z_Construct_UFunction_AEnemyCharacter_DestoryFX_Statics::FuncParams);
+		}
+		return ReturnFunction;
 	}
 	struct Z_Construct_UFunction_AEnemyCharacter_TakeDamage_Statics
 	{
@@ -92,6 +120,7 @@ void EmptyLinkFunctionForGeneratedCodeEnemyCharacter() {}
 		(UObject* (*)())Z_Construct_UPackage__Script_test,
 	};
 	const FClassFunctionLinkInfo Z_Construct_UClass_AEnemyCharacter_Statics::FuncInfo[] = {
+		{ &Z_Construct_UFunction_AEnemyCharacter_DestoryFX, "DestoryFX" }, // 3522427074
 		{ &Z_Construct_UFunction_AEnemyCharacter_TakeDamage, "TakeDamage" }, // 2613807042
 	};
 #if WITH_METADATA
@@ -155,7 +184,7 @@ void EmptyLinkFunctionForGeneratedCodeEnemyCharacter() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(AEnemyCharacter, 1602186083);
+	IMPLEMENT_CLASS(AEnemyCharacter, 1799705126);
 	static FCompiledInDefer Z_CompiledInDefer_UClass_AEnemyCharacter(Z_Construct_UClass_AEnemyCharacter, &AEnemyCharacter::StaticClass, TEXT("/Script/test"), TEXT("AEnemyCharacter"), false, nullptr, nullptr, nullptr);
 	DEFINE_VTABLE_PTR_HELPER_CTOR(AEnemyCharacter);
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

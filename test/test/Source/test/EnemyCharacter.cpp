@@ -34,6 +34,7 @@ void AEnemyCharacter::SetupPlayerInputComponent(UInputComponent* PlayerInputComp
 void AEnemyCharacter::TakeDamage(float Damage) {
 	health -= Damage;
 	if (health <= 0) {
+		DestoryFX();
 		Destroy();
 	}
 }
